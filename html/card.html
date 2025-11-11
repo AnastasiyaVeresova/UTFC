@@ -381,6 +381,14 @@ function generateVariationsText(product, currentIndex = 0) {
                 const productName = product.name?.[0] || 'Модель отсутствует';
                 const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
                 productNameDisplayElement.textContent = isVidInName ? '' : productVid.toUpperCase();
+                const textcover = document.querySelector('.front .textcover');
+const chairWord = document.querySelector('.front .chair-word');
+if (chairWord && chairWord.textContent.trim() === '') {
+    // Если слово скрыто, сдвигаем весь блок вверх
+    textcover.style.top = '165px'; 
+} else {
+    textcover.style.top = '185px'; // стандартное значение
+}
             }
 
             const productModelDisplayElement = document.getElementById('productModelDisplay');

@@ -55,7 +55,6 @@ body {
 }
 .front .textcover {
   position: absolute;
-  top: 185px;
   max-width: 80%;
 }
 .front .title {
