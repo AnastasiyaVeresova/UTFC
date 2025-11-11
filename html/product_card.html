@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карточка товара</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/to_page.css">
+    <link rel="stylesheet" href="../../css/style_menu_main.css">
+    <link rel="stylesheet" href="../../css/card.css">
+    <style>
+        /* Дополнительные стили для адаптивности */
+        @media (max-width: 768px) {
+            .sidebar {
+                display: none;
+            }
+            .frame {
+                width: 100%;
+                padding: 10px;
+                box-sizing: border-box;
+            }
+            .image, .dimensions, .box-image {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <ul>
+            <li><a href="epik.html">Epik</a></li>
+            <li><a href="sofa.html">Диваны</a></li>
+            <li><a href="frame.html">Каркасы</a></li>
+            <li><a href="accessories.html">Комплектующие</a></li>
+            <li><a href="armchair_comfort.html">Кресла Комфорт</a></li>
+            <li><a href="armchair_personal.html">Кресла для персонала</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
+            <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
+            <li><a href="chair_visitors.html">Стулья для посетителей</a></li>
+        </ul>
+    </div>
+    <a href="#" class="download-btn" id="downloadPdf">Скачать PDF</a>
+
+<div class="frames">
+
+    <div class="frame front">
+        <div class="cover"></div>
+        <div class="logo"><img src="../../img/logo.png" alt="Логотип"></div>
+        <div class="title">
+            <span class="chair-word" id="productNameDisplay"></span><br>
+            <span id="productModelDisplay"></span>
+        </div>
+        <div class="line-container">
+            <div class="line"></div>
+            <div class="subtitle" style="top: 300px;">ТЕХНИЧЕСКОЕ ОПИСАНИЕ</div>
+        </div>
+    </div>
+
+    <div class="frame info">
+        <div class="technical">
+            Настоящее техническое описание распространяется<br>
+            на <span class="product-category"></span>
+            "<span class="product-name"></span>"<br><br>
+        </div>
+
+        <div class="description">
+            <span class="product-model caps_first"></span>
+            <span>и его разновидности предназначены для <span class="destiny"></span></span><br><br>
+
+            <div class="order-text"></div><br>
+            <div class="subtitle" style="top: 300px;">1. Технические требования</div>
+            <div class="green_square">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B"/>
+                </svg>
+            </div>
+            <div id="technicalRequirements"></div>
+        </div>
+    </div>
+
+    <div class="frame materials">
+        <div class="description_materials">
+            2. Конструкция и материалы<br>
+            <div class="green_square_materials">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B"/>
+                </svg>
+            </div>
+            <span id="constructionAndMaterials"></span>
+        </div>
+    </div>
+
+<div class="frame image_dimensions">
+    <div class="image_name" style="z-index: 1;">
+        <span class="product-model"></span>
+        <span class="product-name"></span>
+    </div>
+    <img class="image" id="chairImage" alt="Изображение кресла">
+    <div class="dimensions">
+        <img id="dimensionsImage" class="dimensionsImage" alt="Размеры кресла">
+    </div>
+    <div class="box-info">
+        <img src="../img/brutto.png" alt="Вес брутто">
+        <p><span id="boxSize"></span></p>
+        <div class="box-info-line"></div>
+        <img src="../img/netto.png" alt="Вес нетто">
+        <p><span id="grossWeight"></span> кг</p>
+        <div class="box-info-line"></div>
+        <img src="../img/v.png" alt="Объем">
+        <p><span id="volume"></span> м³</p>
+    </div>
+
+<div class="box-container">
+    <img class="box-image" id="boxImage" alt="Коробка">
+    <div class="box-dimension width">900</div>
+    <div class="box-dimension depth">660</div>
+    <div class="box-dimension height">340</div>
+</div>    
+</div>
+
+
+    <div class="frame">
+        <div class="title" style="top: 50px;">3. Транспортирование и хранение</div>
+        <div class="description" id="transportation"></div>
+    </div>
+
+    <div class="frame back_cover">
+        <div class="prim"></div>
+        <div class="description" id="guarantee"></div>
+    </div>
+</div>
+
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script>
+        // Получаем ID товара из URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const productId = urlParams.get('id');
+
+        // Проверка на валидность productId
+        if (!productId) {
+            alert("Ошибка: не указан идентификатор товара.");
+            throw new Error("Идентификатор товара не найден в URL.");
+        }
+
+        // Функция для заполнения полей товара
+        function fillProductFields(product) {
+            if (!product) {
+                console.error("Ошибка: данные о товаре отсутствуют.");
+                return;
+            }
+
+            // Заполняем все поля с классом product-name
+            document.querySelectorAll('.product-name').forEach(el => {
+                el.textContent = product.name || 'Название отсутствует';
+            });
+
+            // Заполняем все поля с классом product-model
+            document.querySelectorAll('.product-model').forEach(el => {
+                el.textContent = product.vid || 'Вид отсутствует';
+            });
+
+            // Заполняем категорию
+            document.querySelectorAll('.product-category').forEach(el => {
+                el.textContent = product.category || 'Категория отсутствует';
+            });
+
+            // Заполняем вид
+            document.querySelectorAll('.product-vid').forEach(el => {
+                el.textContent = product.vid === "кресло" ? "кресла" : (product.vid || 'Вид отсутствует');
+            });
+
+            // Заполняем назначение
+            document.querySelector('.destiny').textContent = product.destiny || 'Назначение отсутствует';
+
+            // Заполняем основные поля
+            document.getElementById('productNameDisplay').textContent = product.vid ? product.vid.toUpperCase() : 'КРЕСЛО';
+            document.getElementById('productModelDisplay').textContent = product.name || 'Модель отсутствует';
+
+            // Делаем первую букву заглавной для caps_first
+            document.querySelectorAll('.caps_first').forEach(el => {
+                if (el.textContent) {
+                    el.textContent = el.textContent.charAt(0).toUpperCase() + el.textContent.slice(1);
+                }
+            });
+        }
+
+        // Функция для генерации текста о заказе
+        function generateOrderText(product) {
+            if (!product) {
+                return 'Данные отсутствуют.';
+            }
+
+            const productVid = product.vid === "кресло" ? "кресла" : product.vid;
+            
+            const orderText = product.construction_and_materials?.upholstery_materials?.[0] || 'Данные не указаны.';
+
+            return `
+                При заказе покупателем ${productVid} «${product.name || ''}» оговариваются:<br>
+                ${orderText}
+            `;
+        }
+
+        // Генерация текста о конструкции
+function generateConstructionText(construction, product) {
+  if (!construction) {
+    return 'Данные о конструкции отсутствуют.';
+  }
+
+  const productVid = product.vid || 'Кресло';
+  const productName = product.name || '';
+
+  // Делаем первую букву заглавной
+  const firstLetter = productVid.charAt(0).toUpperCase();
+  const restLetters = productVid.slice(1);
+  const capitalizedProductVid = firstLetter + restLetters;
+
+//   let text = `<div class="construction-text">${capitalizedProductVid} «${productName}» состоит из: ${construction.components?.join(', ') || 'не указаны'}.</div>`;
+  let text = `<div class="construction-text">${capitalizedProductVid} «${productName}» состоит из: ${construction.components || 'не указаны'}</div>`;
+
+//   if (construction.headrest?.base) {
+//     text += `<div class="construction-text">Подголовник состоит из ${construction.headrest.base}, (${construction.headrest.soft_element?.material || 'материал'}, жесткость ${construction.headrest.soft_element?.hardness || 'не указана'}, плотность ${construction.headrest.soft_element?.density || 'не указана'}), облицовка — ${construction.headrest.upholstery || 'не указана'}. Крепится к спинке ${construction.headrest.attachment || 'не указано'}.</div>`;
+//   }
+
+//   if (construction.backrest?.frame) {
+//     text += `<div class="construction-text">Спинка: каркас из ${construction.backrest.frame}, мягкий элемент (${construction.backrest.soft_element?.material || 'материал'}, жесткость ${construction.backrest.soft_element?.hardness || 'не указана'}, плотность ${construction.backrest.soft_element?.density || 'не указана'}), облицовка — ${construction.backrest.upholstery || 'не указана'}. Крепится к основанию сиденья ${construction.backrest.attachment || 'не указано'}.</div>`;
+//   }
+
+//   if (construction.seat?.base) {
+//     text += `<div class="construction-text">Сиденье: основание из ${construction.seat.base}, мягкий элемент (${construction.seat.soft_element?.material || 'материал'}, жесткость ${construction.seat.soft_element?.hardness || 'не указана'}, плотность ${construction.seat.soft_element?.density || 'не указана'}), облицовка — ${construction.seat.upholstery || 'не указана'}.</div>`;
+//   }
+
+//   if (construction.armrests?.material) {
+//     text += `<div class="construction-text">Подлокотники: ${construction.armrests.material}. Крепятся к основанию сиденья с помощью ${construction.armrests.attachment || 'не указано'}.</div>`;
+//   }
+
+//   if (construction.mechanism?.gas_lift) {
+//     text += `<div class="construction-text">Механизм: ${construction.mechanism.gas_lift}. ${construction.mechanism.description || 'не указано'}.</div>`;
+//   }
+
+//   if (construction.base?.material) {
+//     text += `<div class="construction-text">База: ${construction.base.material} с ${construction.base.rollers || 'не указано'}. ${construction.base.description || 'не указано'}.</div>`;
+//   }
+
+  if (construction.variants?.length > 0) {
+    text += `<div class="construction-text"><br>Варианты комплектации:</div>`;
+    construction.variants.forEach(variant => {
+      text += `<div class="construction-text">- ${variant.name}: ${variant.components || 'не указаны'}</div>`;
+    });
+  }
+
+  return text;
+}
+
+        // Загрузка данных о товаре
+        fetch('../json/products.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (!data.products) {
+                    throw new Error('Ошибка: данные о товарах отсутствуют.');
+                }
+
+                const product = data.products.find(p => p.id == productId);
+
+                if (!product) {
+                    throw new Error('Товар не найден.');
+                }
+
+                // Заполняем поля товара
+                fillProductFields(product);
+
+                // Заполняем текст о заказе
+                document.querySelector('.order-text').innerHTML = generateOrderText(product);
+
+                // Технические требования
+                const technicalRequirements = document.getElementById('technicalRequirements');
+                technicalRequirements.innerHTML = product.technical_requirements && product.technical_requirements.length > 0
+                    ? product.technical_requirements.map(req => `- ${req}<br>`).join('')
+                    : 'Технические требования не указаны.';
+
+                // Конструкция и материалы
+                document.getElementById('constructionAndMaterials').innerHTML = generateConstructionText(product.construction_and_materials, product);
+
+
+                // Транспортирование и хранение
+                const transportation = document.getElementById('transportation');
+                transportation.innerHTML = `
+                    Транспортирование и хранение по ${product.transportation?.standard || 'ГОСТ'}.<br>
+                    Для удобства транспортировки и хранения ${product.vid || 'кресло'} поставляется в разобранном виде.
+                    Каждое ${product.vid || 'кресло'} упаковано в отдельный ${product.transportation?.packaging?.type || 'картонный ящик'}
+                    ${product.transportation?.packaging?.size ? `размером ${product.transportation.packaging.size}.` : '.'}
+                `;
+
+                // Гарантия
+                const guarantee = document.getElementById('guarantee');
+                let guaranteeText = '';
+                if (product.guarantee?.period) {
+                    guaranteeText += `Гарантийный срок эксплуатации ${product.vid || 'кресла'}: ${product.guarantee.period}. `;
+                }
+                if (product.guarantee?.max_load) {
+                    guaranteeText += `Предельно допустимая нагрузка: ${product.guarantee.max_load}. `;
+                }
+                if (product.guarantee?.recommended_load) {
+                    guaranteeText += `Рекомендуемая эксплуатационная нагрузка: ${product.guarantee.recommended_load}.`;
+                }
+                guarantee.innerHTML = guaranteeText || 'Гарантийные условия не указаны.';
+
+                // Изображения
+                document.getElementById('chairImage').src = product.images?.chair_view || '';
+                // Заполнение данных о коробке и габаритах
+// Заполнение данных о коробке и габаритах
+document.getElementById('boxSize').textContent = product.dimensions?.box_size || 'не указаны';
+document.getElementById('grossWeight').textContent = product.dimensions?.gross_weight || 'не указан';
+document.getElementById('volume').textContent = product.dimensions?.volume || 'не указан';
+
+// Подстановка размеров коробки на изображение
+document.querySelector('.box-dimension.width').textContent = product.transportation.packaging.size.width;
+document.querySelector('.box-dimension.depth').textContent = product.transportation.packaging.size.depth;
+document.querySelector('.box-dimension.height').textContent = product.transportation.packaging.size.height;
+
+
+
+                document.getElementById('dimensionsImage').src = product.images?.dimensions || '';
+                document.getElementById('boxImage').src = product.images?.box || '';
+            })
+            .catch(error => {
+                console.error('Ошибка:', error);
+                alert(`Ошибка: ${error.message}. Попробуйте позже или обратитесь в поддержку.`);
+            });
+
+        // Генерация PDF
+document.getElementById('downloadPdf').addEventListener('click', async function(e) {
+    e.preventDefault();
+    const { jsPDF } = window.jspdf;
+    const downloadBtn = document.getElementById('downloadPdf');
+    const sidebar = document.querySelector('.sidebar');
+    const frames = document.querySelectorAll('.frames > .frame'); // Все фреймы внутри .frames
+
+    try {
+        downloadBtn.style.display = 'none';
+        sidebar.style.display = 'none';
+
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        for (let i = 0; i < frames.length; i++) {
+            const frame = frames[i];
+            const canvas = await html2canvas(frame, {
+                scale: 1, // Оригинальный масштаб
+                logging: true,
+                useCORS: true,
+                allowTaint: true,
+                letterRendering: true,
+                backgroundColor: '#FFFFFF',
+            });
+
+            // Конвертируем размеры canvas из пикселей в миллиметры (1 мм ≈ 3.78 пикселя при 96 DPI)
+            const mmWidth = canvas.width / 3.78;
+            const mmHeight = canvas.height / 3.78;
+
+            // Создаём новый PDF или добавляем страницу (кроме первого фрейма)
+            const doc = i === 0 ? new jsPDF({
+                orientation: mmWidth > mmHeight ? 'landscape' : 'portrait',
+                unit: 'mm',
+                format: [mmWidth, mmHeight],
+            }) : new jsPDF({
+                orientation: mmWidth > mmHeight ? 'landscape' : 'portrait',
+                unit: 'mm',
+                format: [mmWidth, mmHeight],
+            });
+
+            // Добавляем изображение на текущую страницу
+            doc.addImage(canvas, 'PNG', 0, 0, mmWidth, mmHeight);
+
+            // Сохраняем PDF для каждого фрейма (или объединяем в один файл)
+            if (i === 0) {
+                // Если нужно сохранить все фреймы в один PDF, используйте следующий подход:
+                const finalDoc = doc;
+                for (let j = 1; j < frames.length; j++) {
+                    const nextFrame = frames[j];
+                    const nextCanvas = await html2canvas(nextFrame, {
+                        scale: 1,
+                        logging: true,
+                        useCORS: true,
+                        allowTaint: true,
+                    });
+                    const nextMmWidth = nextCanvas.width / 3.7795275591;
+                    const nextMmHeight = nextCanvas.height / 3.7795275591;
+                    finalDoc.addPage([nextMmWidth, nextMmHeight], nextMmWidth > nextMmHeight ? 'landscape' : 'portrait');
+                    finalDoc.addImage(nextCanvas, 'PNG', 0, 0, nextMmWidth, nextMmHeight);
+                }
+                finalDoc.save(`${document.getElementById('productModelDisplay').textContent || 'модель'}.pdf`);
+                break; // Прерываем цикл, так как всё сохранено в одном PDF
+            }
+        }
+    } catch (error) {
+        console.error("Ошибка при генерации PDF:", error);
+        alert(`Ошибка при генерации PDF: ${error.message}. Попробуйте позже.`);
+    } finally {
+        downloadBtn.style.display = 'block';
+        sidebar.style.display = 'block';
+    }
+});
+
+
+
+    </script>
+</body>
+</html>

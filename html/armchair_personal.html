@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style_menu_main.css">
+    <link rel="stylesheet" href="../css/card.css">
+    <script src="../script/products_lists/armchair_personal.js"></script>
+
+    <title>Кресла для персонала</title>
+</head>
+
+<body>
+    <!-- Боковое меню -->
+    <div class="sidebar">
+        <ul>
+            <!-- <li><a href="epik.html">Epik</a></li>
+            <li><a href="sofa.html">Диваны</a></li>
+            <li><a href="frame.html">Каркасы</a></li>
+            <li><a href="accessories.html">Комплектующие</a></li>
+            <li><a href="armchair_comfort.html">Кресла Комфорт</a></li> -->
+            <li><a href="armchair_personal.html">Кресла для персонала</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
+            <!-- <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
+            <li><a href="chair_visitors.html">Стулья для посетителей</a></li> -->
+        </ul>
+    </div>
+    <!-- Основной контент страницы -->
+    <div class="center">
+        <div class="content">
+            <h1>Кресла для персонала</h1>
+            <div id="products"></div>
+        </div>
+    </div>
+    <!-- Подключаем скрипт для загрузки карточек товаров -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const productsContainer = document.getElementById('products');
+            if (!productsContainer) {
+                console.error("Элемент #products не найден!");
+                return;
+            }
+            const folderName = "armchair_personal";
+            const products = [];
+            const promises = knownProducts.map(productName => {
+                return fetch(`../products/${folderName}/${productName}.json`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Ошибка загрузки ${productName}: ${response.statusText}`);
+                        }
+                        return response.json();
+                    })
+                    .then(product => {
+                        // Исправление: берём первый элемент массива name
+                        product.namefile = product.namefile;
+                        products.push(product);
+                    })
+                    .catch(error => {
+                        console.error(`Ошибка загрузки ${productName}:`, error);
+                    });
+            });
+            Promise.all(promises)
+                .then(() => {
+                    // Фильтруем только валидные товары
+                    const validProducts = products.filter(p => p && p.namefile);
+                    // Сортируем
+                    validProducts.sort((a, b) => {
+                        const aName = Array.isArray(a.namefile) ? a.namefile[0] : a.namefile;
+                        const bName = Array.isArray(b.namefile) ? b.namefile[0] : b.namefile;
+                        return aName.localeCompare(bName, 'ru');
+                    });
+
+                    // Генерируем карточки
+                    validProducts.forEach(product => {
+                        // Берём первый элемент массива namefile, если он есть
+                        const productName = Array.isArray(product.namefile) && product.namefile.length > 0
+                            ? product.namefile[0]
+                            : product.namefile || 'Без названия';
+
+                        const productCard = document.createElement('div');
+                        productCard.className = 'product-card';
+                        productCard.innerHTML = `
+    <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
+    <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
+  `;
+                        productsContainer.appendChild(productCard);
+                    });
+
+                    if (validProducts.length === 0) {
+                        productsContainer.innerHTML = '<p>Товары не найдены.</p>';
+                    }
+                })
+                .catch(error => {
+                    console.error('Ошибка загрузки данных:', error);
+                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже.</p>';
+                });
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+.product-card {
+  width: 200px;
+  margin: 5px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px;
+  text-align: center;
+  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product-card a {
+  text-decoration: none;
+  color: #3D4555;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.product-card a:hover {
+  color: #96C22B;
+}/*# sourceMappingURL=card.css.map */

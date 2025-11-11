@@ -1,0 +1,343 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.frame {
+  width: 800px;
+  height: 800px;
+  margin: 20px auto;
+  background-color: white;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #3D4555;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  z-index: 1000;
+}
+
+.front {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.front .textcover {
+  position: absolute;
+  top: 185px;
+  max-width: 80%;
+}
+.front .title {
+  position: relative;
+  line-height: 1;
+  font-size: 48px;
+  font-weight: bold;
+  color: #3D4555;
+  text-align: center;
+  text-transform: uppercase;
+}
+.front .subtitle {
+  font-size: 20px;
+  color: #3D4555;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.front .chair-word {
+  font-size: 29px;
+  /* Размер для "КРЕСЛО" */
+  line-height: 10px;
+  text-transform: uppercase;
+}
+.front .line-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.front .line {
+  width: 180px;
+  height: 2px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  background-color: #3D4555;
+}
+.front .cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url("../../img/cover.png");
+  background-size: cover;
+  background-position: center;
+  /* z-index: -1; */
+}
+.front .logo {
+  position: absolute;
+  top: 55px;
+  margin: auto;
+}
+.front .logo img {
+  width: 180px;
+  /* Ширина изображения */
+  height: auto;
+  /* Автоматическая высота */
+}
+
+.caps_first {
+  text-transform: capitalize;
+}
+
+.info .technical {
+  position: absolute;
+  width: 68%;
+  top: 50px;
+  color: #3D4555;
+  left: 50px;
+}
+.info .description {
+  position: absolute;
+  right: 50px;
+  top: 190px;
+  font-size: 16px;
+  max-width: 625px;
+  color: #3D4555;
+  line-height: 1.19;
+}
+
+.green_square {
+  position: relative;
+  top: 22px;
+  left: -30px;
+  fill: #96C22B;
+}
+
+.materials .description_materials {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  font-size: 16px;
+  max-width: 625px;
+  color: #3D4555;
+  text-align: left;
+  line-height: 1;
+}
+.materials .green_square_materials {
+  position: relative;
+  top: 18px;
+  left: -30px;
+  fill: #96C22B;
+}
+.materials .construction-list {
+  line-height: 1.19;
+}
+.materials .construction-list strong {
+  font-weight: bold;
+}
+
+.image_dimensions .image_name {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  color: #3D4555;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.image_dimensions .image {
+  position: absolute;
+  top: 60px;
+  left: 30px;
+  max-width: 41%;
+}
+.image_dimensions .dimensionsImage {
+  height: 360px;
+  left: 16%;
+  bottom: 15px;
+  position: absolute;
+}
+.image_dimensions .box-info {
+  position: absolute;
+  display: flex;
+  gap: 20px;
+  top: 43%;
+  right: 50px;
+  margin: 10px 0;
+  font-size: 15, 1px;
+  font-weight: bold;
+  align-items: center;
+  color: #3D4555;
+}
+.image_dimensions .box-info img {
+  width: 27px;
+  height: 27px;
+  /* Сохраняем пропорции */
+}
+.image_dimensions .box-info-line {
+  width: 2px;
+  height: 24px;
+  background: #3D4555;
+  margin: 0 0px;
+  /* отступы от иконки и текста */
+}
+.image_dimensions .side-view {
+  max-width: 50%;
+  height: auto;
+  margin: 10px auto;
+}
+.image_dimensions .box-image {
+  width: 300px;
+  height: auto;
+  display: block;
+}
+.image_dimensions .box-container {
+  position: absolute;
+  top: 70px;
+  right: 50px;
+  display: inline-block;
+}
+.image_dimensions .box-dimension {
+  position: absolute;
+  font-size: 21px;
+  font-weight: bold;
+  color: #5B5B5B;
+  text-align: center;
+}
+.image_dimensions .box-dimension.width {
+  position: absolute;
+  top: 180px;
+  /* выше коробки */
+  left: 200px;
+  /* центрирование + поворот на 45 градусов */
+  white-space: nowrap;
+}
+.image_dimensions .box-dimension.depth {
+  position: absolute;
+  top: 190px;
+  /* выше коробки */
+  left: 23px;
+  /* центрирование + поворот на 45 градусов */
+  white-space: nowrap;
+}
+.image_dimensions .box-dimension.height {
+  position: absolute;
+  top: 70px;
+  /* выше коробки */
+  left: -10px;
+  /* центрирование + поворот на 45 градусов */
+  white-space: nowrap;
+}
+
+.transportation_garantee .transportation {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  font-size: 16px;
+  max-width: 625px;
+  color: #3D4555;
+  text-align: left;
+}
+.transportation_garantee .green_square_transportation {
+  position: relative;
+  top: 20px;
+  left: -30px;
+  fill: #96C22B;
+}
+.transportation_garantee .green_square_guarantee {
+  position: relative;
+  top: 20px;
+  left: -30px;
+  fill: #96C22B;
+}
+.transportation_garantee .dopinfo {
+  position: absolute !important;
+  max-width: 550px;
+  bottom: 100px !important;
+  right: 30px !important;
+  padding: 15px;
+  font-size: 16px;
+  background-color: #96C22B;
+  border-radius: 10px;
+  color: #fff;
+}
+.transportation_garantee .znak {
+  position: absolute;
+  left: 80px;
+  bottom: 120px;
+}
+.transportation_garantee .znak img {
+  width: 40px;
+  height: 40px;
+}
+
+.back_cover .prim {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url("../../img/prim.png");
+  background-size: cover;
+  background-position: center;
+  /* z-index: -1; */
+}
+
+.specs {
+  position: absolute;
+  top: 190px;
+  right: 50px;
+  font-size: 16px;
+  color: #3D4555;
+}
+
+.specs table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.specs th,
+.specs td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.specs th {
+  background-color: #f2f2f2;
+}
+
+.slogan {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #3D4555;
+}/*# sourceMappingURL=to_page.css.map */
