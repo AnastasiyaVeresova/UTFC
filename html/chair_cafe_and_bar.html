@@ -93,48 +93,48 @@ validProducts.forEach(product => {
     productCard.className = 'product-card';
     // Добавляем всплывашку с высотой
     const chairHeight = product.dimensions_details?.[0]?.chair_height;
-    let tooltipText = 'h не<br>указана';
+    let tooltipText = '<strong>h</strong> не<br>указана';
     if (chairHeight) {
         const minH = chairHeight.min !== null && chairHeight.min !== undefined && chairHeight.min !== "" ? chairHeight.min : null;
         const maxH = chairHeight.max !== null && chairHeight.max !== undefined && chairHeight.max !== "" ? chairHeight.max : null;
     if (minH && maxH) {
         if (minH === maxH) {
-            tooltipText = `h<br>${minH}`;
+            tooltipText = `<strong>h</strong><br>${minH}`;
         } else {
-            tooltipText = `h<br>${minH}-${maxH}`;
+            tooltipText = `<strong>h</strong><br>${minH}-${maxH}`;
         }
     } else if (minH) {
-        tooltipText = `h<br>${minH}`;
+        tooltipText = `<strong>h</strong><br>${minH}`;
     } else if (maxH) {
-        tooltipText = `h<br>${maxH}`;
+        tooltipText = `<strong>h</strong><br>${maxH}`;
     }
     }
         // Добавляем всплывашку с шириной
     const chairWidth = product.dimensions_details?.[0]?.seat_width_with_armrests;
-    let tooltipTextWidth = 'w не<br>указана';
+    let tooltipTextWidth = '<strong>w</strong> не<br>указана';
     if (chairWidth) {
         const minW = chairWidth.min !== null && chairWidth.min !== undefined && chairWidth.min !== "" ? chairWidth.min : null;
         const maxW = chairWidth.max !== null && chairWidth.max !== undefined && chairWidth.max !== "" ? chairWidth.max : null;
         if (minW && maxW) {
-            tooltipTextWidth = minW === maxW ? `w<br>${minW}` : `w<br>${minW}-${maxW}`;
+            tooltipTextWidth = minW === maxW ? `<strong>w</strong><br>${minW}` : `<strong>w</strong><br>${minW}-${maxW}`;
         } else if (minW) {
-            tooltipTextWidth = `w<br>${minW}`;
+            tooltipTextWidth = `<strong>w</strong><br>${minW}`;
         } else if (maxW) {
-            tooltipTextWidth = `w<br>${maxW}`;
+            tooltipTextWidth = `<strong>w</strong><br>${maxW}`;
         }
     }
             // Добавляем всплывашку с глубиной
     const chairDepth = product.dimensions_details?.[0]?.chair_depth;
-    let tooltipTextDepth = 'd не<br>указана';
+    let tooltipTextDepth = '<strong>d</strong> не<br>указана';
     if (chairDepth) {
         const minD = chairDepth.min !== null && chairDepth.min !== undefined && chairDepth.min !== "" ? chairDepth.min : null;
         const maxD = chairDepth.max !== null && chairDepth.max !== undefined && chairDepth.max !== "" ? chairDepth.max : null;
         if (minD && maxD) {
-            tooltipTextDepth = minD === maxD ? `d<br>${minD}` : `d<br>${minD}-${maxD}`;
+            tooltipTextDepth = minD === maxD ? `<strong>d</strong><br>${minD}` : `<strong>d</strong><br>${minD}-${maxD}`;
         } else if (minD) {
-            tooltipTextDepth = `d<br>${minD}`;
+            tooltipTextDepth = `<strong>d</strong><br>${minD}`;
         } else if (maxD) {
-            tooltipTextDepth = `d<br>${maxD}`;
+            tooltipTextDepth = `<strong>d</strong><br>${maxD}`;
         }
     }
     productCard.innerHTML = `
