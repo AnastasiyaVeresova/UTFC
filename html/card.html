@@ -646,22 +646,19 @@
         // Основной код загрузки
         document.addEventListener('DOMContentLoaded', function () {
             const urlParams = new URLSearchParams(window.location.search);
-const productName = decodeURIComponent(urlParams.get('name')); // <-- Декодируем имя
-const category = urlParams.get('category');
-
-
-
+            const productName = decodeURIComponent(urlParams.get('name')); // Декодируем имя
+            const category = urlParams.get('category');
             if (!category || !productName) {
                 alert("Ошибка: не указаны категория или название товара");
                 document.body.innerHTML = '<p>Ошибка: не указаны категория или название товара</p>';
                 return;
             }
-            // const sanitizedProductName = encodeURIComponent(productName);
-            // const filePath = `../products/${category}/${sanitizedProductName}.json`;
-const filePath = `../products/${category}/${productName}.json`; // <-- Используем декодированное имя
-console.log("Путь к файлу:", filePath);
+            // Очищаем имя файла от недопустимых символов
+            const sanitizedProductName = sanitizeFileName(productName);
+            const filePath = `../products/${category}/${sanitizedProductName}.json`;
+            console.log("Путь к файлу:", filePath);
             fetch(filePath)
-        
+
 
 
                 .then(response => {
