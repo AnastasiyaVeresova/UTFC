@@ -4,16 +4,16 @@
 
 
        @font-face {
-    font-family: 'Montserrat';
-    src: url('Montserrat-Regular.ttf') format('truetype');
-    font-weight: normal;
-}
+           font-family: 'Montserrat';
+           src: url('Montserrat-Regular.ttf') format('truetype');
+           font-weight: normal;
+       }
 
-@font-face {
-    font-family: 'Montserrat';
-    src: url('Montserrat-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
+       @font-face {
+           font-family: 'Montserrat';
+           src: url('Montserrat-Bold.ttf') format('truetype');
+           font-weight: bold;
+       }
 
        body {
            font-family: 'Montserrat', sans-serif;
@@ -52,21 +52,20 @@
            z-index: 1000;
        }
 
-
-
-
        .front {
 
-        .textcover {
-            position: absolute;
-            // top: 185px;
-            max-width: 80%;
-        }
-        display: flex;
-        flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+           .textcover {
+               position: absolute;
+               // top: 185px;
+               max-width: 80%;
+           }
+
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           justify-content: center;
+           position: relative;
+
            .title {
                position: relative;
                line-height: 1;
@@ -91,7 +90,7 @@
                text-transform: uppercase;
            }
 
-      
+
 
            .line-container {
                position: relative;
@@ -154,7 +153,7 @@
                max-width: 625px;
                color: $darkMainColorGrey;
                line-height: 1.19;
-            //    hyphens: auto;
+               //    hyphens: auto;
            }
 
        }
@@ -179,7 +178,7 @@
                text-align: left;
                line-height: 1;
 
-            //    hyphens: auto;
+               //    hyphens: auto;
            }
 
            .green_square_materials {
@@ -188,25 +187,27 @@
                left: -30px;
                fill: $GreenMainColor;
            }
-// #constructionAndMaterials {
-//     max-height: 619px;
-//     max-width: 619px;
-//     font-family: 'Montserrat', sans-serif;
-//     color: #3D4555;
-//     line-height: 1.19;
-//     font-size: 16px;
-//     /* Уберите overflow: hidden; */
-//     white-space: -carde-line;
-// }
+
+           // #constructionAndMaterials {
+           //     max-height: 619px;
+           //     max-width: 619px;
+           //     font-family: 'Montserrat', sans-serif;
+           //     color: #3D4555;
+           //     line-height: 1.19;
+           //     font-size: 16px;
+           //     /* Уберите overflow: hidden; */
+           //     white-space: -carde-line;
+           // }
 
 
 
-               .construction-list {
-        line-height: 1.19;
-    }
-    .construction-list strong {
-        font-weight: bold;
-    }
+           .construction-list {
+               line-height: 1.19;
+           }
+
+           .construction-list strong {
+               font-weight: bold;
+           }
 
        }
 
@@ -246,7 +247,7 @@
                top: 43%;
                right: 50px;
                margin: 10px 0;
-               font-size: 15,1px;
+               font-size: 15, 1px;
                font-weight: bold;
                align-items: center;
                color: $darkMainColorGrey;
@@ -300,7 +301,7 @@
                top: 180px;
                /* выше коробки */
                left: 200px;
-            //    transform: translateX(-20%) translateY(10%) rotate(-32deg);
+               //    transform: translateX(-20%) translateY(10%) rotate(-32deg);
                /* центрирование + поворот на 45 градусов */
                white-space: nowrap;
            }
@@ -311,7 +312,7 @@
                top: 190px;
                /* выше коробки */
                left: 23px;
-            //    transform: translateX(14%) rotate(38deg);
+               //    transform: translateX(14%) rotate(38deg);
                /* центрирование + поворот на 45 градусов */
                white-space: nowrap;
            }
@@ -321,7 +322,7 @@
                top: 70px;
                /* выше коробки */
                left: -10px;
-            //    transform: translateX(9%) rotate(90deg);
+               //    transform: translateX(9%) rotate(90deg);
                /* центрирование + поворот на 45 градусов */
                white-space: nowrap;
            }
@@ -357,12 +358,12 @@
 
            .dopinfo {
                position: absolute !important;
-               
+
                max-width: 550px;
                bottom: 100px !important;
-               
+
                right: 30px !important;
-               
+
                padding: 15px;
                font-size: 16px;
                background-color: $GreenMainColor;

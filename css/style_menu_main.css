@@ -87,6 +87,7 @@ h1 {
   width: 100%;
   height: 40px;
   pointer-events: none;
+  -webkit-appearance: none;
   background: transparent;
   z-index: 2;
 }
@@ -106,7 +107,7 @@ h1 {
   pointer-events: all;
   width: 20px;
   height: 20px;
-  border-radius: 50%;
+  border-radius: 5%;
   background: #96C22B;
   cursor: pointer;
 }
