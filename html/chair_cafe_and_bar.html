@@ -48,6 +48,7 @@
         </div>
     </div>
     <!-- Подключаем скрипт для загрузки карточек товаров -->
+    <!-- Подключаем скрипт для загрузки карточек товаров -->
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const productsContainer = document.getElementById('products');
@@ -66,7 +67,6 @@
                         return response.json();
                     })
                     .then(product => {
-                        // Исправление: берём первый элемент массива name
                         product.namefile = product.namefile;
                         products.push(product);
                     })
@@ -84,7 +84,6 @@
                         const bName = Array.isArray(b.namefile) ? b.namefile[0] : b.namefile;
                         return aName.localeCompare(bName, 'ru');
                     });
-
                     // Генерируем карточки
 validProducts.forEach(product => {
     const productName = Array.isArray(product.name) && product.name.length > 0
@@ -143,7 +142,7 @@ validProducts.forEach(product => {
         
 
         <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-        <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}">${productName}</a>
+        <a href="card.html?category=chair_cafe_and_bar&name=${encodeURIComponent(productName)}">${productName}</a>
     `;
     productsContainer.appendChild(productCard);
 });
@@ -286,7 +285,5 @@ function filterProducts() {
                 });
         });
     </script>
-
 </body>
-
 </html>
