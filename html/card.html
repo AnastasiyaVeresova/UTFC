@@ -45,8 +45,8 @@
             <li><a href="armchair_comfort.html">Кресла Комфорт</a></li> -->
             <li><a href="armchair_personal.html">Кресла для персонала</a></li>
             <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
-            <!-- <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
-            <li><a href="chair_visitors.html">Стулья для посетителей</a></li> -->
+            <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
+            <!-- <li><a href="chair_visitors.html">Стулья для посетителей</a></li> -->
         </ul>
     </div>
     <a href="#" class="download-btn" id="downloadPdf">Скачать PDF</a>
@@ -159,7 +159,17 @@
             "стул": "стула",
             "место": "места",
             "поворотное кресло оператора": "кресла",
+            "табурет": "табурета"
         };
+        // Словарь склонений для имён
+
+        const genitiveMap = {
+    "табурет": "табурета",
+    "стул": "стула",
+    "кресло": "кресла",
+    "место": "места",
+};
+
 
                 const declensionMapForMore = {
 
@@ -167,14 +177,16 @@
             "кресло": "кресла",
             "кресло оператора": "кресла оператора",
             "поворотное кресло оператора": "поворотные кресла оператора",
-            "место": "места"
+            "место": "места",
+            "табурет": "табуреты"
         };
 
 
         const declensionMapForSimple = {
 
             "кресло оператора": "кресло",
-            "поворотное кресло оператора": "кресло оператора"
+            "поворотное кресло оператора": "кресло оператора",
+            "табурет": "",
 
         };
 
@@ -182,30 +194,49 @@
         const genderMap = {
             "стул": "male",
             "кресло": "neuter",
-            "диван": "male",
+            "табурет": "male",
         };
 
         // Функция для генерации текста о заказе
-        function generateOrderText(product, variantIndex = 0) {
-            if (!product) return 'Данные отсутствуют.';
-            const productVid = product.vid?.[variantIndex] || 'кресло';
-            // const productName = product.name?.[variantIndex] || '';
-            const productName = product.name || '';
-            const orderText = product.construction_and_materials?.[variantIndex]?.upholstery_materials?.[0] || 'Данные не указаны';
-            const declinedVid = declensionMap[productVid.toLowerCase()] || productVid;
-            // const isSingle = !product.name || product.name.length <= 1;
-            // const verb = isSingle ? 'оговаривается' : 'оговариваются';
+function generateOrderText(product, variantIndex = 0) {
+    if (!product) return 'Данные отсутствуют.';
+    const productVid = product.vid?.[variantIndex] || 'кресло';
+    const productName = product.name?.[variantIndex] || 'Название отсутствует';
+    const orderText = product.construction_and_materials?.[variantIndex]?.upholstery_materials?.[0] || 'Данные не указаны';
 
-            if (orderText === 'Данные не указаны') {
-                return '';
-            }
+    if (orderText === 'Данные не указаны') {
+        return '';
+    }
 
-            const itemsCount = (orderText.match(/-.*/g) || []).length;
-            const verb = itemsCount > 1 ? 'оговариваются' : 'оговаривается';
+    // Проверяем, содержится ли вид в названии продукта (с учётом регистра)
+    const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+    // Склоняем вид продукта в родительный падеж
+    const genitiveVid = genitiveMap[productVid.toLowerCase()] || productVid;
+    const capitalizedGenitiveVid = genitiveVid.charAt(0).toUpperCase() + genitiveVid.slice(1);
 
-            return `<strong>При заказе ${declinedVid} «${productName}» ${verb}:</strong><br>${orderText}`;
-            // return `<strong>При заказе ${declinedVid} «${productName}» ${verb}:</strong><br>${orderText}`;
-        }
+    // Если вид уже в названии, используем склонённое слово с заглавной буквой и без кавычек
+    const displayName = isVidInName ? capitalizedGenitiveVid : `«${productName}»`;
+    // Если вид не в названии, используем склонённое слово в префиксе
+    const vidPrefix = isVidInName ? '' : `${genitiveVid} `;
+
+    const itemsCount = (orderText.match(/-.*/g) || []).length;
+    const verb = itemsCount > 1 ? 'оговариваются' : 'оговаривается';
+
+    return `<strong>При заказе ${vidPrefix}${displayName} ${verb}:</strong><br>${orderText}`;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,7 +277,7 @@ function generateVariationsText(product, currentIndex = 0) {
             ).join(' ');
         }
 
-        // Функция для генерации иисания товара
+        // Функция для генерации описания товара
         function generateProductDescriptionText(product, variantIndex = 0) {
             if (!product) return 'Данные отсутствуют.';
             const productVid = product.vid?.[variantIndex] || 'кресло';
@@ -396,6 +427,19 @@ if (chairWord && chairWord.textContent.trim() === '') {
                 productModelDisplayElement.textContent = product.name?.[0] || 'Модель отсутствует';
             }
 
+                const productModelElements = document.querySelectorAll('.product-model');
+    productModelElements.forEach(el => {
+        const productVid = product.vid?.[variantIndex] || 'кресло';
+        const productName = product.name?.[variantIndex] || '';
+        const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+        if (isVidInName) {
+            el.style.display = 'none';
+        } else {
+            el.style.display = 'inline';
+            el.textContent = productVid;
+        }
+    });
+
             // Заполнение описания товара
             const productDescriptionElement = document.getElementById('productDescription');
             if (productDescriptionElement) {
@@ -453,13 +497,23 @@ function createInfoFrame(product, variantIndex) {
     const allNames = product.name_all || [];
     const isPlural = allNames.length > 1;
     const vidWord = isPlural ? declensionMapForMore[productVid.toLowerCase()] || 'кресла' : productVid;
+
+    // Проверяем, содержится ли вид в названии (с учётом регистра)
+    const isVidInNameSingle = !isPlural && productName.toLowerCase().includes(productVid.toLowerCase());
+    // Проверяем, содержится ли вид в любом из названий (для множественного числа)
+    const isVidInNamePlural = isPlural && allNames.some(name => name.toLowerCase().includes(vidWord.toLowerCase()));
+
     const variationsText = generateVariationsText(product, 0);
     let description;
+
     if (isPlural) {
-        description = `Настоящее техническое описание распространяется<br>на ${vidWord} ${variationsText}<br><br>`;
+        const vidPrefix = isVidInNamePlural ? '' : `${vidWord} `;
+        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}${variationsText}<br><br>`;
     } else {
-        description = `Настоящее техническое описание распространяется<br>на ${productVid} «${productName}»<br><br>`;
+        const vidPrefix = isVidInNameSingle ? '' : `${productVid} `;
+        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
     }
+
     frame.innerHTML = `
         <div class="technical">
             ${description}
@@ -468,6 +522,9 @@ function createInfoFrame(product, variantIndex) {
     `;
     return frame;
 }
+
+
+
 
 
         // Функция для создания фрейма материалов
@@ -567,7 +624,7 @@ function createInfoFrame(product, variantIndex) {
                 </div>
                 <div class="box-info">
                     <img src="../img/brutto.png" alt="Вес брутто">
-                    <p><span>${product.dimensions?.[variantIndex]?.brutto || 'не указаны'}</span> </p>
+                    <p><span>${product.dimensions?.[variantIndex]?.brutto || 'не указан'}</span> </p>
                     <div class="box-info-line"></div>
                     <img src="../img/netto.png" alt="Вес нетто">
                     <p><span>${product.dimensions?.[variantIndex]?.netto || 'не указан'}</span></p>
@@ -577,9 +634,9 @@ function createInfoFrame(product, variantIndex) {
                 </div>
                 <div class="box-container">
                     <img class="box-image" src="${product.images?.[variantIndex]?.box || ''}" alt="Коробка">
-                    <div class="box-dimension width">${product.transportation?.[variantIndex]?.packaging?.size?.width || '900'}</div>
-                    <div class="box-dimension depth">${product.transportation?.[variantIndex]?.packaging?.size?.depth || '660'}</div>
-                    <div class="box-dimension height">${product.transportation?.[variantIndex]?.packaging?.size?.height || '340'}</div>
+                    <div class="box-dimension width">${product.transportation?.[variantIndex]?.packaging?.size?.width || ''}</div>
+                    <div class="box-dimension depth">${product.transportation?.[variantIndex]?.packaging?.size?.depth || ''}</div>
+                    <div class="box-dimension height">${product.transportation?.[variantIndex]?.packaging?.size?.height || ''}</div>
                 </div>
             `;
             return frame;
@@ -628,7 +685,10 @@ if (technicalBlock) {
     if (isPlural) {
         description = `Настоящее техническое описание распространяется<br>на ${vidWord} ${variationsText}<br><br>`;
     } else {
-        description = `Настоящее техническое описание распространяется<br>на ${productVid} «${productName}»<br><br>`;
+        // Проверяем, содержится ли вид в названии (с учётом регистра)
+        const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+        const vidPrefix = isVidInName ? '' : `${productVid} `;
+        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
     }
     technicalBlock.innerHTML = description;
 }
@@ -703,7 +763,7 @@ if (technicalBlock) {
                     // Заполнение весов и объема
                     const bruttoElement = document.getElementById('brutto');
                     if (bruttoElement) {
-                        bruttoElement.textContent = product.dimensions?.[0]?.brutto || 'не указаны';
+                        bruttoElement.textContent = product.dimensions?.[0]?.brutto || 'не указан';
                     }
 
                     const nettoElement = document.getElementById('netto');
@@ -719,17 +779,17 @@ if (technicalBlock) {
                     // Заполнение размеров коробки
                     const widthElement = document.querySelector('.box-dimension.width');
                     if (widthElement) {
-                        widthElement.textContent = product.transportation?.[0]?.packaging?.size?.width || '900';
+                        widthElement.textContent = product.transportation?.[0]?.packaging?.size?.width || '';
                     }
 
                     const depthElement = document.querySelector('.box-dimension.depth');
                     if (depthElement) {
-                        depthElement.textContent = product.transportation?.[0]?.packaging?.size?.depth || '660';
+                        depthElement.textContent = product.transportation?.[0]?.packaging?.size?.depth || '';
                     }
 
                     const heightElement = document.querySelector('.box-dimension.height');
                     if (heightElement) {
-                        heightElement.textContent = product.transportation?.[0]?.packaging?.size?.height || '340';
+                        heightElement.textContent = product.transportation?.[0]?.packaging?.size?.height || '';
                     }
 
                     const dimensionsImageElement = document.getElementById('dimensionsImage');
