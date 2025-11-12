@@ -87,6 +87,8 @@ h1 {
   width: 100%;
   height: 40px;
   pointer-events: none;
+  -moz-appearance: none;
+       appearance: none;
   -webkit-appearance: none;
   background: transparent;
   z-index: 2;
