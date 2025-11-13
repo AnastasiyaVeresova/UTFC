@@ -165,16 +165,31 @@ function updateTooltipPosition(card, tooltip) {
 
                         // Добавляем всплывашку с шириной
                         const chairWidth = product.dimensions_details?.[0]?.seat_width_with_armrests;
-                        let tooltipTextWidth = '<strong>w</strong><br>не указана';
+                        let tooltipTextWidth = '<strong>w+</strong><br>не указана';
                         if (chairWidth) {
                             const minW = chairWidth.min !== null && chairWidth.min !== undefined && chairWidth.min !== "" ? chairWidth.min : null;
                             const maxW = chairWidth.max !== null && chairWidth.max !== undefined && chairWidth.max !== "" ? chairWidth.max : null;
                             if (minW && maxW) {
+                                tooltipTextWidth = minW === maxW ? `<strong>w+</strong><br>${minW}` : `<strong>w+</strong><br>${minW}-${maxW}`;
+                            } else if (minW) {
+                                tooltipTextWidth = `<strong>w+</strong><br>${minW}`;
+                            } else if (maxW) {
+                                tooltipTextWidth = `<strong>w+</strong><br>${maxW}`;
+                            }
+                        }
+
+                                                // Добавляем всплывашку с шириной без подлокотников
+                        const chairWidthSit = product.dimensions_details?.[0]?.seat_width;
+                        let tooltipTextWidthSit = '<strong>w</strong><br>не указана';
+                        if (chairWidthSit) {
+                            const minW = chairWidthSit.min !== null && chairWidthSit.min !== undefined && chairWidthSit.min !== "" ? chairWidthSit.min : null;
+                            const maxW = chairWidthSit.max !== null && chairWidthSit.max !== undefined && chairWidthSit.max !== "" ? chairWidthSit.max : null;
+                            if (minW && maxW) {
                                 tooltipTextWidth = minW === maxW ? `<strong>w</strong><br>${minW}` : `<strong>w</strong><br>${minW}-${maxW}`;
                             } else if (minW) {
-                                tooltipTextWidth = `<strong>w</strong><br>${minW}`;
+                                tooltipTextWidthSit = `<strong>w</strong><br>${minW}`;
                             } else if (maxW) {
-                                tooltipTextWidth = `<strong>w</strong><br>${maxW}`;
+                                tooltipTextWidthSit = `<strong>w</strong><br>${maxW}`;
                             }
                         }
 
@@ -212,7 +227,7 @@ function updateTooltipPosition(card, tooltip) {
                         const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
 
                         // Формируем текст для детальной всплывающей подсказки
-let detailedTooltipText = `
+                        let detailedTooltipText = `
     <strong>${productName}</strong><br><br>
     ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
     ${chairHeight?.min || chairHeight?.max ? `<br><strong>Высота кресла:</strong> ${chairHeight.min || ''}${chairHeight.min && chairHeight.max ? ' - ' : ''}${chairHeight.max || ''} мм<br>` : ''}
@@ -239,14 +254,12 @@ let detailedTooltipText = `
                         const productCard = document.createElement('div');
                         productCard.className = 'product-card';
                         productCard.innerHTML = `
-                            <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextDepth}<br>${tooltipText}</div>
+                            <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextWidthSit}<br>${tooltipTextDepth}<br>${tooltipText}</div>
                             <div class="product-tooltip-detailed">${detailedTooltipText}</div>
                             <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-                            <a href="card.html?category=chair_cafe_and_bar&name=${encodeURIComponent(productName)}">${productName}</a>
+                            <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
                         `;
                         productsContainer.appendChild(productCard);
-                        
-
                     });
 
                     if (validProducts.length === 0) {
