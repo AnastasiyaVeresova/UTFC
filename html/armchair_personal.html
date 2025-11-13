@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,6 +13,7 @@
     <title>Кресла для персонала</title>
 
 </head>
+
 <body>
     <!-- Боковое меню -->
     <div class="sidebar">
@@ -60,26 +62,26 @@
         let currentCard = null;
 
         // Функция для обновления позиции подсказки
-function updateTooltipPosition(card, tooltip) {
-    const rect = card.getBoundingClientRect();
-    const tooltipWidth = 300;
-    const tooltipHeight = tooltip.offsetHeight || 200;
+        function updateTooltipPosition(card, tooltip) {
+            const rect = card.getBoundingClientRect();
+            const tooltipWidth = 300;
+            const tooltipHeight = tooltip.offsetHeight || 200;
 
-    // Позиция по горизонтали
-    let left = rect.right + window.scrollX + 10;
-    if (left + tooltipWidth > window.innerWidth) {
-        left = rect.left + window.scrollX - tooltipWidth - 10;
-    }
+            // Позиция по горизонтали
+            let left = rect.right + window.scrollX + 10;
+            if (left + tooltipWidth > window.innerWidth) {
+                left = rect.left + window.scrollX - tooltipWidth - 10;
+            }
 
-    // Позиция по вертикали
-    let top = rect.top + window.scrollY;
-    if (top + tooltipHeight > window.innerHeight) {
-        top = rect.bottom + window.scrollY - tooltipHeight - 10;
-    }
+            // Позиция по вертикали
+            let top = rect.top + window.scrollY;
+            if (top + tooltipHeight > window.innerHeight) {
+                top = rect.bottom + window.scrollY - tooltipHeight - 10;
+            }
 
-    tooltip.style.left = `${left}px`;
-    tooltip.style.top = `${top}px`;
-}
+            tooltip.style.left = `${left}px`;
+            tooltip.style.top = `${top}px`;
+        }
 
 
         document.addEventListener('DOMContentLoaded', function () {
@@ -212,7 +214,7 @@ function updateTooltipPosition(card, tooltip) {
                         const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
 
                         // Формируем текст для детальной всплывающей подсказки
-let detailedTooltipText = `
+                        let detailedTooltipText = `
     <strong>${productName}</strong><br><br>
     ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
     ${chairHeight?.min || chairHeight?.max ? `<br><strong>Высота кресла:</strong> ${chairHeight.min || ''}${chairHeight.min && chairHeight.max ? ' - ' : ''}${chairHeight.max || ''} мм<br>` : ''}
@@ -245,7 +247,7 @@ let detailedTooltipText = `
                             <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
                         `;
                         productsContainer.appendChild(productCard);
-                        
+
 
                     });
 
@@ -254,11 +256,11 @@ let detailedTooltipText = `
                     }
 
                     // Обработчик скролла страницы
-window.addEventListener('scroll', function() {
-    if (currentTooltip && currentCard) {
-        updateTooltipPosition(currentCard, currentTooltip);
-    }
-});
+                    window.addEventListener('scroll', function () {
+                        if (currentTooltip && currentCard) {
+                            updateTooltipPosition(currentCard, currentTooltip);
+                        }
+                    });
 
                     // --- Логика фильтрации ---
                     const minHeightInput = document.getElementById('minHeight');
@@ -514,4 +516,5 @@ window.addEventListener('scroll', function() {
         });
     </script>
 </body>
+
 </html>
