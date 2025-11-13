@@ -8,6 +8,29 @@
     <link rel="stylesheet" href="../css/card.css">
     <script src="../script/products_lists/armchair_rukovoditel.js"></script>
     <title>Кресла для руководителей</title>
+    <style>
+        .product-tooltip {
+            display: none;
+            position: absolute;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 12px;
+            z-index: 10;
+            pointer-events: none;
+            width: 250px;
+            left: 100%;
+            margin-left: 10px;
+            top: 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            line-height: 1.3;
+        }
+
+        .product-card:hover .product-tooltip {
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <!-- Боковое меню -->
@@ -37,9 +60,6 @@
         <div class="content">
             <h1>Кресла для руководителей</h1>
 
-
-
-            
             <div id="products"></div>
         </div>
     </div>
@@ -79,71 +99,72 @@
                         const bName = Array.isArray(b.namefile) ? b.namefile[0] : b.namefile;
                         return aName.localeCompare(bName, 'ru');
                     });
-                    // Генерируем карточки
-validProducts.forEach(product => {
-    const productName = Array.isArray(product.name) && product.name.length > 0
-        ? product.name[0]
-        : product.name || 'Без названия';
-    const productCard = document.createElement('div');
-    productCard.className = 'product-card';
-    // Добавляем всплывашку с высотой
-    const chairHeight = product.dimensions_details?.[0]?.chair_height;
-    let tooltipText = '<strong>h</strong> не<br>указана';
-    if (chairHeight) {
-        const minH = chairHeight.min !== null && chairHeight.min !== undefined && chairHeight.min !== "" ? chairHeight.min : null;
-        const maxH = chairHeight.max !== null && chairHeight.max !== undefined && chairHeight.max !== "" ? chairHeight.max : null;
-    if (minH && maxH) {
-        if (minH === maxH) {
-            tooltipText = `<strong>h</strong><br>${minH}`;
-        } else {
-            tooltipText = `<strong>h</strong><br>${minH}-${maxH}`;
-        }
-    } else if (minH) {
-        tooltipText = `<strong>h</strong><br>${minH}`;
-    } else if (maxH) {
-        tooltipText = `<strong>h</strong><br>${maxH}`;
-    }
-    }
-        // Добавляем всплывашку с шириной
-    const chairWidth = product.dimensions_details?.[0]?.seat_width_with_armrests;
-    let tooltipTextWidth = '<strong>w</strong> не<br>указана';
-    if (chairWidth) {
-        const minW = chairWidth.min !== null && chairWidth.min !== undefined && chairWidth.min !== "" ? chairWidth.min : null;
-        const maxW = chairWidth.max !== null && chairWidth.max !== undefined && chairWidth.max !== "" ? chairWidth.max : null;
-        if (minW && maxW) {
-            tooltipTextWidth = minW === maxW ? `<strong>w</strong><br>${minW}` : `<strong>w</strong><br>${minW}-${maxW}`;
-        } else if (minW) {
-            tooltipTextWidth = `<strong>w</strong><br>${minW}`;
-        } else if (maxW) {
-            tooltipTextWidth = `<strong>w</strong><br>${maxW}`;
-        }
-    }
-            // Добавляем всплывашку с глубиной
-    const chairDepth = product.dimensions_details?.[0]?.chair_depth;
-    let tooltipTextDepth = '<strong>d</strong> не<br>указана';
-    if (chairDepth) {
-        const minD = chairDepth.min !== null && chairDepth.min !== undefined && chairDepth.min !== "" ? chairDepth.min : null;
-        const maxD = chairDepth.max !== null && chairDepth.max !== undefined && chairDepth.max !== "" ? chairDepth.max : null;
-        if (minD && maxD) {
-            tooltipTextDepth = minD === maxD ? `<strong>d</strong><br>${minD}` : `<strong>d</strong><br>${minD}-${maxD}`;
-        } else if (minD) {
-            tooltipTextDepth = `<strong>d</strong><br>${minD}`;
-        } else if (maxD) {
-            tooltipTextDepth = `<strong>d</strong><br>${maxD}`;
-        }
-    }
-    productCard.innerHTML = `
-        <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextDepth}<br>${tooltipText}</div>
-        
 
-        <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-        <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}">${productName}</a>
-    `;
-    productsContainer.appendChild(productCard);
-});
+                    // Генерируем карточки
+                    validProducts.forEach(product => {
+                        const productName = Array.isArray(product.name) && product.name.length > 0
+                            ? product.name[0]
+                            : product.name || 'Без названия';
+
+                        // Получаем все параметры для всплывающей подсказки
+                        const chairHeight = product.dimensions_details?.[0]?.chair_height;
+                        const headrestHeight = product.dimensions_details?.[0]?.headrest_height;
+                        const seatToFloorHeight = product.dimensions_details?.[0]?.seat_to_floor_height;
+                        const armrestHeightFromSeat = product.dimensions_details?.[0]?.armrest_height_from_seat;
+                        const chairDepth = product.dimensions_details?.[0]?.chair_depth;
+                        const seatDepth = product.dimensions_details?.[0]?.seat_depth;
+                        const backrestHeight = product.dimensions_details?.[0]?.backrest_height;
+                        const backrestToSeatHeight = product.dimensions_details?.[0]?.backrest_to_seat_height;
+                        const seatWidthWithArmrests = product.dimensions_details?.[0]?.seat_width_with_armrests;
+                        const seatWidth = product.dimensions_details?.[0]?.seat_width;
+                        const diameterCross = product.dimensions_details?.[0]?.diameter_cross;
+                        const runnersWidth = product.dimensions_details?.[0]?.runners_width;
+                        const runnersDepth = product.dimensions_details?.[0]?.runners_depth;
+                        const maxLoad = product.guarantee?.[0]?.max_load;
+                        const boxSize = product.transportation?.[0]?.packaging?.box_size;
+                        const brutto = product.dimensions?.[0]?.brutto;
+                        const netto = product.dimensions?.[0]?.netto;
+                        const volume = product.dimensions?.[0]?.volume;
+                        const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
+
+                        // Формируем текст для всплывающей подсказки
+                        let tooltipText = `
+                            <strong>${productName}</strong><br><br>
+                            ${upholstery ? `<strong>Материал облицовки:</strong> ${upholstery.replace(/-.*/g, '').trim()}<br>` : ''}
+                            ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
+                            ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
+                            ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
+                            ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
+                            ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
+                            ${chairHeight?.min || chairHeight?.max ? `<strong>Высота кресла:</strong> ${chairHeight.min || ''} - ${chairHeight.max || ''} мм<br>` : ''}
+                            ${headrestHeight?.min || headrestHeight?.max ? `<strong>Высота подголовника:</strong> ${headrestHeight.min || ''} - ${headrestHeight.max || ''} мм<br>` : ''}
+                            ${seatToFloorHeight?.min || seatToFloorHeight?.max ? `<strong>Высота сиденья от пола:</strong> ${seatToFloorHeight.min || ''} - ${seatToFloorHeight.max || ''} мм<br>` : ''}
+                            ${armrestHeightFromSeat?.min || armrestHeightFromSeat?.max ? `<strong>Высота подлокотников от сиденья:</strong> ${armrestHeightFromSeat.min || ''} - ${armrestHeightFromSeat.max || ''} мм<br>` : ''}
+                            ${chairDepth?.min || chairDepth?.max ? `<strong>Глубина кресла:</strong> ${chairDepth.min || ''} - ${chairDepth.max || ''} мм<br>` : ''}
+                            ${seatDepth?.min || seatDepth?.max ? `<strong>Глубина сиденья:</strong> ${seatDepth.min || ''} - ${seatDepth.max || ''} мм<br>` : ''}
+                            ${backrestHeight?.min || backrestHeight?.max ? `<strong>Высота спинки:</strong> ${backrestHeight.min || ''} - ${backrestHeight.max || ''} мм<br>` : ''}
+                            ${backrestToSeatHeight?.min || backrestToSeatHeight?.max ? `<strong>Высота спинки от сиденья:</strong> ${backrestToSeatHeight.min || ''} - ${backrestToSeatHeight.max || ''} мм<br>` : ''}
+                            ${seatWidthWithArmrests?.min || seatWidthWithArmrests?.max ? `<strong>Ширина сиденья с подлокотниками:</strong> ${seatWidthWithArmrests.min || ''} - ${seatWidthWithArmrests.max || ''} мм<br>` : ''}
+                            ${seatWidth?.min || seatWidth?.max ? `<strong>Ширина сиденья:</strong> ${seatWidth.min || ''} - ${seatWidth.max || ''} мм<br>` : ''}
+                            ${diameterCross?.min || diameterCross?.max ? `<strong>Диаметр крестовины:</strong> ${diameterCross.min || ''} - ${diameterCross.max || ''} мм<br>` : ''}
+                            ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев:</strong> ${runnersWidth.min || ''} - ${runnersWidth.max || ''} мм<br>` : ''}
+                            ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев:</strong> ${runnersDepth.min || ''} - ${runnersDepth.max || ''} мм<br>` : ''}
+                        `;
+
+                        const productCard = document.createElement('div');
+                        productCard.className = 'product-card';
+                        productCard.innerHTML = `
+                            <div class="product-tooltip">${tooltipText}</div>
+                            <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
+                            <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}">${productName}</a>
+                        `;
+                        productsContainer.appendChild(productCard);
+                    });
+
                     if (validProducts.length === 0) {
                         productsContainer.innerHTML = '<p>Товары не найдены.</p>';
                     }
+
                     // --- Логика фильтрации ---
                     const minHeightInput = document.getElementById('minHeight');
                     const maxHeightInput = document.getElementById('maxHeight');
@@ -206,73 +227,65 @@ validProducts.forEach(product => {
                         maxHeightInput.value = maxHeightValue.value;
                         filterProducts();
                     });
-function filterProducts() {
-    const min = parseInt(minHeightInput.value);
-    const max = parseInt(maxHeightInput.value);
 
-    const productCards = document.querySelectorAll('.product-card');
-    let visibleProductsCount = 0; // Счётчик видимых товаров
-
-    // Сначала скрываем все карточки
-    productCards.forEach(card => {
-        card.style.display = 'none';
-    });
-
-    // Затем проверяем, какие карточки нужно показать
-    productCards.forEach(card => {
-        const productName = card.querySelector('a').textContent;
-        const product = validProducts.find(p => {
-            const pName = Array.isArray(p.name) ? p.name[0] : p.name;
-            return pName === productName;
-        });
-
-        if (!product) {
-            return;
-        }
-
-        const chairHeight = product.dimensions_details?.[0]?.chair_height;
-        if (!chairHeight) {
-            return;
-        }
-
-        // Приводим значения высоты к числам
-        const minHeight = chairHeight.min ? parseInt(chairHeight.min) : null;
-        const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
-
-        let isInRange = false;
-
-        // Если указаны обе границы высоты кресла
-        if (minHeight !== null && maxHeight !== null) {
-            isInRange = (minHeight >= min && maxHeight <= max);
-        }
-        // Если указана только минимальная высота
-        else if (minHeight !== null) {
-            isInRange = (minHeight >= min && minHeight <= max);
-        }
-        // Если указана только максимальная высота
-        else if (maxHeight !== null) {
-            isInRange = (maxHeight >= min && maxHeight <= max);
-        }
-
-        if (isInRange) {
-            card.style.display = 'inline-block';
-            visibleProductsCount++;
-        }
-    });
-
-    // Если нет видимых товаров, выводим сообщение
-    const noProductsMessage = document.querySelector('#products > p');
-    if (visibleProductsCount === 0) {
-        if (!noProductsMessage) {
-            productsContainer.insertAdjacentHTML('beforeend', '<p>Товары не найдены. Рекомендуем изменить условия фильтрации</p>');
-        }
-    } else {
-        if (noProductsMessage) {
-            noProductsMessage.remove();
-        }
-    }
-}
-
+                    function filterProducts() {
+                        const min = parseInt(minHeightInput.value);
+                        const max = parseInt(maxHeightInput.value);
+                        const productCards = document.querySelectorAll('.product-card');
+                        let visibleProductsCount = 0; // Счётчик видимых товаров
+                        // Сначала скрываем все карточки
+                        productCards.forEach(card => {
+                            card.style.display = 'none';
+                        });
+                        // Затем проверяем, какие карточки нужно показать
+                        productCards.forEach(card => {
+                            const productName = card.querySelector('a').textContent;
+                            const product = validProducts.find(p => {
+                                const pName = Array.isArray(p.name) ? p.name[0] : p.name;
+                                return pName === productName;
+                            });
+                            if (!product) {
+                                return;
+                            }
+                            const chairHeight = product.dimensions_details?.[0]?.chair_height;
+                            if (!chairHeight) {
+                                card.style.display = 'inline-block';
+                                visibleProductsCount++;
+                                return;
+                            }
+                            // Приводим значения высоты к числам
+                            const minHeight = chairHeight.min ? parseInt(chairHeight.min) : null;
+                            const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
+                            let isInRange = false;
+                            // Если указаны обе границы высоты кресла
+                            if (minHeight !== null && maxHeight !== null) {
+                                isInRange = (minHeight >= min && maxHeight <= max);
+                            }
+                            // Если указана только минимальная высота
+                            else if (minHeight !== null) {
+                                isInRange = (minHeight >= min && minHeight <= max);
+                            }
+                            // Если указана только максимальная высота
+                            else if (maxHeight !== null) {
+                                isInRange = (maxHeight >= min && maxHeight <= max);
+                            }
+                            if (isInRange || (!minHeight && !maxHeight)) {
+                                card.style.display = 'inline-block';
+                                visibleProductsCount++;
+                            }
+                        });
+                        // Если нет видимых товаров, выводим сообщение
+                        const noProductsMessage = document.querySelector('#products > p');
+                        if (visibleProductsCount === 0) {
+                            if (!noProductsMessage) {
+                                productsContainer.insertAdjacentHTML('beforeend', '<p>Товары не найдены. Рекомендуем изменить условия фильтрации</p>');
+                            }
+                        } else {
+                            if (noProductsMessage) {
+                                noProductsMessage.remove();
+                            }
+                        }
+                    }
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);

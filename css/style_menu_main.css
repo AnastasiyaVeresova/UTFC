@@ -158,77 +158,65 @@ h1 {
   line-height: 1;
 }
 
+.product-tooltip-detailed {
+  display: none;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 11px;
+  text-align: left;
+  z-index: 10;
+  pointer-events: none;
+  width: 270px;
+  left: 50%;
+  margin-left: 10px;
+  top: 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  line-height: 1.3;
+}
+
+.product-card:hover .product-tooltip-detailed {
+  display: block;
+}
+
+.analytics-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.analytics-header h2 {
+  margin: 0;
+  color: var(--dark-main-color);
+}
+
+.toggle-button {
+  background: #96C22B;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.analytics-content {
+  width: 100%;
+  display: block;
+}
+
+.analytics-content.hidden {
+  display: none;
+}
+
+#overallChart {
+  width: 100%;
+  height: 600px;
+}
+
 .product-card {
   position: relative;
 }/*# sourceMappingURL=style_menu_main.css.map */
-
-
-.analytics-module {
-    margin: 20px 0;
-    padding: 15px;
-    background: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.filters {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 20px;
-}
-
-.filter-group {
-    display: flex;
-    flex-direction: column;
-    min-width: 200px;
-}
-
-.filter-group label {
-    margin-bottom: 5px;
-    font-weight: bold;
-}
-
-.comparison-table {
-    margin: 20px 0;
-    overflow-x: auto;
-}
-
-.comparison-table table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.comparison-table th,
-.comparison-table td {
-    padding: 10px;
-    border: 1px solid #ddd;
-    text-align: center;
-}
-
-.comparison-table th {
-    background: #3D4555;
-    color: white;
-}
-
-.charts {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.chart-container {
-    flex: 1;
-    min-width: 300px;
-    background: white;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.chart-container h3 {
-    margin-top: 0;
-    text-align: center;
-}
-

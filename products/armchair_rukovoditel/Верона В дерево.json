@@ -83,5 +83,55 @@
       "box": "../img/box_UTFC.png"
     }
   ],
-  "dimensions_details": []
+  "dimensions_details": [
+    {
+      "chair_height": {
+            "min": 1140,
+            "max": 1240
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 480,
+            "max": 580
+        },
+        "armrest_height_from_seat": {
+            "min": 230,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 740,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 530,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 710
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 625,
+            "max": ""
+        },
+        "seat_width": {
+            "max": 530
+        },
+        "diameter_cross": {
+            "max": 720
+        },
+        "runners_width": {
+            "max": ""
+        },
+        "runners_depth": {
+            "max": ""
+        }
+    }
+  ]
 }

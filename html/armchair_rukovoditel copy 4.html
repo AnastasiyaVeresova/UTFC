@@ -212,29 +212,28 @@ function updateTooltipPosition(card, tooltip) {
                         const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
 
                         // Формируем текст для детальной всплывающей подсказки
-let detailedTooltipText = `
-    <strong>${productName}</strong><br><br>
-    ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
-    ${chairHeight?.min || chairHeight?.max ? `<br><strong>Высота кресла:</strong> ${chairHeight.min || ''}${chairHeight.min && chairHeight.max ? ' - ' : ''}${chairHeight.max || ''} мм<br>` : ''}
-    ${headrestHeight?.min || headrestHeight?.max ? `<strong>Высота с подголовником:</strong> ${headrestHeight.min || ''}${headrestHeight.min && headrestHeight.max ? ' - ' : ''}${headrestHeight.max || ''} мм<br>` : ''}
-    ${seatToFloorHeight?.min || seatToFloorHeight?.max ? `<strong>Высота сиденья от пола:</strong> ${seatToFloorHeight.min || ''}${seatToFloorHeight.min && seatToFloorHeight.max ? ' - ' : ''}${seatToFloorHeight.max || ''} мм<br>` : ''}
-    ${armrestHeightFromSeat?.min || armrestHeightFromSeat?.max ? `<strong>Высота подлокотников от сиденья:</strong> ${armrestHeightFromSeat.min || ''}${armrestHeightFromSeat.min && armrestHeightFromSeat.max ? ' - ' : ''}${armrestHeightFromSeat.max || ''} мм<br>` : ''}
-    ${chairDepth?.min || chairDepth?.max ? `<strong>Глубина кресла:</strong> ${chairDepth.min || ''}${chairDepth.min && chairDepth.max ? ' - ' : ''}${chairDepth.max || ''} мм<br>` : ''}
-    ${seatDepth?.min || seatDepth?.max ? `<strong>Глубина сиденья:</strong> ${seatDepth.min || ''}${seatDepth.min && seatDepth.max ? ' - ' : ''}${seatDepth.max || ''} мм<br>` : ''}
-    ${backrestHeight?.min || backrestHeight?.max ? `<strong>Высота спинки:</strong> ${backrestHeight.min || ''}${backrestHeight.min && backrestHeight.max ? ' - ' : ''}${backrestHeight.max || ''} мм<br>` : ''}
-    ${backrestToSeatHeight?.min || backrestToSeatHeight?.max ? `<strong>Высота спинки от сиденья:</strong> ${backrestToSeatHeight.min || ''}${backrestToSeatHeight.min && backrestToSeatHeight.max ? ' - ' : ''}${backrestToSeatHeight.max || ''} мм<br>` : ''}
-    ${chairWidth?.min || chairWidth?.max ? `<strong>Ширина сиденья с подлокотниками:</strong> ${chairWidth.min || ''}${chairWidth.min && chairWidth.max ? ' - ' : ''}${chairWidth.max || ''} мм<br>` : ''}
-    ${seatWidth?.min || seatWidth?.max ? `<strong>Ширина сиденья:</strong> ${seatWidth.min || ''}${seatWidth.min && seatWidth.max ? ' - ' : ''}${seatWidth.max || ''} мм<br>` : ''}
-    ${diameterCross?.min || diameterCross?.max ? `<strong>Диаметр крестовины:</strong> ${diameterCross.min || ''}${diameterCross.min && diameterCross.max ? ' - ' : ''}${diameterCross.max || ''} мм<br>` : ''}
-    ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев:</strong> ${runnersWidth.min || ''}${runnersWidth.min && runnersWidth.max ? ' - ' : ''}${runnersWidth.max || ''} мм<br>` : ''}
-    ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев:</strong> ${runnersDepth.min || ''}${runnersDepth.min && runnersDepth.max ? ' - ' : ''}${runnersDepth.max || ''} мм<br>` : ''}
-    ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
-    ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
-    ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
-    ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
-    ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
-`;
-
+                        let detailedTooltipText = `
+                            <strong>${productName}</strong><br><br>
+                            ${upholstery ? `<strong>Обсуждается дополнительно:</strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
+                            ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
+                            ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
+                            ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
+                            ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
+                            ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
+                            ${chairHeight?.min || chairHeight?.max ? `<strong>Высота кресла:</strong> ${chairHeight.min || ''} - ${chairHeight.max || ''} мм<br>` : ''}
+                            ${headrestHeight?.min || headrestHeight?.max ? `<strong>Высота подголовника:</strong> ${headrestHeight.min || ''} - ${headrestHeight.max || ''} мм<br>` : ''}
+                            ${seatToFloorHeight?.min || seatToFloorHeight?.max ? `<strong>Высота сиденья от пола:</strong> ${seatToFloorHeight.min || ''} - ${seatToFloorHeight.max || ''} мм<br>` : ''}
+                            ${armrestHeightFromSeat?.min || armrestHeightFromSeat?.max ? `<strong>Высота подлокотников от сиденья:</strong> ${armrestHeightFromSeat.min || ''} - ${armrestHeightFromSeat.max || ''} мм<br>` : ''}
+                            ${chairDepth?.min || chairDepth?.max ? `<strong>Глубина кресла:</strong> ${chairDepth.min || ''} - ${chairDepth.max || ''} мм<br>` : ''}
+                            ${seatDepth?.min || seatDepth?.max ? `<strong>Глубина сиденья:</strong> ${seatDepth.min || ''} - ${seatDepth.max || ''} мм<br>` : ''}
+                            ${backrestHeight?.min || backrestHeight?.max ? `<strong>Высота спинки:</strong> ${backrestHeight.min || ''} - ${backrestHeight.max || ''} мм<br>` : ''}
+                            ${backrestToSeatHeight?.min || backrestToSeatHeight?.max ? `<strong>Высота спинки от сиденья:</strong> ${backrestToSeatHeight.min || ''} - ${backrestToSeatHeight.max || ''} мм<br>` : ''}
+                            ${chairWidth?.min || chairWidth?.max ? `<strong>Ширина сиденья с подлокотниками:</strong> ${chairWidth.min || ''} - ${chairWidth.max || ''} мм<br>` : ''}
+                            ${seatWidth?.min || seatWidth?.max ? `<strong>Ширина сиденья:</strong> ${seatWidth.min || ''} - ${seatWidth.max || ''} мм<br>` : ''}
+                            ${diameterCross?.min || diameterCross?.max ? `<strong>Диаметр крестовины:</strong> ${diameterCross.min || ''} - ${diameterCross.max || ''} мм<br>` : ''}
+                            ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев:</strong> ${runnersWidth.min || ''} - ${runnersWidth.max || ''} мм<br>` : ''}
+                            ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев:</strong> ${runnersDepth.min || ''} - ${runnersDepth.max || ''} мм<br>` : ''}
+                        `;
 
                         const productCard = document.createElement('div');
                         productCard.className = 'product-card';
@@ -247,6 +246,29 @@ let detailedTooltipText = `
                         productsContainer.appendChild(productCard);
                         
 
+                        // Добавляем обработчики событий для всплывающей подсказки
+productCard.addEventListener('mouseenter', function(e) {
+    const tooltip = this.querySelector('.product-tooltip-detailed');
+    if (!tooltip) return;
+    currentTooltip = tooltip;
+    currentCard = this;
+    tooltip.style.display = 'block';
+    updateTooltipPosition(this, tooltip);
+});
+
+productCard.addEventListener('mousemove', function(e) {
+    if (currentTooltip) {
+        updateTooltipPosition(this, currentTooltip);
+    }
+});
+
+productCard.addEventListener('mouseleave', function(e) {
+    if (currentTooltip) {
+        currentTooltip.style.display = 'none';
+        currentTooltip = null;
+        currentCard = null;
+    }
+});
                     });
 
                     if (validProducts.length === 0) {
@@ -405,7 +427,7 @@ window.addEventListener('scroll', function() {
                 // Обрабатываем все параметры
                 const parameters = [
                     { name: 'Высота кресла (мм)', key: 'chair_height' },
-                    { name: 'Высота с подголовником (мм)', key: 'headrest_height' },
+                    { name: 'Высота подголовника (мм)', key: 'headrest_height' },
                     { name: 'Высота сиденья от пола (мм)', key: 'seat_to_floor_height' },
                     { name: 'Высота подлокотников от сиденья (мм)', key: 'armrest_height_from_seat' },
                     { name: 'Глубина кресла (мм)', key: 'chair_depth' },
@@ -423,31 +445,18 @@ window.addEventListener('scroll', function() {
                     { name: 'Объем (м³)', key: 'volume', source: 'dimensions' }
                 ];
 
-parameters.forEach(param => {
-    const data = products.map(p => {
-        let value;
-        if (param.source === 'guarantee') {
-            value = p.guarantee?.[0]?.[param.key];
-        } else if (param.source === 'dimensions') {
-            value = p.dimensions?.[0]?.[param.key];
-        } else {
-            // Извлекаем и min, и max значения
-            const minValue = p.dimensions_details?.[0]?.[param.key]?.min;
-            const maxValue = p.dimensions_details?.[0]?.[param.key]?.max;
-
-            // Если оба значения существуют, возвращаем строку с диапазоном
-            if (minValue && maxValue) {
-                value = `${minValue} - ${maxValue}`;
-            }
-            // Если существует только одно значение, возвращаем его
-            else if (minValue) {
-                value = minValue;
-            } else if (maxValue) {
-                value = maxValue;
-            }
-        }
-        return parseNumber(value);
-    });
+                parameters.forEach(param => {
+                    const data = products.map(p => {
+                        let value;
+                        if (param.source === 'guarantee') {
+                            value = p.guarantee?.[0]?.[param.key];
+                        } else if (param.source === 'dimensions') {
+                            value = p.dimensions?.[0]?.[param.key];
+                        } else {
+                            value = p.dimensions_details?.[0]?.[param.key]?.max || p.dimensions_details?.[0]?.[param.key]?.min;
+                        }
+                        return parseNumber(value);
+                    });
 
                     if (data.some(val => val !== null)) {
                         traces.push({
