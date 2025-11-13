@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +13,13 @@
     <title>Стулья для кафе и бара</title>
 
 </head>
+
 <body>
     <!-- Боковое меню -->
     <div class="sidebar">
         <ul>
             <li><a href="armchair_personal.html">Кресла для персонала</a></li>
-            <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителя</a></li>
             <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
         </ul>
         <!-- Блок фильтра -->
@@ -61,26 +63,26 @@
         let currentCard = null;
 
         // Функция для обновления позиции подсказки
-function updateTooltipPosition(card, tooltip) {
-    const rect = card.getBoundingClientRect();
-    const tooltipWidth = 300;
-    const tooltipHeight = tooltip.offsetHeight || 200;
+        function updateTooltipPosition(card, tooltip) {
+            const rect = card.getBoundingClientRect();
+            const tooltipWidth = 300;
+            const tooltipHeight = tooltip.offsetHeight || 200;
 
-    // Позиция по горизонтали
-    let left = rect.right + window.scrollX + 10;
-    if (left + tooltipWidth > window.innerWidth) {
-        left = rect.left + window.scrollX - tooltipWidth - 10;
-    }
+            // Позиция по горизонтали
+            let left = rect.right + window.scrollX + 10;
+            if (left + tooltipWidth > window.innerWidth) {
+                left = rect.left + window.scrollX - tooltipWidth - 10;
+            }
 
-    // Позиция по вертикали
-    let top = rect.top + window.scrollY;
-    if (top + tooltipHeight > window.innerHeight) {
-        top = rect.bottom + window.scrollY - tooltipHeight - 10;
-    }
+            // Позиция по вертикали
+            let top = rect.top + window.scrollY;
+            if (top + tooltipHeight > window.innerHeight) {
+                top = rect.bottom + window.scrollY - tooltipHeight - 10;
+            }
 
-    tooltip.style.left = `${left}px`;
-    tooltip.style.top = `${top}px`;
-}
+            tooltip.style.left = `${left}px`;
+            tooltip.style.top = `${top}px`;
+        }
 
 
         document.addEventListener('DOMContentLoaded', function () {
@@ -153,7 +155,7 @@ function updateTooltipPosition(card, tooltip) {
                             const maxH = chairHeight.max !== null && chairHeight.max !== undefined && chairHeight.max !== "" ? chairHeight.max : null;
                             if (minH && maxH) {
                                 if (minH === maxH) {
-                                    tooltipText = `<strong>h</strong><br>${minH}`;
+                                    tooltipText = `<strong>h</strong><br>${Math.max(minH, maxH)}`;
                                 } else {
                                     tooltipText = `<strong>h</strong><br>${minH}-${maxH}`;
                                 }
@@ -258,9 +260,11 @@ function updateTooltipPosition(card, tooltip) {
                             <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextWidthSit}<br>${tooltipTextDepth}<br>${tooltipText}</div>
                             <div class="product-tooltip-detailed">${detailedTooltipText}</div>
                             <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-                            <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
+                            <a href="card.html?category=chair_cafe_and_bar&name=${encodeURIComponent(productName)}">${productName}</a>
                         `;
                         productsContainer.appendChild(productCard);
+
+
                     });
 
                     if (validProducts.length === 0) {
@@ -268,11 +272,11 @@ function updateTooltipPosition(card, tooltip) {
                     }
 
                     // Обработчик скролла страницы
-window.addEventListener('scroll', function() {
-    if (currentTooltip && currentCard) {
-        updateTooltipPosition(currentCard, currentTooltip);
-    }
-});
+                    window.addEventListener('scroll', function () {
+                        if (currentTooltip && currentCard) {
+                            updateTooltipPosition(currentCard, currentTooltip);
+                        }
+                    });
 
                     // --- Логика фильтрации ---
                     const minHeightInput = document.getElementById('minHeight');
@@ -398,7 +402,7 @@ window.addEventListener('scroll', function() {
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);
-                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже.</p>';
+                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже</p>';
                 });
 
             function parseNumber(value) {
@@ -445,7 +449,20 @@ window.addEventListener('scroll', function() {
                         } else if (param.source === 'dimensions') {
                             value = p.dimensions?.[0]?.[param.key];
                         } else {
-                            value = p.dimensions_details?.[0]?.[param.key]?.max || p.dimensions_details?.[0]?.[param.key]?.min;
+                            // Извлекаем и min, и max значения
+const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+// Если оба значения существуют, берем максимальное
+if (minValue !== null && maxValue !== null) {
+    value = Math.max(minValue, maxValue);
+}
+// Если существует только одно значение, берем его
+else if (minValue !== null) {
+    value = minValue;
+} else if (maxValue !== null) {
+    value = maxValue;
+}
+
                         }
                         return parseNumber(value);
                     });
@@ -528,4 +545,5 @@ window.addEventListener('scroll', function() {
         });
     </script>
 </body>
+
 </html>

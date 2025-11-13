@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style_menu_main.css">
     <link rel="stylesheet" href="../css/card.css">
-    <script src="../script/products_lists/armchair_personal.js"></script>
+    <script src="../script/products_lists/chair_cafe_and_bar.js"></script>
     <!-- Обновленная ссылка на последнюю версию Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
     <title>Кресла для персонала</title>
@@ -19,7 +19,7 @@
     <div class="sidebar">
         <ul>
             <li><a href="armchair_personal.html">Кресла для персонала</a></li>
-            <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителя</a></li>
             <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
         </ul>
         <!-- Блок фильтра -->
@@ -155,7 +155,7 @@
                             const maxH = chairHeight.max !== null && chairHeight.max !== undefined && chairHeight.max !== "" ? chairHeight.max : null;
                             if (minH && maxH) {
                                 if (minH === maxH) {
-                                    tooltipText = `<strong>h</strong><br>${minH}`;
+                                    tooltipText = `<strong>h</strong><br>${Math.max(minH, maxH)}`;
                                 } else {
                                     tooltipText = `<strong>h</strong><br>${minH}-${maxH}`;
                                 }
@@ -402,7 +402,7 @@
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);
-                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже.</p>';
+                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже</p>';
                 });
 
             function parseNumber(value) {
@@ -449,7 +449,20 @@
                         } else if (param.source === 'dimensions') {
                             value = p.dimensions?.[0]?.[param.key];
                         } else {
-                            value = p.dimensions_details?.[0]?.[param.key]?.max || p.dimensions_details?.[0]?.[param.key]?.min;
+                            // Извлекаем и min, и max значения
+const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+// Если оба значения существуют, берем максимальное
+if (minValue !== null && maxValue !== null) {
+    value = Math.max(minValue, maxValue);
+}
+// Если существует только одно значение, берем его
+else if (minValue !== null) {
+    value = minValue;
+} else if (maxValue !== null) {
+    value = maxValue;
+}
+
                         }
                         return parseNumber(value);
                     });

@@ -10,7 +10,7 @@
     <script src="../script/products_lists/armchair_rukovoditel.js"></script>
     <!-- Обновленная ссылка на последнюю версию Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
-    <title>Кресла для руководителей</title>
+    <title>Кресла для руководителя</title>
 
 </head>
 
@@ -19,7 +19,7 @@
     <div class="sidebar">
         <ul>
             <li><a href="armchair_personal.html">Кресла для персонала</a></li>
-            <li><a href="armchair_rukovoditel.html">Кресла для руководителей</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителя</a></li>
             <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
         </ul>
         <!-- Блок фильтра -->
@@ -40,7 +40,7 @@
     <!-- Основной контент страницы -->
     <div class="center">
         <div class="content">
-            <h1>Кресла для руководителей</h1>
+            <h1>Кресла для руководителя</h1>
 
             <!-- Блок с диаграммой -->
             <div class="analytics-block">
@@ -155,7 +155,7 @@
                             const maxH = chairHeight.max !== null && chairHeight.max !== undefined && chairHeight.max !== "" ? chairHeight.max : null;
                             if (minH && maxH) {
                                 if (minH === maxH) {
-                                    tooltipText = `<strong>h</strong><br>${minH}`;
+                                    tooltipText = `<strong>h</strong><br>${Math.max(minH, maxH)}`;
                                 } else {
                                     tooltipText = `<strong>h</strong><br>${minH}-${maxH}`;
                                 }
@@ -260,7 +260,7 @@
                             <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextWidthSit}<br>${tooltipTextDepth}<br>${tooltipText}</div>
                             <div class="product-tooltip-detailed">${detailedTooltipText}</div>
                             <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-                            <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
+                            <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}">${productName}</a>
                         `;
                         productsContainer.appendChild(productCard);
 
@@ -402,7 +402,7 @@
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);
-                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже.</p>';
+                    productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже</p>';
                 });
 
             function parseNumber(value) {
@@ -450,19 +450,19 @@
                             value = p.dimensions?.[0]?.[param.key];
                         } else {
                             // Извлекаем и min, и max значения
-                            const minValue = p.dimensions_details?.[0]?.[param.key]?.min;
-                            const maxValue = p.dimensions_details?.[0]?.[param.key]?.max;
+const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+// Если оба значения существуют, берем максимальное
+if (minValue !== null && maxValue !== null) {
+    value = Math.max(minValue, maxValue);
+}
+// Если существует только одно значение, берем его
+else if (minValue !== null) {
+    value = minValue;
+} else if (maxValue !== null) {
+    value = maxValue;
+}
 
-                            // Если оба значения существуют, возвращаем строку с диапазоном
-                            if (minValue && maxValue) {
-                                value = `${minValue} - ${maxValue}`;
-                            }
-                            // Если существует только одно значение, возвращаем его
-                            else if (minValue) {
-                                value = minValue;
-                            } else if (maxValue) {
-                                value = maxValue;
-                            }
                         }
                         return parseNumber(value);
                     });
