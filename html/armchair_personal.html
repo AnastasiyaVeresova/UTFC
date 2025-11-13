@@ -150,7 +150,7 @@ validProducts.forEach(product => {
         
 
         <img src="${product.images?.[0]?.vid_main || ''}" alt="${productName}">
-        <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}">${productName}</a>
+        <a href="card.html?category=armchair_personal&name=${encodeURIComponent(productName)}">${productName}</a>
     `;
     productsContainer.appendChild(productCard);
 });
