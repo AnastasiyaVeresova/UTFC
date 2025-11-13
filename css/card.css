@@ -27,4 +27,10 @@
 
 .product-card a:hover {
   color: #96C22B;
+}
+
+.text_dop_info {
+  color: #a6a7a8;
+  font-size: 10px;
+  margin-bottom: 20px;
 }/*# sourceMappingURL=card.css.map */
