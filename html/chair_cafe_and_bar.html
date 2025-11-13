@@ -51,7 +51,8 @@
                     <div id="overallChart"></div>
                 </div>
             </div>
-            <div class="text_dop_info">w+ - ширина с подлокотниками | w - ширина сиденья | d - габаритная глубина | h - высота</div>
+            <div class="text_dop_info">w+ - ширина с подлокотниками | w - ширина сиденья | d - габаритная глубина | h -
+                высота</div>
 
             <div id="products"></div>
         </div>
@@ -168,7 +169,8 @@
 
                         // Добавляем всплывашку с шириной
                         const chairWidth = product.dimensions_details?.[0]?.seat_width_with_armrests;
-                        let tooltipTextWidth = '<strong>w+</strong><br>не указана';
+                        // let tooltipTextWidth = '<strong>w+</strong><br>не указана';
+                        let tooltipTextWidth = '';
                         if (chairWidth) {
                             const minW = chairWidth.min !== null && chairWidth.min !== undefined && chairWidth.min !== "" ? chairWidth.min : null;
                             const maxW = chairWidth.max !== null && chairWidth.max !== undefined && chairWidth.max !== "" ? chairWidth.max : null;
@@ -181,7 +183,7 @@
                             }
                         }
 
-                                                // Добавляем всплывашку с шириной без подлокотников
+                        // Добавляем всплывашку с шириной без подлокотников
                         const chairWidthSit = product.dimensions_details?.[0]?.seat_width;
                         let tooltipTextWidthSit = '<strong>w</strong><br>не указана';
                         if (chairWidthSit) {
@@ -450,18 +452,18 @@
                             value = p.dimensions?.[0]?.[param.key];
                         } else {
                             // Извлекаем и min, и max значения
-const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
-const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
-// Если оба значения существуют, берем максимальное
-if (minValue !== null && maxValue !== null) {
-    value = Math.max(minValue, maxValue);
-}
-// Если существует только одно значение, берем его
-else if (minValue !== null) {
-    value = minValue;
-} else if (maxValue !== null) {
-    value = maxValue;
-}
+                            const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+                            const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+                            // Если оба значения существуют, берем максимальное
+                            if (minValue !== null && maxValue !== null) {
+                                value = Math.max(minValue, maxValue);
+                            }
+                            // Если существует только одно значение, берем его
+                            else if (minValue !== null) {
+                                value = minValue;
+                            } else if (maxValue !== null) {
+                                value = maxValue;
+                            }
 
                         }
                         return parseNumber(value);
