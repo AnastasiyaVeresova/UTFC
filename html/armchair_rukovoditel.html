@@ -20,7 +20,10 @@
         <ul>
             <li><a href="armchair_personal.html">Кресла для персонала</a></li>
             <li><a href="armchair_rukovoditel.html">Кресла для руководителя</a></li>
+            <li><a href="armchair_comfort.html">Кресла комфорт</a></li>
             <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
+            <li><a href="chair_visitors.html">Стулья для посетителей</a></li>
+
         </ul>
         <!-- Блок фильтра -->
         <div class="filter-block">
@@ -246,8 +249,8 @@
     ${chairWidth?.min || chairWidth?.max ? `<strong>Ширина сиденья с подлокотниками:</strong> ${chairWidth.min || ''}${chairWidth.min && chairWidth.max ? ' - ' : ''}${chairWidth.max || ''} мм<br>` : ''}
     ${seatWidth?.min || seatWidth?.max ? `<strong>Ширина сиденья:</strong> ${seatWidth.min || ''}${seatWidth.min && seatWidth.max ? ' - ' : ''}${seatWidth.max || ''} мм<br>` : ''}
     ${diameterCross?.min || diameterCross?.max ? `<strong>Диаметр крестовины:</strong> ${diameterCross.min || ''}${diameterCross.min && diameterCross.max ? ' - ' : ''}${diameterCross.max || ''} мм<br>` : ''}
-    ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев:</strong> ${runnersWidth.min || ''}${runnersWidth.min && runnersWidth.max ? ' - ' : ''}${runnersWidth.max || ''} мм<br>` : ''}
-    ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев:</strong> ${runnersDepth.min || ''}${runnersDepth.min && runnersDepth.max ? ' - ' : ''}${runnersDepth.max || ''} мм<br>` : ''}
+    ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев/ножек:</strong> ${runnersWidth.min || ''}${runnersWidth.min && runnersWidth.max ? ' - ' : ''}${runnersWidth.max || ''} мм<br>` : ''}
+    ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев/ножек:</strong> ${runnersDepth.min || ''}${runnersDepth.min && runnersDepth.max ? ' - ' : ''}${runnersDepth.max || ''} мм<br>` : ''}
     ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
     ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
     ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
