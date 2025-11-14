@@ -1,0 +1,115 @@
+{
+    "namefile": [
+        "Мориока М-242"
+    ],
+    "name": [
+        "Мориока"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло\nсерии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и сиденья: высокопрочная сетка<br>\n- цвет материала и пластика - по каталогу."
+            ],
+            "components": []
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 660,
+                    "depth": 285,
+                    "height": 590
+                },
+                "box_size": "660x285x590",
+                "transportation": "Для удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "",
+            "volume": ""
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "../img/armchair_comfort/Мориока М-242_01.png",
+            "chair_view": "../img/armchair_comfort/Мориока М-242_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/Мориока М-242.png",
+            "box": "../img/box_UTFC.png"
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "height_backrest_seat": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": ""
+            },
+            "width_seat": "",
+            "diameter_cross": "",
+            "runners": ""
+        }
+    ]
+}
