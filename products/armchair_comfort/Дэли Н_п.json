@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Дэли Нп СН-503"
+        "Дэли Н_п"
     ],
     "name": [
         "Дэли Н/п"
@@ -76,7 +76,7 @@
         {
             "vid_main": "../img/armchair_comfort/ch_503_dely_np_ch_tw72_01.png",
             "chair_view": "../img/armchair_comfort/ch_503_dely_np_ch_tw72_01.png",
-            "dimensions": "../img/armchair_comfort/dimensions/Дэли Нп СН-503.png",
+            "dimensions": "../img/armchair_comfort/dimensions/ch_503_dely_np_ch_tw72_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
