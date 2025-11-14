@@ -82,7 +82,7 @@
     "images": [
         {
             "vid_main": "../img/armchair_comfort/direkt_light_n_01.png",
-            "chair_view": "../img/armchair_comfort/direkt_light_n_02.pngg",
+            "chair_view": "../img/armchair_comfort/direkt_light_n_02.png",
             "dimensions": "../img/armchair_comfort/dimensions/direkt_light_n_01.png",
             "box": "../img/box_UTFC.png"
         }
