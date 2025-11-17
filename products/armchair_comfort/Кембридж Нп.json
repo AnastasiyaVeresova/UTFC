@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Кембридж Нп СН-502"
+        "Кембридж Нп"
     ],
     "name": [
         "Кембридж Н/п"
@@ -9,7 +9,7 @@
         "кресло"
     ],
     "category": [
-        "кресло серии\nкомфорт"
+        "кресло"
     ],
     "destiny": [
         "ежедневной работы в офисных и домашних помещениях"
@@ -27,7 +27,7 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- материал облицовки спинки: ткань-сетка (TW)<br>\n- материал облицовки сиденья: ткань (D), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
+                "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья: ткань (D), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
             ],
             "components": [
                 "металлических полозьев, спинки, сиденья, подлокотников",
@@ -37,13 +37,13 @@
                 "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
                 "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
                 "<strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (Е)",
-                "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов."
+                "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов"
             ]
         }
     ],
     "transportation": [
         {
-            "standard": "",
+            "standard": "ГОСТ 16371-2014",
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
@@ -58,9 +58,9 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "9,66",
             "netto": "",
-            "volume": ""
+            "volume": "0,19"
         }
     ],
     "guarantee": [
@@ -72,53 +72,60 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/Кембридж Нп СН-502_01.png",
-            "chair_view": "../img/armchair_comfort/Кембридж Нп СН-502_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/Кембридж Нп СН-502.png",
+            "vid_main": "../img/armchair_comfort/ch502_kembridge_np_pl_tw72_01.png",
+            "chair_view": "../img/armchair_comfort/ch502_kembridge_np_pl_tw72_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/ch502_kembridge_np_pl_tw72_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "width_seat": "",
-            "diameter_cross": "",
-            "runners": ""
+        { "chair_height": {
+            "min": 920,
+            "max": ""
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 480,
+            "max": ""
+        },
+        "armrest_height_from_seat": {
+            "min": 180,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 565,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 430,
+            "max": ""
+        },
+        "backrest_height": {
+            "max": 460
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 535,
+            "max": null
+        },
+        "seat_width": {
+            "max": 470
+        },
+        "diameter_cross": {
+            "max": ""
+        },
+        "runners_width": {
+            "max": 480
+        },
+        "runners_depth": {
+            "max": 590
+        }
         }
     ]
 }
