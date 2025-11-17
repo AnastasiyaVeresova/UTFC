@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Кофу М-231"
+        "Кофу"
     ],
     "name": [
         "Кофу"
@@ -9,7 +9,7 @@
         "кресло"
     ],
     "category": [
-        "поворотное кресло\nсерии комфорт"
+        "поворотное кресло"
     ],
     "destiny": [
         "ежедневной работы в офисных и домашних помещениях"
@@ -27,23 +27,23 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- материал облицовки спинки: сетка<br>\n- материал облицовки сиденья: ткань<br>\n- цвет материала - по каталогу"
+                "- материал облицовки спинки:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала - по каталогу"
             ],
             "components": [
                 "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
                 "<strong>Спинка</strong> состоит из пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка регулируется по глубине и высоте. Облицовка спинки: сетка",
-                "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента.Облицовка сиденья: ткань",
+                "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
                 "<strong>Подлокотники</strong> - пластиковые, регулируются по высоте",
                 "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
                 "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
                 "<strong>Пятилучье</strong> - пластиковое с узкими лучами d=640 мм, с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> пластиковые d=50 мм имеют открытый чехол."
+                "<strong>Ролики</strong> пластиковые d=50 мм имеют открытый чехол"
             ]
         }
     ],
     "transportation": [
         {
-            "standard": "",
+            "standard": "ГОСТ 16371-2014",
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
@@ -58,9 +58,9 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
-            "netto": "",
-            "volume": ""
+            "brutto": "10,95",
+            "netto": "10",
+            "volume": "0,11"
         }
     ],
     "guarantee": [
@@ -72,53 +72,60 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/Кофу М-231_01.png",
-            "chair_view": "../img/armchair_comfort/Кофу М-231_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/Кофу М-231.png",
+            "vid_main": "../img/armchair_comfort/kofu_m-231_pl_bl_01.png",
+            "chair_view": "../img/armchair_comfort/kofu_m-231_pl_bl_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/kofu_m-231_pl_bl_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "width_seat": "",
-            "diameter_cross": "",
-            "runners": ""
+        {"chair_height": {
+            "min": 950,
+            "max": 1050
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 455,
+            "max": 555
+        },
+        "armrest_height_from_seat": {
+            "min": 190,
+            "max": 290
+        },
+        "chair_depth": {
+            "min": 590,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 480,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 510
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 615,
+            "max": null
+        },
+        "seat_width": {
+            "max": 480
+        },
+        "diameter_cross": {
+            "max": 640
+        },
+        "runners_width": {
+            "max": null
+        },
+        "runners_depth": {
+            "max": null
+        }
         }
     ]
 }
