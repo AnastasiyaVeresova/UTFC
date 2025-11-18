@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Санда М-207"
+        "Санда"
     ],
     "name": [
         "Санда"
@@ -9,7 +9,7 @@
         "кресло"
     ],
     "category": [
-        "поворотное кресло\nсерии комфорт"
+        "поворотное кресло"
     ],
     "destiny": [
         "ежедневной работы в офисных и домашних помещениях"
@@ -27,7 +27,7 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- материал облицовки спинки: сетка<br>\n- материал облицовки сиденья: ткань<br>\n- цвет материала и пластика - по каталогу."
+                "- материал облицовки спинки:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала и пластика - по каталогу"
             ],
             "components": [
                 "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
@@ -36,13 +36,13 @@
                 "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
                 "<strong>Газ-лифт</strong> черный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
                 "<strong>Пятилучье</strong> - пластиковое с узкими лучами d=660 мм, с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток."
+                "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
             ]
         }
     ],
     "transportation": [
         {
-            "standard": "",
+            "standard": "ГОСТ 16371-2014",
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
@@ -57,9 +57,9 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
-            "netto": "",
-            "volume": ""
+            "brutto": "13,8",
+            "netto": "11,8",
+            "volume": "0,16"
         }
     ],
     "guarantee": [
@@ -71,53 +71,60 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/Санда М-207_01.png",
-            "chair_view": "../img/armchair_comfort/Санда М-207_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/Санда М-207.png",
+            "vid_main": "../img/armchair_comfort/sanda_m_207_pl_grey_grey_01.png",
+            "chair_view": "../img/armchair_comfort/sanda_m_207_pl_grey_grey_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/sanda_m_207_pl_grey_grey_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "width_seat": "",
-            "diameter_cross": "",
-            "runners": ""
+        {"chair_height": {
+            "min": 1055,
+            "max": 1155
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 445,
+            "max": 545
+        },
+        "armrest_height_from_seat": {
+            "min": 195,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 570,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 435,
+            "max": ""
+        },
+        "backrest_height": {
+            "max": 630
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 660,
+            "max": ""
+        },
+        "seat_width": {
+            "max": 500
+        },
+        "diameter_cross": {
+            "max": 660
+        },
+        "runners_width": {
+            "max": ""
+        },
+        "runners_depth": {
+            "max": ""
+        }
         }
     ]
 }

@@ -193,6 +193,8 @@
             "кресло оператора": "кресло",
             "поворотное кресло оператора": "кресло оператора",
             "табурет": "",
+           "поворотное кресло": "поворотное кресло",
+
 
         };
 
@@ -495,41 +497,36 @@
 
 
         // Функция для создания фрейма информации
-        function createInfoFrame(product, variantIndex) {
-            const frame = document.createElement('div');
-            frame.className = 'frame info';
-            const productVid = product.category?.[0] || 'кресло';
-            const productName = product.name[0] || 'Название отсутствует';
-            const allNames = product.name_all || [];
-            const isPlural = allNames.length > 1;
-            const vidWord = isPlural ? declensionMapForMore[productVid.toLowerCase()] || 'кресла' : productVid;
-
-            // Проверяем, содержится ли вид в названии (с учётом регистра)
-            const isVidInNameSingle = !isPlural && productName.toLowerCase().includes(productVid.toLowerCase());
-            // Проверяем, содержится ли вид в любом из названий (для множественного числа)
-            const isVidInNamePlural = isPlural && allNames.some(name => name.toLowerCase().includes(vidWord.toLowerCase()));
-
-            const variationsText = generateVariationsText(product, 0);
-            let description;
-
-            if (isPlural) {
-                const vidPrefix = isVidInNamePlural ? '' : `${vidWord} `;
-                description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}${variationsText}<br><br>`;
-            } else {
-                const vidPrefix = isVidInNameSingle ? '' : `${productVid} `;
-                description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
-            }
-
-            frame.innerHTML = `
+function createInfoFrame(product, variantIndex) {
+    const frame = document.createElement('div');
+    frame.className = 'frame info';
+    const productCategory = product.category?.[0] || 'кресло';
+    const productVid = product.vid?.[0] || 'кресло';
+    const productName = product.name[0] || 'Название отсутствует';
+    const allNames = product.name_all || [];
+    const isPlural = allNames.length > 1;
+    const vidWord = isPlural ? declensionMapForMore[productCategory.toLowerCase()] || 'кресла' : productCategory;
+    // Проверяем, содержится ли вид в названии (с учётом регистра)
+    const isVidInNameSingle = !isPlural && productName.toLowerCase().includes(productCategory.toLowerCase());
+    // Проверяем, содержится ли вид в любом из названий (для множественного числа)
+    const isVidInNamePlural = isPlural && allNames.some(name => name.toLowerCase().includes(vidWord.toLowerCase()));
+    const variationsText = generateVariationsText(product, 0);
+    let description;
+    if (isPlural) {
+        const vidPrefix = isVidInNamePlural ? '' : `${vidWord} `;
+        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}${variationsText}<br><br>`;
+    } else {
+        const vidPrefix = isVidInNameSingle ? '' : `${productCategory} `;
+        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+    }
+    frame.innerHTML = `
         <div class="technical">
             ${description}
         </div>
         <!-- остальной HTML -->
     `;
-            return frame;
-        }
-
-
+    return frame;
+}
 
 
 
