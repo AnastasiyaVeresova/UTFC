@@ -88,8 +88,8 @@
   "dimensions_details": [
     {
       "chair_height": {
-        "min": 1200,
-        "max": 1300
+        "min": 1140,
+        "max": 1240
       },
       "headrest_height": {
         "min": null,

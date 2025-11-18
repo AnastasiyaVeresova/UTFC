@@ -89,16 +89,16 @@
   "dimensions_details": [
     {
       "chair_height": {
-        "min": 1130,
-        "max": 1230
+        "min": 1120,
+        "max": 1220
       },
       "headrest_height": {
         "min": "",
         "max": ""
       },
       "seat_to_floor_height": {
-        "min": 470,
-        "max": 570
+        "min": 480,
+        "max": 580
       },
       "armrest_height_from_seat": {
         "min": 230,
