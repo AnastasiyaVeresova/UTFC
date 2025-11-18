@@ -77,9 +77,9 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/profi_m_900_pl_p_bl_01.png",
+            "vid_main": "../img/armchair_comfort/profi_m_900_ch_p_grey_01.png",
             "chair_view": "../img/armchair_comfortprofi_m_900_ch_p_grey_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/profi_m_900_pl_p_bl_01.png",
+            "dimensions": "../img/armchair_comfort/dimensions/profi_m_900_ch_p_grey_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],

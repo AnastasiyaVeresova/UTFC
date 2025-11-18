@@ -152,6 +152,7 @@
         // Словарь склонений
         const declensionMap = {
             "кресло": "кресла",
+            "поворотное кресло": "поворотные кресла",
             "кресло оператора": "кресла оператора",
             "стул": "стула",
             "место": "места",
@@ -165,17 +166,25 @@
             "стул": "стула",
             "кресло": "кресла",
             "место": "места",
+                        "поворотное кресло": "поворотные кресла",
+                                    "поворотное кресло серии комфорт":"поворотные кресла серии комфорт",
+
+
         };
 
 
         const declensionMapForMore = {
 
             "стул": "стулья",
+            "поворотное кресло": "поворотные кресла",
+            "поворотное кресло серии комфорт":"поворотные кресла серии комфорт",
             "кресло": "кресла",
             "кресло оператора": "кресла оператора",
             "поворотное кресло оператора": "поворотные кресла оператора",
             "место": "места",
-            "табурет": "табуреты"
+            "табурет": "табуреты",
+                        
+
         };
 
 
@@ -489,7 +498,7 @@
         function createInfoFrame(product, variantIndex) {
             const frame = document.createElement('div');
             frame.className = 'frame info';
-            const productVid = product.vid?.[0] || 'кресло';
+            const productVid = product.category?.[0] || 'кресло';
             const productName = product.name[0] || 'Название отсутствует';
             const allNames = product.name_all || [];
             const isPlural = allNames.length > 1;
@@ -674,7 +683,8 @@
                         const productName = product.name[0] || 'Название отсутствует';
                         const allNames = product.name_all || [];
                         const isPlural = allNames.length > 1;
-                        const vidWord = isPlural ? declensionMapForMore[productVid.toLowerCase()] || productVid : productVid;
+const categoryVid = product.category?.[0] || productVid;
+const vidWord = isPlural ? declensionMapForMore[categoryVid.toLowerCase()] || categoryVid : categoryVid;
                         const variationsText = generateVariationsText(product, 0);
                         let description;
                         if (isPlural) {
