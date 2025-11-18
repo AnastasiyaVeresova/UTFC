@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Тесла СН-709"
+        "Тесла"
     ],
     "name": [
         "Тесла"
@@ -9,7 +9,7 @@
         "кресло"
     ],
     "category": [
-        "поворотное кресло\nсерии комфорт"
+        "поворотное кресло"
     ],
     "destiny": [
         "ежедневной работы в офисных и домашних помещениях"
@@ -27,7 +27,7 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- материал облицовки спинки: сетка (D)<br>\n- материал облицовки сиденья: ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу."
+                "- материал облицовки спинки:<br>сетка (D)<br>\n- материал облицовки сиденья:<br>ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу"
             ],
             "components": [
                 "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
@@ -37,16 +37,15 @@
                 "<strong>Материал</strong> облицовка сиденья: ткань-сетка (Е)",
                 "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основаниюсиденья с помощью винтов",
                 "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Газ-лифт</strong> закрыт телескопическим чехлом",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола. Газ-лифт закрыт телескопическим чехлом",
                 "<strong>Пятилучье</strong> - пластиковое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют открытый пластиковый чехол."
+                "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют открытый пластиковый чехол"
             ]
         }
     ],
     "transportation": [
         {
-            "standard": "",
+            "standard": "ГОСТ 16371-2014",
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
@@ -75,53 +74,61 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/Тесла СН-709_01.png",
-            "chair_view": "../img/armchair_comfort/Тесла СН-709_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/Тесла СН-709.png",
+            "vid_main": "../img/armchair_comfort/tesla_ch_709_pl_bl_e11_d47_01.png",
+            "chair_view": "../img/armchair_comfort/tesla_ch_709_pl_bl_e11_d47_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/tesla_ch_709_pl_bl_e11_d47_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
         {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "width_seat": "",
-            "diameter_cross": "",
-            "runners": ""
+           "chair_height": {
+            "min": 1180,
+            "max": 1280
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 430,
+            "max": 530
+        },
+        "armrest_height_from_seat": {
+            "min": 205,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 600,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 500,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 770
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 620,
+            "max": null
+        },
+        "seat_width": {
+            "max": 495
+        },
+        "diameter_cross": {
+            "max": 700
+        },
+        "runners_width": {
+            "max": ""
+        },
+        "runners_depth": {
+            "max": ""
+        }
         }
     ]
 }
