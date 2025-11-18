@@ -658,7 +658,7 @@
         return;
             }
             // Очищаем имя файла от недопустимых символов
-    const sanitizedProductName = productName.replace(/\//g, '_');
+const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
     const filePath = `../products/${category}/${sanitizedProductName}.json`;
     console.log("Путь к файлу:", filePath);
             fetch(filePath)
