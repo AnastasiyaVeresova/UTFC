@@ -500,7 +500,7 @@
 function createInfoFrame(product, variantIndex) {
     const frame = document.createElement('div');
     frame.className = 'frame info';
-    const productCategory = product.category?.[0] || 'кресло';
+const productCategory = product.category?.[0] || product.vid?.[0] || 'кресло';
     const productVid = product.vid?.[0] || 'кресло';
     const productName = product.name[0] || 'Название отсутствует';
     const allNames = product.name_all || [];
@@ -676,23 +676,23 @@ const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
                     // Заполнение технического блока
                     const technicalBlock = document.querySelector('.technical');
                     if (technicalBlock) {
-                        const productVid = product.vid?.[0] || 'кресло';
-                        const productName = product.name[0] || 'Название отсутствует';
-                        const allNames = product.name_all || [];
-                        const isPlural = allNames.length > 1;
-const categoryVid = product.category?.[0] || productVid;
+const productVid = product.vid?.[0] || 'кресло';
+const productName = product.name[0] || 'Название отсутствует';
+const allNames = product.name_all || [];
+const isPlural = allNames.length > 1;
+const categoryVid = product.category?.[0] || productVid; // <-- Используем категорию, если она есть
 const vidWord = isPlural ? declensionMapForMore[categoryVid.toLowerCase()] || categoryVid : categoryVid;
-                        const variationsText = generateVariationsText(product, 0);
-                        let description;
-                        if (isPlural) {
-                            description = `Настоящее техническое описание распространяется<br>на ${vidWord} ${variationsText}<br><br>`;
-                        } else {
-                            // Проверяем, содержится ли вид в названии (с учётом регистра)
-                            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
-                            const vidPrefix = isVidInName ? '' : `${productVid} `;
-                            description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
-                        }
-                        technicalBlock.innerHTML = description;
+const variationsText = generateVariationsText(product, 0);
+let description;
+if (isPlural) {
+    description = `Настоящее техническое описание распространяется<br>на ${vidWord} ${variationsText}<br><br>`;
+} else {
+    const isVidInName = productName.toLowerCase().includes(categoryVid.toLowerCase());
+    const vidPrefix = isVidInName ? '' : `${categoryVid} `;
+    description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+}
+technicalBlock.innerHTML = description;
+
                     }
 
 
