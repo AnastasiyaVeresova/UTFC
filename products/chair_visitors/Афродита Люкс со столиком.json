@@ -87,8 +87,8 @@
     ],
     "dimensions_details": [
         { "chair_height": {
-            "min": 850,
-            "max": ""
+            "min": null,
+            "max": 850
         },
         "headrest_height": {
             "min": null,
@@ -100,22 +100,22 @@
         },
         "armrest_height_from_seat": {
             "min": null,
-            "max": ""
+            "max": 145
         },
         "chair_depth": {
             "min": null,
-            "max": null
+            "max": 730
         },
         "seat_depth": {
             "min": 440,
             "max": null
         },
         "backrest_height": {
-            "max": null
+            "max": 380
         },
         "backrest_to_seat_height": {
             "min": "",
-            "max": ""
+            "max": 380
         },
         "seat_width_with_armrests": {
             "min": 540,
