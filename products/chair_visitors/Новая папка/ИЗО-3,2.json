@@ -1,0 +1,127 @@
+{
+    "namefile": [
+        "ИЗО-3,2"
+    ],
+    "name_all": [
+        "ИЗО-3,2"
+    ],
+    "name": [
+        "ИЗО-3,2"
+    ],
+    "vid": [
+        "стул"
+    ],
+    "category": [
+        "стул"
+    ],
+    "destiny": [
+        "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                ""
+            ],
+            "components": []
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 750,
+                    "depth": 505,
+                    "height": 410
+                },
+                "box_size": "750x505x410",
+                "transportation": "Для удобства транспортировки и хранения стул поставляется в разобранном виде"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "",
+            "volume": ""
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "../img/chair_visitors/ИЗО-3,2_01.png",
+            "chair_view": "../img/chair_visitors/ИЗО-3,2_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/ИЗО-3,2.png",
+            "box": "../img/box_UTFC.png"
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "height_backrest_seat": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width": {
+                "max": ""
+            },
+            "diameter_cross": {
+                "max": ""
+            },
+            "runners_width": {
+                "max": ""
+            },
+            "runners_depth": {
+                "max": ""
+            }
+        }
+    ]
+}

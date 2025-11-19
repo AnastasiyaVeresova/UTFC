@@ -1,1 +1,1 @@
-const knownProducts = ["Клуб","Клуб 4К","Клуб 4L","Клуб GTS"];
+const knownProducts = ["Клуб","Клуб 4К","Клуб 4L","Клуб GTS","Неон"];
