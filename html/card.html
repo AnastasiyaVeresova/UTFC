@@ -612,6 +612,25 @@ const productCategory = product.category?.[0] || product.vid?.[0] || 'кресл
             return frame;
         }
 
+        // функция склонения для слова "месяц"
+        function declineMonths(months) {
+    const num = parseInt(months);
+    if (isNaN(num)) return 'месяцев';
+    const lastDigit = num % 10;
+    const lastTwoDigits = num % 100;
+    if (lastTwoDigits >= 11 && lastTwoDigits <= 19) {
+        return 'месяцев';
+    }
+    if (lastDigit === 1) {
+        return 'месяц';
+    }
+    if (lastDigit >= 2 && lastDigit <= 4) {
+        return 'месяца';
+    }
+    return 'месяцев';
+}
+
+
         // Функция для создания фрейма изображений и размеров
         function createImageDimensionsFrame(product, variantIndex) {
             const frame = document.createElement('div');
@@ -735,7 +754,7 @@ technicalBlock.innerHTML = description;
                         if (product.guarantee?.[0]) {
                             const g = product.guarantee[0];
                             if (g.period) {
-                                guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} месяцев</strong><br>`;
+guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} ${declineMonths(g.period)}</strong><br>`;
                             } else {
                                 guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: не указан<br>`;
                             }
