@@ -30,15 +30,15 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- материал облицовки спинки и сиденья стула: велюр (Velutto)<br>\n- цвет материала - по каталогу"
+                "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
             ],
             "components": [
-                "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов",
+                "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
                 "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
                 "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный. На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
                 "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
                 "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
-                "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)."
+                "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)"
             ]
         }
     ],
@@ -53,15 +53,15 @@
                     "height": 610
                 },
                 "box_size": "570x510x610",
-                "transportation": "Для удобства транспортировки и хранения стул поставляется в разобранном виде"
+                "transportation": "Для удобства транспортировки и хранения стул поставляется в разобранном виде<br>Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой<br>Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "",
-            "netto": "",
-            "volume": ""
+            "brutto": "9,4",
+            "netto": "8,65",
+            "volume": "0,114"
         }
     ],
     "guarantee": [
@@ -73,62 +73,60 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_visitors/Парма_01.png",
-            "chair_view": "../img/chair_visitors/Парма_02.png",
-            "dimensions": "../img/chair_visitors/dimensions/Парма.png",
+            "vid_main": "../img/chair_visitors/parma_4k_v03_01.png",
+            "chair_view": "../img/chair_visitors/parma_4k_v03_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/parma_4k_v03_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width": {
-                "max": ""
-            },
-            "diameter_cross": {
-                "max": ""
-            },
-            "runners_width": {
-                "max": ""
-            },
-            "runners_depth": {
-                "max": ""
-            }
+        {"chair_height": {
+            "min": 830,
+            "max": ""
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 480,
+            "max": ""
+        },
+        "armrest_height_from_seat": {
+            "min": 250,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 550,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 455,
+            "max": ""
+        },
+        "backrest_height": {
+            "max": 360
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": 540,
+            "max": ""
+        },
+        "seat_width": {
+            "max": 425
+        },
+        "diameter_cross": {
+            "max": ""
+        },
+        "runners_width": {
+            "max": 460
+        },
+        "runners_depth": {
+            "max": 440
+        }
         }
     ]
 }
