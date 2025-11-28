@@ -30,15 +30,15 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "-  тип покрытия каркаса стула: BL, GR где\nBL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>- материал облицовки спинки и сиденья стула: ткань (С, Moderno, D),\nткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+                "- тип покрытия каркаса стула: BL, GR где<br>\nBL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno, D), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
             ],
             "components": [
-                "металлического каркаса, спинки, сиденья, пластиковых заглушек и крепежных элементов",
+                "металлического каркаса, спинки, сиденья, пластиковых заглушек и крепежных элементов. Нерегулируемый",
                 "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием",
                 "<strong>Спинка</strong>, опоры сиденья и ножки изготовлены из стальной трубы круглого сечения Ф20х1,2 мм, перекладина - из стальной трубы круглого сечения Ф16х1,2 мм, пластины - из стального листа толщиной 2 мм",
                 "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска черного илисерого цвета. На опорную поверхность ножек каркаса и на торцы спинки устанавливаются заглушки",
-                "<strong>Спинка</strong> и сиденье состоят из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 24, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепятся к каркасу на 4 самореза",
-                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno, D), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)."
+                "<strong>Спинка и сиденье</strong> состоят из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 24, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепятся к каркасу на 4 самореза",
+                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno, D), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)"
             ]
         }
     ],
@@ -53,15 +53,15 @@
                     "height": ""
                 },
                 "box_size": "",
-                "transportation": "Для удобства транспортировки и хранения стул поставляется в разобранном виде"
+                "transportation": "Для удобства транспортировки и хранения стул поставляется в собранном виде и укладывается в стопку по 15 шт."
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "4,6",
             "netto": "",
-            "volume": ""
+            "volume": "0,05"
         }
     ],
     "guarantee": [
@@ -73,62 +73,60 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_visitors/Стандарт_01.png",
-            "chair_view": "../img/chair_visitors/Стандарт_02.png",
-            "dimensions": "../img/chair_visitors/dimensions/Стандарт.png",
+            "vid_main": "../img/chair_visitors/standart_bl_z71_01.png",
+            "chair_view": "../img/chair_visitors/standart_bl_z71_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/standart_bl_z71_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width": {
-                "max": ""
-            },
-            "diameter_cross": {
-                "max": ""
-            },
-            "runners_width": {
-                "max": ""
-            },
-            "runners_depth": {
-                "max": ""
-            }
+        {"chair_height": {
+            "min": 830,
+            "max": ""
+        },
+        "headrest_height": {
+            "min": null,
+            "max": null
+        },
+        "seat_to_floor_height": {
+            "min": 475,
+            "max": ""
+        },
+        "armrest_height_from_seat": {
+            "min": "",
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 560,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 430,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 395
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": "",
+            "max": null
+        },
+        "seat_width": {
+            "max": 415
+        },
+        "diameter_cross": {
+            "max": null
+        },
+        "runners_width": {
+            "max": 450
+        },
+        "runners_depth": {
+            "max": 520
+        }
         }
     ]
 }
