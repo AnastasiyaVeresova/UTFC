@@ -1,0 +1,1 @@
+const knownProducts = ["EPIK А-177","EPIK Е-201","EPIK Е-212","EPIK Е-222","EPIK К-400","EPIK К-430","EPIK Р-521","EPIK Р-700","EPIK A-001","EPIK A-007","EPIK A-011","EPIK A-112","EPIK A-130","EPIK A-155","EPIK A-181"];
