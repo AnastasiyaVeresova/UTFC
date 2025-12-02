@@ -1,9 +1,9 @@
 {
     "namefile": [
-        "Тесла СН-709 чёрный пластик"
+        "Тесла СН-709 белый пластик"
     ],
     "name": [
-        "Тесла чёрный пластик"
+        "Тесла белый пластик"
     ],
     "vid": [
         "кресло"
@@ -74,9 +74,9 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/tesla_ch_709_pl_bl_e11_d47_01.png",
-            "chair_view": "../img/armchair_comfort/tesla_ch_709_pl_bl_e11_d47_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/tesla_ch_709_pl_bl_e11_d47_01.png",
+            "vid_main": "../img/armchair_comfort/tesla_ch_709_pl_wt_e11_d47_01.png",
+            "chair_view": "../img/armchair_comfort/tesla_ch_709_pl_wt_e11_d47_01.png",
+            "dimensions": "../img/armchair_comfort/dimensions/tesla_ch_709_pl_wt_e11_d47_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],

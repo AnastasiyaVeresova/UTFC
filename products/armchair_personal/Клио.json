@@ -1,6 +1,6 @@
 {
   "namefile": [
-    "Клио"
+    "Клио С-101 Нептун ПВМ хром"
   ],
   "name": [
     "Клио"
@@ -74,7 +74,7 @@
     {
       "vid_main": "../img/armchair_personal/c101_klio_neptun_pvm_ch_e11k_01.png",
       "chair_view": "../img/armchair_personal/c101_klio_neptun_pvm_ch_e11k_02.png",
-      "dimensions": "../img/img/armchair_personal/dimensions/c101_klio_neptun_pvm_ch_e11k_01.png",
+      "dimensions": "../img/armchair_personal/dimensions/c101_klio_neptun_pvm_ch_e11k_01.png",
       "box": "../img/box_UTFC.png"
     }
   ],

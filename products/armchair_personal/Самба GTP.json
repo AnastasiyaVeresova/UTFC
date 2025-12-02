@@ -1,6 +1,6 @@
 {
   "namefile": [
-    "Самба GTP"
+    "Самба GTP пиастра"
   ],
   "name": [
     "Самба GTP"
@@ -85,52 +85,52 @@
   "dimensions_details": [
     {
       "chair_height": {
-        "min": 885,
-        "max": 985
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": 450,
-        "max": 550
-      },
-      "armrest_height_from_seat": {
-        "min": 210,
-        "max": ""
-      },
-      "chair_depth": {
-        "min": 550,
-        "max": null
-      },
-      "seat_depth": {
-        "min": 425,
-        "max": null
-      },
-      "backrest_height": {
-        "max": 465
-      },
-      "backrest_to_seat_height": {
-        "min": null,
-        "max": null
-      },
-      "seat_width_with_armrests": {
-        "min": 540,
-        "max": null
-      },
-      "seat_width": {
-        "max": 445
-      },
-      "diameter_cross": {
-        "max": 600
-      },
-      "runners_width": {
-        "max": null
-      },
-      "runners_depth": {
-        "max": null
-      }
+            "min": 890,
+            "max": 1030
+        },
+        "headrest_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_to_floor_height": {
+            "min": 450,
+            "max": 590
+        },
+        "armrest_height_from_seat": {
+            "min": 210,
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 535,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 425,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 465
+        },
+        "backrest_to_seat_height": {
+            "min": null,
+            "max": null
+        },
+        "seat_width_with_armrests": {
+            "min": 540,
+            "max": null
+        },
+        "seat_width": {
+            "max": 445
+        },
+        "diameter_cross": {
+            "max": 600
+        },
+        "runners_width": {
+            "max": ""
+        },
+        "runners_depth": {
+            "max": ""
+        }
     }
   ]
 }

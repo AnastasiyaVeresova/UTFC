@@ -1,9 +1,9 @@
 {
   "namefile": [
-    "Фигаро GTS К13 пиастра хром"
+    "Фигаро GTS К13 TG_хром"
   ],
   "name": [
-    "Фигаро GTS"
+    "Фигаро GTS TG"
   ],
   "vid": [
     "кресло"
@@ -70,31 +70,31 @@
   ],
   "images": [
     {
-      "vid_main": "../img/armchair_personal/figaro_gts_ch_z11_01.png",
-      "chair_view": "../img/armchair_personal/figaro_gts_ch_z11_02.png",
-      "dimensions": "../img/armchair_personal/dimensions/figaro_gts_ch_z11_01.png",
+      "vid_main": "../img/armchair_personal/figaro_gts_tg_ch_s0422_01.png",
+      "chair_view": "../img/armchair_personal/figaro_gts_tg_ch_s0422_02.png",
+      "dimensions": "../img/armchair_personal/dimensions/figaro_gts_tg_ch_s0422_01.png",
       "box": "../img/box_UTFC.png"
     }
   ],
   "dimensions_details": [
-    { "chair_height": {
+    {  "chair_height": {
             "min": 880,
-            "max": 1000
+            "max": 980
         },
         "headrest_height": {
             "min": "",
             "max": ""
         },
         "seat_to_floor_height": {
-            "min": 460,
-            "max": 580
+            "min": 470,
+            "max": 570
         },
         "armrest_height_from_seat": {
             "min": "",
             "max": ""
         },
         "chair_depth": {
-            "min": 575,
+            "min": 600,
             "max": null
         },
         "seat_depth": {
@@ -119,10 +119,10 @@
             "max": 640
         },
         "runners_width": {
-            "max": ""
+            "max": null
         },
         "runners_depth": {
-            "max": ""
+            "max": null
         }
     }
   ]

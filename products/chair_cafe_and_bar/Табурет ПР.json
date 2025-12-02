@@ -1,12 +1,12 @@
 {
     "namefile": [
-        "Табурет"
+        "Табурет ПР"
     ],
     "name_all": [
         "Табурет"
     ],
     "name": [
-        "Табурет"
+        "Табурет ПР"
     ],
     "vid": [
         "табурет"
@@ -71,8 +71,8 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_cafe_and_bar/taburet_gr_kr_s0413_01.png",
-            "chair_view": "../img/chair_cafe_and_bar/taburet_gr_kr_s0420_02.png",
+            "vid_main": "../img/chair_cafe_and_bar/taburet_gr_pr_s0413_01.png",
+            "chair_view": "../img/chair_cafe_and_bar/taburet_gr_pr_s0420_02.png",
             "dimensions": "../img/chair_cafe_and_bar/dimensions/taburet.png",
             "box": "../img/box_UTFC.png"
         }

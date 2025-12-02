@@ -89,16 +89,16 @@
   "dimensions_details": [
     {
       "chair_height": {
-        "min": 800,
-        "max": 940
+        "min": "",
+        "max": ""
       },
       "headrest_height": {
         "min": "",
         "max": ""
       },
       "seat_to_floor_height": {
-        "min": 430,
-        "max": 570
+        "min": "",
+        "max": ""
       },
       "armrest_height_from_seat": {
         "min": "",
@@ -106,18 +106,18 @@
       },
       "chair_depth": {
         "min": "",
-        "max": 500
+        "max": ""
       },
       "seat_depth": {
         "min": "",
-        "max": 400
+        "max": ""
       },
       "backrest_height": {
         "max": ""
       },
       "backrest_to_seat_height": {
-        "min": 390,
-        "max": 430
+        "min": "",
+        "max": ""
       },
       "seat_width_with_armrests": {
         "min": "",
@@ -127,7 +127,7 @@
         "max": 470
       },
       "diameter_cross": {
-        "max": 580
+        "max": ""
       },
       "runners_width": {
         "max": ""

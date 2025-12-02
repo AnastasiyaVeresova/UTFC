@@ -81,54 +81,52 @@
         }
     ],
     "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "",
-                "max": "810"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "",
-                "max": "490"
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "",
-                "max": "490"
-            },
-            "seat_depth": {
-                "min": "",
-                "max": "410"
-            },
-            "backrest_height": {
-                "min": "",
-                "max": "330"
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": "330"
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
+        {        "chair_height": {
+            "min": 810,
+            "max": ""
+        },
+        "headrest_height": {
+            "min": null,
+            "max": null
+        },
+        "seat_to_floor_height": {
+            "min": 490,
+            "max": ""
+        },
+        "armrest_height_from_seat": {
+            "min": "",
+            "max": ""
+        },
+        "chair_depth": {
+            "min": 490,
+            "max": null
+        },
+        "seat_depth": {
+            "min": 410,
+            "max": null
+        },
+        "backrest_height": {
+            "max": 350
+        },
+        "backrest_to_seat_height": {
+            "min": "",
+            "max": ""
+        },
+        "seat_width_with_armrests": {
+            "min": "",
+            "max": null
+        },
         "seat_width": {
             "max": 370
         },
         "diameter_cross": {
-            "max": null
+            "max": ""
         },
         "runners_width": {
             "max": 440
         },
         "runners_depth": {
-            "max": null
+            "max": 430
         }
         }
     ]
