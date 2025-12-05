@@ -280,6 +280,14 @@
     align-items: center;
 }
 
+.search-icon {
+    position: absolute;
+    right: 8px;
+    color: #999;
+    font-size: 14px;
+    pointer-events: none;
+}
+
 .search-input-container input {
     width: 100%;
     padding: 6px 20px 6px 10px;
@@ -287,14 +295,6 @@
     border-radius: 4px;
     font-size: 12px;
     box-sizing: border-box;
-}
-
-.search-icon {
-    position: absolute;
-    right: 8px;
-    color: #999;
-    font-size: 14px;
-    pointer-events: none;
 }
 
 .filter-header {
