@@ -1,13 +1,16 @@
 {
     "namefile": [
         "Йота М-805 WHITE CH"
-       ],
-        "name_all": [
+    ],
+    "name_all": [
         "Йота",
         "Йота хром"
     ],
     "name": [
         "Йота хром"
+    ],
+    "unique_name": [
+        "Йота М-805 WHITE CH"
     ],
     "vid": [
         "кресло"
@@ -83,53 +86,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": 860,
-            "max": 940
-        },
-        "headrest_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_to_floor_height": {
-            "min": 420,
-            "max": 490
-        },
-        "armrest_height_from_seat": {
-            "min": 200,
-            "max": ""
-        },
-        "chair_depth": {
-            "min": 580,
-            "max": null
-        },
-        "seat_depth": {
-            "min": 440,
-            "max": null
-        },
-        "backrest_height": {
-            "max": 470
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": 565,
-            "max": null
-        },
-        "seat_width": {
-            "max": 480
-        },
-        "diameter_cross": {
-            "max": 640
-        },
-        "runners_width": {
-            "max": ""
-        },
-        "runners_depth": {
-            "max": ""
-        }
+        {
+            "chair_height": {
+                "min": 860,
+                "max": 940
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": 420,
+                "max": 490
+            },
+            "armrest_height_from_seat": {
+                "min": 200,
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 580,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 440,
+                "max": null
+            },
+            "backrest_height": {
+                "max": 470
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": 565,
+                "max": null
+            },
+            "seat_width": {
+                "max": 480
+            },
+            "diameter_cross": {
+                "max": 640
+            },
+            "runners_width": {
+                "max": ""
+            },
+            "runners_depth": {
+                "max": ""
+            }
         }
     ]
 }

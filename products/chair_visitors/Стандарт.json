@@ -8,6 +8,9 @@
     "name": [
         "Стандарт"
     ],
+    "unique_name": [
+        "Стандарт"
+    ],
     "vid": [
         "стул"
     ],
@@ -80,53 +83,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": 830,
-            "max": ""
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": 475,
-            "max": ""
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": 560,
-            "max": null
-        },
-        "seat_depth": {
-            "min": 430,
-            "max": null
-        },
-        "backrest_height": {
-            "max": 395
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": "",
-            "max": null
-        },
-        "seat_width": {
-            "max": 415
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": 450
-        },
-        "runners_depth": {
-            "max": 520
-        }
+        {
+            "chair_height": {
+                "min": 830,
+                "max": ""
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": 475,
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 560,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 430,
+                "max": null
+            },
+            "backrest_height": {
+                "max": 395
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": null
+            },
+            "seat_width": {
+                "max": 415
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": 450
+            },
+            "runners_depth": {
+                "max": 520
+            }
         }
     ]
 }

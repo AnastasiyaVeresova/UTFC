@@ -9,6 +9,9 @@
     "name": [
         "София"
     ],
+    "unique_name": [
+        "София"
+    ],
     "vid": [
         "стул"
     ],
@@ -82,53 +85,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": 890,
-            "max": ""
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": 480,
-            "max": ""
-        },
-        "armrest_height_from_seat": {
-            "min": 190,
-            "max": ""
-        },
-        "chair_depth": {
-            "min": 590,
-            "max": null
-        },
-        "seat_depth": {
-            "min": 440,
-            "max": ""
-        },
-        "backrest_height": {
-            "max": 450
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": 565,
-            "max": null
-        },
-        "seat_width": {
-            "max": 460
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": 540
-        },
-        "runners_depth": {
-            "max": 540
-        }
+        {
+            "chair_height": {
+                "min": 890,
+                "max": ""
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": 480,
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": 190,
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 590,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 440,
+                "max": ""
+            },
+            "backrest_height": {
+                "max": 450
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": 565,
+                "max": null
+            },
+            "seat_width": {
+                "max": 460
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": 540
+            },
+            "runners_depth": {
+                "max": 540
+            }
         }
     ]
 }

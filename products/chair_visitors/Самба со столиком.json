@@ -9,6 +9,9 @@
     "name": [
         "Самба со столиком"
     ],
+    "unique_name": [
+        "Самба со столиком"
+    ],
     "vid": [
         "стул"
     ],
@@ -82,53 +85,54 @@
         }
     ],
     "dimensions_details": [
-        { "chair_height": {
-            "min": 870,
-            "max": ""
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": 470,
-            "max": ""
-        },
-        "armrest_height_from_seat": {
-            "min": 215,
-            "max": ""
-        },
-        "chair_depth": {
-            "min": 745,
-            "max": null
-        },
-        "seat_depth": {
-            "min": 420,
-            "max": null
-        },
-        "backrest_height": {
-            "max": 445
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": 610,
-            "max": null
-        },
-        "seat_width": {
-            "max": 450
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": 600
-        },
-        "runners_depth": {
-            "max": 545
-        }
+        {
+            "chair_height": {
+                "min": 870,
+                "max": ""
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": 470,
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": 215,
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 745,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 420,
+                "max": null
+            },
+            "backrest_height": {
+                "max": 445
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": 610,
+                "max": null
+            },
+            "seat_width": {
+                "max": 450
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": 600
+            },
+            "runners_depth": {
+                "max": 545
+            }
         }
     ]
 }

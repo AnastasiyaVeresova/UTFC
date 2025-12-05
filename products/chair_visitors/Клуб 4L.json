@@ -11,6 +11,9 @@
     "name": [
         "Клуб 4L"
     ],
+    "unique_name": [
+        "Клуб 4L"
+    ],
     "vid": [
         "стул"
     ],
@@ -34,7 +37,6 @@
         {
             "upholstery_materials": [
                 "- тип покрытия каркаса стула: CH (хромовое блестящее), BL (окрашенный, цвет черный)<br>- материал облицовки вставки спинки и сиденья стула: кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
-
             ],
             "components": [
                 "металлического каркаса, спинки-сиденья, пластиковых заглушек и крепежных элементов",
@@ -87,53 +89,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": null,
-            "max": 830
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": null,
-            "max": 475
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": null,
-            "max": 550
-        },
-        "seat_depth": {
-            "min": null,
-            "max": 410
-        },
-        "backrest_height": {
-            "max": null
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": 400
-        },
-        "seat_width_with_armrests": {
-            "min": null,
-            "max": null
-        },
-        "seat_width": {
-            "max": 375
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": 505
-        },
-        "runners_depth": {
-            "max": null
-        }
+        {
+            "chair_height": {
+                "min": null,
+                "max": 830
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": null,
+                "max": 475
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": null,
+                "max": 550
+            },
+            "seat_depth": {
+                "min": null,
+                "max": 410
+            },
+            "backrest_height": {
+                "max": null
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": 400
+            },
+            "seat_width_with_armrests": {
+                "min": null,
+                "max": null
+            },
+            "seat_width": {
+                "max": 375
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": 505
+            },
+            "runners_depth": {
+                "max": null
+            }
         }
     ]
 }

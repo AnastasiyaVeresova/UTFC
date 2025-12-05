@@ -8,6 +8,9 @@
     "name": [
         "Табурет ПР"
     ],
+    "unique_name": [
+        "Табурет ПР"
+    ],
     "vid": [
         "табурет"
     ],
@@ -37,7 +40,8 @@
                 "<strong>Каркас</strong> табурета сварной металлический с защитно-декоративным покрытием. Изготовлен из стальных труб круглого сечения Ф20х1,2 мм",
                 "<strong>Покрытие каркаса:</strong> термореактивная порошковая краска черного или серого цвета, хромовое блестящее. На ножки каркаса устанавливаются заглушки",
                 "<strong>Сиденье</strong> состоит из фанерного вкладыша (10-слойная фанера), мягкого элемента (пенополиуретан, жесткость - 25, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу на 4 самореза",
-                "<strong>Материал</strong> облицовки сиденья: кожзаменитель (Z), экокожа (S,R)"]
+                "<strong>Материал</strong> облицовки сиденья: кожзаменитель (Z), экокожа (S,R)"
+            ]
         }
     ],
     "transportation": [
@@ -78,53 +82,54 @@
         }
     ],
     "dimensions_details": [
-        { "chair_height": {
-            "min": "",
-            "max": ""
-        },
-        "headrest_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_to_floor_height": {
-            "min": 450,
-            "max": ""
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": "",
-            "max": null
-        },
-        "seat_depth": {
-            "min": "",
-            "max": null
-        },
-        "backrest_height": {
-            "max": ""
-        },
-        "backrest_to_seat_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_width_with_armrests": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width": {
-            "max": 325
-        },
-        "diameter_cross": {
-            "max": ""
-        },
-        "runners_width": {
-            "max": 330
-        },
-        "runners_depth": {
-            "max": 330
-        }
+        {
+            "chair_height": {
+                "min": "",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": 450,
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "",
+                "max": null
+            },
+            "backrest_height": {
+                "max": ""
+            },
+            "backrest_to_seat_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width": {
+                "max": 325
+            },
+            "diameter_cross": {
+                "max": ""
+            },
+            "runners_width": {
+                "max": 330
+            },
+            "runners_depth": {
+                "max": 330
+            }
         }
     ]
 }

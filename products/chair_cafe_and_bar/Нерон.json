@@ -8,6 +8,9 @@
     "name": [
         "Нерон"
     ],
+    "unique_name": [
+        "Нерон"
+    ],
     "vid": [
         "стул"
     ],
@@ -80,53 +83,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": 935,
-            "max": 935
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": 480,
-            "max": ""
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": 520,
-            "max": null
-        },
-        "seat_depth": {
-            "min": 435,
-            "max": null
-        },
-        "backrest_height": {
-            "max": 455
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": null,
-            "max": null
-        },
-        "seat_width": {
-            "max": 435
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": 440
-        },
-        "runners_depth": {
-            "max": 520
-        }
+        {
+            "chair_height": {
+                "min": 935,
+                "max": 935
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": 480,
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 520,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 435,
+                "max": null
+            },
+            "backrest_height": {
+                "max": 455
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": null,
+                "max": null
+            },
+            "seat_width": {
+                "max": 435
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": 440
+            },
+            "runners_depth": {
+                "max": 520
+            }
         }
     ]
 }

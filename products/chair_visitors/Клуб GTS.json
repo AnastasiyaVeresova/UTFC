@@ -11,6 +11,9 @@
     "name": [
         "Клуб GTS"
     ],
+    "unique_name": [
+        "Клуб GTS"
+    ],
     "vid": [
         "стул"
     ],
@@ -34,7 +37,6 @@
         {
             "upholstery_materials": [
                 "- тип покрытия каркаса стула: CH (хромовое блестящее), BL (окрашенный, цвет черный)<br>- материал облицовки вставки спинки и сиденья стула: кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
-
             ],
             "components": [
                 "спинки-сиденья, пиастры, газ-лифта, пятилучья и 5-ти роликов",
@@ -46,7 +48,6 @@
                 "<strong>Газ-лифт</strong> хром с высотой подъема 120 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
                 "<strong>Пятилучье</strong> хромированное, d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
                 "<strong>Ролики</strong> черные d=50 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)"
-
             ]
         }
     ],
@@ -88,53 +89,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": 805,
-            "max": 925
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": 370,
-            "max": 490
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": null,
-            "max": 520
-        },
-        "seat_depth": {
-            "min": null,
-            "max": 410
-        },
-        "backrest_height": {
-            "max": null
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": 400
-        },
-        "seat_width_with_armrests": {
-            "min": null,
-            "max": null
-        },
-        "seat_width": {
-            "max": 375
-        },
-        "diameter_cross": {
-            "max": 600
-        },
-        "runners_width": {
-            "max": null
-        },
-        "runners_depth": {
-            "max": null
-        }
+        {
+            "chair_height": {
+                "min": 805,
+                "max": 925
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": 370,
+                "max": 490
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": null,
+                "max": 520
+            },
+            "seat_depth": {
+                "min": null,
+                "max": 410
+            },
+            "backrest_height": {
+                "max": null
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": 400
+            },
+            "seat_width_with_armrests": {
+                "min": null,
+                "max": null
+            },
+            "seat_width": {
+                "max": 375
+            },
+            "diameter_cross": {
+                "max": 600
+            },
+            "runners_width": {
+                "max": null
+            },
+            "runners_depth": {
+                "max": null
+            }
         }
     ]
 }

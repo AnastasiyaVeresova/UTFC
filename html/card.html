@@ -184,6 +184,7 @@
             "поворотное кресло": "поворотные кресла",
             "поворотное кресло серии комфорт":"поворотные кресла серии комфорт",
             "поворотное кресло руководителя":"поворотные кресла руководителя",
+            "поворотное кресло для персонала":"поворотные кресла для персонала",
             "кресло": "кресла",
             "кресло оператора": "кресла оператора",
             "поворотное кресло оператора": "поворотные кресла оператора",
@@ -214,6 +215,8 @@
             "поворотное кресло": "neuter",
             "табурет": "male"
         };
+
+
 
         // Функция для генерации текста о заказе
         function generateOrderText(product, variantIndex = 0) {
@@ -271,15 +274,15 @@
         //   return ` и его ${variationsWord} ${variationsList}`;
         // }
 
+function generateVariationsText(product, currentIndex = 0) {
+    if (!product?.name_all || product.name_all.length <= 1) return product.name_all;
+    const currentName = product.name?.[currentIndex] || product.name_all[currentIndex];
+    // Берем все уникальные имена, исключая дубликаты
+    const uniqueNames = [...new Set(product.name_all)];
+    const namesList = uniqueNames.map(name => `«${name}»`).join(", ");
+    return namesList;
+}
 
-        function generateVariationsText(product, currentIndex = 0) {
-            if (!product?.name_all || product.name_all.length <= 1) return "";
-            const currentName = product.name?.[currentIndex] || product.name_all[currentIndex];
-            const otherNames = product.name_all.filter(name => name !== currentName);
-            const allNames = [currentName, ...otherNames];
-            const namesList = allNames.map(name => `«${name}»`).join(", ");
-            return namesList;
-        }
 
 
 
@@ -679,13 +682,18 @@ const productCategory = product.category?.[0] || product.vid?.[0] || 'кресл
     const urlParams = new URLSearchParams(window.location.search);
     const category = urlParams.get('category');
     const productName = decodeURIComponent(urlParams.get('name'));
-    if (!category || !productName) {
-        alert("Ошибка: не указаны категория или название товара");
-        return;
-            }
+    const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
+
+    // if (!category || !uniqueName) {
+    //     alert("Ошибка: не указаны категория или название товара");
+    //     return;
+    //         }
             // Очищаем имя файла от недопустимых символов
 const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
-    const filePath = `../products/${category}/${sanitizedProductName}.json`;
+const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
+
+    
+const filePath = `../products/${category}/${sanitizedUniqueName}.json`;
     console.log("Путь к файлу:", filePath);
             fetch(filePath)
 
@@ -922,7 +930,8 @@ guaranteeText += `Гарантийный срок эксплуатации пр�
                 }
 
                 const sanitizedName = sanitizeFileName(productNameFile);
-                doc.save(`${sanitizedName}.pdf`);
+                doc.save(`${sanitizeFileName(productNameFile)}.pdf`);
+
 
             } catch (error) {
                 console.error("Ошибка при генерации PDF:", error);

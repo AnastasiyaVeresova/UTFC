@@ -11,6 +11,7 @@
 
        a {
            text-decoration: none;
+
        }
 
        .center {
@@ -18,18 +19,16 @@
            padding-right: calc(50% - $widthSite / 2);
        }
 
-       .sidebar {
-           position: fixed;
-           left: 0;
-           top: 0;
-           width: 220px;
-           height: 100%;
-           //    background-color: $GreenMainColor;
-           padding: 20px;
-           box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-           z-index: 1000;
-
-       }
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 220px;
+    height: 100vh; /* Высота по высоте экрана */
+    overflow-y: auto; /* Вертикальная прокрутка */
+    padding: 12px 20px;
+    z-index: 1000;
+}
 
        .sidebar ul {
            list-style-type: none;
@@ -39,7 +38,7 @@
        }
 
        .sidebar li {
-           margin: 10px 0;
+           margin: 8px 0;
 
        }
 
@@ -68,40 +67,41 @@
        }
 
        h1 {
-           font-size: 22px;
+           font-size: 21px;
            color: $darkMainColorGrey;
            text-transform: uppercase;
            padding-bottom: 20px;
        }
 
+       h3 {
+           font-size: 14px;
+           color: #3D4555;
+           margin-top: 20px;
 
+           margin-bottom: 8px;
+       }
 
 
 
        .filter-block {
-           margin-top: 20px;
-           padding: 10px;
+           margin-top: 11px;
+           padding: 5px;
            border-top: 1px solid #ddd;
-       }
-
-       .filter-block h3 {
-           font-size: 14px;
-           color: #3D4555;
-           margin-bottom: 10px;
+               margin-bottom: 40px;
        }
 
        .range-slider {
            position: relative;
            width: 100%;
-           height: 40px;
-           margin: 10px 0;
-           
+           height: 30px;
+           margin: 8px 0;
+
        }
 
        .range-slider input[type="range"] {
            position: absolute;
            width: 100%;
-           height: 40px;
+           height: 30px;
            pointer-events: none;
            appearance: none;
            -webkit-appearance: none;
@@ -111,8 +111,8 @@
 
        .range-slider input[type="range"]::-webkit-slider-thumb {
            pointer-events: all;
-           width: 10px;
-           height: 10px;
+           width: 8px;
+           height: 8px;
            border-radius: 5%;
            background: #96C22B;
            cursor: pointer;
@@ -122,8 +122,8 @@
 
        .range-slider input[type="range"]::-moz-range-thumb {
            pointer-events: all;
-           width: 20px;
-           height: 20px;
+           width: 15px;
+           height: 15px;
            border-radius: 5%;
            background: #96C22B;
            cursor: pointer;
@@ -131,7 +131,7 @@
 
        .range-track {
            position: absolute;
-           top: 18px;
+           top: 15px;
            left: 0;
            width: 100%;
            height: 4px;
@@ -144,7 +144,8 @@
            display: flex;
            justify-content: space-between;
            align-items: center;
-           margin-top: 5px;
+           margin-top: 4px;
+           margin-bottom: 15px;
        }
 
        .range-values input[type="number"] {
@@ -156,7 +157,7 @@
        }
 
        .range-values span {
-           margin: 0 5px;
+           margin: 0 4px;
        }
 
        .product-tooltip {
@@ -171,70 +172,160 @@
            z-index: 10;
            text-align: right;
            line-height: 1;
+
            // width: 37px;
            // height: 37px;
        }
-.product-tooltip-detailed {
-            display: none;
-            position: absolute;
-            background: rgba(0, 0, 0, 0.8);
-            color: white;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 11px;
-            text-align: left;
-            z-index: 20;
-            pointer-events: none;
-            width: 270px;
-            left: 50%;
-            margin-left: 10px;
-            top: 0;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-            line-height: 1.3;
+
+       .product-tooltip-detailed {
+           display: none;
+           position: absolute;
+           background: rgba(0, 0, 0, 0.8);
+           color: white;
+           padding: 10px;
+           border-radius: 8px;
+           font-size: 11px;
+           text-align: left;
+           z-index: 20;
+           pointer-events: none;
+           width: 270px;
+           left: 50%;
+           margin-left: 35px;
+           top: 0;
+           box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+           line-height: 1.3;
+       }
+
+
+
+       .product-card:hover .product-tooltip-detailed {
+           display: block;
+       }
+
+       // .analytics-block {
+       //     background: #f9f9f9;
+       // }
+       .analytics-header {
+           display: flex;
+           justify-content: space-between;
+           align-items: center;
+           cursor: pointer;
+       }
+
+       .analytics-header h2 {
+           margin: 0;
+           color: var(--dark-main-color);
+       }
+
+       .toggle-button {
+           background: $GreenMainColor;
+           // background: var(--green-main-color);
+           color: $WhiteColor;
+           border: none;
+           padding: 5px 8px;
+           border-radius: 4px;
+           cursor: pointer;
+           margin-bottom: 20px;
+       }
+
+       .analytics-content {
+           width: 100%;
+    transition: max-height 0.3s ease-out, opacity 0.2s ease-out;
+
+           display: block;
+       }
+
+       .analytics-content.hidden {
+           display: none;
+
+       }
+
+       #overallChart {
+           width: 100%;
+           height: 600px;
+       }
+
+       .product-card {
+           position: relative;
+               transition: max-height 0.3s ease-out, opacity 0.2s ease-out;
+
+
+       }
+
+       .checkbox-group {
+           margin-bottom: 2px;
+           // padding-bottom: 5px;
+       }
+
+       .checkbox-group label {
+           display: block;
+           margin: 0.5px 0;
+           cursor: pointer;
+           font-size: 11px;
+
+       }
+
+.checkbox-group input[type="checkbox"]{
+    width: 12px;
+}
+
+/* Блок поиска */
+.search-block {
+    margin-top: 15px;
+}
+
+.search-input-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input-container input {
+    width: 100%;
+    padding: 6px 20px 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+.search-icon {
+    position: absolute;
+    right: 8px;
+    color: #999;
+    font-size: 14px;
+    pointer-events: none;
+}
+
+.filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toggle-filter {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: #3D4555;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-content {
+    transition: max-height 0.3s ease-out, opacity 0.2s ease-out;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0; /* Начальное состояние: прозрачность 0 */
+}
+
+.filter-content.expanded {
+    opacity: 1; /* Видимое состояние */
 }
 
 
-
-        .product-card:hover .product-tooltip-detailed {
-            display: block;
-        }
-        // .analytics-block {
-        //     background: #f9f9f9;
-        // }
-        .analytics-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            cursor: pointer;
-        }
-        .analytics-header h2 {
-            margin: 0;
-            color: var(--dark-main-color);
-        }
-        .toggle-button {
-            background: $GreenMainColor;
-            // background: var(--green-main-color);
-            color: $WhiteColor;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 4px;
-            cursor: pointer;
-            margin-bottom: 20px;
-        }
-        .analytics-content {
-                width: 100%;
-
-            display: block;
-        }
-        .analytics-content.hidden {
-            display: none;
-            
-        }
-        #overallChart {
-            width: 100%;
-            height: 600px;
-        }
- 
-       .product-card {
-           position: relative;
-       }

@@ -9,6 +9,9 @@
     "name": [
         "Венус М"
     ],
+    "unique_name": [
+        "Венус М"
+    ],
     "vid": [
         "стул"
     ],
@@ -19,7 +22,7 @@
         "работы и кратковременного отдыха сидя<br>\nУстанавливается в жилых и административных помещениях<br>\nИзготавливается с мягким элементом сиденья"
     ],
     "technical_requirements": [
-       [
+        [
             "Стул должен соответствовать требованиям:",
             "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
             "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
@@ -83,53 +86,54 @@
         }
     ],
     "dimensions_details": [
-        {"chair_height": {
-            "min": null,
-            "max": null
-        },
-        "headrest_height": {
-            "min": null,
-            "max": null
-        },
-        "seat_to_floor_height": {
-            "min": null,
-            "max": null
-        },
-        "armrest_height_from_seat": {
-            "min": "",
-            "max": ""
-        },
-        "chair_depth": {
-            "min": null,
-            "max": null
-        },
-        "seat_depth": {
-            "min": null,
-            "max": null
-        },
-        "backrest_height": {
-            "max": null
-        },
-        "backrest_to_seat_height": {
-            "min": "",
-            "max": ""
-        },
-        "seat_width_with_armrests": {
-            "min": null,
-            "max": null
-        },
-        "seat_width": {
-            "max": null
-        },
-        "diameter_cross": {
-            "max": null
-        },
-        "runners_width": {
-            "max": null
-        },
-        "runners_depth": {
-            "max": null
-        }
+        {
+            "chair_height": {
+                "min": null,
+                "max": null
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": null,
+                "max": null
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": null,
+                "max": null
+            },
+            "seat_depth": {
+                "min": null,
+                "max": null
+            },
+            "backrest_height": {
+                "max": null
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": null,
+                "max": null
+            },
+            "seat_width": {
+                "max": null
+            },
+            "diameter_cross": {
+                "max": null
+            },
+            "runners_width": {
+                "max": null
+            },
+            "runners_depth": {
+                "max": null
+            }
         }
     ]
 }
