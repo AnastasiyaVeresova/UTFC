@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Престиж б/п овалина/пластик"
+        "Престиж самба овалина/пластик"
     ],
     "name_all": [
         "Престиж CPT",
@@ -9,10 +9,10 @@
         "Престиж Люкс"
     ],
     "name": [
-        "Престиж"
+        "Престиж О"
     ],
     "unique_name": [
-        "Престиж Б_п овалина_пластик"
+        "Престиж самба овалина пластик"
     ],
     "vid": [],
     "category": [
@@ -66,7 +66,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "8,7",
+            "brutto": "12",
             "netto": "",
             "volume": "0,09"
         }
@@ -80,9 +80,9 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_personal/prestig_bp_o_c02_01.png",
-            "chair_view": "../img/armchair_personal/prestig_bp_o_c02_02.png",
-            "dimensions": "../img/armchair_personal/dimensions/prestig_bp_o_c02_01.png",
+            "vid_main": "../img/armchair_personal/prestig_samba_o_c11_01.png",
+            "chair_view": "../img/armchair_personal/prestig_samba_o_c11_02.png",
+            "dimensions": "../img/armchair_personal/dimensions/prestig_samba_o_c11_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
@@ -101,7 +101,7 @@
                 "max": 570
             },
             "armrest_height_from_seat": {
-                "min": "",
+                "min": 195,
                 "max": ""
             },
             "chair_depth": {
@@ -120,7 +120,7 @@
                 "max": ""
             },
             "seat_width_with_armrests": {
-                "min": "",
+                "min": 560,
                 "max": null
             },
             "seat_width": {
