@@ -78,7 +78,7 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_cafe_and_bar/bistro_ch_02.png",
+            "vid_main": "../img/chair_cafe_and_bar/bistro_ch_01.png",
             "chair_view": "../img/chair_cafe_and_bar/bistro_ch_02.png",
             "dimensions": "../img/chair_cafe_and_bar/dimensions/bistro_ch_02.png",
             "box": "../img/box_UTFC.png"
