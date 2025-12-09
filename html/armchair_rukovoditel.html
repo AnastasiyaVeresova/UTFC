@@ -142,7 +142,7 @@
         let currentCard = null;
         let minHeightInput, maxHeightInput, minHeightValue, maxHeightValue;
         let validProducts = [];
-        // let filteredProducts = [];
+        let filteredProducts = [];
 
 
 
@@ -538,12 +538,108 @@
                     console.log("Проверяем товар:", product.unique_name);
 
                     // Проверка по поисковому запросу
-                    if (searchTerm) {
-                        const productName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                        if (!productName.includes(searchTerm)) {
-                            return false;
-                        }
-                    }
+if (searchTerm) {
+    const searchTermLower = searchTerm.toLowerCase();
+
+    // Функция для безопасного получения строки из массива или объекта
+    const getFieldValue = (field) => {
+        if (!field) return '';
+        if (Array.isArray(field)) {
+            return field.join(' ').toLowerCase();
+        } else if (typeof field === 'object') {
+            return Object.values(field).join(' ').toLowerCase();
+        } else {
+            return String(field).toLowerCase();
+        }
+    };
+
+    // Получаем значения текстовых полей
+    const nameFile = getFieldValue(product.namefile);
+    const nameAll = getFieldValue(product.name_all);
+    const name = getFieldValue(product.name);
+    const uniqueName = getFieldValue(product.unique_name);
+    const destiny = getFieldValue(product.destiny);
+
+    // Обработка construction_and_materials
+    let upholsteryMaterials = '';
+    let components = '';
+    if (product.construction_and_materials && product.construction_and_materials.length > 0) {
+        const construction = product.construction_and_materials[0];
+        upholsteryMaterials = getFieldValue(construction.upholstery_materials);
+        components = getFieldValue(construction.components);
+    }
+
+    // Обработка цифровых полей
+    let dimensionsDetails = '';
+    if (product.dimensions_details && product.dimensions_details.length > 0) {
+        const details = product.dimensions_details[0];
+        dimensionsDetails = Object.values(details)
+            .filter(value => value !== null && value !== undefined && value !== '')
+            .map(value => {
+                if (typeof value === 'object') {
+                    return Object.values(value).join(' ');
+                } else {
+                    return String(value);
+                }
+            })
+            .join(' ')
+            .toLowerCase();
+    }
+
+    // Обработка габаритов и веса
+    let dimensions = '';
+    if (product.dimensions && product.dimensions.length > 0) {
+        const dimension = product.dimensions[0];
+        dimensions = Object.values(dimension)
+            .filter(value => value !== null && value !== undefined && value !== '')
+            .join(' ')
+            .toLowerCase();
+    }
+
+    // Обработка гарантии
+    let guaranteeDetails = '';
+    if (product.guarantee && product.guarantee.length > 0) {
+        const guarantee = product.guarantee[0];
+        guaranteeDetails = Object.values(guarantee)
+            .filter(value => value !== null && value !== undefined && value !== '')
+            .join(' ')
+            .toLowerCase();
+    }
+
+    // Обработка транспортировки
+    let transportationDetails = '';
+    if (product.transportation && product.transportation.length > 0) {
+        const transportation = product.transportation[0];
+        transportationDetails = Object.values(transportation)
+            .filter(value => value !== null && value !== undefined && value !== '')
+            .map(value => {
+                if (typeof value === 'object') {
+                    return getFieldValue(value);
+                } else {
+                    return String(value).toLowerCase();
+                }
+            })
+            .join(' ');
+    }
+
+    // Проверяем, содержится ли searchTermLower хотя бы в одном из полей
+    if (
+        !nameFile.includes(searchTermLower) &&
+        !nameAll.includes(searchTermLower) &&
+        !name.includes(searchTermLower) &&
+        !uniqueName.includes(searchTermLower) &&
+        !destiny.includes(searchTermLower) &&
+        !upholsteryMaterials.includes(searchTermLower) &&
+        !components.includes(searchTermLower) &&
+        !dimensionsDetails.includes(searchTermLower) &&
+        !guaranteeDetails.includes(searchTermLower) &&
+        !dimensions.includes(searchTermLower) &&
+        !transportationDetails.includes(searchTermLower)
+    ) {
+        return false;
+    }
+}
+
 
                     // Проверка по высоте
                     const chairHeight = product.dimensions_details?.[0]?.chair_height;
