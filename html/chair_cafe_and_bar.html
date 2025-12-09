@@ -8,10 +8,8 @@
     <link rel="stylesheet" href="../css/style_menu_main.css">
     <link rel="stylesheet" href="../css/card.css">
     <script src="../script/products_lists/chair_cafe_and_bar.js"></script>
-    <!-- Обновленная ссылка на последнюю версию Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
     <title>Стулья для кафе и бара</title>
-
 </head>
 
 <body>
@@ -55,62 +53,65 @@
                 </div>
             </div>
 
-<!-- Подлокотники -->
-<h3 class="filter-header">
-    Подлокотники
-    <button class="toggle-filter" data-target="armrest-filter-content">+</button>
-</h3>
-<div class="filter-content" id="armrest-filter-content">
-    <div class="checkbox-group">
-        <label><input type="checkbox" class="armrest-filter" value="б_п|бп|Б_п"> Без подлокотников</label>
-        <label><input type="checkbox" class="armrest-filter" value="рондо"> Рондо</label>
-        <label><input type="checkbox" class="armrest-filter" value="гольф"> Гольф</label>
-        <label><input type="checkbox" class="armrest-filter" value="нептун"> Нептун</label>
-        <label><input type="checkbox" class="armrest-filter" value="самба"> Самба</label>
-        <label><input type="checkbox" class="armrest-filter" value="соната"> Соната</label>
-        <label><input type="checkbox" class="armrest-filter" value="t-01|t01|T-01|т-01"> T-01</label>
-        <label><input type="checkbox" class="armrest-filter" value="ХДП|хдп"> ХДП</label>
-    </div>
-</div>
+            <!-- Подлокотники -->
+            <h3 class="filter-header">
+                Подлокотники
+                <button class="toggle-filter" data-target="armrest-filter-content">+</button>
+            </h3>
+            <div class="filter-content" id="armrest-filter-content">
+                <div class="checkbox-group">
+                    <label><input type="checkbox" class="armrest-filter" value="б_п|бп|Б_п"> Без подлокотников</label>
+                    <label><input type="checkbox" class="armrest-filter" value="рондо"> Рондо</label>
+                    <label><input type="checkbox" class="armrest-filter" value="гольф"> Гольф</label>
+                    <label><input type="checkbox" class="armrest-filter" value="нептун"> Нептун</label>
+                    <label><input type="checkbox" class="armrest-filter" value="самба"> Самба</label>
+                    <label><input type="checkbox" class="armrest-filter" value="соната"> Соната</label>
+                    <label><input type="checkbox" class="armrest-filter" value="t-01|t01|T-01|т-01"> T-01</label>
+                    <label><input type="checkbox" class="armrest-filter" value="ХДП|хдп"> ХДП</label>
+                </div>
+            </div>
 
-<!-- Конструктив -->
-<h3 class="filter-header">
-    Конструктив
-    <button class="toggle-filter" data-target="mechanism-filter-content">+</button>
-</h3>
-<div class="filter-content" id="mechanism-filter-content">
-    <div class="checkbox-group">
-        <label><input type="checkbox" class="mechanism-filter" value="пиастра"> Пиастра</label>
-        <label><input type="checkbox" class="mechanism-filter" value="TG|tg|тг"> Топ-ган</label>
-        <label><input type="checkbox" class="mechanism-filter" value="GTP|gtp|Gtp|GTS|gts|Gts"> GTP/GTS</label>
-        <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб"> Мультиблок</label>
-        <label><input type="checkbox" class="mechanism-filter" value="ПВМ|пвм"> ПВМ</label>
-        <label><input type="checkbox" class="mechanism-filter" value="CPT|срт"> CPT</label>
-        <label><input type="checkbox" class="mechanism-filter" value=" О | O | о | o |_о_|овалина"> Овалина</label>
-        <label><input type="checkbox" class="mechanism-filter" value="EG|eg"> EG</label>
-        <label><input type="checkbox" class="mechanism-filter" value="Н_п|н_п"> Полозья</label>
-        <label><input type="checkbox" class="mechanism-filter" value="подг"> Подголовник</label>
-        <label><input type="checkbox" class="mechanism-filter" value="стол"> Столик</label>
+            <!-- Конструктив -->
+            <h3 class="filter-header">
+                Конструктив
+                <button class="toggle-filter" data-target="mechanism-filter-content">+</button>
+            </h3>
+            <div class="filter-content" id="mechanism-filter-content">
+                <div class="checkbox-group">
+                    <label><input type="checkbox" class="mechanism-filter" value="пиастра"> Пиастра</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="TG|tg|тг"> Топ-ган</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="GTP|gtp|Gtp|GTS|gts|Gts">
+                        GTP/GTS</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб">
+                        Мультиблок</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="ПВМ|пвм"> ПВМ</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="CPT|срт"> CPT</label>
+                    <label><input type="checkbox" class="mechanism-filter" value=" О | O | о | o |_о_|овалина">
+                        Овалина</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="EG|eg"> EG</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="н_п|н-п|нп|полозья|Н_п">
+                        Полозья</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="подг"> Подголовник</label>
+                    <label><input type="checkbox" class="mechanism-filter" value="стол"> Столик</label>
 
-    </div>
-</div>
+                </div>
+            </div>
 
-<!-- Исполнение -->
-<h3 class="filter-header">
-    Исполнение
-    <button class="toggle-filter" data-target="finish-filter-content">+</button>
-</h3>
-<div class="filter-content" id="finish-filter-content">
-    <div class="checkbox-group">
-        <label><input type="checkbox" class="finish-filter" value="хром| ch "> Хром</label>
-        <label><input type="checkbox" class="finish-filter" value="пластик|pl|ppl"> Пластик</label>
-        <label><input type="checkbox" class="finish-filter" value="дерев"> Дерево</label>
-        <label><input type="checkbox" class="finish-filter" value="бел|white"> Белый</label>
-        <label><input type="checkbox" class="finish-filter" value="черн|black|bl"> Черный</label>
-        <label><input type="checkbox" class="finish-filter" value="сер|grey|gray"> Серый</label>
-    </div>
-</div>
-
+            <!-- Исполнение -->
+            <h3 class="filter-header">
+                Исполнение
+                <button class="toggle-filter" data-target="finish-filter-content">+</button>
+            </h3>
+            <div class="filter-content" id="finish-filter-content">
+                <div class="checkbox-group">
+                    <label><input type="checkbox" class="finish-filter" value="хром| ch| CH| Ch"> Хром</label>
+                    <label><input type="checkbox" class="finish-filter" value="пластик|пластик-люкс|pl|ppl"> Пластик</label>
+                    <label><input type="checkbox" class="finish-filter" value="дерев|дерево"> Дерево</label>
+                    <label><input type="checkbox" class="finish-filter" value="бел|white"> Белый</label>
+                    <label><input type="checkbox" class="finish-filter" value="черн|black|bl"> Черный</label>
+                    <label><input type="checkbox" class="finish-filter" value="сер|grey|gray"> Серый</label>
+                </div>
+            </div>
 
 
         </div>
@@ -140,6 +141,9 @@
         let currentTooltip = null;
         let currentCard = null;
         let minHeightInput, maxHeightInput, minHeightValue, maxHeightValue;
+        let validProducts = [];
+        // let filteredProducts = [];
+
 
 
 
@@ -171,40 +175,40 @@
         }
 
         document.addEventListener('DOMContentLoaded', function () {
-               // Обработчики для кнопок сворачивания/разворачивания блоков фильтров
-document.querySelectorAll('.toggle-filter').forEach(button => {
-    button.addEventListener('click', function() {
-        const targetId = this.getAttribute('data-target');
-        const targetBlock = document.getElementById(targetId);
+            // Обработчики для кнопок сворачивания/разворачивания блоков фильтров
+            document.querySelectorAll('.toggle-filter').forEach(button => {
+                button.addEventListener('click', function () {
+                    const targetId = this.getAttribute('data-target');
+                    const targetBlock = document.getElementById(targetId);
 
-        // Проверяем, свернут ли блок
-        const isHidden = !targetBlock.style.maxHeight || targetBlock.style.maxHeight === '0px' || targetBlock.style.maxHeight === '0';
+                    // Проверяем, свернут ли блок
+                    const isHidden = !targetBlock.style.maxHeight || targetBlock.style.maxHeight === '0px' || targetBlock.style.maxHeight === '0';
 
-        if (isHidden) {
-            // Разворачиваем блок
-            targetBlock.style.maxHeight = targetBlock.scrollHeight + 'px';
-            targetBlock.classList.add('expanded'); // Добавляем класс для анимации
-            this.textContent = '−';
-        } else {
-            // Сворачиваем блок
-            targetBlock.classList.remove('expanded'); // Убираем класс для анимации
-            // Ждем завершения анимации opacity, затем сворачиваем
-            setTimeout(() => {
-                targetBlock.style.maxHeight = '0px';
-            }, 200);
-            this.textContent = '+';
+                    if (isHidden) {
+                        // Разворачиваем блок
+                        targetBlock.style.maxHeight = targetBlock.scrollHeight + 'px';
+                        targetBlock.classList.add('expanded'); // Добавляем класс для анимации
+                        this.textContent = '−';
+                    } else {
+                        // Сворачиваем блок
+                        targetBlock.classList.remove('expanded'); // Убираем класс для анимации
+                        // Ждем завершения анимации opacity, затем сворачиваем
+                        setTimeout(() => {
+                            targetBlock.style.maxHeight = '0px';
+                        }, 200);
+                        this.textContent = '+';
 
-            // Очищаем все чекбоксы в этом блоке
-            const checkboxes = targetBlock.querySelectorAll('input[type="checkbox"]');
-            checkboxes.forEach(checkbox => {
-                checkbox.checked = false;
+                        // Очищаем все чекбоксы в этом блоке
+                        const checkboxes = targetBlock.querySelectorAll('input[type="checkbox"]');
+                        checkboxes.forEach(checkbox => {
+                            checkbox.checked = false;
+                        });
+
+                        // Вызываем фильтрацию
+                        filterProducts();
+                    }
+                });
             });
-
-            // Вызываем фильтрацию
-            filterProducts();
-        }
-    });
-});
 
 
 
@@ -248,20 +252,28 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                         return response.json();
                     })
                     .then(product => {
-                        product.namefile = product.namefile;
-                        products.push(product);
+                        products.push(product); // Добавляем объект товара, а не массив
                     })
                     .catch(error => {
                         console.error(`Ошибка загрузки ${uniqueName}:`, error);
                     });
             });
 
-            let validProducts = [];
+
             Promise.all(promises)
                 .then(() => {
                     // Фильтруем только валидные товары
-                    validProducts = products.filter(p => p && p.unique_name);
-                    console.log("Список validProducts:", validProducts.map(p => p.unique_name));
+                    validProducts = products.filter(p => {
+                        if (!p || !p.unique_name || (Array.isArray(p.unique_name) && p.unique_name.length === 0)) {
+                            console.warn("Товар отсеян на этапе валидации:", p);
+                            return false;
+                        }
+
+                        return true;
+                    });
+
+                    console.log("Список validProducts:", validProducts.map(products => products.unique_name));
+
 
                     // Сортируем
                     validProducts.sort((a, b) => {
@@ -463,30 +475,30 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                             </a>
                         `;
                         productsContainer.appendChild(productCard);
-                        
-// Обработчики событий для каждой карточки
-    productCard.addEventListener('mouseenter', function() {
-        const imgElement = this.querySelector('img');
-        const detailedTooltip = this.querySelector('.product-tooltip-detailed');
-        // Меняем изображение на chair_view
-        const chairViewUrl = product.images?.[0]?.chair_view;
-        if (chairViewUrl && imgElement) {
-            imgElement.src = chairViewUrl;
-        }
 
-    });
+                        // Обработчики событий для каждой карточки
+                        productCard.addEventListener('mouseenter', function () {
+                            const imgElement = this.querySelector('img');
+                            const detailedTooltip = this.querySelector('.product-tooltip-detailed');
+                            // Меняем изображение на chair_view
+                            const chairViewUrl = product.images?.[0]?.chair_view;
+                            if (chairViewUrl && imgElement) {
+                                imgElement.src = chairViewUrl;
+                            }
 
-    productCard.addEventListener('mouseleave', function() {
-        const imgElement = this.querySelector('img');
-        const detailedTooltip = this.querySelector('.product-tooltip-detailed');
-        // Возвращаем исходное изображение (vid_main)
-        const vidMainUrl = product.images?.[0]?.vid_main;
-        if (vidMainUrl && imgElement) {
-            imgElement.src = vidMainUrl;
-        }
+                        });
 
-    });
-                        
+                        productCard.addEventListener('mouseleave', function () {
+                            const imgElement = this.querySelector('img');
+                            const detailedTooltip = this.querySelector('.product-tooltip-detailed');
+                            // Возвращаем исходное изображение (vid_main)
+                            const vidMainUrl = product.images?.[0]?.vid_main;
+                            if (vidMainUrl && imgElement) {
+                                imgElement.src = vidMainUrl;
+                            }
+
+                        });
+
                     });
 
                     if (validProducts.length === 0) {
@@ -499,7 +511,7 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                             updateTooltipPosition(currentCard, currentTooltip);
                         }
                     });
-                    
+
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);
@@ -508,7 +520,6 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
             console.log("Список validProducts:", validProducts.map(p => p.unique_name));
 
             // Функция фильтрации
-            let filteredProducts = [];
 
             function filterProducts() {
                 const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
@@ -519,72 +530,105 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                 const finishFilters = Array.from(document.querySelectorAll('.finish-filter:checked')).map(el => el.value);
 
                 filteredProducts = validProducts.filter(product => {
-                    // Проверка по поисковому запросу
-                    if (searchTerm) {
-                        // Ищем по всему объекту product
-                        const searchMatch = searchInObject(product, searchTerm);
-                        if (!searchMatch) {
-                            return false;
-                        }
+                    console.log("Проверяем товар:", product.unique_name);
+
+                                        // Если нет фильтров, возвращаем true
+                    if (armrestFilters.length === 0 && mechanismFilters.length === 0 && finishFilters.length === 0) {
+                        return true;
                     }
 
-                    // Остальная логика фильтрации (по высоте, подлокотникам, механизмам, исполнению)
+                    // Проверка по высоте
                     const chairHeight = product.dimensions_details?.[0]?.chair_height;
                     if (chairHeight) {
                         const minHeight = parseInt(chairHeight.min) || 0;
-                        const maxHeight = parseInt(chairHeight.max) || 0;
-                        if (!(maxHeight >= min && minHeight <= max)) {
+                        const maxHeight = parseInt(chairHeight.max) || minHeight;
+                        console.log("Высота:", minHeight, "-", maxHeight);
+                        if (maxHeight > max && minHeight < min) {
+                            console.log("Не прошёл по высоте:", product.unique_name);
                             return false;
                         }
+                    } else {
+                        console.log("Нет данных по высоте для товара:", product.unique_name);
                     }
+
+
 
                     // Проверка по подлокотникам
                     if (armrestFilters.length > 0) {
-                        let armrestMatch = false;
+                        let armrestMatch = true; // Начинаем с true, так как нужно совпадение по всем выбранным
                         armrestFilters.forEach(filter => {
+                            let filterMatch = false;
                             const patterns = filter.split('|');
                             patterns.forEach(pattern => {
                                 const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
                                 if (uniqueName.includes(pattern.toLowerCase())) {
-                                    armrestMatch = true;
+                                    filterMatch = true;
                                 }
                             });
+                            if (!filterMatch) {
+                                armrestMatch = false; // Если хотя бы один фильтр не совпал, товар не подходит
+                            }
                         });
-                        if (!armrestMatch) return false;
+                        if (!armrestMatch) {
+                            console.log("Не прошёл по подлокотникам:", product.unique_name);
+                            return false;
+                        }
                     }
 
                     // Проверка по механизмам
                     if (mechanismFilters.length > 0) {
-                        let mechanismMatch = false;
+                        let mechanismMatch = true;
                         mechanismFilters.forEach(filter => {
+                            let filterMatch = false;
                             const patterns = filter.split('|');
                             patterns.forEach(pattern => {
                                 const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
                                 if (uniqueName.includes(pattern.toLowerCase())) {
-                                    mechanismMatch = true;
+                                    filterMatch = true;
                                 }
                             });
+                            if (!filterMatch) {
+                                mechanismMatch = false;
+                            }
                         });
-                        if (!mechanismMatch) return false;
+                        if (!mechanismMatch) {
+                            return false;
+                        }
                     }
 
-                    // Проверка по исполнению
+                     // Проверка по исполнению
                     if (finishFilters.length > 0) {
-                        let finishMatch = false;
+                        let finishMatch = true;
                         finishFilters.forEach(filter => {
+                            let filterMatch = false;
                             const patterns = filter.split('|');
-                            patterns.forEach(pattern => {
-                                const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                                if (uniqueName.includes(pattern.toLowerCase())) {
-                                    finishMatch = true;
-                                }
-                            });
+patterns.forEach(pattern => {
+  // Регулярное выражение для отдельного слова (без дефисов)
+  const regex = new RegExp(`(?:^|\\s)${pattern}(?:$|\\s)`, 'i');
+  const fieldsToCheck = [
+    product.unique_name?.[0]?.toLowerCase(),
+    product.namefile?.[0]?.toLowerCase(),
+    product.name?.[0]?.toLowerCase(),
+  ];
+  fieldsToCheck.forEach(field => {
+    if (field && regex.test(field)) {
+      filterMatch = true;
+    }
+  });
+});
+                            if (!filterMatch) {
+                                finishMatch = false;
+                            }
                         });
-                        if (!finishMatch) return false;
+                        if (!finishMatch) {
+                            return false;
+                        }
                     }
 
                     return true;
                 });
+
+
 
                 // Обновляем видимость карточек
                 const productCards = document.querySelectorAll('.product-card');
@@ -597,15 +641,15 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                     const product = validProducts.find(p => {
                         const pName = Array.isArray(p.unique_name) ? p.unique_name[0].trim().toLowerCase() : p.unique_name.trim().toLowerCase();
                         return pName === cardName;
-                    });
 
+                    });
                     if (!product) {
                         card.style.display = 'none';
                         return;
                     }
 
                     const isFiltered = filteredProducts.some(p => {
-                        const pName = Array.isArray(p.unique_name) ? p.unique_name[0].trim().toLowerCase() : p.unique_name.trim().toLowerCase();
+                        const pName = Array.isArray(p.unique_name) ? p.unique_name[0].toLowerCase() : p.unique_name.toLowerCase();
                         return pName === cardName;
                     });
 
@@ -620,6 +664,8 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
                 if (visibleProductsCount === 0) {
                     productsContainer.insertAdjacentHTML('beforeend', '<p>Товары не найдены. Попробуйте изменить условия фильтрации или поисковый запрос.</p>');
                 }
+                console.log(visibleProductsCount)
+                console.log("Отфильтрованные", filteredProducts)
 
                 // Перестроить график
                 buildOverallChart(filteredProducts);
@@ -642,11 +688,9 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
             }
 
 
-
-
             // Функция для построения диаграммы
             function buildOverallChart(products) {
-                const productNames = products.map(p => p.name[0]);
+                const productNames = products.map(p => p.unique_name[0]);
                 const traces = [];
                 const parameters = [
                     { name: 'Высота кресла (мм)', key: 'chair_height' },
@@ -717,9 +761,8 @@ document.querySelectorAll('.toggle-filter').forEach(button => {
         });
 
 
-        
+
     </script>
 </body>
-
 
 </html>
