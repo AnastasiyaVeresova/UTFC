@@ -81,7 +81,7 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_rukovoditel/atlant_v_ch_01.png",
+            "vid_main": "../img/armchair_rukovoditel/atlant_v_ch_m_02_01.png",
             "chair_view": "../img/armchair_rukovoditel/atlant_v_ch_m_02_02.png",
             "dimensions": "../img/armchair_rukovoditel/dimensions/atlant_v_ch_01.png",
             "box": "../img/box_UTFC.png"
@@ -102,7 +102,7 @@
                 "max": 590
             },
             "armrest_height_from_seat": {
-                "min": 175,
+                "min": 180,
                 "max": ""
             },
             "chair_depth": {
