@@ -80,8 +80,8 @@
     "images": [
         {
             "vid_main": "../img/armchair_rukovoditel/dakota_v_pl_727_lux_s0401_01.png",
-            "chair_view": "../img/armchair_rukovoditel/Дакота СН-251_02.png",
-            "dimensions": "../img/armchair_rukovoditel/dimensions/Дакота СН-251.png",
+            "chair_view": "../img/armchair_rukovoditel/dakota_v_pl_727_lux_s0401_02.png",
+            "dimensions": "../img/armchair_rukovoditel/dimensions/dakota_v_pl_727_01.png",
             "box": "../img/box_UTFC.png"
         }
     ],
