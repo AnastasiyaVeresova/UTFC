@@ -126,9 +126,10 @@
                 <div class="analytics-header">
                     <button class="toggle-button" id="toggleAnalytics">Скрыть общую аналитику</button>
                 </div>
-                <div class="analytics-content" id="analyticsContent">
-                    <div id="overallChart"></div>
+                <div class="analytics-content" id="analyticsContent" style="height: 660px; min-height: 660px;">
+                    <div id="overallChart" style="height: 100%;"></div>
                 </div>
+
             </div>
             <div class="text_dop_info">w+ - ширина с подлокотниками | w - ширина сиденья | d - габаритная глубина | h -
                 высота</div>
@@ -765,8 +766,8 @@ function filterProducts() {
                     { name: 'Ширина сиденья с подлокотниками (мм)', key: 'seat_width_with_armrests' },
                     { name: 'Ширина сиденья (мм)', key: 'seat_width' },
                     { name: 'Диаметр крестовины (мм)', key: 'diameter_cross' },
-                    { name: 'Ширина полозьев (мм)', key: 'runners_width' },
-                    { name: 'Глубина полозьев (мм)', key: 'runners_depth' },
+                    { name: 'Ширина полозьев/ножек (мм)', key: 'runners_width' },
+                    { name: 'Глубина полозьев/ножек (мм)', key: 'runners_depth' },
                     { name: 'Макс. нагрузка (кг)', key: 'max_load', source: 'guarantee' },
                     { name: 'Рекоменд. нагрузка (кг)', key: 'recommended_load', source: 'guarantee' },
                     { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
