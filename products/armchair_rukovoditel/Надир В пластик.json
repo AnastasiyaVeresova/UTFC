@@ -76,7 +76,13 @@
             "volume": "0,364"
         }
     ],
-    "guarantee": [],
+    "guarantee": [
+                {
+            "period": "12",
+            "max_load": "150",
+            "recommended_load": "120"
+        }
+    ],
     "images": [
         {
             "vid_main": "../img/armchair_rukovoditel/nadir_v_pl_m11_01.png",
