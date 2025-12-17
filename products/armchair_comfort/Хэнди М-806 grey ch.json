@@ -1,9 +1,13 @@
 {
     "namefile": [
-        "Хэнди М-806 GRAY CH"
+        "Хэнди М-806 grey ch"
+    ],
+      "name_all": [
+        "Хэнди М-806 grey ch",
+        "Хэнди М-806 black pl"
     ],
     "name": [
-        "Хэнди GRAY CH"
+        "Хэнди grey ch"
     ],
     "unique_name": [
         "Хэнди М-806 grey ch"
@@ -30,7 +34,7 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- исполнение: black pl или grey pl<br>\n- цвет материала отделки"
+                "- цвет материала отделки"
             ],
             "components": [
                 "спинки, сиденья, механизма качания Топ-Ган, газ-лифта, пятилучья, 5-ти роликов и 2-х подлокотников",

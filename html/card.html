@@ -168,11 +168,14 @@
             "табурет": "табурета",
             "стул": "стула",
             "кресло": "кресла",
-            "место": "места",
-                        "поворотное кресло": "поворотного кресла",
-                                    "поворотное кресло серии комфорт":"поворотного кресла серии комфорт",
-                                    "стул складной": "стула складного",
-                                    "конференц-кресло":"конференц-кресла"
+            "место": "места",            
+            "кресло оператора": "кресла оператора",
+            "поворотное кресло": "поворотного кресла",
+            "поворотное кресло серии комфорт":"поворотного кресла серии комфорт",
+            "поворотное кресло оператора":"поворотного кресла оператора",
+            "поворотное кресло руководителя":"поворотного кресла руководителя",
+            "стул складной": "стула складного",
+            "конференц-кресло":"конференц-кресла"
 
 
         };
@@ -240,12 +243,14 @@
             // Если вид не в названии, используем склонённое слово в префиксе
             const vidPrefix = isVidInName ? '' : `${genitiveVid} `;
 
+            // Определяем количество пунктов в orderText
             const itemsCount = (orderText.match(/-.*/g) || []).length;
+            // Глагол согласуем с количеством пунктов
             const verb = itemsCount > 1 ? 'оговариваются' : 'оговаривается';
 
+            // Формируем итоговую строку
             return `<strong>При заказе ${vidPrefix}${displayName} ${verb}:</strong><br>${orderText}`;
         }
-
 
 
 
@@ -510,36 +515,49 @@ function generateVariationsText(product, currentIndex = 0) {
 
 
         // Функция для создания фрейма информации
+// Функция для создания фрейма информации
 function createInfoFrame(product, variantIndex) {
     const frame = document.createElement('div');
     frame.className = 'frame info';
-const productCategory = product.category?.[0] || product.vid?.[0] || 'кресло';
-    const productVid = product.vid?.[0] || 'кресло';
-    const productName = product.name[0] || 'Название отсутствует';
+    const productCategory = product.category?.[variantIndex] || product.vid?.[variantIndex] || 'кресло';
+    const productVid = product.vid?.[variantIndex] || 'кресло';
+    const productName = product.name?.[variantIndex] || 'Название отсутствует';
     const allNames = product.name_all || [];
-    const isPlural = allNames.length > 1;
-    const vidWord = isPlural ? declensionMapForMore[productCategory.toLowerCase()] || 'кресла' : productCategory;
+    const currentName = product.name?.[variantIndex] || '';
+
     // Проверяем, содержится ли вид в названии (с учётом регистра)
-    const isVidInNameSingle = !isPlural && productName.toLowerCase().includes(productCategory.toLowerCase());
-    // Проверяем, содержится ли вид в любом из названий (для множественного числа)
-    const isVidInNamePlural = isPlural && allNames.some(name => name.toLowerCase().includes(vidWord.toLowerCase()));
-    const variationsText = generateVariationsText(product, 0);
-    let description;
-    if (isPlural) {
-        const vidPrefix = isVidInNamePlural ? '' : `${vidWord} `;
-        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}${variationsText}<br><br>`;
-    } else {
-        const vidPrefix = isVidInNameSingle ? '' : `${productCategory} `;
-        description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+    const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+    const vidPrefix = isVidInName ? '' : `${productVid} `;
+
+    // Основной товар
+    let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+
+    // Варианты исполнения (все, кроме текущего)
+    const otherVariations = allNames.filter(name => name !== currentName);
+    if (otherVariations.length > 0) {
+        const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+        description += `Возможны варианты исполнения: ${variationsList}<br><br>`;
     }
+
     frame.innerHTML = `
         <div class="technical">
             ${description}
         </div>
-        <!-- остальной HTML -->
+        <div class="description">
+            <div id="productDescription"></div>
+            <div class="order-text"></div><br>
+            <div class="subtitle" style="top: 300px;">1. Технические требования</div>
+            <div class="green_square">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B" />
+                </svg>
+            </div>
+            <div id="technicalRequirements"></div>
+        </div>
     `;
     return frame;
 }
+
 
 
 
@@ -694,44 +712,46 @@ const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
 
     
 const filePath = `../products/${category}/${sanitizedUniqueName}.json`;
-    console.log("Путь к файлу:", filePath);
-            fetch(filePath)
+console.log("Путь к файлу:", filePath);
+fetch(filePath)
+    .then(response => {
+        if (!response.ok) throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
+        return response.json();
+    })
+    .then(product => {
+        if (!product) throw new Error("Данные о товаре отсутствуют");
+        productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
 
+        // Заполнение данных для основного товара
+        fillProductFields(product, 0);
 
+        // Заполнение технического блока
+        const technicalBlock = document.querySelector('.technical');
+        if (technicalBlock) {
+            const productVid = product.vid?.[0] || 'кресло';
+            const productName = product.name?.[0] || 'Название отсутствует';
+            const allNames = product.name_all || [];
+            const currentName = product.name?.[0] || '';
 
-                .then(response => {
-                    if (!response.ok) throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
-                    return response.json();
-                })
-                .then(product => {
-                    if (!product) throw new Error("Данные о товаре отсутствуют");
-                    productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
+            // Проверяем, содержится ли вид в названии (с учётом регистра)
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            const vidPrefix = isVidInName ? '' : `${productVid} `;
 
-                    // Заполнение данных для основного товара
-                    fillProductFields(product, 0);
+            // Основной товар
+            let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
 
-                    // Заполнение технического блока
-                    const technicalBlock = document.querySelector('.technical');
-                    if (technicalBlock) {
-const productVid = product.vid?.[0] || 'кресло';
-const productName = product.name[0] || 'Название отсутствует';
-const allNames = product.name_all || [];
-const isPlural = allNames.length > 1;
-const categoryVid = product.category?.[0] || productVid; // <-- Используем категорию, если она есть
-const vidWord = isPlural ? declensionMapForMore[categoryVid.toLowerCase()] || categoryVid : categoryVid;
-const variationsText = generateVariationsText(product, 0);
-let description;
-if (isPlural) {
-    description = `Настоящее техническое описание распространяется<br>на ${vidWord} ${variationsText}<br><br>`;
-} else {
-    const isVidInName = productName.toLowerCase().includes(categoryVid.toLowerCase());
-    const vidPrefix = isVidInName ? '' : `${categoryVid} `;
-    description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
-}
-technicalBlock.innerHTML = description;
+            // Варианты исполнения (все, кроме текущего)
+            const otherVariations = allNames.filter(name => name !== currentName);
+            if (otherVariations.length > 0) {
+                const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+                // Склоняем слово "вариант" и согласуем глагол
+                const variantWord = otherVariations.length === 1 ? "вариант" : "варианты";
+                const verbWord = otherVariations.length === 1 ? "Возможен" : "Возможны";
+                description += `${verbWord} ${variantWord} исполнения: ${variationsList}<br><br>`;
+            }
 
-                    }
-
+            technicalBlock.innerHTML = description;
+        }
 
 
 
