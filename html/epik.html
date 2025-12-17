@@ -53,7 +53,7 @@
         <strong>Поиск</strong><br><br>
         Увидим все карточки, в описании которых присутствуют <strong>ВСЕ</strong> введенные слова<br>
         Можно вводить несколько значений через запятую<br>
-        Например: люкс, топ, черный<br><br><hr><br>
+        Например: мультиблок, экокожа<br><br><hr><br>
         <strong>Подлокотники +<br>Конструктив +<br>Исполнение +</strong><br><br>
         Увидим только те карточки, в наименовании которых (как в "Таблице с размерами (для внутреннего пользования).xlsx") есть <strong>ВСЕ</strong> выбранные позиции<br><br><br><hr><br>
         &#10024; Если вы нашли ошибку или не видите соответствующего желаемого в выдаче, просим сообщить в отдел маркетинга, поправим &#128522;
@@ -581,59 +581,47 @@ function filterProducts() {
     if (armrestFilters.length === 0 && mechanismFilters.length === 0 && finishFilters.length === 0) {
         filteredProducts = [...validProducts];
     } else {
-        // Иначе фильтруем по активным чекбоксам
         filteredProducts = validProducts.filter(product => {
+            let armrestMatch = armrestFilters.length === 0;
+            let mechanismMatch = mechanismFilters.length === 0;
+            let finishMatch = finishFilters.length === 0;
+
             // Проверка по подлокотникам (должно соответствовать всем выбранным)
             if (armrestFilters.length > 0) {
-                let armrestMatch = true;
-                armrestFilters.forEach(filter => {
+                armrestMatch = armrestFilters.every(filter => {
                     const patterns = filter.split('|');
                     const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                    if (!patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()))) {
-                        armrestMatch = false;
-                    }
+                    return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
                 });
-                if (!armrestMatch) {
-                    return false;
-                }
             }
 
-            // Проверка по механизмам (должно соответствовать всем выбранным)
+            // Проверка по механизмам (должно соответствовать хотя бы одному выбранному)
             if (mechanismFilters.length > 0) {
-                let mechanismMatch = true;
-                mechanismFilters.forEach(filter => {
+                mechanismMatch = mechanismFilters.some(filter => {
                     const patterns = filter.split('|');
                     const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                    if (!patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()))) {
-                        mechanismMatch = false;
-                    }
+                    return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
                 });
-                if (!mechanismMatch) {
-                    return false;
-                }
             }
 
-            // Проверка по исполнению (должно соответствовать всем выбранным)
+            // Проверка по исполнению (должно соответствовать хотя бы одному выбранному)
             if (finishFilters.length > 0) {
-                let finishMatch = true;
-                finishFilters.forEach(filter => {
+                finishMatch = finishFilters.some(filter => {
                     const patterns = filter.split('|');
-                    const regex = new RegExp(`(?:^|\\s)(${patterns.join('|')})(?:$|\\s)`, 'i');
                     const fieldsToCheck = [
                         product.unique_name?.[0]?.toLowerCase(),
                         product.namefile?.[0]?.toLowerCase(),
                         product.name?.[0]?.toLowerCase(),
                     ];
-                    if (!fieldsToCheck.some(field => field && regex.test(field))) {
-                        finishMatch = false;
-                    }
+                    return fieldsToCheck.some(field =>
+                        field && patterns.some(pattern =>
+                            field.includes(pattern.toLowerCase())
+                        )
+                    );
                 });
-                if (!finishMatch) {
-                    return false;
-                }
             }
 
-            return true;
+            return armrestMatch && mechanismMatch && finishMatch;
         });
     }
 
