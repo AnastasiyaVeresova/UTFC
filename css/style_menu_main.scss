@@ -280,12 +280,46 @@
     align-items: center;
 }
 
+#searchInput {
+    padding-right: 30px; /* Отступ для иконки */
+    width: 100%;
+    font-size: 11.3px;
+}
+
+.search-tooltip {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 10.5px;
+    color: #333;
+    white-space: normal; /* Разрешаем перенос строк */
+    word-wrap: break-word; /* Переносим длинные слова */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 9000;
+    display: none;
+    width: 200px;
+    line-height: 1.3;
+        max-height: 400px;
+    overflow: auto;
+}
+.search-input-container:hover .search-tooltip {
+    display: block;
+}
+
+
 .search-icon {
     position: absolute;
+    
     right: 8px;
     color: #999;
     font-size: 14px;
-    pointer-events: none;
+    top: 50%;
+    transform: translateY(-50%); /* Центрирование по вертикали */
+    pointer-events: none; /* Чтобы клики проходили сквозь иконку */
 }
 
 .search-input-container input {
