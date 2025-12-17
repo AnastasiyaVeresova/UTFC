@@ -652,18 +652,20 @@ if (searchTerms.length > 0) {
     }
 
     // Дальше фильтруем по высоте
-    if (!(min === minSliderValue && max === maxSliderValue)) {
-        filteredProducts = filteredProducts.filter(product => {
-            const chairHeight = product.dimensions_details?.[0]?.chair_height;
-            if (chairHeight) {
-                const minHeight = parseInt(chairHeight.min) || 0;
-                const maxHeight = parseInt(chairHeight.max) || minHeight;
-                return !(maxHeight < min || minHeight > max);
-            } else {
-                return false;
-            }
-        });
-    }
+if (!(min === minSliderValue && max === maxSliderValue)) {
+    filteredProducts = filteredProducts.filter(product => {
+        const chairHeight = product.dimensions_details?.[0]?.chair_height;
+        if (chairHeight) {
+            const minHeight = parseInt(chairHeight.min) || 0;
+            const maxHeight = parseInt(chairHeight.max) || minHeight;
+            // Проверяем, что ВСЯ высота кресла (от min до max) попадает в заданный диапазон
+            return minHeight >= min && maxHeight <= max;
+        } else {
+            return false;
+        }
+    });
+}
+
 
     // Обновляем видимость карточек
     const productCards = document.querySelectorAll('.product-card');
