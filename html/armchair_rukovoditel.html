@@ -493,7 +493,7 @@
             <div class="product-tooltip-detailed">${detailedTooltipText}</div>
             <img src="${product.images?.[0]?.vid_main || ''}" alt="${uniqueName}">
             <a href="card.html?category=armchair_rukovoditel&name=${encodeURIComponent(productName)}&unique_name=${encodeURIComponent(formattedUniqueName)}">
-                ${formattedUniqueName}
+                ${uniqueName}
             </a>
         `;
         productsContainer.appendChild(productCard);
