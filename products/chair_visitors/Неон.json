@@ -57,7 +57,7 @@
                     "height": ""
                 },
                 "box_size": "",
-                "transportation": "Для удобства транспортировки и хранения стул поставляется в собранном виде<br>Упаковка производится по 15 шт. в стопку, которая оборачивается стрейч-пленкой; по 2 стопки на поддоне"
+                "transportation": "удобства транспортировки и хранения стул поставляется в собранном виде<br>Упаковка производится по 15 шт. в стопку, которая оборачивается стрейч-пленкой; по 2 стопки на поддоне"
             }
         }
     ],
@@ -80,7 +80,7 @@
             "vid_main": "../img/chair_visitors/neon_ch_z11_01.png",
             "chair_view": "../img/chair_visitors/neon_ch_z11_02.png",
             "dimensions": "../img/chair_visitors/dimensions/neon_ch_z11_01.png",
-            "box": "../img/box_UTFC.png"
+            "box": "../img/box_0.png"
         }
     ],
     "dimensions_details": [

@@ -56,7 +56,7 @@
                     "height": ""
                 },
                 "box_size": "",
-                "transportation": "Для удобства транспортировки и хранения стул поставляется в разобранном виде<br>\n<strong>Упаковка каркасов:</strong><br>\nпо 4 шт. оборачиваются стрейч-пленкой<br>\n64 шт. на паллете<br>\n<strong>Сиденья и крепежные изделия</strong> упаковываются отдельно<br>\nпо 16 комплектов в гофрокороб"
+                "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>\n<strong>Упаковка каркасов:</strong><br>\nпо 4 шт. оборачиваются стрейч-пленкой<br>\n64 шт. на паллете<br>\n<strong>Сиденья и крепежные изделия</strong> упаковываются отдельно<br>\nпо 16 комплектов в гофрокороб"
             }
         }
     ],
@@ -79,7 +79,7 @@
             "vid_main": "../img/chair_cafe_and_bar/marko_ch_01.png",
             "chair_view": "../img/chair_cafe_and_bar/marko_ch_02.png",
             "dimensions": "../img/chair_cafe_and_bar/dimensions/marko_ch_01.png",
-            "box": "../img/box_UTFC.png"
+            "box": "../img/box_0.png"
         }
     ],
     "dimensions_details": [

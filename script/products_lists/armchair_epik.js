@@ -1,1 +1,1 @@
-const knownProducts = ["Epik А-001-MB","EPIK А-007-G","EPIK А-011-G","EPIK A-112-G","EPIK A-130-G","EPIK A-155-G","EPIK A-177-G","EPIK A-181-G","EPIK E-201-G","EPIK E-212-G","EPIK E-222-MB","EPIK K-400-CH","EPIK K-430-CH","EPIK P-521-SB","EPIK P-700"];
+const knownProducts = ["Epik а-001-mb","Epik а-007-g","Epik а-011-g","Epik a-112-g","Epik a-130-g","Epik a-155-g","Epik a-177-g","Epik a-181-g","Epik e-201-g","Epik e-212-g","Epik e-222-mb","Epik k-400-ch","Epik k-430-ch","Epik p-521-sb","Epik p-700"];
