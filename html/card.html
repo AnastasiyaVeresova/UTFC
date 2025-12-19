@@ -159,8 +159,8 @@
             "место": "места",
             "поворотное кресло оператора": "кресла",
             "табурет": "табурета",
-            "стул складной":"стула складного",
-            "конференц-кресло":"конференц-кресла"
+            "стул складной": "стула складного",
+            "конференц-кресло": "конференц-кресла"
         };
         // Словарь склонений для имён
 
@@ -168,14 +168,14 @@
             "табурет": "табурета",
             "стул": "стула",
             "кресло": "кресла",
-            "место": "места",            
+            "место": "места",
             "кресло оператора": "кресла оператора",
             "поворотное кресло": "поворотного кресла",
-            "поворотное кресло серии комфорт":"поворотного кресла серии комфорт",
-            "поворотное кресло оператора":"поворотного кресла оператора",
-            "поворотное кресло руководителя":"поворотного кресла руководителя",
+            "поворотное кресло серии комфорт": "поворотного кресла серии комфорт",
+            "поворотное кресло оператора": "поворотного кресла оператора",
+            "поворотное кресло руководителя": "поворотного кресла руководителя",
             "стул складной": "стула складного",
-            "конференц-кресло":"конференц-кресла"
+            "конференц-кресло": "конференц-кресла"
 
 
         };
@@ -185,17 +185,17 @@
 
             "стул": "стулья",
             "поворотное кресло": "поворотные кресла",
-            "поворотное кресло серии комфорт":"поворотные кресла серии комфорт",
-            "поворотное кресло руководителя":"поворотные кресла руководителя",
-            "поворотное кресло для персонала":"поворотные кресла для персонала",
+            "поворотное кресло серии комфорт": "поворотные кресла серии комфорт",
+            "поворотное кресло руководителя": "поворотные кресла руководителя",
+            "поворотное кресло для персонала": "поворотные кресла для персонала",
             "кресло": "кресла",
             "кресло оператора": "кресла оператора",
             "поворотное кресло оператора": "поворотные кресла оператора",
             "место": "места",
             "табурет": "табуреты",
             "стул складной": "стулья складные",
-            "конференц-кресло":"конференц-кресла"
-                        
+            "конференц-кресло": "конференц-кресла"
+
 
         };
 
@@ -205,7 +205,7 @@
             "кресло оператора": "кресло",
             "поворотное кресло оператора": "кресло оператора",
             "табурет": "",
-           "поворотное кресло": "поворотное кресло"
+            "поворотное кресло": "поворотное кресло"
 
 
         };
@@ -279,14 +279,14 @@
         //   return ` и его ${variationsWord} ${variationsList}`;
         // }
 
-function generateVariationsText(product, currentIndex = 0) {
-    if (!product?.name_all || product.name_all.length <= 1) return product.name_all;
-    const currentName = product.name?.[currentIndex] || product.name_all[currentIndex];
-    // Берем все уникальные имена, исключая дубликаты
-    const uniqueNames = [...new Set(product.name_all)];
-    const namesList = uniqueNames.map(name => `«${name}»`).join(", ");
-    return namesList;
-}
+        function generateVariationsText(product, currentIndex = 0) {
+            if (!product?.name_all || product.name_all.length <= 1) return product.name_all;
+            const currentName = product.name?.[currentIndex] || product.name_all[currentIndex];
+            // Берем все уникальные имена, исключая дубликаты
+            const uniqueNames = [...new Set(product.name_all)];
+            const namesList = uniqueNames.map(name => `«${name}»`).join(", ");
+            return namesList;
+        }
 
 
 
@@ -515,31 +515,31 @@ function generateVariationsText(product, currentIndex = 0) {
 
 
         // Функция для создания фрейма информации
-// Функция для создания фрейма информации
-function createInfoFrame(product, variantIndex) {
-    const frame = document.createElement('div');
-    frame.className = 'frame info';
-    const productCategory = product.category?.[variantIndex] || product.vid?.[variantIndex] || 'кресло';
-    const productVid = product.vid?.[variantIndex] || 'кресло';
-    const productName = product.name?.[variantIndex] || 'Название отсутствует';
-    const allNames = product.name_all || [];
-    const currentName = product.name?.[variantIndex] || '';
+        // Функция для создания фрейма информации
+        function createInfoFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame info';
+            const productCategory = product.category?.[variantIndex] || product.vid?.[variantIndex] || 'кресло';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || 'Название отсутствует';
+            const allNames = product.name_all || [];
+            const currentName = product.name?.[variantIndex] || '';
 
-    // Проверяем, содержится ли вид в названии (с учётом регистра)
-    const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
-    const vidPrefix = isVidInName ? '' : `${productVid} `;
+            // Проверяем, содержится ли вид в названии (с учётом регистра)
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            const vidPrefix = isVidInName ? '' : `${productVid} `;
 
-    // Основной товар
-    let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+            // Основной товар
+            let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
 
-    // Варианты исполнения (все, кроме текущего)
-    const otherVariations = allNames.filter(name => name !== currentName);
-    if (otherVariations.length > 0) {
-        const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
-        description += `Возможны варианты исполнения: ${variationsList}<br><br>`;
-    }
+            // Варианты исполнения (все, кроме текущего)
+            const otherVariations = allNames.filter(name => name !== currentName);
+            if (otherVariations.length > 0) {
+                const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+                description += `Возможны варианты исполнения: ${variationsList}<br><br>`;
+            }
 
-    frame.innerHTML = `
+            frame.innerHTML = `
         <div class="technical">
             ${description}
         </div>
@@ -555,8 +555,8 @@ function createInfoFrame(product, variantIndex) {
             <div id="technicalRequirements"></div>
         </div>
     `;
-    return frame;
-}
+            return frame;
+        }
 
 
 
@@ -645,21 +645,21 @@ function createInfoFrame(product, variantIndex) {
 
         // функция склонения для слова "месяц"
         function declineMonths(months) {
-    const num = parseInt(months);
-    if (isNaN(num)) return 'месяцев';
-    const lastDigit = num % 10;
-    const lastTwoDigits = num % 100;
-    if (lastTwoDigits >= 11 && lastTwoDigits <= 19) {
-        return 'месяцев';
-    }
-    if (lastDigit === 1) {
-        return 'месяц';
-    }
-    if (lastDigit >= 2 && lastDigit <= 4) {
-        return 'месяца';
-    }
-    return 'месяцев';
-}
+            const num = parseInt(months);
+            if (isNaN(num)) return 'месяцев';
+            const lastDigit = num % 10;
+            const lastTwoDigits = num % 100;
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 19) {
+                return 'месяцев';
+            }
+            if (lastDigit === 1) {
+                return 'месяц';
+            }
+            if (lastDigit >= 2 && lastDigit <= 4) {
+                return 'месяца';
+            }
+            return 'месяцев';
+        }
 
 
         // Функция для создания фрейма изображений и размеров
@@ -697,61 +697,61 @@ function createInfoFrame(product, variantIndex) {
         let productNameFile = '';
         // Основной код загрузки
         document.addEventListener('DOMContentLoaded', function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const category = urlParams.get('category');
-    const productName = decodeURIComponent(urlParams.get('name'));
-    const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
+            const urlParams = new URLSearchParams(window.location.search);
+            const category = urlParams.get('category');
+            const productName = decodeURIComponent(urlParams.get('name'));
+            const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
 
-    // if (!category || !uniqueName) {
-    //     alert("Ошибка: не указаны категория или название товара");
-    //     return;
-    //         }
+            // if (!category || !uniqueName) {
+            //     alert("Ошибка: не указаны категория или название товара");
+            //     return;
+            //         }
             // Очищаем имя файла от недопустимых символов
-const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
-const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
+            const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
+            const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
 
-    
-const filePath = `../products/${category}/${sanitizedUniqueName}.json`;
-console.log("Путь к файлу:", filePath);
-fetch(filePath)
-    .then(response => {
-        if (!response.ok) throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
-        return response.json();
-    })
-    .then(product => {
-        if (!product) throw new Error("Данные о товаре отсутствуют");
-        productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
 
-        // Заполнение данных для основного товара
-        fillProductFields(product, 0);
+            const filePath = `../products/${category}/${sanitizedUniqueName}.json`;
+            console.log("Путь к файлу:", filePath);
+            fetch(filePath)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
+                    return response.json();
+                })
+                .then(product => {
+                    if (!product) throw new Error("Данные о товаре отсутствуют");
+                    productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
 
-        // Заполнение технического блока
-        const technicalBlock = document.querySelector('.technical');
-        if (technicalBlock) {
-            const productVid = product.vid?.[0] || 'кресло';
-            const productName = product.name?.[0] || 'Название отсутствует';
-            const allNames = product.name_all || [];
-            const currentName = product.name?.[0] || '';
+                    // Заполнение данных для основного товара
+                    fillProductFields(product, 0);
 
-            // Проверяем, содержится ли вид в названии (с учётом регистра)
-            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
-            const vidPrefix = isVidInName ? '' : `${productVid} `;
+                    // Заполнение технического блока
+                    const technicalBlock = document.querySelector('.technical');
+                    if (technicalBlock) {
+                        const productVid = product.vid?.[0] || 'кресло';
+                        const productName = product.name?.[0] || 'Название отсутствует';
+                        const allNames = product.name_all || [];
+                        const currentName = product.name?.[0] || '';
 
-            // Основной товар
-            let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+                        // Проверяем, содержится ли вид в названии (с учётом регистра)
+                        const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+                        const vidPrefix = isVidInName ? '' : `${productVid} `;
 
-            // Варианты исполнения (все, кроме текущего)
-            const otherVariations = allNames.filter(name => name !== currentName);
-            if (otherVariations.length > 0) {
-                const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
-                // Склоняем слово "вариант" и согласуем глагол
-                const variantWord = otherVariations.length === 1 ? "вариант" : "варианты";
-                const verbWord = otherVariations.length === 1 ? "Возможен" : "Возможны";
-                description += `${verbWord} ${variantWord} исполнения: ${variationsList}<br><br>`;
-            }
+                        // Основной товар
+                        let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
 
-            technicalBlock.innerHTML = description;
-        }
+                        // Варианты исполнения (все, кроме текущего)
+                        const otherVariations = allNames.filter(name => name !== currentName);
+                        if (otherVariations.length > 0) {
+                            const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+                            // Склоняем слово "вариант" и согласуем глагол
+                            const variantWord = otherVariations.length === 1 ? "вариант" : "варианты";
+                            const verbWord = otherVariations.length === 1 ? "Возможен" : "Возможны";
+                            description += `${verbWord} ${variantWord} исполнения: ${variationsList}<br><br>`;
+                        }
+
+                        technicalBlock.innerHTML = description;
+                    }
 
 
 
@@ -792,7 +792,7 @@ fetch(filePath)
                         if (product.guarantee?.[0]) {
                             const g = product.guarantee[0];
                             if (g.period) {
-guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} ${declineMonths(g.period)}</strong><br>`;
+                                guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} ${declineMonths(g.period)}</strong><br>`;
                             } else {
                                 guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: не указан<br>`;
                             }
