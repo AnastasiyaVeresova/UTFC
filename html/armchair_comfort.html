@@ -485,16 +485,18 @@
     ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
     ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
 `;
-                        const productCard = document.createElement('div');
-                        productCard.className = 'product-card';
-                        productCard.innerHTML = `
-                            <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextWidthSit}<br>${tooltipTextDepth}<br>${tooltipText}</div>
-                            <div class="product-tooltip-detailed">${detailedTooltipText}</div>
-                            <img src="${product.images?.[0]?.vid_main || ''}" alt="${uniqueName}">
-                            <a href="card.html?category=armchair_comfort&name=${encodeURIComponent(productName)}&unique_name=${encodeURIComponent(uniqueName)}">
-                                ${uniqueName}
-                            </a>
-                        `;
+        const formattedUniqueName = formatProductName(uniqueName);
+        const productCard = document.createElement('div');
+        productCard.className = 'product-card';
+        productCard.innerHTML = `
+            <div class="product-tooltip">${tooltipTextWidth}<br>${tooltipTextWidthSit}<br>${tooltipTextDepth}<br>${tooltipText}</div>
+            <div class="product-tooltip-detailed">${detailedTooltipText}</div>
+            <img src="${product.images?.[0]?.vid_main || ''}" alt="${uniqueName}">
+            <a href="card.html?category=armchair_comfort&name=${encodeURIComponent(productName)}&unique_name=${encodeURIComponent(formattedUniqueName)}">
+                ${formattedUniqueName}
+            </a>
+        `;
+        productsContainer.appendChild(productCard);
                         productsContainer.appendChild(productCard);
 
                         // Обработчики событий для каждой карточки
@@ -542,6 +544,11 @@
             // console.log("Список validProducts:", validProducts.map(p => p.unique_name));
             // Если нет фильтров, возвращаем true
 
+
+function formatProductName(name) {
+    if (!name) return '';
+    return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+}
             //Функция транслитерации
             function transliterate(word) {
                 const latinToCyrillic = {
