@@ -74,10 +74,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/sanda_m_207_pl_grey_grey_01.png",
-            "chair_view": "../img/armchair_comfort/sanda_m_207_pl_grey_grey_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/sanda_m_207_pl_grey_grey_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/sanda_m_207_pl_grey_grey_01.png",
+            "chair_view": "img/armchair_comfort/sanda_m_207_pl_grey_grey_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/sanda_m_207_pl_grey_grey_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

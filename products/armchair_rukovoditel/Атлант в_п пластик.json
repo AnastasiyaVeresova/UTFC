@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_rukovoditel/atlant_vp_pl_01.png",
-            "chair_view": "../img/armchair_rukovoditel/atlant_vp_pl_02.png",
-            "dimensions": "../img/armchair_rukovoditel/dimensions/atlant_vp_pl_727_s0401_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_rukovoditel/atlant_vp_pl_01.png",
+            "chair_view": "img/armchair_rukovoditel/atlant_vp_pl_02.png",
+            "dimensions": "img/armchair_rukovoditel/dimensions/atlant_vp_pl_727_s0401_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

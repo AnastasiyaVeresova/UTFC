@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_personal/samba_gtp_tg_d8_ch_z06_01.png",
-            "chair_view": "../img/armchair_personal/samba_gtp_tg_d8_ch_z06_02.png",
-            "dimensions": "../img/armchair_personal/dimensions/samba_gtp_tg_d8_ch_z06_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_personal/samba_gtp_tg_d8_ch_z06_01.png",
+            "chair_view": "img/armchair_personal/samba_gtp_tg_d8_ch_z06_02.png",
+            "dimensions": "img/armchair_personal/dimensions/samba_gtp_tg_d8_ch_z06_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

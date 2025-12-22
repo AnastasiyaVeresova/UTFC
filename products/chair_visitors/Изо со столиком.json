@@ -84,10 +84,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_visitors/izo_ch_stol_c11_01.png",
-            "chair_view": "../img/chair_visitors/izo_ch_stol_c11_02.png",
-            "dimensions": "../img/chair_visitors/dimensions/izo_ch_stol_c11_01.png",
-            "box": "../img/box_0.png"
+            "vid_main": "img/chair_visitors/izo_ch_stol_c11_01.png",
+            "chair_view": "img/chair_visitors/izo_ch_stol_c11_02.png",
+            "dimensions": "img/chair_visitors/dimensions/izo_ch_stol_c11_01.png",
+            "box": "img/box_0.png"
         }
     ],
     "dimensions_details": [

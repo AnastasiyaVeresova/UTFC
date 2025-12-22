@@ -74,10 +74,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/nomi_m_317_bl_black_01.png",
-            "chair_view": "../img/armchair_comfort/nomi_m_317_bl_black_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/nomi_m_317_bl_black_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/nomi_m_317_bl_black_01.png",
+            "chair_view": "img/armchair_comfort/nomi_m_317_bl_black_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/nomi_m_317_bl_black_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

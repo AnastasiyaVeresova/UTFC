@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/chair_cafe_and_bar/venus_bl_02.png",
-            "chair_view": "../img/chair_cafe_and_bar/venus_bl_02.png",
-            "dimensions": "../img/chair_cafe_and_bar/dimensions/venus_bl_02.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/chair_cafe_and_bar/venus_bl_02.png",
+            "chair_view": "img/chair_cafe_and_bar/venus_bl_02.png",
+            "dimensions": "img/chair_cafe_and_bar/dimensions/venus_bl_02.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

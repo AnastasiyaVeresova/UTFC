@@ -83,10 +83,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/ultra_t01_n_pl660_01.png",
-            "chair_view": "../img/armchair_comfort/ultra_t01_n_pl660_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/ultra_t01_n_pl660_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/ultra_t01_n_pl660_01.png",
+            "chair_view": "img/armchair_comfort/ultra_t01_n_pl660_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/ultra_t01_n_pl660_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

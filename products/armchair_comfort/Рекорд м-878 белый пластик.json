@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/rekord_m_878_pl_wh_01.png",
-            "chair_view": "../img/armchair_comfort/rekord_m_878_pl_wh_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/rekord_m_878_pl_wh_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/rekord_m_878_pl_wh_01.png",
+            "chair_view": "img/armchair_comfort/rekord_m_878_pl_wh_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/rekord_m_878_pl_wh_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
