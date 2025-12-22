@@ -244,9 +244,11 @@ h3 {
 .checkbox-group input[type=checkbox] {
   width: 12px;
   height: 12px;
-  accent-color: #96C22B; /* Цвет галочки по умолчанию */
+  accent-color: #96C22B;
+  /* Цвет галочки по умолчанию */
   -moz-appearance: none;
-       appearance: none; /* Убираем стандартный вид */
+       appearance: none;
+  /* Убираем стандартный вид */
   -webkit-appearance: none;
   border: 1px solid #ccc;
   border-radius: 3px;
@@ -263,7 +265,8 @@ h3 {
 .checkbox-group input[type=checkbox]:checked::after {
   content: "✓";
   position: absolute;
-  color: #fff; /* Белый цвет галочки */
+  color: #fff;
+  /* Белый цвет галочки */
   font-size: 8px;
   top: 50%;
   left: 50%;
@@ -395,13 +398,19 @@ h3 {
   text-decoration: none;
   outline: none;
   display: flex;
-  align-items: center; /* Центрирование по вертикали */
-  justify-content: center; /* Центрирование по горизонтали */
-  height: 40px; /* Фиксированная высота для кнопки */
-  width: 100%; /* Ширина на всю карточку */
-  margin: 10px auto 0; /* Отступ сверху и по бокам */
+  align-items: center;
+  /* Центрирование по вертикали */
+  justify-content: center;
+  /* Центрирование по горизонтали */
+  height: 40px;
+  /* Фиксированная высота для кнопки */
+  width: 100%;
+  /* Ширина на всю карточку */
+  margin: 10px auto 0;
+  /* Отступ сверху и по бокам */
   position: absolute;
-  bottom: 10px; /* Прижимаем кнопку к низу карточки */
+  bottom: 10px;
+  /* Прижимаем кнопку к низу карточки */
   left: 0;
   margin-bottom: 10px;
 }
