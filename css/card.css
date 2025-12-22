@@ -1,11 +1,14 @@
+@charset "UTF-8";
 .product-card {
   width: 215px;
+  height: 285px;
   margin: 5px;
   display: inline-block;
   vertical-align: top;
   padding: 5px;
   text-align: center;
   box-shadow: 0 3px 2px rgba(0, 0, 0, 0.1);
+  position: relative; /* Добавляем для позиционирования дочерних элементов */
 }
 
 .product-card img {
