@@ -708,10 +708,12 @@
             //         }
             // Очищаем имя файла от недопустимых символов
             const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
-            const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
+            const sanitizedUniqueName = transliterate(uniqueName)
+    .replace(/[/\\:*?"<>|]/g, '_')
+    .toLowerCase();
 
 
-            const filePath = `products/${category}/${sanitizedUniqueName}.json`;
+const filePath = `products/${category}/${sanitizedUniqueName}.json`;
             console.log("Путь к файлу:", filePath);
             fetch(filePath)
                 .then(response => {
