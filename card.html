@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <title>ТО</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/to_page.css">
+    <link rel="stylesheet" href="../css/style_menu_main.css">
+    <link rel="stylesheet" href="../css/card.css">
+
+
+    <style>
+        @media (max-width: 768px) {
+            .sidebar {
+                display: none;
+            }
+
+            .frame {
+                width: 100%;
+                padding: 10px;
+                box-sizing: border-box;
+            }
+
+            .image,
+            .dimensions,
+            .box-image {
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="sidebar">
+        <ul>
+            <li><a href="armchair_personal.html">Кресла для персонала</a></li>
+            <li><a href="armchair_rukovoditel.html">Кресла для руководителя</a></li>
+            <li><a href="armchair_comfort.html">Кресла комфорт</a></li>
+            <li><a href="chair_cafe_and_bar.html">Стулья для кафе и бара</a></li>
+            <li><a href="chair_visitors.html">Стулья для посетителей</a></li>
+            <li><a href="epik.html">Кресла EPIC</a></li>
+        </ul>
+
+    </div> -->
+    <a href="#" class="download-btn" id="downloadPdf">Скачать PDF</a>
+    <div class="frames">
+        <div class="frame front">
+            <div class="cover"></div>
+            <!-- <div class="logo"><img src="img/logo.png" alt="Логотип"></div> -->
+            <div class="textcover">
+                <div class="title">
+                    <span class="chair-word" id="productNameDisplay"></span><br>
+                    <span id="productModelDisplay" class="productmodeldisplay"></span>
+                </div>
+                <div class="line-container">
+                    <div class="line"></div>
+                    <div class="subtitle" style="top: 300px;">ТЕХНИЧЕСКОЕ ОПИСАНИЕ</div>
+                </div>
+            </div>
+        </div>
+        <div class="frame info">
+            <div class="technical">
+                <!-- Настоящее техническое описание распространяется<br>
+                на <span class="product-category"></span>
+                "<span class="product-name"></span>"<br><br> -->
+            </div>
+            <div class="description">
+                <div id="productDescription"></div>
+                <div class="order-text"></div><br>
+                <div class="subtitle" style="top: 300px;">1. Технические требования</div>
+                <div class="green_square">
+                    <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="12" height="12" fill="#96C22B" />
+                    </svg>
+                </div>
+                <div id="technicalRequirements"></div>
+            </div>
+        </div>
+        <div class="frame materials">
+            <div class="description_materials">
+                2. Конструкция и материалы<br>
+                <div class="green_square_materials">
+                    <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="12" height="12" fill="#96C22B" />
+                    </svg>
+                </div>
+                <span id="constructionAndMaterials"></span>
+            </div>
+        </div>
+        <div class="frame transportation_garantee">
+            <div class="transportation">
+                3. Транспортирование и хранение<br>
+                <div class="green_square_transportation">
+                    <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="12" height="12" fill="#96C22B" />
+                    </svg>
+                </div>
+                <div class="description" id="transportation"></div>
+                <div class="guarantee"><br><br>
+                    4. Гарантии изготовителя<br>
+                    <div class="green_square_guarantee">
+                        <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                            <rect width="12" height="12" fill="#96C22B" />
+                        </svg>
+                    </div>
+                    <div class="description" id="guarantee"></div>
+                </div>
+            </div>
+            <div class="znak"><img src="img/znak.png" alt="Внимание"></div>
+            <div class="dopinfo">
+                Согласно ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»
+                габаритные размеры изделия указаны с точностью +/- 20 мм
+            </div>
+        </div>
+        <div class="frame image_dimensions">
+            <div class="image_name" style="z-index: 1;">
+                <span class="product-model"></span>
+                <span class="product-name"></span>
+            </div>
+            <img class="image" id="chairImage" alt="Изображение кресла">
+            <div class="dimensions">
+                <img id="dimensionsImage" class="dimensionsImage" alt="Размеры кресла">
+            </div>
+            <div class="box-info">
+                <img src="img/brutto.png" alt="Вес брутто">
+                <p><span id="brutto"></span> </p>
+                <div class="box-info-line"></div>
+                <img src="img/netto.png" alt="Вес нетто">
+                <p><span id="netto"></span></p>
+                <div class="box-info-line"></div>
+                <img src="img/v.png" alt="Объем">
+                <p><span id="volume"></span> м³</p>
+            </div>
+            <div class="box-container">
+                <img class="box-image" id="boxImage" alt="Коробка">
+                <div class="box-dimension width">900</div>
+                <div class="box-dimension depth">660</div>
+                <div class="box-dimension height">340</div>
+            </div>
+        </div>
+        <div class="frame back_cover">
+            <div class="prim"></div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script>
+        // Словарь склонений
+        const declensionMap = {
+            "кресло": "кресла",
+            "поворотное кресло": "поворотное кресло",
+            "кресло оператора": "кресла оператора",
+            "стул": "стула",
+            "место": "места",
+            "поворотное кресло оператора": "кресла",
+            "табурет": "табурета",
+            "стул складной": "стула складного",
+            "конференц-кресло": "конференц-кресла"
+        };
+        // Словарь склонений для имён
+
+        const genitiveMap = {
+            "табурет": "табурета",
+            "стул": "стула",
+            "кресло": "кресла",
+            "место": "места",
+            "кресло оператора": "кресла оператора",
+            "поворотное кресло": "поворотного кресла",
+            "поворотное кресло серии комфорт": "поворотного кресла серии комфорт",
+            "поворотное кресло оператора": "поворотного кресла оператора",
+            "поворотное кресло руководителя": "поворотного кресла руководителя",
+            "стул складной": "стула складного",
+            "конференц-кресло": "конференц-кресла"
+
+
+        };
+
+
+        const declensionMapForMore = {
+
+            "стул": "стулья",
+            "поворотное кресло": "поворотные кресла",
+            "поворотное кресло серии комфорт": "поворотные кресла серии комфорт",
+            "поворотное кресло руководителя": "поворотные кресла руководителя",
+            "поворотное кресло для персонала": "поворотные кресла для персонала",
+            "кресло": "кресла",
+            "кресло оператора": "кресла оператора",
+            "поворотное кресло оператора": "поворотные кресла оператора",
+            "место": "места",
+            "табурет": "табуреты",
+            "стул складной": "стулья складные",
+            "конференц-кресло": "конференц-кресла"
+
+
+        };
+
+
+        const declensionMapForSimple = {
+
+            "кресло оператора": "кресло",
+            "поворотное кресло оператора": "кресло оператора",
+            "табурет": "",
+            "поворотное кресло": "поворотное кресло"
+
+
+        };
+
+        // Словарь родов
+        const genderMap = {
+            "стул": "male",
+            "стул складной": "male",
+            "кресло": "neuter",
+            "поворотное кресло": "neuter",
+            "табурет": "male"
+        };
+
+
+
+        // Функция для генерации текста о заказе
+        function generateOrderText(product, variantIndex = 0) {
+            if (!product) return 'Данные отсутствуют.';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || 'Название отсутствует';
+            const orderText = product.construction_and_materials?.[variantIndex]?.upholstery_materials?.[0] || 'Данные не указаны';
+
+            if (orderText === 'Данные не указаны') {
+                return '';
+            }
+
+            // Проверяем, содержится ли вид в названии продукта (с учётом регистра)
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            // Склоняем вид продукта в родительный падеж
+            const genitiveVid = genitiveMap[productVid.toLowerCase()] || productVid;
+            const capitalizedGenitiveVid = genitiveVid.charAt(0).toUpperCase() + genitiveVid.slice(1);
+
+            // Если вид уже в названии, используем склонённое слово с заглавной буквой и без кавычек
+            const displayName = isVidInName ? capitalizedGenitiveVid : `«${productName}»`;
+            // Если вид не в названии, используем склонённое слово в префиксе
+            const vidPrefix = isVidInName ? '' : `${genitiveVid} `;
+
+            // Определяем количество пунктов в orderText
+            const itemsCount = (orderText.match(/-.*/g) || []).length;
+            // Глагол согласуем с количеством пунктов
+            const verb = itemsCount > 1 ? 'оговариваются' : 'оговаривается';
+
+            // Формируем итоговую строку
+            return `<strong>При заказе ${vidPrefix}${displayName} ${verb}:</strong><br>${orderText}`;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Функция для генерации текста о разновидностях
+        // function generateVariationsText(product, currentIndex = 0) {
+        //   if (!product?.name || product.name.length <= 1) return "";
+        //   const currentName = product.name[currentIndex];
+        //   const otherVariations = product.name.filter((_, index) => index !== currentIndex);
+        //   if (otherVariations.length === 0) return "";
+        //   const variationsWord = otherVariations.length === 1 ? "разновидность" : "разновидности";
+        //   const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+        //   return ` и его ${variationsWord} ${variationsList}`;
+        // }
+
+        function generateVariationsText(product, currentIndex = 0) {
+            if (!product?.name_all || product.name_all.length <= 1) return product.name_all;
+            const currentName = product.name?.[currentIndex] || product.name_all[currentIndex];
+            // Берем все уникальные имена, исключая дубликаты
+            const uniqueNames = [...new Set(product.name_all)];
+            const namesList = uniqueNames.map(name => `«${name}»`).join(", ");
+            return namesList;
+        }
+
+
+
+
+
+
+
+
+        //функция для форматирования строки
+        function capitalizeFirstLetter(str) {
+            if (!str) return '';
+            return str.toLowerCase().split(' ').map((word, index) =>
+                index === 0 ? word.charAt(0).toUpperCase() + word.slice(1) : word
+            ).join(' ');
+        }
+
+        // Функция для генерации описания товара
+        function generateProductDescriptionText(product, variantIndex = 0) {
+            if (!product) return 'Данные отсутствуют.';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || 'Название отсутствует';
+            const destiny = product.destiny?.[variantIndex] || 'Назначение отсутствует';
+            const productGender = genderMap[productVid.toLowerCase()] || "neuter";
+            const hasVariations = product.name?.length > 1;
+            const variationsString = hasVariations ? generateVariationsText(product, variantIndex) : '';
+            const verbEnding = hasVariations ? "ы" : productGender === "male" ? "ен" : "ено";
+
+            // Проверяем, содержится ли вид в названии продукта
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            let productPrefix = '';
+            if (!isVidInName) {
+                productPrefix = `${capitalizeFirstLetter(productVid)} `;
+            }
+
+            return `
+        <span class="product-model">${productPrefix}</span>
+        «${productName}»${variationsString} предназнач${verbEnding} для <span class="destiny">${destiny}</span><br><br>
+    `;
+        }
+
+
+
+        // Функция для генерации текста о конструкции
+        function generateConstructionText(product, variantIndex = 0) {
+            const construction = product.construction_and_materials?.[variantIndex];
+            if (!construction) return 'Данные о конструкции отсутствуют.';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || '';
+
+            // Проверяем, содержится ли вид в названии продукта
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            let productPrefix = '';
+            if (!isVidInName) {
+                productPrefix = `${capitalizeFirstLetter(productVid)} `;
+            }
+
+            const declinedVidCapitalized = (declensionMapForSimple[productVid.toLowerCase()] || productVid).toLowerCase();
+            const firstLetterCapitalized = declinedVidCapitalized.charAt(0).toUpperCase() + declinedVidCapitalized.slice(1);
+
+            let componentsText = '';
+            if (Array.isArray(construction.components)) {
+                componentsText = construction.components
+                    .map(component => `${component}<br>`)
+                    .join('');
+            } else if (construction.components?.[0]) {
+                componentsText = construction.components[0]
+                    .split(/<br>/i)
+                    .map(line => line.trim())
+                    .filter(line => line.length > 0)
+                    .map(line => `- ${line}<br>`)
+                    .join('');
+            }
+
+            let text = `<div class="construction-text"><strong>${productPrefix}«${productName}» состоит из:</strong></div><div class="construction-list">${componentsText}</div>`;
+
+            if (construction.variants?.length > 0) {
+                text += `<div class="construction-text"><br>Варианты комплектации:</div>`;
+                construction.variants.forEach(variant => {
+                    text += `<div class="construction-text">- ${variant.name}: ${variant.components || 'не указаны'}</div>`;
+                });
+            }
+            return text;
+        }
+
+        //функция для проверки и уменьшения текста
+        function fitTextToContainer(containerSelector, text, maxHeight) {
+            const container = document.querySelector(containerSelector);
+            if (!container) return;
+
+            // Создаём временный контейнер для измерения
+            const tempContainer = document.createElement('div');
+            tempContainer.style.position = 'absolute';
+            tempContainer.style.visibility = 'hidden';
+            tempContainer.style.width = '625px'; // как в .description_materials
+            tempContainer.style.fontFamily = "'Montserrat', sans-serif";
+            tempContainer.style.color = '#3D4555';
+            tempContainer.style.lineHeight = '1.19';
+            tempContainer.style.fontSize = '16px';
+            tempContainer.style.maxWidth = '615px';
+            tempContainer.style.whiteSpace = 'pre-line';
+            document.body.appendChild(tempContainer);
+
+            // Вставляем текст и измеряем высоту
+            tempContainer.innerHTML = text;
+            let fontSize = 16;
+            let lineHeight = 1.29;
+
+            // Проверяем, помещается ли текст
+            while (tempContainer.scrollHeight > maxHeight && fontSize > 8) {
+                fontSize -= 0.23;
+                lineHeight -= 0.021;
+                tempContainer.style.fontSize = `${fontSize}px`;
+                tempContainer.style.lineHeight = lineHeight;
+            }
+
+            // Применяем финальные стили к целевому контейнеру
+            container.innerHTML = text;
+            container.style.fontSize = `${fontSize}px`;
+            container.style.lineHeight = lineHeight;
+
+            // Удаляем временный контейнер
+            document.body.removeChild(tempContainer);
+        }
+
+
+
+        // Функция для заполнения полей товара
+        function fillProductFields(product, variantIndex = 0) {
+            if (!product) {
+                console.error("Ошибка: данные о товаре отсутствуют.");
+                return;
+            }
+
+            // Заполнение полей
+            const setTextContent = (selector, value) => {
+                const elements = document.querySelectorAll(selector);
+                elements.forEach(el => el.textContent = value || 'Данные отсутствуют');
+            };
+
+            setTextContent('.product-name', product.name?.[variantIndex]);
+            setTextContent('.product-model', product.vid?.[variantIndex]);
+            setTextContent('.product-category', product.category?.[variantIndex]);
+            setTextContent('.destiny', product.destiny?.[variantIndex]);
+
+            // Заполнение основных полей
+            const productNameDisplayElement = document.getElementById('productNameDisplay');
+            if (productNameDisplayElement) {
+                const productVid = product.vid?.[0] || 'кресло';
+                const productName = product.name?.[0] || 'Модель отсутствует';
+                const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+                productNameDisplayElement.textContent = isVidInName ? '' : productVid.toUpperCase();
+                const textcover = document.querySelector('.front .textcover');
+                const chairWord = document.querySelector('.front .chair-word');
+                if (chairWord && chairWord.textContent.trim() === '') {
+                    // Если слово скрыто, сдвигаем весь блок вверх
+                    textcover.style.top = '165px';
+                } else {
+                    textcover.style.top = '185px'; // стандартное значение
+                }
+            }
+
+            const productModelDisplayElement = document.getElementById('productModelDisplay');
+            if (productModelDisplayElement) {
+                productModelDisplayElement.textContent = product.name?.[0] || 'Модель отсутствует';
+            }
+
+            const productModelElements = document.querySelectorAll('.product-model');
+            productModelElements.forEach(el => {
+                const productVid = product.vid?.[variantIndex] || 'кресло';
+                const productName = product.name?.[variantIndex] || '';
+                const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+                if (isVidInName) {
+                    el.style.display = 'none';
+                } else {
+                    el.style.display = 'inline';
+                    el.textContent = productVid;
+                }
+            });
+
+            // Заполнение описания товара
+            const productDescriptionElement = document.getElementById('productDescription');
+            if (productDescriptionElement) {
+                productDescriptionElement.innerHTML = generateProductDescriptionText(product, 0);
+            }
+            // Заполнение строки о заказе
+            const orderTextElement = document.querySelector('.order-text');
+            if (orderTextElement) {
+                orderTextElement.innerHTML = generateOrderText(product, 0);
+            }
+
+        }
+
+        // Функция для создания фрейма товара
+        function createProductFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame front';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || 'Название отсутствует';
+
+            // Проверяем, содержится ли вид в названии продукта
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            let productPrefix = '';
+            if (!isVidInName) {
+                const firstLetter = productVid.charAt(0).toUpperCase();
+                const restLetters = productVid.slice(1).toLowerCase();
+                productPrefix = `${firstLetter}${restLetters}<br>`;
+            }
+
+
+            frame.innerHTML = `
+        <div class="cover"></div>
+        <div class="logo"><img src="img/logo.png" alt="Логотип"></div>
+        <div class="textcover">
+            <div class="title">
+                <span class="chair-word">${productPrefix}</span>
+                <span>${productName}</span>
+            </div>
+            <div class="line-container">
+                <div class="line"></div>
+                <div class="subtitle" style="top: 300px;">ТЕХНИЧЕСКОЕ ОПИСАНИЕ</div>
+            </div>
+        </div>
+    `;
+            return frame;
+        }
+
+
+        // Функция для создания фрейма информации
+        // Функция для создания фрейма информации
+        function createInfoFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame info';
+            const productCategory = product.category?.[variantIndex] || product.vid?.[variantIndex] || 'кресло';
+            const productVid = product.vid?.[variantIndex] || 'кресло';
+            const productName = product.name?.[variantIndex] || 'Название отсутствует';
+            const allNames = product.name_all || [];
+            const currentName = product.name?.[variantIndex] || '';
+
+            // Проверяем, содержится ли вид в названии (с учётом регистра)
+            const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+            const vidPrefix = isVidInName ? '' : `${productVid} `;
+
+            // Основной товар
+            let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+
+            // Варианты исполнения (все, кроме текущего)
+            const otherVariations = allNames.filter(name => name !== currentName);
+            if (otherVariations.length > 0) {
+                const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+                description += `Возможны варианты исполнения: ${variationsList}<br><br>`;
+            }
+
+            frame.innerHTML = `
+        <div class="technical">
+            ${description}
+        </div>
+        <div class="description">
+            <div id="productDescription"></div>
+            <div class="order-text"></div><br>
+            <div class="subtitle" style="top: 300px;">1. Технические требования</div>
+            <div class="green_square">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B" />
+                </svg>
+            </div>
+            <div id="technicalRequirements"></div>
+        </div>
+    `;
+            return frame;
+        }
+
+
+
+
+        // Функция для создания фрейма материалов
+        function createMaterialsFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame materials';
+            frame.innerHTML = `
+        <div class="description_materials">
+            2. Конструкция и материалы<br>
+            <div class="green_square_materials">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B"/>
+                </svg>
+            </div>
+            <span class="construction-text" id="constructionAndMaterials_${variantIndex}">
+                ${generateConstructionText(product, variantIndex)}
+            </span>
+        </div>
+    `;
+            return frame;
+        }
+
+
+        // Функция для создания фрейма транспортировки и гарантии
+        function createTransportationFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame transportation_garantee';
+            frame.innerHTML = `
+        <div class="transportation">
+            3. Транспортирование и хранение<br>
+            <div class="green_square_transportation">
+                <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="12" height="12" fill="#96C22B"/>
+                </svg>
+            </div>
+            <div class="description">
+                Транспортирование и хранение по ${product.transportation?.[variantIndex]?.standard || 'ГОСТ'}<br>
+                ${product.transportation?.[variantIndex]?.packaging?.transportation || ''}${product.transportation?.[variantIndex]?.packaging?.box_size
+                    ? ` <strong>${product.transportation[variantIndex].packaging.box_size} мм</strong>`
+                    : ''
+                }
+            </div>
+            <div class="guarantee"><br><br>
+                4. Гарантии изготовителя<br>
+                <div class="green_square_guarantee">
+                    <svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="12" height="12" fill="#96C22B"/>
+                    </svg>
+                </div>
+                <div class="description">
+                    ${product.guarantee?.[variantIndex]
+                    ? (() => {
+                        const g = product.guarantee[variantIndex];
+                        let text = '';
+                        if (g.period) {
+                            text += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} месяцев</strong><br>`;
+                        } else {
+                            text += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: не указан<br>`;
+                        }
+                        if (g.max_load) {
+                            text += `Предельно допустимая нагрузка: <strong>${g.max_load} кг</strong><br>`;
+                        } else {
+                            text += `Предельно допустимая нагрузка: не указана<br>`;
+                        }
+                        if (g.recommended_load) {
+                            text += `Рекомендуемая эксплуатационная нагрузка: <strong>${g.recommended_load} кг</strong>`;
+                        } else {
+                            text += `Рекомендуемая эксплуатационная нагрузка: не указана`;
+                        }
+                        return text;
+                    })()
+                    : 'Гарантийные условия не указаны.'}
+                </div>
+            </div>
+        </div>
+        <div class="znak"><img src="img/znak.png" alt="Внимание"></div>
+        <div class="dopinfo">
+            Согласно ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»
+            габаритные размеры изделия указаны с точностью +/- 20 мм
+        </div>
+    `;
+            return frame;
+        }
+
+        // функция склонения для слова "месяц"
+        function declineMonths(months) {
+            const num = parseInt(months);
+            if (isNaN(num)) return 'месяцев';
+            const lastDigit = num % 10;
+            const lastTwoDigits = num % 100;
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 19) {
+                return 'месяцев';
+            }
+            if (lastDigit === 1) {
+                return 'месяц';
+            }
+            if (lastDigit >= 2 && lastDigit <= 4) {
+                return 'месяца';
+            }
+            return 'месяцев';
+        }
+
+
+        // Функция для создания фрейма изображений и размеров
+        function createImageDimensionsFrame(product, variantIndex) {
+            const frame = document.createElement('div');
+            frame.className = 'frame image_dimensions';
+            frame.innerHTML = `
+                <div class="image_name" style="z-index: 1;">
+                    <span class="product-model">${product.vid?.[variantIndex] || 'Вид отсутствует'}</span>
+                    <span class="product-name">${product.name?.[variantIndex] || 'Название отсутствует'}</span>
+                </div>
+                <img class="image" src="${product.images?.[variantIndex]?.chair_view || ''}" alt="Изображение кресла">
+                <div class="dimensions">
+                    <img class="dimensionsImage" src="${product.images?.[variantIndex]?.dimensions || ''}" alt="Размеры кресла">
+                </div>
+                <div class="box-info">
+                    <img src="img/brutto.png" alt="Вес брутто">
+                    <p><span>${product.dimensions?.[variantIndex]?.brutto || 'не указан'}</span> </p>
+                    <div class="box-info-line"></div>
+                    <img src="img/netto.png" alt="Вес нетто">
+                    <p><span>${product.dimensions?.[variantIndex]?.netto || 'не указан'}</span></p>
+                    <div class="box-info-line"></div>
+                    <img src="img/v.png" alt="Объем">
+                    <p><span>${product.dimensions?.[variantIndex]?.volume || 'не указан'}</span> м³</p>
+                </div>
+                <div class="box-container">
+                    <img class="box-image" src="${product.images?.[variantIndex]?.box || ''}" alt="Коробка">
+                    <div class="box-dimension width">${product.transportation?.[variantIndex]?.packaging?.size?.width || ''}</div>
+                    <div class="box-dimension depth">${product.transportation?.[variantIndex]?.packaging?.size?.depth || ''}</div>
+                    <div class="box-dimension height">${product.transportation?.[variantIndex]?.packaging?.size?.height || ''}</div>
+                </div>
+            `;
+            return frame;
+        }
+        let productNameFile = '';
+        // Основной код загрузки
+        document.addEventListener('DOMContentLoaded', function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const category = urlParams.get('category');
+            const productName = decodeURIComponent(urlParams.get('name'));
+            const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
+
+            // if (!category || !uniqueName) {
+            //     alert("Ошибка: не указаны категория или название товара");
+            //     return;
+            //         }
+            // Очищаем имя файла от недопустимых символов
+            const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
+            const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_');
+
+
+            const filePath = `products/${category}/${sanitizedUniqueName}.json`;
+            console.log("Путь к файлу:", filePath);
+            fetch(filePath)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Ошибка загрузки данных: ${response.statusText}`);
+                    return response.json();
+                })
+                .then(product => {
+                    if (!product) throw new Error("Данные о товаре отсутствуют");
+                    productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
+
+                    // Заполнение данных для основного товара
+                    fillProductFields(product, 0);
+
+                    // Заполнение технического блока
+                    const technicalBlock = document.querySelector('.technical');
+                    if (technicalBlock) {
+                        const productVid = product.vid?.[0] || 'кресло';
+                        const productName = product.name?.[0] || 'Название отсутствует';
+                        const allNames = product.name_all || [];
+                        const currentName = product.name?.[0] || '';
+
+                        // Проверяем, содержится ли вид в названии (с учётом регистра)
+                        const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
+                        const vidPrefix = isVidInName ? '' : `${productVid} `;
+
+                        // Основной товар
+                        let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
+
+                        // Варианты исполнения (все, кроме текущего)
+                        const otherVariations = allNames.filter(name => name !== currentName);
+                        if (otherVariations.length > 0) {
+                            const variationsList = otherVariations.map(name => `«${name}»`).join(", ");
+                            // Склоняем слово "вариант" и согласуем глагол
+                            const variantWord = otherVariations.length === 1 ? "вариант" : "варианты";
+                            const verbWord = otherVariations.length === 1 ? "Возможен" : "Возможны";
+                            description += `${verbWord} ${variantWord} исполнения: ${variationsList}<br><br>`;
+                        }
+
+                        technicalBlock.innerHTML = description;
+                    }
+
+
+
+                    // Заполнение технических требований
+                    const technicalRequirementsElement = document.getElementById('technicalRequirements');
+                    if (technicalRequirementsElement) {
+                        technicalRequirementsElement.innerHTML = product.technical_requirements?.[0]?.length > 0
+                            ? product.technical_requirements[0].map(req => `- ${req}<br>`).join('')
+                            : 'Технические требования не указаны.';
+                    }
+
+                    // Заполнение конструкции и материалов
+                    const constructionAndMaterialsElement = document.getElementById('constructionAndMaterials');
+                    if (constructionAndMaterialsElement) {
+                        const fullText = generateConstructionText(product, 0);
+                        constructionAndMaterialsElement.innerHTML = fullText;
+                        // Уменьшаем текст, если не помещается
+                        fitTextToContainer('#constructionAndMaterials', fullText, 650); // 650px — максимальная высота блока
+                    }
+
+
+                    // Заполнение транспортировки
+                    const transportationElement = document.getElementById('transportation');
+                    if (transportationElement) {
+                        transportationElement.innerHTML = `
+                            Транспортирование и хранение по ${product.transportation?.[0]?.standard || 'ГОСТ'}<br>
+                            ${product.transportation?.[0]?.packaging?.transportation || ''}${product.transportation?.[0]?.packaging?.box_size
+                                ? ` <strong>${product.transportation[0].packaging.box_size} мм</strong>`
+                                : ''
+                            }
+                        `;
+                    }
+
+                    // Заполнение гарантии
+                    const guaranteeElement = document.getElementById('guarantee');
+                    if (guaranteeElement) {
+                        let guaranteeText = '';
+                        if (product.guarantee?.[0]) {
+                            const g = product.guarantee[0];
+                            if (g.period) {
+                                guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: <strong>${g.period} ${declineMonths(g.period)}</strong><br>`;
+                            } else {
+                                guaranteeText += `Гарантийный срок эксплуатации при соблюдении условий транспортирования, хранения и эксплуатации: не указан<br>`;
+                            }
+                            if (g.max_load) {
+                                guaranteeText += `Предельно допустимая нагрузка: <strong>${g.max_load} кг</strong><br>`;
+                            } else {
+                                guaranteeText += `Предельно допустимая нагрузка: не указана<br>`;
+                            }
+                            if (g.recommended_load) {
+                                guaranteeText += `Рекомендуемая эксплуатационная нагрузка: <strong>${g.recommended_load} кг</strong>`;
+                            } else {
+                                guaranteeText += `Рекомендуемая эксплуатационная нагрузка: не указана`;
+                            }
+                        } else {
+                            guaranteeText = 'Гарантийные условия не указаны.';
+                        }
+                        guaranteeElement.innerHTML = guaranteeText;
+                    }
+
+
+                    // Заполнение изображений
+                    const chairImageElement = document.getElementById('chairImage');
+                    if (chairImageElement) {
+                        chairImageElement.src = product.images?.[0]?.chair_view || '';
+                    }
+
+                    // Заполнение весов и объема
+                    const bruttoElement = document.getElementById('brutto');
+                    if (bruttoElement) {
+                        bruttoElement.textContent = product.dimensions?.[0]?.brutto || 'не указан';
+                    }
+
+                    const nettoElement = document.getElementById('netto');
+                    if (nettoElement) {
+                        nettoElement.textContent = product.dimensions?.[0]?.netto || 'не указан';
+                    }
+
+                    const volumeElement = document.getElementById('volume');
+                    if (volumeElement) {
+                        volumeElement.textContent = product.dimensions?.[0]?.volume || 'не указан';
+                    }
+
+                    // Заполнение размеров коробки
+                    const widthElement = document.querySelector('.box-dimension.width');
+                    if (widthElement) {
+                        widthElement.textContent = product.transportation?.[0]?.packaging?.size?.width || '';
+                    }
+
+                    const depthElement = document.querySelector('.box-dimension.depth');
+                    if (depthElement) {
+                        depthElement.textContent = product.transportation?.[0]?.packaging?.size?.depth || '';
+                    }
+
+                    const heightElement = document.querySelector('.box-dimension.height');
+                    if (heightElement) {
+                        heightElement.textContent = product.transportation?.[0]?.packaging?.size?.height || '';
+                    }
+
+                    const dimensionsImageElement = document.getElementById('dimensionsImage');
+                    if (dimensionsImageElement) {
+                        dimensionsImageElement.src = product.images?.[0]?.dimensions || '';
+                    }
+
+                    const boxImageElement = document.getElementById('boxImage');
+                    if (boxImageElement) {
+                        boxImageElement.src = product.images?.[0]?.box || '';
+                    }
+
+                    // Добавление фреймов для остальных вариантов
+                    const framesContainer = document.querySelector('.frames');
+                    const lastFrame = framesContainer.querySelector('.frame.back_cover');
+                    for (let i = 1; i < (product.name?.length || 0); i++) {
+                        framesContainer.insertBefore(createProductFrame(product, i), lastFrame);
+                        framesContainer.insertBefore(createInfoFrame(product, i), lastFrame);
+                        const materialsFrame = createMaterialsFrame(product, i);
+                        framesContainer.insertBefore(materialsFrame, lastFrame);
+                        // После добавления фрейма — вызываем fitTextToContainer
+                        const constructionText = materialsFrame.querySelector('.construction-text');
+                        if (constructionText) {
+                            fitTextToContainer(
+                                `#constructionAndMaterials_${i}`,
+                                constructionText.innerHTML,
+                                650
+                            );
+                        }
+                        framesContainer.insertBefore(createTransportationFrame(product, i), lastFrame);
+                        framesContainer.insertBefore(createImageDimensionsFrame(product, i), lastFrame);
+                    }
+                })
+                .catch(error => {
+                    console.error('Ошибка:', error);
+                    document.body.innerHTML = `<p>Ошибка: ${error.message}. Попробуйте позже или обратитесь в поддержку.</p>`;
+                });
+        });
+
+        function sanitizeFileName(name) {
+            return name.replace(/[/\\:*?"<>|]/g, '_');
+        }
+
+
+        // Генерация PDF
+        document.getElementById('downloadPdf').addEventListener('click', async function (e) {
+            e.preventDefault();
+            const { jsPDF } = window.jspdf;
+            const downloadBtn = document.getElementById('downloadPdf');
+            const sidebar = document.querySelector('.sidebar');
+            const frames = document.querySelectorAll('.frames > .frame');
+
+            try {
+                downloadBtn.style.display = 'none';
+                sidebar.style.display = 'none';
+
+                // Удаляем ненужные элементы
+                const scripts = document.querySelectorAll('script');
+                const styles = document.querySelectorAll('style');
+                scripts.forEach(script => script.remove());
+                styles.forEach(style => style.remove());
+
+                await new Promise(resolve => setTimeout(resolve, 500));
+
+                const squareSize = 210; // мм
+                const doc = new jsPDF({
+                    unit: 'mm',
+                    format: [squareSize, squareSize],
+                    orientation: 'portrait',
+                    compress: true,
+                });
+
+                for (let i = 0; i < frames.length; i++) {
+                    frames[i].style.hyphens = 'none';
+                    const canvas = await html2canvas(frames[i], {
+                        scale: 1.5, // Уменьшенный масштаб
+                        logging: false,
+                        useCORS: true,
+                        allowTaint: true,
+                        letterRendering: true,
+                        backgroundColor: '#FFFFFF',
+                        quality: 1, // качество
+                        dpi: 300,
+                    });
+
+                    const imgData = canvas.toDataURL('image/jpeg', 0.85); // JPEG с качеством 0.85
+                    const mmSize = canvas.width / 3.78;
+                    let finalSize = mmSize;
+
+                    if (mmSize > squareSize) {
+                        finalSize = squareSize;
+                    }
+
+                    if (i > 0) {
+                        doc.addPage([squareSize, squareSize], 'portrait');
+                    }
+
+                    doc.addImage(imgData, 'JPEG', 0, 0, finalSize, finalSize, undefined, 'FAST');
+                }
+
+                const sanitizedName = sanitizeFileName(productNameFile);
+                doc.save(`${sanitizeFileName(productNameFile)}.pdf`);
+
+
+            } catch (error) {
+                console.error("Ошибка при генерации PDF:", error);
+                alert(`Ошибка при генерации PDF: ${error.message}. Попробуйте позже.`);
+            } finally {
+                downloadBtn.style.display = 'block';
+                sidebar.style.display = 'block';
+            }
+        });
+
+        // document.getElementById('downloadPdf').addEventListener('click', async function(e) {
+        //     e.preventDefault();
+        //     const { jsPDF } = window.jspdf;
+        //     const downloadBtn = document.getElementById('downloadPdf');
+        //     const sidebar = document.querySelector('.sidebar');
+        //     const productNameFile = document.getElementById('productNameDisplay').textContent;
+
+        //     try {
+        //         downloadBtn.style.display = 'none';
+        //         sidebar.style.display = 'none';
+
+        //         const framesContainer = document.querySelector('.frames');
+        //         const frames = document.querySelectorAll('.frames > .frame');
+        //         const squareSize = 210; // Размер страницы PDF в мм (A4)
+        //         const doc = new jsPDF({
+        //             unit: 'mm',
+        //             format: [squareSize, squareSize],
+        //             orientation: 'portrait',
+        //             compress: true,
+        //         });
+
+        //         for (let i = 0; i < frames.length; i++) {
+        //             const frame = frames[i];
+        //             const frameRect = frame.getBoundingClientRect();
+        //             const containerRect = framesContainer.getBoundingClientRect();
+
+        //             // Получаем относительные координаты фрейма
+        //             const frameX = frameRect.left - containerRect.left;
+        //             const frameY = frameRect.top - containerRect.top;
+
+        //             // Добавляем изображения
+        //             const images = frame.querySelectorAll('img');
+        //             for (let img of images) {
+        //                 if (img.src) {
+        //                     try {
+        //                         const imgRect = img.getBoundingClientRect();
+        //                         const canvas = await html2canvas(img, {
+        //                             scale: 2,
+        //                             logging: false,
+        //                             useCORS: true,
+        //                             allowTaint: true,
+        //                             backgroundColor: '#FFFFFF',
+        //                         });
+        //                         const imgData = canvas.toDataURL('image/jpeg', 1.0);
+        //                         const x = (imgRect.left - frameRect.left + frameX) / 3.78;
+        //                         const y = (imgRect.top - frameRect.top + frameY) / 3.78;
+        //                         const width = imgRect.width / 3.78;
+        //                         const height = imgRect.height / 3.78;
+        //                         doc.addImage(imgData, 'JPEG', x, y, width, height);
+        //                     } catch (error) {
+        //                         console.error("Ошибка при обработке изображения:", error);
+        //                     }
+        //                 }
+        //             }
+
+        //             // Добавляем текстовые блоки
+        //             const textElements = frame.querySelectorAll('p, span, div, strong, h1, h2, h3');
+        //             for (let element of textElements) {
+        //                 if (element.textContent.trim()) {
+        //                     const elementRect = element.getBoundingClientRect();
+        //                     const textLines = doc.splitTextToSize(element.textContent, 180);
+        //                     const x = (elementRect.left - frameRect.left + frameX) / 3.78;
+        //                     const y = (elementRect.top - frameRect.top + frameY) / 3.78;
+        //                     const fontSize = parseInt(window.getComputedStyle(element).fontSize) / 3.78;
+        //                     const color = window.getComputedStyle(element).color;
+        //                     const fontWeight = window.getComputedStyle(element).fontWeight;
+
+        //                     doc.setFont('helvetica', fontWeight);
+        //                     doc.setFontSize(fontSize);
+        //                     doc.setTextColor(color);
+        //                     doc.text(textLines, x, y);
+        //                 }
+        //             }
+
+        //             // Добавляем новую страницу, если это не последний фрейм
+        //             if (i < frames.length - 1) {
+        //                 doc.addPage([squareSize, squareSize], 'portrait');
+        //             }
+        //         }
+
+        //         doc.save(`${productNameFile}.pdf`);
+        //     } catch (error) {
+        //         console.error("Ошибка при генерации PDF:", error);
+        //         alert(`Ошибка при генерации PDF: ${error.message}. Попробуйте позже.`);
+        //     } finally {
+        //         downloadBtn.style.display = 'block';
+        //         sidebar.style.display = 'block';
+        //     }
+        // });
+
+
+
+    </script>
+</body>
+
+</html>
