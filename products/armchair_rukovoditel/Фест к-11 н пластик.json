@@ -75,10 +75,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_rukovoditel/fest_n_pl_z71_01.png",
-            "chair_view": "img/armchair_rukovoditel/fest_n_pl_z71_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/fest_n_pl_z71_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_rukovoditel/fest_n_pl_z71_01.png",
+            "chair_view": "../img/armchair_rukovoditel/fest_n_pl_z71_02.png",
+            "dimensions": "../img/armchair_rukovoditel/dimensions/fest_n_pl_z71_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

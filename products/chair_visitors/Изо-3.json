@@ -87,10 +87,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/izo_sek_x3_z19_01.png",
-            "chair_view": "img/chair_visitors/izo_sek_x3_z19_02.png",
-            "dimensions": "img/chair_visitors/dimensions/izo_sek_x3_z19_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/chair_visitors/izo_sek_x3_z19_01.png",
+            "chair_view": "../img/chair_visitors/izo_sek_x3_z19_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/izo_sek_x3_z19_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

@@ -84,10 +84,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_comfort/direkt_lux_v_01.png",
-            "chair_view": "img/armchair_comfort/direkt_lux_v_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/direkt_lux_v_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_comfort/direkt_lux_v_01.png",
+            "chair_view": "../img/armchair_comfort/direkt_lux_v_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/direkt_lux_v_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

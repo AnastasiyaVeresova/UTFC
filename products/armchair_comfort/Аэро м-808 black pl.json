@@ -76,10 +76,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_comfort/aero_m_808_pl_e72k_01.png",
-            "chair_view": "img/armchair_comfort/aero_m_808_pl_e72k_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/aero_m_808_pl_e72k_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_comfort/aero_m_808_pl_e72k_01.png",
+            "chair_view": "../img/armchair_comfort/aero_m_808_pl_e72k_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/aero_m_808_pl_e72k_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/kompakt_lux_bl_z71_01.png",
-            "chair_view": "img/chair_visitors/kompakt_lux_bl_z71_02.png",
-            "dimensions": "img/chair_visitors/dimensions/kompakt_lux_bl_z71_01.png",
-            "box": "img/box_UTFC_4x.png"
+            "vid_main": "../img/chair_visitors/kompakt_lux_bl_z71_01.png",
+            "chair_view": "../img/chair_visitors/kompakt_lux_bl_z71_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/kompakt_lux_bl_z71_01.png",
+            "box": "../img/box_UTFC_4x.png"
         }
     ],
     "dimensions_details": [

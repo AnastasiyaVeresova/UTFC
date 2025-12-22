@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_rukovoditel/вермонт_ch_151_01.png",
-            "chair_view": "img/armchair_rukovoditel/вермонт_ch_151_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/вермонт_ch_151_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_rukovoditel/вермонт_ch_151_01.png",
+            "chair_view": "../img/armchair_rukovoditel/вермонт_ch_151_02.png",
+            "dimensions": "../img/armchair_rukovoditel/dimensions/вермонт_ch_151_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

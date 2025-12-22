@@ -74,10 +74,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_personal/star_bp_c73_01.png",
-            "chair_view": "img/armchair_personal/star_bp_c73_02.png",
-            "dimensions": "img/armchair_personal/dimensions/star_bp_c73_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_personal/star_bp_c73_01.png",
+            "chair_view": "../img/armchair_personal/star_bp_c73_02.png",
+            "dimensions": "../img/armchair_personal/dimensions/star_bp_c73_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

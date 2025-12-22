@@ -77,10 +77,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_comfort/Тоник_01.png",
-            "chair_view": "img/armchair_comfort/Тоник_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/Тоник.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_comfort/Тоник_01.png",
+            "chair_view": "../img/armchair_comfort/Тоник_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/Тоник.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

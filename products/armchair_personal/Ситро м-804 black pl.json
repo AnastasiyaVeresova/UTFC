@@ -80,10 +80,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_personal/citro_m_804_black_grey_01.png",
-            "chair_view": "img/armchair_personal/citro_m_804_black_grey_02.png",
-            "dimensions": "img/armchair_personal/dimensions/citro_m_804_black_grey_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_personal/citro_m_804_black_grey_01.png",
+            "chair_view": "../img/armchair_personal/citro_m_804_black_grey_02.png",
+            "dimensions": "../img/armchair_personal/dimensions/citro_m_804_black_grey_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

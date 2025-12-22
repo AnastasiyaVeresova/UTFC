@@ -76,10 +76,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_comfort/osaka_m-201_pl_gr_01.png",
-            "chair_view": "img/armchair_comfort/osaka_m-201_pl_gr_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/osaka_m-201_pl_gr_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_comfort/osaka_m-201_pl_gr_01.png",
+            "chair_view": "../img/armchair_comfort/osaka_m-201_pl_gr_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/osaka_m-201_pl_gr_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

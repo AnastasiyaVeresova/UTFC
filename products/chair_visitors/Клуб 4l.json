@@ -82,10 +82,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/klub_4l_01.png",
-            "chair_view": "img/chair_visitors/klub_4l_02.png",
-            "dimensions": "img/chair_visitors/dimensions/Клуб_ch4l.png",
-            "box": "img/box_UTFC_2x.png"
+            "vid_main": "../img/chair_visitors/klub_4l_01.png",
+            "chair_view": "../img/chair_visitors/klub_4l_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/Клуб_ch4l.png",
+            "box": "../img/box_UTFC_2x.png"
         }
     ],
     "dimensions_details": [

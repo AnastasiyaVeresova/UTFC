@@ -75,10 +75,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_comfort/ch_800_angel_np_bl_e06_01.png",
-            "chair_view": "img/armchair_comfort/ch_800_angel_np_bl_e06_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/ch_800_angel_np_bl_e06_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_comfort/ch_800_angel_np_bl_e06_01.png",
+            "chair_view": "../img/armchair_comfort/ch_800_angel_np_bl_e06_02.png",
+            "dimensions": "../img/armchair_comfort/dimensions/ch_800_angel_np_bl_e06_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

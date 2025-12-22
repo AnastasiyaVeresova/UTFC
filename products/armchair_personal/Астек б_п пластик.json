@@ -81,10 +81,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_personal/astek_bp_cpt_c11_01.png",
-            "chair_view": "img/armchair_personal/astek_bp_cpt_c11_02.png",
-            "dimensions": "img/armchair_personal/dimensions/astek_bp.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_personal/astek_bp_cpt_c11_01.png",
+            "chair_view": "../img/armchair_personal/astek_bp_cpt_c11_02.png",
+            "dimensions": "../img/armchair_personal/dimensions/astek_bp.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

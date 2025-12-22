@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_01.png",
-            "chair_view": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/roys_m_704_ch_s0401g_01.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/armchair_rukovoditel/roys_m_704_ch_s0401g_01.png",
+            "chair_view": "../img/armchair_rukovoditel/roys_m_704_ch_s0401g_02.png",
+            "dimensions": "../img/armchair_rukovoditel/dimensions/roys_m_704_ch_s0401g_01.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

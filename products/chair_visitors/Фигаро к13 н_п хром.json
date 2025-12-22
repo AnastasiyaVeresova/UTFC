@@ -75,10 +75,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/figaro_1.png",
-            "chair_view": "img/chair_visitors/figaro_2.png",
-            "dimensions": "img/chair_visitors/dimensions/figaro_2.png",
-            "box": "img/box_UTFC.png"
+            "vid_main": "../img/chair_visitors/figaro_1.png",
+            "chair_view": "../img/chair_visitors/figaro_2.png",
+            "dimensions": "../img/chair_visitors/dimensions/figaro_2.png",
+            "box": "../img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

@@ -79,10 +79,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_epik/epik_a_130_g_black_01.png",
-            "chair_view": "img/armchair_epik/epik_a_130_g_black_02.png",
-            "dimensions": "img/armchair_epik/dimensions/epik_a_130_g_black_01.png",
-            "box": "img/box_epik.png"
+            "vid_main": "../img/armchair_epik/epik_a_130_g_black_01.png",
+            "chair_view": "../img/armchair_epik/epik_a_130_g_black_02.png",
+            "dimensions": "../img/armchair_epik/dimensions/epik_a_130_g_black_01.png",
+            "box": "../img/box_epik.png"
         }
     ],
     "dimensions_details": [

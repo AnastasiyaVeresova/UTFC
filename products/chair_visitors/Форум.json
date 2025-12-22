@@ -76,10 +76,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/forum_ch_s0422_01.png",
-            "chair_view": "img/chair_visitors/forum_ch_s0422_02.png",
-            "dimensions": "img/chair_visitors/dimensions/forum_ch_s0422_01.png",
-            "box": "img/box_0.png"
+            "vid_main": "../img/chair_visitors/forum_ch_s0422_01.png",
+            "chair_view": "../img/chair_visitors/forum_ch_s0422_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/forum_ch_s0422_01.png",
+            "box": "../img/box_0.png"
         }
     ],
     "dimensions_details": [

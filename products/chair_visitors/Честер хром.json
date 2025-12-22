@@ -78,10 +78,10 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/chester_ch_m07_01.png",
-            "chair_view": "img/chair_visitors/chester_ch_m07_02.png",
-            "dimensions": "img/chair_visitors/dimensions/chester_ch_m07_01.png",
-            "box": "img/box_UTFC_2x.png"
+            "vid_main": "../img/chair_visitors/chester_ch_m07_01.png",
+            "chair_view": "../img/chair_visitors/chester_ch_m07_02.png",
+            "dimensions": "../img/chair_visitors/dimensions/chester_ch_m07_01.png",
+            "box": "../img/box_UTFC_2x.png"
         }
     ],
     "dimensions_details": [
