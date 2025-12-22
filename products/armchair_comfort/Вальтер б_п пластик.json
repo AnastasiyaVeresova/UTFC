@@ -80,10 +80,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/valter_bp_tw01_z71_01.png",
-            "chair_view": "../img/armchair_comfort/valter_bp_tw01_z71_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/valter_bp_tw01_z71_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/valter_bp_tw01_z71_01.png",
+            "chair_view": "img/armchair_comfort/valter_bp_tw01_z71_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/valter_bp_tw01_z71_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

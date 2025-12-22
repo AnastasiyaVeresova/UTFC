@@ -77,10 +77,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_personal/metro_golf_c11_01.png",
-            "chair_view": "../img/armchair_personal/metro_golf_c11_02.png",
-            "dimensions": "../img/armchair_personal/dimensions/metro_golf_c11_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_personal/metro_golf_c11_01.png",
+            "chair_view": "img/armchair_personal/metro_golf_c11_02.png",
+            "dimensions": "img/armchair_personal/dimensions/metro_golf_c11_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

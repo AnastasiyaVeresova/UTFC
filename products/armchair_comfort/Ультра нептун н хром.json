@@ -83,10 +83,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_comfort/ultra_n_neptune_ch_e53_tw53_01.png",
-            "chair_view": "../img/armchair_comfort/ultra_n_neptune_ch_e53_tw53_02.png",
-            "dimensions": "../img/armchair_comfort/dimensions/ultra_n_neptune_ch_e53_tw53_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_comfort/ultra_n_neptune_ch_e53_tw53_01.png",
+            "chair_view": "img/armchair_comfort/ultra_n_neptune_ch_e53_tw53_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/ultra_n_neptune_ch_e53_tw53_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [

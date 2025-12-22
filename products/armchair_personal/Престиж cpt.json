@@ -86,10 +86,10 @@
     ],
     "images": [
         {
-            "vid_main": "../img/armchair_personal/prestig_samba_c11_01.png",
-            "chair_view": "../img/armchair_personal/prestig_samba_c11_02.png",
-            "dimensions": "../img/armchair_personal/dimensions/prestig_samba_c11_01.png",
-            "box": "../img/box_UTFC.png"
+            "vid_main": "img/armchair_personal/prestig_samba_c11_01.png",
+            "chair_view": "img/armchair_personal/prestig_samba_c11_02.png",
+            "dimensions": "img/armchair_personal/dimensions/prestig_samba_c11_01.png",
+            "box": "img/box_UTFC.png"
         }
     ],
     "dimensions_details": [
