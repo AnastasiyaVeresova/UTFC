@@ -700,7 +700,7 @@
             const urlParams = new URLSearchParams(window.location.search);
             const category = urlParams.get('category');
             const productName = decodeURIComponent(urlParams.get('name'));
-            const uniqueName = decodeURIComponent(urlParams.get('unique_name')).toLowerCase();
+            const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
 
 
             // if (!category || !uniqueName) {
