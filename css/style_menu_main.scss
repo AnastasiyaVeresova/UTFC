@@ -397,6 +397,9 @@
            opacity: 0;
            /* Начальное состояние: прозрачность 0 */
        }
+       #finish-filter-content {
+            margin-bottom: 100px;
+       }
 
        .filter-content.expanded {
            opacity: 1;
