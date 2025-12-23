@@ -764,7 +764,19 @@ const hasNotSpecifiedTerm = searchTerms.some(term =>
 
             // Функция нормализации поискового запроса
 function normalizeSearchTerm(term) {
-    term = term.toLowerCase().trim();
+    // Если term — undefined или null, возвращаем "__NOT_SPECIFIED__"
+    if (term == null) return '__NOT_SPECIFIED__';
+
+    // Приводим к строке (на случай, если пришло число или другой тип)
+    term = String(term).toLowerCase().trim();
+
+    // Замены для конкретных терминов
+    term = term
+        .replace(/люкс|lux|LUX|Lyuks|Lyux|Liuks|Liux|люкc|ЛЮКС/gi, 'люкс')
+        .replace(/полозья|Н_п|Нп|полоз/gi, 'полозья')
+        .replace(/велюр|велютто|velu|velur/gi, 'велюр')
+        .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
+        .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
 
     // Проверяем на параметры с "не указана"
     if (term.includes('высота не указана') || term.includes('h не указана')) {
@@ -787,6 +799,7 @@ function normalizeSearchTerm(term) {
 
     return term;
 }
+
 
 
 
