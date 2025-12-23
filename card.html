@@ -7,7 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
-    <title>ТО</title>
+    <title id="pageTitle">ТО</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/to_page.css">
     <link rel="stylesheet" href="css/style_menu_main.css">
@@ -721,6 +721,10 @@
                     if (!product) throw new Error("Данные о товаре отсутствуют");
                     productNameFile = (product.namefile && product.namefile.length > 0) ? product.namefile[0] : 'модель';
 
+                    // Обновляем title страницы
+                    const productTitle = product.name?.[0] || 'Техническое описание';
+                    document.getElementById('pageTitle').textContent = `ТО: ${productTitle}`;
+
                     // Заполнение данных для основного товара
                     fillProductFields(product, 0);
 
@@ -902,7 +906,9 @@
 
             try {
                 downloadBtn.style.display = 'none';
-                sidebar.style.display = 'none';
+                if (sidebar) {
+                    sidebar.style.display = 'none';
+        }
 
                 // Удаляем ненужные элементы
                 const scripts = document.querySelectorAll('script');
@@ -957,8 +963,10 @@
                 alert(`Ошибка при генерации PDF: ${error.message}. Попробуйте позже.`);
             } finally {
                 downloadBtn.style.display = 'block';
-                sidebar.style.display = 'block';
+                if (sidebar) {
+                    sidebar.style.display = 'block';
             }
+        }
         });
 
         // document.getElementById('downloadPdf').addEventListener('click', async function(e) {
