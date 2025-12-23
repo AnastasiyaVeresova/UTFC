@@ -612,7 +612,7 @@
                 document.querySelectorAll('.open-card-modal').forEach(button => {
 button.addEventListener('click', function() {
     const category = this.getAttribute('data-category');
-    const name = this.getAttribute('data-name').toLowerCase();
+    const name = this.getAttribute('data-name');
     const uniqueName = this.getAttribute('data-unique-name').toLowerCase();
     const url = `card.html?category=${encodeURIComponent(category)}&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
     window.open(url, '_blank');
