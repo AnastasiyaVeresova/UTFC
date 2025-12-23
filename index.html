@@ -393,47 +393,91 @@
                     : validProducts;
 
                 // Фильтрация по подлокотникам, конструктиву и исполнению
-                if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0) {
-                    filtered = filtered.filter(product => {
-                        let armrestMatch = armrestFilters.length === 0;
-                        let mechanismMatch = mechanismFilters.length === 0;
-                        let finishMatch = finishFilters.length === 0;
 
-                        if (armrestFilters.length > 0) {
-                            armrestMatch = armrestFilters.some(filter => {
-                                const patterns = filter.split('|');
-                                const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
-                            });
-                        }
+                // При такой фильтрации будет происходить полное добавление
+                // if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0) {
+                //     filtered = filtered.filter(product => {
+                //         let armrestMatch = armrestFilters.length === 0;
+                //         let mechanismMatch = mechanismFilters.length === 0;
+                //         let finishMatch = finishFilters.length === 0;
 
-                        if (mechanismFilters.length > 0) {
-                            mechanismMatch = mechanismFilters.some(filter => {
-                                const patterns = filter.split('|');
-                                const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
-                            });
-                        }
+                //         if (armrestFilters.length > 0) {
+                //             armrestMatch = armrestFilters.some(filter => {
+                //                 const patterns = filter.split('|');
+                //                 const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
+                //                 return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                //             });
+                //         }
 
-                        if (finishFilters.length > 0) {
-                            finishMatch = finishFilters.some(filter => {
-                                const patterns = filter.split('|');
-                                const fieldsToCheck = [
-                                    product.unique_name?.[0]?.toLowerCase(),
-                                    product.namefile?.[0]?.toLowerCase(),
-                                    product.name?.[0]?.toLowerCase(),
-                                ];
-                                return fieldsToCheck.some(field =>
-                                    field && patterns.some(pattern =>
-                                        field.includes(pattern.toLowerCase())
-                                    )
-                                );
-                            });
-                        }
+                //         if (mechanismFilters.length > 0) {
+                //             mechanismMatch = mechanismFilters.some(filter => {
+                //                 const patterns = filter.split('|');
+                //                 const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
+                //                 return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                //             });
+                //         }
 
-                        return armrestMatch && mechanismMatch && finishMatch;
-                    });
-                }
+                //         if (finishFilters.length > 0) {
+                //             finishMatch = finishFilters.some(filter => {
+                //                 const patterns = filter.split('|');
+                //                 const fieldsToCheck = [
+                //                     product.unique_name?.[0]?.toLowerCase(),
+                //                     product.namefile?.[0]?.toLowerCase(),
+                //                     product.name?.[0]?.toLowerCase(),
+                //                 ];
+                //                 return fieldsToCheck.some(field =>
+                //                     field && patterns.some(pattern =>
+                //                         field.includes(pattern.toLowerCase())
+                //                     )
+                //                 );
+                //             });
+                //         }
+
+                //         return armrestMatch && mechanismMatch && finishMatch;
+                //     });
+                // }
+
+// Фильтрация по подлокотникам, конструктиву и исполнению
+// При такой фильтрации будет происходить добавление только полностью соответствующих
+if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0) {
+    filtered = filtered.filter(product => {
+        const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
+
+        // Проверяем, что ВСЕ выбранные подлокотники есть в наименовании
+        let armrestMatch = true;
+        if (armrestFilters.length > 0) {
+            armrestMatch = armrestFilters.every(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+            });
+        }
+
+        // Проверяем, что ВСЕ выбранные конструктивы есть в наименовании
+        let mechanismMatch = true;
+        if (mechanismFilters.length > 0) {
+            mechanismMatch = mechanismFilters.every(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+            });
+        }
+
+        // Проверяем, что ВСЕ выбранные исполнения есть в наименовании
+        let finishMatch = true;
+        if (finishFilters.length > 0) {
+            finishMatch = finishFilters.every(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+            });
+        }
+
+        return armrestMatch && mechanismMatch && finishMatch;
+    });
+}
+
+
+
+
+
 
                 // Фильтрация по поиску
                 if (searchTerms.length > 0) {
