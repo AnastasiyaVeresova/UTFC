@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.plot.ly https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:;">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.plot.ly https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:;">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style_menu_main.css">
@@ -12,6 +14,7 @@
     <title>Каталог</title>
 
 </head>
+
 <body>
     <!-- Боковое меню -->
     <div class="sidebar">
@@ -22,11 +25,16 @@
         </h3>
         <div class="filter-content expanded" id="category-filter-content" style="max-height: 500px;">
             <div class="checkbox-group">
-                <label><input type="checkbox" class="category-filter" value="armchair_rukovoditel" checked> Кресла для руководителя</label>
-                <label><input type="checkbox" class="category-filter" value="armchair_personal" checked> Кресла для персонала</label>
-                <label><input type="checkbox" class="category-filter" value="armchair_comfort" checked> Кресла комфорт</label>
-                <label><input type="checkbox" class="category-filter" value="chair_cafe_and_bar" checked> Стулья для кафе и бара</label>
-                <label><input type="checkbox" class="category-filter" value="chair_visitors" checked> Стулья для посетителей</label>
+                <label><input type="checkbox" class="category-filter" value="armchair_rukovoditel" checked> Кресла для
+                    руководителя</label>
+                <label><input type="checkbox" class="category-filter" value="armchair_personal" checked> Кресла для
+                    персонала</label>
+                <label><input type="checkbox" class="category-filter" value="armchair_comfort" checked> Кресла
+                    комфорт</label>
+                <label><input type="checkbox" class="category-filter" value="chair_cafe_and_bar" checked> Стулья для
+                    кафе и бара</label>
+                <label><input type="checkbox" class="category-filter" value="chair_visitors" checked> Стулья для
+                    посетителей</label>
                 <label><input type="checkbox" class="category-filter" value="armchair_epik" checked> Кресла EPIK</label>
             </div>
         </div>
@@ -63,9 +71,11 @@
                     Например: люкс, топ, черный<br><br>
                     <hr><br>
                     <strong>Подлокотники +<br>Конструктив +<br>Исполнение +</strong><br><br>
-                    Увидим только те карточки, в наименовании которых (как в "Таблице с размерами (для внутреннего пользования).xlsx") есть выбранные позиции<br><br><br>
+                    Увидим только те карточки, в наименовании которых (как в "Таблице с размерами (для внутреннего
+                    пользования).xlsx") есть выбранные позиции<br><br><br>
                     <hr><br>
-                    &#10024; Если вы нашли ошибку или не видите соответствующего желаемого в выдаче, просим сообщить в отдел маркетинга, поправим &#128522;
+                    &#10024; Если вы нашли ошибку или не видите соответствующего желаемого в выдаче, просим сообщить в
+                    отдел маркетинга, поправим &#128522;
                 </span>
             </div>
         </div>
@@ -97,13 +107,17 @@
             <div class="checkbox-group">
                 <label><input type="checkbox" class="mechanism-filter" value="пиастра"> Пиастра</label>
                 <label><input type="checkbox" class="mechanism-filter" value="TG|tg|тг|топ-ган|Топ-ган"> Топ-ган</label>
-                <label><input type="checkbox" class="mechanism-filter" value="GTP|gtp|Gtp|GTS|gts|Gts|ЖТС|жтс"> GTP/GTS</label>
-                <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб|MB"> Мультиблок</label>
+                <label><input type="checkbox" class="mechanism-filter" value="GTP|gtp|Gtp|GTS|gts|Gts|ЖТС|жтс">
+                    GTP/GTS</label>
+                <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб|MB">
+                    Мультиблок</label>
                 <label><input type="checkbox" class="mechanism-filter" value="ПВМ|пвм"> ПВМ</label>
                 <label><input type="checkbox" class="mechanism-filter" value="CPT|срт"> CPT</label>
-                <label><input type="checkbox" class="mechanism-filter" value=" О | O | о | o |_о_|овалина"> Овалина</label>
+                <label><input type="checkbox" class="mechanism-filter" value=" О | O | о | o |_о_|овалина">
+                    Овалина</label>
                 <label><input type="checkbox" class="mechanism-filter" value="EG|eg"> EG</label>
-                <label><input type="checkbox" class="mechanism-filter" value="н_п|н-п|нп|полозья|Н_п|В_п|в_п"> Полозья</label>
+                <label><input type="checkbox" class="mechanism-filter" value="н_п|н-п|нп|полозья|Н_п|В_п|в_п">
+                    Полозья</label>
                 <label><input type="checkbox" class="mechanism-filter" value="подг"> Подголовник</label>
                 <label><input type="checkbox" class="mechanism-filter" value="стол"> Столик</label>
             </div>
@@ -181,10 +195,10 @@
             return isNaN(numValue) ? null : numValue;
         }
 
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             // Обработчики для кнопок сворачивания/разворачивания блоков фильтров
             document.querySelectorAll('.toggle-filter').forEach(button => {
-                button.addEventListener('click', function() {
+                button.addEventListener('click', function () {
                     const targetId = this.getAttribute('data-target');
                     const targetBlock = document.getElementById(targetId);
                     const isHidden = !targetBlock.style.maxHeight || targetBlock.style.maxHeight === '0px' || targetBlock.style.maxHeight === '0';
@@ -589,7 +603,7 @@
                     productsContainer.appendChild(productCard);
 
                     // Обработчики событий для каждой карточки
-                    productCard.addEventListener('mouseenter', function() {
+                    productCard.addEventListener('mouseenter', function () {
                         const imgElement = this.querySelector('img');
                         const detailedTooltip = this.querySelector('.product-tooltip-detailed');
                         const chairViewUrl = product.images?.[0]?.chair_view;
@@ -598,7 +612,7 @@
                         }
                     });
 
-                    productCard.addEventListener('mouseleave', function() {
+                    productCard.addEventListener('mouseleave', function () {
                         const imgElement = this.querySelector('img');
                         const detailedTooltip = this.querySelector('.product-tooltip-detailed');
                         const vidMainUrl = product.images?.[0]?.vid_main;
@@ -610,15 +624,15 @@
 
                 // Добавляем обработчики для кнопок открытия PDF в новом окне
                 document.querySelectorAll('.open-card-modal').forEach(button => {
-button.addEventListener('click', function() {
-    const category = this.getAttribute('data-category');
-    const name = this.getAttribute('data-name');
-    let uniqueName = this.getAttribute('data-unique-name');
-    // Приводим к виду: первая буква заглавная, остальные строчные
-    uniqueName = uniqueName.charAt(0).toUpperCase() + uniqueName.slice(1).toLowerCase();
-    const url = `card.html?category=${encodeURIComponent(category)}&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
-    window.open(url, '_blank');
-});
+                    button.addEventListener('click', function () {
+                        const category = this.getAttribute('data-category');
+                        const name = this.getAttribute('data-name');
+                        let uniqueName = this.getAttribute('data-unique-name');
+                        // Приводим к виду: первая буква заглавная, остальные строчные
+                        uniqueName = uniqueName.charAt(0).toUpperCase() + uniqueName.slice(1).toLowerCase();
+                        const url = `card.html?category=${encodeURIComponent(category)}&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
+                        window.open(url, '_blank');
+                    });
 
 
                 });
@@ -708,9 +722,9 @@ button.addEventListener('click', function() {
             }
 
             // Обработчик возврата назад
-            window.addEventListener('pageshow', function(event) {
+            window.addEventListener('pageshow', function (event) {
                 document.getElementById('searchInput').value = '';
-                document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter, .category-filter').forEach(checkbox => {
+                document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter').forEach(checkbox => {
                     checkbox.checked = false;
                 });
                 const minHeightInput = document.getElementById('minHeight');
@@ -733,4 +747,5 @@ button.addEventListener('click', function() {
         });
     </script>
 </body>
+
 </html>
