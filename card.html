@@ -892,7 +892,7 @@
         });
 
         function sanitizeFileName(name) {
-            return name.replace(/[/\\:*?"<>|]/g, '_').toLowerCase();
+            return name.replace(/[/\\:*?"<>|]/g, '_');
         }
 
 
@@ -960,7 +960,7 @@
 
             } catch (error) {
                 console.error("Ошибка при генерации PDF:", error);
-                alert(`Ошибка при генерации PDF: ${error.message}. Попробуйте позже.`);
+                alert(`Ошибка при генерации PDF: ${error.message}<br>\nПопробуйте позже`);
             } finally {
                 downloadBtn.style.display = 'block';
                 if (sidebar) {
