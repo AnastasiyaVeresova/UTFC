@@ -700,7 +700,8 @@
             const urlParams = new URLSearchParams(window.location.search);
             const category = urlParams.get('category');
             const productName = decodeURIComponent(urlParams.get('name'));
-            const uniqueName = decodeURIComponent(urlParams.get('unique_name'));
+            const uniqueName = decodeURIComponent(urlParams.get('unique_name')).toLowerCase();
+
 
             // if (!category || !uniqueName) {
             //     alert("Ошибка: не указаны категория или название товара");
@@ -708,7 +709,7 @@
             //         }
             // Очищаем имя файла от недопустимых символов
             const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
-            const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_').toLowerCase();;
+            const sanitizedUniqueName = uniqueName.replace(/[/\\:*?"<>|]/g, '_').toLowerCase();
 
 
 const filePath = `products/${category}/${sanitizedUniqueName}.json`;
