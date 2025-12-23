@@ -416,7 +416,7 @@
         // Функция для заполнения полей товара
         function fillProductFields(product, variantIndex = 0) {
             if (!product) {
-                console.error("Ошибка: данные о товаре отсутствуют.");
+                console.error("Ошибка: данные о товаре отсутствуют");
                 return;
             }
 
@@ -709,9 +709,7 @@
             //         }
             // Очищаем имя файла от недопустимых символов
             const sanitizedProductName = productName.replace(/[/\\:*?"<>|]/g, '_');
-const sanitizedUniqueName = uniqueName.toLowerCase().replace(/[/\\:*?"<>|]/g, '_');
-
-
+const sanitizedUniqueName = uniqueName.charAt(0).toUpperCase() + uniqueName.slice(1).toLowerCase().replace(/[/\\:*?"<>|]/g, '_');
 const filePath = `products/${category}/${sanitizedUniqueName}.json`;
             console.log("Путь к файлу:", filePath);
             fetch(filePath)
@@ -885,12 +883,12 @@ const filePath = `products/${category}/${sanitizedUniqueName}.json`;
                 })
                 .catch(error => {
                     console.error('Ошибка:', error);
-                    document.body.innerHTML = `<p>Ошибка: ${error.message}. Попробуйте позже или обратитесь в поддержку.</p>`;
+                    document.body.innerHTML = `<p>Ошибка: ${error.message}<br>\nПопробуйте позже или обратитесь в поддержку</p>`;
                 });
         });
 
         function sanitizeFileName(name) {
-            return name.replace(/[/\\:*?"<>|]/g, '_');
+            return name.replace(/[/\\:*?"<>|]/g, '_').toLowerCase();
         }
 
 
