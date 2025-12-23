@@ -72,7 +72,10 @@
                     <hr><br>
                     <strong>Подлокотники +<br>Конструктив +<br>Исполнение +</strong><br><br>
                     Увидим только те карточки, в наименовании которых (как в "Таблице с размерами (для внутреннего
-                    пользования).xlsx") есть выбранные позиции<br><br><br>
+                    пользования).xlsx") есть выбранные позиции<br><br>
+                    <hr><br>
+                    Есть функционал по отсутствующим значениям w+ - ширина с подлокотниками | w - ширина сиденья | d - габаритная глубина | h - высота<br>
+                    Просто введите, например, высота не указана или h не указана<br><br>
                     <hr><br>
                     &#10024; Если вы нашли ошибку или не видите соответствующего желаемого в выдаче, просим сообщить в
                     отдел маркетинга, поправим &#128522;
@@ -375,6 +378,7 @@
 
                 const searchInput = document.getElementById('searchInput').value.trim();
                 const searchTerms = searchInput.split(/,\s*/).map(term => normalizeSearchTerm(term)).filter(term => term.length > 0);
+                console.log('Нормализованные термы поиска:', searchTerms);
                 const min = minHeightInput ? parseInt(minHeightInput.value) : 300;
                 const max = maxHeightInput ? parseInt(maxHeightInput.value) : 1600;
                 const minSliderValue = parseInt(minHeightInput.min);
@@ -433,28 +437,104 @@
 
                 // Фильтрация по поиску
                 if (searchTerms.length > 0) {
-                    filtered = filtered.filter(product => {
-                        const getFieldValue = (field) => {
-                            if (!field) return '';
-                            if (Array.isArray(field)) return field.join(' ').toLowerCase();
-                            if (typeof field === 'object') return Object.values(field).join(' ').toLowerCase();
-                            return String(field).toLowerCase();
-                        };
+const hasNotSpecifiedTerm = searchTerms.some(term =>
+        term === '__NOT_SPECIFIED__' ||
+        term === '__NOT_SPECIFIED_W__' ||
+        term === '__NOT_SPECIFIED_W_PLUS__' ||
+        term === '__NOT_SPECIFIED_D__' ||
+        term === '__NOT_SPECIFIED_H__'
+    );
 
-                        const normalizedUniqueName = normalizeSearchTerm(getFieldValue(product.unique_name));
-                        const normalizedName = normalizeSearchTerm(getFieldValue(product.name));
-                        const normalizedUpholstery = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.upholstery_materials));
-                        const normalizedComponents = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.components));
-                        const normalizedDestiny = normalizeSearchTerm(getFieldValue(product.destiny));
+    console.log('Ищем отсутствующие параметры?', hasNotSpecifiedTerm);
+    console.log('Термы поиска:', searchTerms);
 
-                        return searchTerms.every(term =>
-                            normalizedUniqueName.includes(term) ||
-                            normalizedName.includes(term) ||
-                            normalizedUpholstery.includes(term) ||
-                            normalizedComponents.includes(term) ||
-                            normalizedDestiny.includes(term)
-                        );
-                    });
+    if (hasNotSpecifiedTerm) {
+        filtered = validProducts.filter(product => {
+            const dimensions = product.dimensions_details?.[0] || {};
+            const dimensionsObj = product.dimensions?.[0] || {};
+
+            let isMissing = false;
+
+            searchTerms.forEach(term => {
+                if (term === '__NOT_SPECIFIED_W__') {
+                    const seatWidth = dimensions.seat_width;
+                    isMissing = isMissing ||
+                        !seatWidth ||
+                        seatWidth === "" ||
+                        seatWidth === null ||
+                        seatWidth === undefined ||
+                        (seatWidth && seatWidth.min === null && seatWidth.max === null) ||
+                        (seatWidth && seatWidth.min === "" && seatWidth.max === "");
+                }
+                if (term === '__NOT_SPECIFIED_W_PLUS__') {
+                    const seatWidthWithArmrests = dimensions.seat_width_with_armrests;
+                    isMissing = isMissing ||
+                        !seatWidthWithArmrests ||
+                        seatWidthWithArmrests === "" ||
+                        seatWidthWithArmrests === null ||
+                        seatWidthWithArmrests === undefined ||
+                        (seatWidthWithArmrests && seatWidthWithArmrests.min === null && seatWidthWithArmrests.max === null) ||
+                        (seatWidthWithArmrests && seatWidthWithArmrests.min === "" && seatWidthWithArmrests.max === "");
+                }
+                if (term === '__NOT_SPECIFIED_D__') {
+                    const chairDepth = dimensions.chair_depth;
+                    isMissing = isMissing ||
+                        !chairDepth ||
+                        chairDepth === "" ||
+                        chairDepth === null ||
+                        chairDepth === undefined ||
+                        (chairDepth && chairDepth.min === null && chairDepth.max === null) ||
+                        (chairDepth && chairDepth.min === "" && chairDepth.max === "");
+                }
+                if (term === '__NOT_SPECIFIED_H__') {
+                    const chairHeight = dimensions.chair_height;
+                    isMissing = isMissing ||
+                        !chairHeight ||
+                        chairHeight === "" ||
+                        chairHeight === null ||
+                        chairHeight === undefined ||
+                        (chairHeight && chairHeight.min === null && chairHeight.max === null) ||
+                        (chairHeight && chairHeight.min === "" && chairHeight.max === "");
+                }
+                if (term === '__NOT_SPECIFIED__') {
+                    isMissing = isMissing ||
+                        !dimensions.chair_height ||
+                        !dimensions.seat_width_with_armrests ||
+                        !dimensions.seat_width ||
+                        !dimensions.chair_depth;
+                }
+            });
+
+            if (isMissing) {
+                console.log('Найден товар с отсутствующим параметром:', product.unique_name);
+                return true;
+            }
+            return false;
+        });
+    }
+                    else {
+                        filtered = filtered.filter(product => {
+                            const getFieldValue = (field) => {
+                                if (!field) return '';
+                                if (Array.isArray(field)) return field.join(' ').toLowerCase();
+                                if (typeof field === 'object') return Object.values(field).join(' ').toLowerCase();
+                                return String(field).toLowerCase();
+                            };
+                            const normalizedUniqueName = normalizeSearchTerm(getFieldValue(product.unique_name));
+                            const normalizedName = normalizeSearchTerm(getFieldValue(product.name));
+                            const normalizedUpholstery = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.upholstery_materials));
+                            const normalizedComponents = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.components));
+                            const normalizedDestiny = normalizeSearchTerm(getFieldValue(product.destiny));
+
+                           return searchTerms.every(term =>
+                normalizedUniqueName.includes(term) ||
+                normalizedName.includes(term) ||
+                normalizedUpholstery.includes(term) ||
+                normalizedComponents.includes(term) ||
+                normalizedDestiny.includes(term)
+            );
+                        });
+                    }
                 }
 
                 // Фильтрация по высоте
@@ -473,8 +553,8 @@
 
                 filteredProducts = filtered;
                 document.getElementById('productsCountValue').textContent = filteredProducts.length;
-
                 console.log(`Актуальное количество отфильтрованных товаров: ${filteredProducts.length}`);
+                console.log('Первые 3 товара:', filteredProducts.slice(0, 3));
 
                 buildOverallChart(filteredProducts);
 
@@ -639,16 +719,34 @@
             }
 
             // Функция нормализации поискового запроса
-            function normalizeSearchTerm(term) {
-                return term
-                    .replace(/люкс|lux|LUX|Lyuks|Lyux|Liuks|Liux|люкc|ЛЮКС|ЛЮКС/gi, 'люкс')
-                    .replace(/полозья|Н_п|Нп|полоз/gi, 'полозья')
-                    .replace(/велюр|велютто|velu|velur/gi, 'велюр')
-                    .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
-                    .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок')
-                    .toLowerCase()
-                    .trim();
-            }
+function normalizeSearchTerm(term) {
+    term = term.toLowerCase().trim();
+
+    // Проверяем на параметры с "не указана"
+    if (term.includes('высота не указана') || term.includes('h не указана')) {
+        return '__NOT_SPECIFIED_H__';
+    }
+    if (term.includes('ширина не указана') || term.includes('w не указана')) {
+        return '__NOT_SPECIFIED_W__';
+    }
+    if (term.includes('ширина с подлокотниками не указана') || term.includes('w+ не указана')) {
+        return '__NOT_SPECIFIED_W_PLUS__';
+    }
+    if (term.includes('глубина не указана') || term.includes('d не указана')) {
+        return '__NOT_SPECIFIED_D__';
+    }
+
+    // Остальные замены
+    if (term === 'не указана' || term === 'не указано' || term === 'не указан') {
+        return '__NOT_SPECIFIED__';
+    }
+
+    return term;
+}
+
+
+
+
 
             // Функция для построения диаграммы
             function buildOverallChart(products) {
