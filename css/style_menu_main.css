@@ -368,7 +368,7 @@ h3 {
   /* Начальное состояние: прозрачность 0 */
 }
 
-#finish-filter-content {
+#load-filter-content {
   margin-bottom: 100px;
 }
 
@@ -408,14 +408,12 @@ h3 {
   /* Центрирование по горизонтали */
   height: 40px;
   /* Фиксированная высота для кнопки */
-  width: 100%;
+  width: 90%;
   /* Ширина на всю карточку */
   margin: 10px auto 0;
   /* Отступ сверху и по бокам */
-  position: absolute;
   bottom: 10px;
   /* Прижимаем кнопку к низу карточки */
-  left: 0;
   margin-bottom: 10px;
 }
 
