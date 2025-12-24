@@ -397,8 +397,9 @@
            opacity: 0;
            /* Начальное состояние: прозрачность 0 */
        }
+
        #load-filter-content {
-            margin-bottom: 100px;
+           margin-bottom: 100px;
        }
 
        .filter-content.expanded {
@@ -441,10 +442,10 @@
            /* Ширина на всю карточку */
            margin: 10px auto 0;
            /* Отступ сверху и по бокам */
-        //    position: absolute;
+           //    position: absolute;
            bottom: 10px;
            /* Прижимаем кнопку к низу карточки */
-        //    left: 0;
+           //    left: 0;
            margin-bottom: 10px;
        }
 
