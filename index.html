@@ -113,8 +113,7 @@
                 <label><input type="checkbox" class="mechanism-filter" value="TG|tg|тг|топ-ган|Топ-ган"> Топ-ган</label>
                 <label><input type="checkbox" class="mechanism-filter" value="GTP|gtp|Gtp|GTS|gts|Gts|ЖТС|жтс">
                     GTP/GTS</label>
-                <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб|MB">
-                    Мультиблок</label>
+                <label><input type="checkbox" class="mechanism-filter" value="мультиблок|mb|MB|Mb| мб|MB"> Мультиблок</label>
                 <label><input type="checkbox" class="mechanism-filter" value="ПВМ|пвм"> ПВМ</label>
                 <label><input type="checkbox" class="mechanism-filter" value="CPT|срт"> CPT</label>
                 <label><input type="checkbox" class="mechanism-filter" value=" О | O | о | o |_о_|овалина">
@@ -502,19 +501,16 @@
                             });
                         }
 
-                        // Проверяем конструктив (если выбран)
-                        let mechanismMatch = true;
+                        // Проверка по механизмам (должно соответствовать хотя бы одному выбранному)
                         if (mechanismFilters.length > 0) {
                             mechanismMatch = mechanismFilters.every(filter => {
                                 const patterns = filter.split('|');
-                                const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-                                return patterns.some(pattern => {
-                                    const lowerPattern = pattern.toLowerCase();
-                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                    return regex.test(cleanedUniqueName);
-                                });
+                                const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
+                                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
                             });
                         }
+
+
 
                         // Проверяем исполнение (если выбрано)
                         let finishMatch = true;
