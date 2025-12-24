@@ -151,8 +151,8 @@ h3 {
 
 .product-tooltip {
   position: absolute;
-  top: 5px;
-  right: 5px;
+  top: 0px;
+  right: 0px;
   background: rgba(0, 0, 0, 0.03);
   color: rgb(105, 104, 104);
   padding: 3px 6px;
