@@ -153,6 +153,7 @@
             <div class="checkbox-group">
                 <label><input type="checkbox" class="load-filter" value="90"> 90 кг</label>
                 <label><input type="checkbox" class="load-filter" value="120"> 120 кг</label>
+                <label><input type="checkbox" class="load-filter" value="130"> 130 кг</label>
                 <label><input type="checkbox" class="load-filter" value="150"> 150 кг</label>
                 <label><input type="checkbox" class="load-filter" value="180"> 180 кг</label>
                 <label><input type="checkbox" class="load-filter" value="210"> 210 кг</label>
@@ -488,19 +489,31 @@
                     filtered = filtered.filter(product => {
                         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
-                        // Проверяем подлокотники (если выбраны)
+                        // Фильтрация по подлокотникам (если выбраны)
                         let armrestMatch = true;
                         if (armrestFilters.length > 0) {
-                            armrestMatch = armrestFilters.every(filter => {
+                            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+                            // Если первое слово совпадает с любым из фильтров — исключаем из результата
+                            const isFirstWordInFilter = armrestFilters.some(filter => {
                                 const patterns = filter.split('|');
-                                const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-                                return patterns.some(pattern => {
-                                    const lowerPattern = pattern.toLowerCase();
-                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                    return regex.test(cleanedUniqueName);
-                                });
+                                return patterns.some(pattern => firstWord === pattern.toLowerCase());
                             });
+                            if (isFirstWordInFilter) {
+                                armrestMatch = false; // Исключаем из результата
+                            } else {
+                                // Обычная логика фильтрации
+                                armrestMatch = armrestFilters.every(filter => {
+                                    const patterns = filter.split('|');
+                                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                                    return patterns.some(pattern => {
+                                        const lowerPattern = pattern.toLowerCase();
+                                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                        return regex.test(cleanedUniqueName);
+                                    });
+                                });
+                            }
                         }
+
 
                         // Проверяем конструктив (если выбран)
                         let mechanismMatch = mechanismFilters.length === 0;
@@ -543,17 +556,28 @@
                             });
                         }
 
-                        // Проверяем нагрузку (если выбрана)
-                        let loadMatch = true;
-                        if (loadFilters.length > 0) {
-                            const maxLoad = product.guarantee?.[0]?.max_load;
-                            if (!maxLoad) {
-                                loadMatch = false;
-                            } else {
-                                // Проверяем, что max_load строго равен одному из выбранных значений
-                                loadMatch = loadFilters.some(load => String(maxLoad) === load);
-                            }
-                        }
+ // Проверяем нагрузку (если выбрана)
+let loadMatch = true;
+if (loadFilters.length > 0) {
+    const maxLoad = product.guarantee?.[0]?.max_load;
+    if (!maxLoad) {
+        loadMatch = false;
+    } else {
+        // Если выбран "other", то пропускаем товары, у которых max_load не входит в стандартный список
+        const standardLoads = ["90", "120", "130", "150", "180", "210"];
+        const isOtherSelected = loadFilters.includes("other");
+        const isStandardLoad = standardLoads.includes(String(maxLoad));
+
+        if (isOtherSelected && !isStandardLoad) {
+            loadMatch = true; // Пропускаем, если нагрузка нестандартная и выбран "other"
+        } else if (!isOtherSelected && isStandardLoad) {
+            loadMatch = loadFilters.some(load => String(maxLoad) === load); // Стандартная логика
+        } else {
+            loadMatch = false;
+        }
+    }
+}
+
 
 
 
