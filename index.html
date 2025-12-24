@@ -505,12 +505,24 @@
                         // Проверяем конструктив (если выбран)
                         let mechanismMatch = mechanismFilters.length === 0;
                         if (mechanismFilters.length > 0) {
+                            const cleanedUniqueName = uniqueName
+                                .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ') // Убираем MB с цифрами (например, А-001-MB)
+                                .trim()
+                                .toLowerCase();
+                            console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
+
                             mechanismMatch = mechanismFilters.every(filter => {
                                 const patterns = filter.split('|');
-                                const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
-                                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                                return patterns.some(pattern => {
+                                    const lowerPattern = pattern.toLowerCase().trim();
+                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                    const isMatch = regex.test(cleanedUniqueName);
+                                    console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
+                                    return isMatch;
+                                });
                             });
                         }
+
 
                         // Проверяем исполнение (если выбрано)
                         let finishMatch = true;
