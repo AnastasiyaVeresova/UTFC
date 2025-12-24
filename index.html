@@ -121,7 +121,7 @@
                 <label><input type="checkbox" class="mechanism-filter" value="EG|eg"> EG</label>
                 <label><input type="checkbox" class="mechanism-filter" value="н_п|н-п|нп|полозья|Н_п|В_п|в_п">
                     Полозья</label>
-                <label><input type="checkbox" class="mechanism-filter" value="подг"> Подголовник</label>
+                <label><input type="checkbox" class="mechanism-filter" value="подг|подголовник|подголовником"> Подголовник</label>
                 <label><input type="checkbox" class="mechanism-filter" value="стол"> Столик</label>
             </div>
         </div>
@@ -136,9 +136,9 @@
                 <label><input type="checkbox" class="finish-filter" value="хром| ch| CH| Ch"> Хром</label>
                 <label><input type="checkbox" class="finish-filter" value="пластик|пластик-люкс|pl|ppl"> Пластик</label>
                 <label><input type="checkbox" class="finish-filter" value="дерев|дерево"> Дерево</label>
-                <label><input type="checkbox" class="finish-filter" value="бел|white"> Белый</label>
-                <label><input type="checkbox" class="finish-filter" value="черн|black|bl"> Черный</label>
-                <label><input type="checkbox" class="finish-filter" value="сер|grey|gray"> Серый</label>
+                <label><input type="checkbox" class="finish-filter" value="бел|белый|white"> Белый</label>
+                <label><input type="checkbox" class="finish-filter" value="черн|черный|black|bl"> Черный</label>
+                <label><input type="checkbox" class="finish-filter" value="сер|серый|grey|gray"> Серый</label>
             </div>
         </div>
     </div>
@@ -364,6 +364,20 @@
                     productsContainer.innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже</p>';
                 });
 
+                function searchInObject(obj, searchTerm) {
+    if (!obj) return false;
+    if (typeof obj === 'string') {
+        return normalizeSearchTerm(obj).includes(searchTerm);
+    }
+    if (Array.isArray(obj)) {
+        return obj.some(item => searchInObject(item, searchTerm));
+    }
+    if (typeof obj === 'object') {
+        return Object.values(obj).some(value => searchInObject(value, searchTerm));
+    }
+    return false;
+}
+
             // Функция фильтрации
             function filterProducts() {
                 const minHeightInput = document.getElementById('minHeight');
@@ -438,42 +452,60 @@
                 // }
 
 // Фильтрация по подлокотникам, конструктиву и исполнению
-// При такой фильтрации будет происходить добавление только полностью соответствующих
 if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0) {
     filtered = filtered.filter(product => {
         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
-        // Проверяем, что ВСЕ выбранные подлокотники есть в наименовании
+        // Проверяем подлокотники (если выбраны)
         let armrestMatch = true;
         if (armrestFilters.length > 0) {
             armrestMatch = armrestFilters.every(filter => {
                 const patterns = filter.split('|');
-                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                return patterns.some(pattern => {
+                    const lowerPattern = pattern.toLowerCase();
+                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                    return regex.test(cleanedUniqueName);
+                });
             });
         }
 
-        // Проверяем, что ВСЕ выбранные конструктивы есть в наименовании
+        // Проверяем конструктив (если выбран)
         let mechanismMatch = true;
         if (mechanismFilters.length > 0) {
             mechanismMatch = mechanismFilters.every(filter => {
                 const patterns = filter.split('|');
-                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                return patterns.some(pattern => {
+                    const lowerPattern = pattern.toLowerCase();
+                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                    return regex.test(cleanedUniqueName);
+                });
             });
         }
 
-        // Проверяем, что ВСЕ выбранные исполнения есть в наименовании
+        // Проверяем исполнение (если выбрано)
         let finishMatch = true;
         if (finishFilters.length > 0) {
+            const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim().toLowerCase();
+            console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
+
+            // Проверяем, что для каждого выбранного фильтра хотя бы один его паттерн совпадает
             finishMatch = finishFilters.every(filter => {
                 const patterns = filter.split('|');
-                return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+                return patterns.some(pattern => {
+                    const lowerPattern = pattern.toLowerCase().trim();
+                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                    const isMatch = regex.test(cleanedUniqueName);
+                    console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
+                    return isMatch;
+                });
             });
         }
 
         return armrestMatch && mechanismMatch && finishMatch;
     });
 }
-
 
 
 
@@ -555,31 +587,42 @@ const hasNotSpecifiedTerm = searchTerms.some(term =>
             }
             return false;
         });
-    }
-                    else {
-                        filtered = filtered.filter(product => {
-                            const getFieldValue = (field) => {
-                                if (!field) return '';
-                                if (Array.isArray(field)) return field.join(' ').toLowerCase();
-                                if (typeof field === 'object') return Object.values(field).join(' ').toLowerCase();
-                                return String(field).toLowerCase();
-                            };
-                            const normalizedUniqueName = normalizeSearchTerm(getFieldValue(product.unique_name));
-                            const normalizedName = normalizeSearchTerm(getFieldValue(product.name));
-                            const normalizedUpholstery = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.upholstery_materials));
-                            const normalizedComponents = normalizeSearchTerm(getFieldValue(product.construction_and_materials?.[0]?.components));
-                            const normalizedDestiny = normalizeSearchTerm(getFieldValue(product.destiny));
-
-                           return searchTerms.every(term =>
-                normalizedUniqueName.includes(term) ||
-                normalizedName.includes(term) ||
-                normalizedUpholstery.includes(term) ||
-                normalizedComponents.includes(term) ||
-                normalizedDestiny.includes(term)
-            );
-                        });
-                    }
+    } else {
+        filtered = filtered.filter(product => {
+            return searchTerms.every(term => {
+                // Если терм — число, ищем в числовых полях
+                if (!isNaN(term)) {
+                    const numSearch = parseFloat(term);
+                    const dimensions = product.dimensions_details?.[0] || {};
+                    const checkNumericField = (field) => {
+                        if (!field) return false;
+                        if (typeof field === 'object') {
+                            const min = parseFloat(field.min);
+                            const max = parseFloat(field.max);
+                            return (!isNaN(min) && min === numSearch) || (!isNaN(max) && max === numSearch);
+                        }
+                        return parseFloat(field) === numSearch;
+                    };
+                    return (
+                        checkNumericField(dimensions.chair_height) ||
+                        checkNumericField(dimensions.chair_depth) ||
+                        checkNumericField(dimensions.seat_width) ||
+                        checkNumericField(dimensions.seat_width_with_armrests) ||
+                        checkNumericField(dimensions.seat_depth) ||
+                        checkNumericField(dimensions.backrest_height) ||
+                        checkNumericField(dimensions.backrest_to_seat_height) ||
+                        checkNumericField(dimensions.diameter_cross) ||
+                        checkNumericField(dimensions.runners_width) ||
+                        checkNumericField(dimensions.runners_depth) ||
+                        searchInObject(product, term)
+                    );
+                } else {
+                    return searchInObject(product, term);
                 }
+            });
+        });
+    }
+}
 
                 // Фильтрация по высоте
                 if (!(min === minSliderValue && max === maxSliderValue)) {
@@ -598,7 +641,7 @@ const hasNotSpecifiedTerm = searchTerms.some(term =>
                 filteredProducts = filtered;
                 document.getElementById('productsCountValue').textContent = filteredProducts.length;
                 console.log(`Актуальное количество отфильтрованных товаров: ${filteredProducts.length}`);
-                console.log('Первые 3 товара:', filteredProducts.slice(0, 3));
+                // console.log('Первые 3 товара:', filteredProducts.slice(0, 3));
 
                 buildOverallChart(filteredProducts);
 
