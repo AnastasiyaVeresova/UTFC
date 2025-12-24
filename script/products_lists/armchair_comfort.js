@@ -18,7 +18,6 @@ const knownProducts = [
   "Йота м-805 black pl",
   "Йота м-805 gray ch",
   "Йота м-805 white ch",
-  "Йота хром",
   "Квадро м-807 black pl",
   "Квадро м-807 white ch",
   "Кембридж сн-502 н_п",

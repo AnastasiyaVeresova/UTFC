@@ -356,10 +356,6 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
-    "name": "Йота хром",
-    "category": "armchair_comfort"
-  },
-  {
     "name": "Кайман в топ-ган lux",
     "category": "armchair_rukovoditel"
   },
@@ -1196,4 +1192,3 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   }
 ];
-window.knownProductsAllFiles = knownProductsAllFiles;
