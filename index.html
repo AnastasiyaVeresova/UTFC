@@ -801,7 +801,7 @@ if (loadFilters.length > 0) {
                     const armrestHeightFromSeat = product.dimensions_details?.[0]?.armrest_height_from_seat;
                     const seatDepth = product.dimensions_details?.[0]?.seat_depth;
                     const backrestHeight = product.dimensions_details?.[0]?.backrest_height;
-                    const backrestToSeatHeight = product.dimensions_details?.[0]?.backrest_to_seat_height;
+                    const backrestToSeatHeight = product.dimensions_details?.[0]?.height_backrest_seat;
                     const seatWidth = product.dimensions_details?.[0]?.seat_width;
                     const diameterCross = product.dimensions_details?.[0]?.diameter_cross;
                     const runnersWidth = product.dimensions_details?.[0]?.runners_width;
@@ -813,6 +813,24 @@ if (loadFilters.length > 0) {
                     const volume = product.dimensions?.[0]?.volume;
                     const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
 
+                    // Получаем данные по упаковкам
+                    const packagingData = product.dimensions?.[0]?.packaging_type || [];
+                    let bruttoIndividual = null, nettoIndividual = null, volumeIndividual = null;
+                    let bruttoBox4 = null, nettoBox4 = null, volumeBox4 = null;
+
+                    packagingData.forEach(pack => {
+                        if (pack.type === 'individual') {
+                            bruttoIndividual = pack.brutto;
+                            nettoIndividual = pack.netto;
+                            volumeIndividual = pack.volume;
+                        } else if (pack.type === 'box4') {
+                            bruttoBox4 = pack.brutto;
+                            nettoBox4 = pack.netto;
+                            volumeBox4 = pack.volume;
+                        }
+                    });
+
+                    // Формируем текст для детальной всплывающей подсказки
                     let detailedTooltipText = `
                         <strong>${productName}</strong><br><br>
                         ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
@@ -830,11 +848,31 @@ if (loadFilters.length > 0) {
                         ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев/ножек:</strong> ${runnersWidth.min || ''}${runnersWidth.min && runnersWidth.max ? ' - ' : ''}${runnersWidth.max || ''} мм<br>` : ''}
                         ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев/ножек:</strong> ${runnersDepth.min || ''}${runnersDepth.min && runnersDepth.max ? ' - ' : ''}${runnersDepth.max || ''} мм<br>` : ''}
                         ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
-                        ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
-                        ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
-                        ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
+                    `;
+
+                    // Если есть packaging_type, добавляем данные по упаковкам
+                    if (packagingData.length > 0) {
+                        detailedTooltipText += `
+                            ${bruttoIndividual ? `<strong>Вес брутто (индивидуальная):</strong> ${bruttoIndividual} кг<br>` : ''}
+                            ${nettoIndividual ? `<strong>Вес нетто (индивидуальная):</strong> ${nettoIndividual} кг<br>` : ''}
+                            ${volumeIndividual ? `<strong>Объем (индивидуальная):</strong> ${volumeIndividual} м³<br>` : ''}
+                            ${bruttoBox4 ? `<strong>Вес брутто (BOX4):</strong> ${bruttoBox4} кг<br>` : ''}
+                            ${nettoBox4 ? `<strong>Вес нетто (BOX4):</strong> ${nettoBox4} кг<br>` : ''}
+                            ${volumeBox4 ? `<strong>Объем (BOX4):</strong> ${volumeBox4} м³<br>` : ''}
+                        `;
+                    } else {
+                        // Если нет packaging_type, используем старые данные
+                        detailedTooltipText += `
+                            ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
+                            ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
+                            ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
+                        `;
+                    }
+
+                    detailedTooltipText += `
                         ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
                     `;
+
 
                     const productCard = document.createElement('div');
                     productCard.className = 'product-card';
@@ -947,41 +985,68 @@ if (loadFilters.length > 0) {
                     { name: 'Глубина полозьев/ножек (мм)', key: 'runners_depth' },
                     { name: 'Макс. нагрузка (кг)', key: 'max_load', source: 'guarantee' },
                     { name: 'Рекоменд. нагрузка (кг)', key: 'recommended_load', source: 'guarantee' },
-                    { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
+                                        { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
                     { name: 'Вес нетто (кг)', key: 'netto', source: 'dimensions' },
                     { name: 'Объем (м³)', key: 'volume', source: 'dimensions' }
+
                 ];
 
-                parameters.forEach(param => {
-                    const data = products.map(p => {
-                        let value;
-                        if (param.source === 'guarantee') {
-                            value = p.guarantee?.[0]?.[param.key];
-                        } else if (param.source === 'dimensions') {
-                            value = p.dimensions?.[0]?.[param.key];
-                        } else {
-                            const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
-                            const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
-                            if (minValue !== null && maxValue !== null) {
-                                value = Math.max(minValue, maxValue);
-                            } else if (minValue !== null) {
-                                value = minValue;
-                            } else if (maxValue !== null) {
-                                value = maxValue;
-                            }
-                        }
-                        return parseNumber(value);
-                    });
-                    if (data.some(val => val !== null)) {
-                        traces.push({
-                            x: productNames,
-                            y: data,
-                            name: param.name,
-                            type: 'scatter',
-                            mode: 'lines+markers'
-                        });
+parameters.forEach(param => {
+    const data = products.map(p => {
+        // Для веса и объёма сначала ищем в packaging (индивидуальная упаковка)
+        if (['brutto', 'netto', 'volume'].includes(param.key)) {
+            const packs = p.dimensions?.[0]?.packaging_type || [];
+            const indivPacks = packs.filter(pk => pk.type === 'individual');
+            if (indivPacks.length > 0) {
+                const value = parseNumber(indivPacks[0][param.key]);
+                if (value !== null) return value;
+            }
+            // Если нет в индивидуальной упаковке, ищем в dimensions
+            const dimValue = p.dimensions?.[0]?.[param.key];
+            return parseNumber(dimValue);
+        }
+        // Для остальных параметров - стандартная логика
+        if (param.source === 'packaging') {
+            const packs = p.dimensions?.[0]?.packaging_type || [];
+            const filteredPacks = packs.filter(pk => pk.type === param.type);
+            if (filteredPacks.length > 0) {
+                const values = filteredPacks.map(pk => parseNumber(pk[param.key])).filter(v => v !== null);
+                return values.length > 0 ? Math.max(...values) : null;
+            }
+        }
+        // Если не нашли в packaging, ищем в dimensions
+        if (param.source === 'dimensions' || !param.source) {
+            let value;
+            if (param.source === 'guarantee') {
+                value = p.guarantee?.[0]?.[param.key];
+            } else {
+                value = p.dimensions?.[0]?.[param.key];
+                if (value === undefined) {
+                    const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+                    const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+                    if (minValue !== null && maxValue !== null) {
+                        value = Math.max(minValue, maxValue);
+                    } else if (minValue !== null) {
+                        value = minValue;
+                    } else if (maxValue !== null) {
+                        value = maxValue;
                     }
-                });
+                }
+            }
+            return parseNumber(value);
+        }
+        return null;
+    });
+    if (data.some(val => val !== null)) {
+        traces.push({
+            x: productNames,
+            y: data,
+            name: param.name,
+            type: 'scatter',
+            mode: 'lines+markers'
+        });
+    }
+});
 
                 const layout = {
                     title: { text: '', font: { family: 'Montserrat, sans-serif', size: 14 } },
@@ -998,6 +1063,7 @@ if (loadFilters.length > 0) {
                 Plotly.newPlot('overallChart', traces, layout, { responsive: true });
             }
 
+        });
             // Обработчик возврата назад
             window.addEventListener('pageshow', function (event) {
                 document.getElementById('searchInput').value = '';
@@ -1021,7 +1087,7 @@ if (loadFilters.length > 0) {
 
                 filterProducts();
             });
-        });
+
     </script>
 </body>
 

@@ -252,6 +252,28 @@
                color: $darkMainColorGrey;
            }
 
+           .box-info-row {
+               position: absolute;
+               right: 50px;
+               display: flex;
+               align-items: center;
+               gap: 10px;
+               font-size: 15px;
+               font-weight: bold;
+               color: $darkMainColorGrey;
+           }
+
+           .box-info-item {
+               display: flex;
+               align-items: center;
+               gap: 5px;
+           }
+
+           .box-info-item img {
+               width: 27px;
+               height: 27px;
+           }
+
            .box-info img {
                width: 27px;
                height: 27px;
@@ -262,9 +284,25 @@
                width: 2px;
                height: 24px;
                background: $darkMainColorGrey;
-               margin: 0 0px;
+               margin: 0 5px;
 
                /* отступы от иконки и текста */
+           }
+
+           .box-info-label {
+               margin-left: 10px;
+               font-size: 14px;
+               font-weight: normal;
+               white-space: nowrap;
+           }
+
+           /* Позиционирование новых блоков */
+           #box-info-individual {
+               top: 43%;
+           }
+
+           #box-info-box4 {
+               top: 48%;
            }
 
 

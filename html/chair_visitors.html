@@ -462,8 +462,28 @@
                         const netto = product.dimensions?.[0]?.netto;
                         const volume = product.dimensions?.[0]?.volume;
                         const upholstery = product.construction_and_materials?.[0]?.upholstery_materials?.[0];
-                        // Формируем текст для детальной всплывающей подсказки
-                        let detailedTooltipText = `
+// Получаем данные по упаковкам
+const packagingData = product.dimensions?.[0]?.packaging_type || [];
+let packagingText = '';
+if (packagingData && packagingData.length > 0) {
+    packagingData.forEach(pack => {
+        const type = pack.type || 'неизвестно';
+        const brutto = pack.brutto ? `, брутто: ${pack.brutto} кг` : '';
+        const netto = pack.netto ? `, нетто: ${pack.netto} кг` : '';
+        const volume = pack.volume ? `, объем: ${pack.volume} м³` : '';
+        packagingText += `<strong>Упаковка (${type}):</strong> ${brutto} ${netto} ${volume}<br>`;
+    });
+} else {
+    // Если нет packaging_type, используем старые данные
+    packagingText = `
+        ${product.dimensions?.[0]?.brutto ? `<strong>Вес брутто:</strong> ${product.dimensions[0].brutto} кг<br>` : ''}
+        ${product.dimensions?.[0]?.netto ? `<strong>Вес нетто:</strong> ${product.dimensions[0].netto} кг<br>` : ''}
+        ${product.dimensions?.[0]?.volume ? `<strong>Объем:</strong> ${product.dimensions[0].volume} м³<br>` : ''}
+    `;
+}
+
+// Формируем итоговый текст для подсказки
+let detailedTooltipText = `
     <strong>${productName}</strong><br><br>
     ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
     ${chairHeight?.min || chairHeight?.max ? `<br><strong>Высота кресла:</strong> ${chairHeight.min || ''}${chairHeight.min && chairHeight.max ? ' - ' : ''}${chairHeight.max || ''} мм<br>` : ''}
@@ -480,11 +500,10 @@
     ${runnersWidth?.min || runnersWidth?.max ? `<strong>Ширина полозьев/ножек:</strong> ${runnersWidth.min || ''}${runnersWidth.min && runnersWidth.max ? ' - ' : ''}${runnersWidth.max || ''} мм<br>` : ''}
     ${runnersDepth?.min || runnersDepth?.max ? `<strong>Глубина полозьев/ножек:</strong> ${runnersDepth.min || ''}${runnersDepth.min && runnersDepth.max ? ' - ' : ''}${runnersDepth.max || ''} мм<br>` : ''}
     ${boxSize ? `<strong>Размер коробки:</strong> ${boxSize}<br>` : ''}
-    ${brutto ? `<strong>Вес брутто:</strong> ${brutto} кг<br>` : ''}
-    ${netto ? `<strong>Вес нетто:</strong> ${netto} кг<br>` : ''}
-    ${volume ? `<strong>Объем:</strong> ${volume} м³<br>` : ''}
+    ${packagingText}
     ${maxLoad ? `<strong>Макс. нагрузка:</strong> ${maxLoad} кг<br>` : ''}
 `;
+
         const formattedUniqueName = formatProductName(uniqueName);
         const productCard = document.createElement('div');
         productCard.className = 'product-card';
@@ -758,11 +777,26 @@
                     { name: 'Рекоменд. нагрузка (кг)', key: 'recommended_load', source: 'guarantee' },
                     { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
                     { name: 'Вес нетто (кг)', key: 'netto', source: 'dimensions' },
-                    { name: 'Объем (м³)', key: 'volume', source: 'dimensions' }
+                    { name: 'Объем (м³)', key: 'volume', source: 'dimensions' },
+    { name: 'Вес брутто (индивидуальная), кг', key: 'brutto', source: 'packaging', type: 'individual' },
+    { name: 'Вес нетто (индивидуальная), кг', key: 'netto', source: 'packaging', type: 'individual' },
+    { name: 'Объем (индивидуальная), м³', key: 'volume', source: 'packaging', type: 'individual' },
+    { name: 'Вес брутто (BOX4), кг', key: 'brutto', source: 'packaging', type: 'box4' },
+    { name: 'Вес нетто (BOX4), кг', key: 'netto', source: 'packaging', type: 'box4' },
+    { name: 'Объем (BOX4), м³', key: 'volume', source: 'packaging', type: 'box4' },
                 ];
 
                 parameters.forEach(param => {
                     const data = products.map(p => {
+        if (param.source === 'packaging') {
+            const packs = p.dimensions?.[0]?.packaging_type || [];
+            const filteredPacks = packs.filter(pk => pk.type === param.type);
+            if (filteredPacks.length > 0) {
+                const values = filteredPacks.map(pk => parseNumber(pk[param.key])).filter(v => v !== null);
+                return values.length > 0 ? Math.max(...values) : null;
+            }
+            return null;
+        }
                         let value;
                         if (param.source === 'guarantee') {
                             value = p.guarantee?.[0]?.[param.key];

@@ -163,6 +163,9 @@ body {
   font-weight: bold;
 }
 
+.image_dimensions {
+  /* Позиционирование новых блоков */
+}
 .image_dimensions .image_name {
   position: absolute;
   top: 30px;
@@ -196,6 +199,25 @@ body {
   align-items: center;
   color: #3D4555;
 }
+.image_dimensions .box-info-row {
+  position: absolute;
+  right: 50px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #3D4555;
+}
+.image_dimensions .box-info-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.image_dimensions .box-info-item img {
+  width: 27px;
+  height: 27px;
+}
 .image_dimensions .box-info img {
   width: 27px;
   height: 27px;
@@ -205,8 +227,20 @@ body {
   width: 2px;
   height: 24px;
   background: #3D4555;
-  margin: 0 0px;
+  margin: 0 5px;
   /* отступы от иконки и текста */
+}
+.image_dimensions .box-info-label {
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: normal;
+  white-space: nowrap;
+}
+.image_dimensions #box-info-individual {
+  top: 43%;
+}
+.image_dimensions #box-info-box4 {
+  top: 48%;
 }
 .image_dimensions .side-view {
   max-width: 50%;
