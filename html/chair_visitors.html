@@ -120,7 +120,7 @@
             </h3>
             <div class="filter-content" id="finish-filter-content">
                 <div class="checkbox-group">
-                    <label><input type="checkbox" class="finish-filter" value="хром| ch| CH| Ch"> Хром</label>
+                    <label><input type="checkbox" class="finish-filter" value="хром| ch| CH| Ch| ch"> Хром</label>
                     <label><input type="checkbox" class="finish-filter" value="пластик|пластик-люкс|pl|ppl">
                         Пластик</label>
                     <label><input type="checkbox" class="finish-filter" value="дерев|дерево"> Дерево</label>
@@ -637,21 +637,24 @@ let detailedTooltipText = `
                         }
 
                         // Проверка по исполнению (должно соответствовать хотя бы одному выбранному)
-                        if (finishFilters.length > 0) {
-                            finishMatch = finishFilters.some(filter => {
-                                const patterns = filter.split('|');
-                                const fieldsToCheck = [
-                                    product.unique_name?.[0]?.toLowerCase(),
-                                    product.namefile?.[0]?.toLowerCase(),
-                                    product.name?.[0]?.toLowerCase(),
-                                ];
-                                return fieldsToCheck.some(field =>
-                                    field && patterns.some(pattern =>
-                                        field.includes(pattern.toLowerCase())
-                                    )
-                                );
-                            });
-                        }
+if (finishFilters.length > 0) {
+    finishMatch = finishFilters.some(filter => {
+        const patterns = filter.split('|');
+        const uniqueName = Array.isArray(product.unique_name) ? product.unique_name[0].toLowerCase() : product.unique_name.toLowerCase();
+
+        // Специальная обработка для фильтра "хром"
+if (filter.includes('хром') || filter.includes('ch')) {
+    return patterns.some(pattern => {
+        const regex = new RegExp(`\\b${pattern.trim()}\\b|${pattern.trim()}$|grey ${pattern.trim()}|black ${pattern.trim()}`, 'i');
+        return regex.test(uniqueName);
+    });
+}
+
+
+        // Для остальных фильтров — стандартная проверка
+        return patterns.some(pattern => uniqueName.includes(pattern.toLowerCase()));
+    });
+}
 
                         return armrestMatch && mechanismMatch && finishMatch;
                     });

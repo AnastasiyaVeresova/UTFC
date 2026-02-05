@@ -538,23 +538,27 @@
 
 
                         // Проверяем исполнение (если выбрано)
-                        let finishMatch = true;
-                        if (finishFilters.length > 0) {
-                            const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim().toLowerCase();
-                            console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
+// Внутри функции filterProducts, в блоке проверки finishMatch:
+let finishMatch = true;
+if (finishFilters.length > 0) {
+    const cleanedUniqueName = uniqueName.toLowerCase();
+    finishMatch = finishFilters.every(filter => {
+        const patterns = filter.split('|');
+        return patterns.some(pattern => {
+            const lowerPattern = pattern.toLowerCase().trim();
+            // Для "хрома" отдельная логика
+            if (lowerPattern === 'хром' || lowerPattern === 'ch') {
+                // Ищем "ch" или "хром" как отдельное слово, но не в составе артикула или других слов
+                const regex = /(^|\s)(ch|хром)(\s|$)/i;
+                return regex.test(cleanedUniqueName);
+            }
+            // Для остальных фильтров — стандартная логика
+            const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+            return regex.test(cleanedUniqueName);
+        });
+    });
+}
 
-                            // Проверяем, что для каждого выбранного фильтра хотя бы один его паттерн совпадает
-                            finishMatch = finishFilters.every(filter => {
-                                const patterns = filter.split('|');
-                                return patterns.some(pattern => {
-                                    const lowerPattern = pattern.toLowerCase().trim();
-                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                    const isMatch = regex.test(cleanedUniqueName);
-                                    console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
-                                    return isMatch;
-                                });
-                            });
-                        }
 
  // Проверяем нагрузку (если выбрана)
 let loadMatch = true;
