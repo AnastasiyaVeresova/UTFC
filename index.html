@@ -484,111 +484,205 @@
                 //     });
                 // }
 
-                // Фильтрация по подлокотникам, конструктиву и исполнению
-                if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
-                    filtered = filtered.filter(product => {
-                        const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
+//                 // Фильтрация по подлокотникам, конструктиву и исполнению
+//                 if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
+//                     filtered = filtered.filter(product => {
+//                         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
-                        // Фильтрация по подлокотникам (если выбраны)
-                        let armrestMatch = true;
-                        if (armrestFilters.length > 0) {
-                            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
-                            // Если первое слово совпадает с любым из фильтров — исключаем из результата
-                            const isFirstWordInFilter = armrestFilters.some(filter => {
-                                const patterns = filter.split('|');
-                                return patterns.some(pattern => firstWord === pattern.toLowerCase());
-                            });
-                            if (isFirstWordInFilter) {
-                                armrestMatch = false; // Исключаем из результата
-                            } else {
-                                // Обычная логика фильтрации
-                                armrestMatch = armrestFilters.every(filter => {
-                                    const patterns = filter.split('|');
-                                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-                                    return patterns.some(pattern => {
-                                        const lowerPattern = pattern.toLowerCase();
-                                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                        return regex.test(cleanedUniqueName);
-                                    });
-                                });
-                            }
-                        }
-
-
-                        // Проверяем конструктив (если выбран)
-                        let mechanismMatch = mechanismFilters.length === 0;
-                        if (mechanismFilters.length > 0) {
-                            const cleanedUniqueName = uniqueName
-                                .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ') // Убираем MB с цифрами (например, А-001-MB)
-                                .trim()
-                                .toLowerCase();
-                            console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
-
-                            mechanismMatch = mechanismFilters.every(filter => {
-                                const patterns = filter.split('|');
-                                return patterns.some(pattern => {
-                                    const lowerPattern = pattern.toLowerCase().trim();
-                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                    const isMatch = regex.test(cleanedUniqueName);
-                                    console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
-                                    return isMatch;
-                                });
-                            });
-                        }
+//                         // Фильтрация по подлокотникам (если выбраны)
+//                         let armrestMatch = true;
+//                         if (armrestFilters.length > 0) {
+//                             const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+//                             // Если первое слово совпадает с любым из фильтров — исключаем из результата
+//                             const isFirstWordInFilter = armrestFilters.some(filter => {
+//                                 const patterns = filter.split('|');
+//                                 return patterns.some(pattern => firstWord === pattern.toLowerCase());
+//                             });
+//                             if (isFirstWordInFilter) {
+//                                 armrestMatch = false; // Исключаем из результата
+//                             } else {
+//                                 // Обычная логика фильтрации
+//                                 armrestMatch = armrestFilters.every(filter => {
+//                                     const patterns = filter.split('|');
+//                                     const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+//                                     return patterns.some(pattern => {
+//                                         const lowerPattern = pattern.toLowerCase();
+//                                         const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+//                                         return regex.test(cleanedUniqueName);
+//                                     });
+//                                 });
+//                             }
+//                         }
 
 
-                        // Проверяем исполнение (если выбрано)
-// Внутри функции filterProducts, в блоке проверки finishMatch:
-let finishMatch = true;
-if (finishFilters.length > 0) {
-    const cleanedUniqueName = uniqueName.toLowerCase();
-    finishMatch = finishFilters.every(filter => {
-        const patterns = filter.split('|');
-        return patterns.some(pattern => {
-            const lowerPattern = pattern.toLowerCase().trim();
-            // Для "хрома" отдельная логика
-            if (lowerPattern === 'хром' || lowerPattern === 'ch') {
-                // Ищем "ch" или "хром" как отдельное слово, но не в составе артикула или других слов
-                const regex = /(^|\s)(ch|хром)(\s|$)/i;
-                return regex.test(cleanedUniqueName);
+//                         // Проверяем конструктив (если выбран)
+//                         let mechanismMatch = mechanismFilters.length === 0;
+//                         if (mechanismFilters.length > 0) {
+//                             const cleanedUniqueName = uniqueName
+//                                 .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ') // Убираем MB с цифрами (например, А-001-MB)
+//                                 .trim()
+//                                 .toLowerCase();
+//                             console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
+
+//                             mechanismMatch = mechanismFilters.every(filter => {
+//                                 const patterns = filter.split('|');
+//                                 return patterns.some(pattern => {
+//                                     const lowerPattern = pattern.toLowerCase().trim();
+//                                     const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+//                                     const isMatch = regex.test(cleanedUniqueName);
+//                                     console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
+//                                     return isMatch;
+//                                 });
+//                             });
+//                         }
+
+
+//                         // Проверяем исполнение (если выбрано)
+// // Внутри функции filterProducts, в блоке проверки finishMatch:
+// let finishMatch = true;
+// if (finishFilters.length > 0) {
+//     const cleanedUniqueName = uniqueName.toLowerCase();
+//     finishMatch = finishFilters.every(filter => {
+//         const patterns = filter.split('|');
+//         return patterns.some(pattern => {
+//             const lowerPattern = pattern.toLowerCase().trim();
+//             // Для "хрома" отдельная логика
+//             if (lowerPattern === 'хром' || lowerPattern === 'ch') {
+//                 // Ищем "ch" или "хром" как отдельное слово, но не в составе артикула или других слов
+//                 const regex = /(^|\s)(ch|хром)(\s|$)/i;
+//                 return regex.test(cleanedUniqueName);
+//             }
+//             // Для остальных фильтров — стандартная логика
+//             const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+//             return regex.test(cleanedUniqueName);
+//         });
+//     });
+// }
+
+
+//  // Проверяем нагрузку (если выбрана)
+// let loadMatch = true;
+// if (loadFilters.length > 0) {
+//     const maxLoad = product.guarantee?.[0]?.max_load;
+//     if (!maxLoad) {
+//         loadMatch = false;
+//     } else {
+//         // Если выбран "other", то пропускаем товары, у которых max_load не входит в стандартный список
+//         const standardLoads = ["90", "120", "130", "150", "180", "210"];
+//         const isOtherSelected = loadFilters.includes("other");
+//         const isStandardLoad = standardLoads.includes(String(maxLoad));
+
+//         if (isOtherSelected && !isStandardLoad) {
+//             loadMatch = true; // Пропускаем, если нагрузка нестандартная и выбран "other"
+//         } else if (!isOtherSelected && isStandardLoad) {
+//             loadMatch = loadFilters.some(load => String(maxLoad) === load); // Стандартная логика
+//         } else {
+//             loadMatch = false;
+//         }
+//     }
+// }
+
+
+
+
+
+//                         return armrestMatch && mechanismMatch && finishMatch && loadMatch;
+//                     });
+//                 }
+// Фильтрация по подлокотникам, конструктиву и исполнению
+if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
+    filtered = filtered.filter(product => {
+        const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
+
+        // Фильтрация по подлокотникам (если выбраны)
+        let armrestMatch = true;
+        if (armrestFilters.length > 0) {
+            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+            const isFirstWordInFilter = armrestFilters.some(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => firstWord === pattern.toLowerCase());
+            });
+            if (isFirstWordInFilter) {
+                armrestMatch = false;
+            } else {
+                armrestMatch = armrestFilters.every(filter => {
+                    const patterns = filter.split('|');
+                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                    return patterns.some(pattern => {
+                        const lowerPattern = pattern.toLowerCase();
+                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                        return regex.test(cleanedUniqueName);
+                    });
+                });
             }
-            // Для остальных фильтров — стандартная логика
-            const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-            return regex.test(cleanedUniqueName);
-        });
+        }
+
+        // Проверяем "подголовник" по всем текстовым полям
+        let podgоловnikMatch = true;
+        if (mechanismFilters.includes("подг|подголовник|подголовником")) {
+            podgоловnikMatch = searchInObject(product, "подголовник");
+        }
+
+        // Проверяем остальные конструктивы (кроме "подголовник")
+        let otherMechanismMatch = true;
+        const otherMechanismFilters = mechanismFilters.filter(f => !f.includes("подг"));
+        if (otherMechanismFilters.length > 0) {
+            const cleanedUniqueName = uniqueName
+                .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ')
+                .trim()
+                .toLowerCase();
+            otherMechanismMatch = otherMechanismFilters.every(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => {
+                    const lowerPattern = pattern.toLowerCase().trim();
+                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                    return regex.test(cleanedUniqueName);
+                });
+            });
+        }
+
+        // Проверяем исполнение (если выбрано)
+        let finishMatch = true;
+        if (finishFilters.length > 0) {
+            const cleanedUniqueName = uniqueName.toLowerCase();
+            finishMatch = finishFilters.every(filter => {
+                const patterns = filter.split('|');
+                return patterns.some(pattern => {
+                    const lowerPattern = pattern.toLowerCase().trim();
+                    if (lowerPattern === 'хром' || lowerPattern === 'ch') {
+                        const regex = /(^|\s)(ch|хром)(\s|$)/i;
+                        return regex.test(cleanedUniqueName);
+                    }
+                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                    return regex.test(cleanedUniqueName);
+                });
+            });
+        }
+
+        // Проверяем нагрузку (если выбрана)
+        let loadMatch = true;
+        if (loadFilters.length > 0) {
+            const maxLoad = product.guarantee?.[0]?.max_load;
+            if (!maxLoad) {
+                loadMatch = false;
+            } else {
+                const standardLoads = ["90", "120", "130", "150", "180", "210"];
+                const isOtherSelected = loadFilters.includes("other");
+                const isStandardLoad = standardLoads.includes(String(maxLoad));
+
+                if (isOtherSelected && !isStandardLoad) {
+                    loadMatch = true;
+                } else if (!isOtherSelected && isStandardLoad) {
+                    loadMatch = loadFilters.some(load => String(maxLoad) === load);
+                } else {
+                    loadMatch = false;
+                }
+            }
+        }
+
+        return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch;
     });
 }
-
-
- // Проверяем нагрузку (если выбрана)
-let loadMatch = true;
-if (loadFilters.length > 0) {
-    const maxLoad = product.guarantee?.[0]?.max_load;
-    if (!maxLoad) {
-        loadMatch = false;
-    } else {
-        // Если выбран "other", то пропускаем товары, у которых max_load не входит в стандартный список
-        const standardLoads = ["90", "120", "130", "150", "180", "210"];
-        const isOtherSelected = loadFilters.includes("other");
-        const isStandardLoad = standardLoads.includes(String(maxLoad));
-
-        if (isOtherSelected && !isStandardLoad) {
-            loadMatch = true; // Пропускаем, если нагрузка нестандартная и выбран "other"
-        } else if (!isOtherSelected && isStandardLoad) {
-            loadMatch = loadFilters.some(load => String(maxLoad) === load); // Стандартная логика
-        } else {
-            loadMatch = false;
-        }
-    }
-}
-
-
-
-
-
-                        return armrestMatch && mechanismMatch && finishMatch && loadMatch;
-                    });
-                }
 
 
 
