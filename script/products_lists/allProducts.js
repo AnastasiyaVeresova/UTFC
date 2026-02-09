@@ -184,7 +184,7 @@ const knownProductsAllFiles = [
     "category": "chair_cafe_and_bar"
   },
   {
-    "name": "Вермонт СН-151 В хром ХДП МБ",
+    "name": "Вермонт сн-151 в хром хдп мб",
     "category": "armchair_rukovoditel"
   },
   {
