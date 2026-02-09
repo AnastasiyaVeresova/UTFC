@@ -72,8 +72,8 @@
     "guarantee": [
         {
             "period": "12",
-            "max_load": "150",
-            "recommended_load": "120"
+            "max_load": "180",
+            "recommended_load": "150"
         }
     ],
     "images": [
