@@ -555,7 +555,6 @@
 
 
         // Функция для создания фрейма информации
-        // Функция для создания фрейма информации
         function createInfoFrame(product, variantIndex) {
             const frame = document.createElement('div');
             frame.className = 'frame info';
@@ -773,12 +772,13 @@
                     if (technicalBlock) {
                         const productVid = product.vid?.[0] || 'кресло';
                         const productName = product.name?.[0] || 'Название отсутствует';
+                        const productCategory = product.category?.[0] || 'кресло';
                         const allNames = product.name_all || [];
                         const currentName = product.name?.[0] || '';
 
                         // Проверяем, содержится ли вид в названии (с учётом регистра)
                         const isVidInName = productName.toLowerCase().includes(productVid.toLowerCase());
-                        const vidPrefix = isVidInName ? '' : `${productVid} `;
+                        const vidPrefix = isVidInName ? '' : `${productCategory} `;
 
                         // Основной товар
                         let description = `Настоящее техническое описание распространяется<br>на ${vidPrefix}«${productName}»<br><br>`;
