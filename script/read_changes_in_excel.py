@@ -11,15 +11,17 @@ def normalize_model_name(name):
     name = name.lower().strip()
     name = re.sub(r'\s+', ' ', name)
     name = re.sub(r'[^\w\s-]', '', name)
-    name = re.sub(r'с', 'c', name)  # Замена кириллической "с" на латинскую "c"
+    name = re.sub(r'с', 'c', name)
     name = re.sub(r'в\/п', 'вп', name)
     name = re.sub(r'н\/п', 'нп', name)
     name = re.sub(r'х\/дп', 'хдп', name)
     name = re.sub(r'м\/б', 'мб', name)
     name = re.sub(r'тг', 'tg', name)
     name = re.sub(r'пвм', 'пвм', name)
+    # Удаляем слова "стул" и "кресло"
+    name = re.sub(r'\bстул\b|\bкресло\b', '', name)
+    name = re.sub(r'\s+', ' ', name).strip()
     return name
-
 
 # Преобразование пустых значений
 def normalize_value(value):
@@ -72,7 +74,12 @@ excel_data = {}
 models_excel = df.iloc[3:, 0].dropna().tolist()
 
 for i, model in enumerate(models_excel):
-    model_data = {"model": model, "normalized": normalize_model_name(model), "dimensions_details": {}, "additional_info": {}}
+    model_data = {
+        "model": model,
+        "normalized": normalize_model_name(model),
+        "dimensions_details": {},
+        "additional_info": {}
+    }
 
     for col, (key, min_key, max_key) in columns_mapping.items():
         if min_key is not None and max_key is not None:
