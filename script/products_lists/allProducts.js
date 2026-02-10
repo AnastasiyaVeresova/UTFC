@@ -136,7 +136,7 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Бостон хэви дьюти",
+    "name": "Бостон Хэви Дьюти МБ",
     "category": "armchair_rukovoditel"
   },
   {
@@ -512,11 +512,11 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Компакт",
+    "name": "Компакт люкс складной",
     "category": "chair_visitors"
   },
   {
-    "name": "Компакт люкс",
+    "name": "Компакт складной",
     "category": "chair_visitors"
   },
   {

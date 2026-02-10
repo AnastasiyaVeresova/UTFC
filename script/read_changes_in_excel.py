@@ -11,7 +11,7 @@ def normalize_model_name(name):
     name = name.lower().strip()
     name = re.sub(r'\s+', ' ', name)
     name = re.sub(r'[^\w\s-]', '', name)
-    name = re.sub(r'сн', 'сн', name)
+    name = re.sub(r'с', 'c', name)  # Замена кириллической "с" на латинскую "c"
     name = re.sub(r'в\/п', 'вп', name)
     name = re.sub(r'н\/п', 'нп', name)
     name = re.sub(r'х\/дп', 'хдп', name)
@@ -19,6 +19,7 @@ def normalize_model_name(name):
     name = re.sub(r'тг', 'tg', name)
     name = re.sub(r'пвм', 'пвм', name)
     return name
+
 
 # Преобразование пустых значений
 def normalize_value(value):
