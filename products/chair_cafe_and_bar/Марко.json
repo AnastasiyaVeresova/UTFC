@@ -63,7 +63,7 @@
     "dimensions": [
         {
             "brutto": "",
-            "netto": "3,95",
+            "netto": "3,8",
             "volume": "0,04"
         }
     ],
@@ -129,7 +129,7 @@
                 "max": 305
             },
             "runners_depth": {
-                "max": 480
+                "max": 310
             }
         }
     ]

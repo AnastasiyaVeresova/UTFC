@@ -105,8 +105,8 @@
                 "max": 500
             },
             "seat_depth": {
-                "min": "",
-                "max": 410
+                "min": 410,
+                "max": ""
             },
             "backrest_height": {
                 "max": ""
@@ -116,8 +116,8 @@
                 "max": 560
             },
             "seat_width_with_armrests": {
-                "min": "",
-                "max": 625
+                "min": 625,
+                "max": ""
             },
             "seat_width": {
                 "max": 475

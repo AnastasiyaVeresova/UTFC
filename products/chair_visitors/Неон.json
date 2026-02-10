@@ -64,7 +64,7 @@
     "dimensions": [
         {
             "brutto": "4,3",
-            "netto": "",
+            "netto": "4,3",
             "volume": "0,05"
         }
     ],
@@ -110,7 +110,7 @@
                 "max": null
             },
             "backrest_height": {
-                "max": 350
+                "max": 330
             },
             "backrest_to_seat_height": {
                 "min": "",

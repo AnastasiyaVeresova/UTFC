@@ -114,8 +114,8 @@
                 "max": null
             },
             "backrest_height": {
-                "min": 720,
-                "max": null
+                "min": null,
+                "max": 720
             },
             "backrest_to_seat_height": {
                 "min": null,
