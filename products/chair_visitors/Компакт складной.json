@@ -58,7 +58,7 @@
                     "height": 500
                 },
                 "box_size": "1045x290x500",
-                "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1015х475х95 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
+                "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1005х465х85 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
             }
         }
     ],
@@ -67,15 +67,15 @@
         "packaging_type": [
             {
                 "type": "individual",
-                "brutto": "5.59",
+                "brutto": "5,59",
                 "netto": "",
-                "volume": "0.046"
+                "volume": "0,046"
             },
             {
                 "type": "box4",
-                "brutto": "5.44",
-                "netto": "",
-                "volume": "0.038"
+                "brutto": "5,44",
+                "netto": "4,94",
+                "volume": "0,038"
             }
         ]
     }
