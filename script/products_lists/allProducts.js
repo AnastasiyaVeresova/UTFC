@@ -1004,7 +1004,7 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
-    "name": "Хэнди м-806 grey ch",
+    "name": "Хэнди м-806 gray ch",
     "category": "armchair_comfort"
   },
   {
