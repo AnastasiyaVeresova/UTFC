@@ -1036,6 +1036,8 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                     .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
                     .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
 
+                    
+
                 // Проверяем на параметры с "не указана"
                 if (term.includes('высота не указана') || term.includes('h не указана')) {
                     return '__NOT_SPECIFIED_H__';
