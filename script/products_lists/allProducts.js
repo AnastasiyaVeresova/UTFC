@@ -284,6 +284,10 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
+    "name": "Дэли ch-503 white ch",
+    "category": "armchair_comfort"
+  },
+  {
     "name": "Идра бюджет в пластик 727",
     "category": "armchair_rukovoditel"
   },
