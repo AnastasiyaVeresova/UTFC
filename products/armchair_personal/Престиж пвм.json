@@ -124,10 +124,10 @@
                 "max": null
             },
             "seat_width": {
-                "max": "470"
+                "max": 470
             },
             "diameter_cross": {
-                "max": "580"
+                "max": 580
             },
             "runners_width": {
                 "max": ""
