@@ -163,6 +163,28 @@
 
             </div>
         </div>
+                <!-- Фильтр по пятилучьям -->
+        <h3 class="filter-header">
+            Диаметр пятилучья
+            <button class="toggle-filter" data-target="diameter-filter-content">+</button>
+        </h3>
+        <div class="filter-content" id="diameter-filter-content">
+            <div class="checkbox-group">
+                <label><input type="checkbox" class="diameter-filter" value="480"> 480</label>
+                <label><input type="checkbox" class="diameter-filter" value="580"> 580</label>
+                <label><input type="checkbox" class="diameter-filter" value="600"> 600</label>
+                <label><input type="checkbox" class="diameter-filter" value="630"> 630</label>
+                <label><input type="checkbox" class="diameter-filter" value="640"> 640</label>
+                <label><input type="checkbox" class="diameter-filter" value="660"> 660</label>
+                <label><input type="checkbox" class="diameter-filter" value="680"> 680</label>
+                <label><input type="checkbox" class="diameter-filter" value="700"> 700</label>
+                <label><input type="checkbox" class="diameter-filter" value="720"> 720</label>
+                <label><input type="checkbox" class="diameter-filter" value="740"> 740</label>
+                <label><input type="checkbox" class="diameter-filter" value="760"> 760</label>
+                <label><input type="checkbox" class="diameter-filter" value="other"> Другие варианты</label>
+
+            </div>
+        </div>
     </div>
 
 
@@ -251,7 +273,7 @@
             }
 
             // Обработчики для фильтров
-            document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter, .category-filter, .load-filter').forEach(checkbox => {
+            document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter, .category-filter, .load-filter, .diameter-filter').forEach(checkbox => {
                 checkbox.addEventListener('change', filterProducts);
             });
 
@@ -425,6 +447,7 @@
                 const mechanismFilters = Array.from(document.querySelectorAll('.mechanism-filter:checked')).map(el => el.value);
                 const finishFilters = Array.from(document.querySelectorAll('.finish-filter:checked')).map(el => el.value);
                 const loadFilters = Array.from(document.querySelectorAll('.load-filter:checked')).map(el => el.value);
+                const diameterFilters = Array.from(document.querySelectorAll('.diameter-filter:checked')).map(el => el.value);
                 const selectedCategories = Array.from(document.querySelectorAll('.category-filter:checked')).map(el => el.value);
 
                 let filtered = [];
@@ -590,7 +613,7 @@
 //                     });
 //                 }
 // Фильтрация по подлокотникам, конструктиву и исполнению
-if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
+if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0 || diameterFilters.length > 0) {
     filtered = filtered.filter(product => {
         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
@@ -680,7 +703,34 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
             }
         }
 
-        return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch;
+        // Проверяем диаметр (если выбран)
+        let diameterMatch = true;
+        if (diameterFilters.length > 0) {
+            const diameter = product.dimensions_details?.[0]?.diameter_cross;
+            const isOtherSelected = diameterFilters.includes("other");
+
+            // Если диаметр не указан вообще (нет поля или пустое)
+            if (!diameter || (!diameter.min && !diameter.max && typeof diameter !== 'number')) {
+                diameterMatch = isOtherSelected; // Пропускаем только если выбран "other"
+            } else {
+                // Если диаметр указан
+                const diameterValue = typeof diameter === 'object' ? (diameter.max || diameter.min) : diameter;
+                const standardDiameters = ["480", "580", "600", "630", "640", "660", "680", "700", "720", "740", "760"];
+                const isStandardDiameter = standardDiameters.includes(String(diameterValue));
+
+                if (isOtherSelected && !isStandardDiameter) {
+                    diameterMatch = true;
+                } else if (!isOtherSelected && isStandardDiameter) {
+                    diameterMatch = diameterFilters.some(diam => String(diameterValue) === diam);
+                } else {
+                    diameterMatch = false;
+                }
+            }
+        }
+
+
+
+        return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch && diameterMatch;
     });
 }
 
