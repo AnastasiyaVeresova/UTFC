@@ -852,27 +852,42 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                 }
 
                 // Фильтрация по высоте
+                // if (!(min === minSliderValue && max === maxSliderValue)) {
+                //     filtered = filtered.filter(product => {
+                //         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
+                //         if (chairHeight && chairHeight.min && chairHeight.max) {
+                //             const minHeight = parseInt(chairHeight.min) || 0;
+                //             const maxHeight = parseInt(chairHeight.max) || minHeight;
+                //             // Оба значения должны быть строго внутри диапазона
+                //             return minHeight >= min && maxHeight <= max;
+                //         } else if (chairHeight && chairHeight.min && !chairHeight.max) {
+                //             // Если указана только минимальная высота
+                //             const minHeight = parseInt(chairHeight.min) || 0;
+                //             return minHeight >= min && minHeight <= max;
+                //         } else if (chairHeight && !chairHeight.min && chairHeight.max) {
+                //             // Если указана только максимальная высота
+                //             const maxHeight = parseInt(chairHeight.max) || 0;
+                //             return maxHeight >= min && maxHeight <= max;
+                //         } else {
+                //             return false;
+                //         }
+                //     });
+                // }
+
                 if (!(min === minSliderValue && max === maxSliderValue)) {
                     filtered = filtered.filter(product => {
                         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
-                        if (chairHeight && chairHeight.min && chairHeight.max) {
+                        if (chairHeight) {
                             const minHeight = parseInt(chairHeight.min) || 0;
                             const maxHeight = parseInt(chairHeight.max) || minHeight;
-                            // Оба значения должны быть строго внутри диапазона
+                            // Весь диапазон товара должен быть строго внутри заданного диапазона
                             return minHeight >= min && maxHeight <= max;
-                        } else if (chairHeight && chairHeight.min && !chairHeight.max) {
-                            // Если указана только минимальная высота
-                            const minHeight = parseInt(chairHeight.min) || 0;
-                            return minHeight >= min && minHeight <= max;
-                        } else if (chairHeight && !chairHeight.min && chairHeight.max) {
-                            // Если указана только максимальная высота
-                            const maxHeight = parseInt(chairHeight.max) || 0;
-                            return maxHeight >= min && maxHeight <= max;
                         } else {
                             return false;
                         }
                     });
                 }
+
 
 
                 filteredProducts = filtered;
