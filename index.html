@@ -824,12 +824,13 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                                     const checkNumericField = (field) => {
                                         if (!field) return false;
                                         if (typeof field === 'object') {
-                                            const min = parseFloat(field.min);
-                                            const max = parseFloat(field.max);
-                                            return (!isNaN(min) && min === numSearch) || (!isNaN(max) && max === numSearch);
+                                            const min = field.min ? parseFloat(field.min) : null;
+                                            const max = field.max ? parseFloat(field.max) : null;
+                                            return (min !== null && min === numSearch) || (max !== null && max === numSearch) || (min !== null && max === null && min === numSearch);
                                         }
                                         return parseFloat(field) === numSearch;
                                     };
+
                                     return (
                                         checkNumericField(dimensions.chair_height) ||
                                         checkNumericField(dimensions.chair_depth) ||
@@ -878,15 +879,15 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                     filtered = filtered.filter(product => {
                         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
                         if (chairHeight) {
-                            const minHeight = parseInt(chairHeight.min) || 0;
-                            const maxHeight = parseInt(chairHeight.max) || minHeight;
-                            // Весь диапазон товара должен быть строго внутри заданного диапазона
-                            return minHeight >= min && maxHeight <= max;
+                            const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
+                            const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : minHeight;
+                            return (minHeight >= min && minHeight <= max) || (maxHeight >= min && maxHeight <= max);
                         } else {
                             return false;
                         }
                     });
                 }
+
 
 
 
