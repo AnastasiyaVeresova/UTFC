@@ -44,13 +44,13 @@
             <h3>Фильтр по высоте</h3>
             <div class="range-slider">
                 <div class="range-track"></div>
-                <input type="range" id="minHeight" min="400" max="1200" step="10" value="400">
-                <input type="range" id="maxHeight" min="400" max="1200" step="10" value="1200">
+                <input type="range" id="minHeight" min="400" max="1800" step="5" value="400">
+                <input type="range" id="maxHeight" min="400" max="1800" step="5" value="1800">
             </div>
             <div class="range-values">
-                <input type="number" id="minHeightValue" min="400" max="1200" step="10" value="400">
+                <input type="number" id="minHeightValue" min="400" max="1800" step="5" value="400">
                 <span>—</span>
-                <input type="number" id="maxHeightValue" min="400" max="1200" step="10" value="1200">
+                <input type="number" id="maxHeightValue" min="400" max="1800" step="5" value="1800">
             </div>
         </div>
 
@@ -878,13 +878,20 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                 if (!(min === minSliderValue && max === maxSliderValue)) {
                     filtered = filtered.filter(product => {
                         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
-                        if (chairHeight) {
-                            const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
-                            const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : minHeight;
-                            return (minHeight >= min && minHeight <= max) || (maxHeight >= min && maxHeight <= max);
+                    if (chairHeight) {
+                        const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
+                        const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
+
+                        if (maxHeight === null || minHeight === null) {
+                            // Если max не указан, проверяем только min
+                            return (minHeight >= min && minHeight <= max);
                         } else {
-                            return false;
+                            // Если оба значения указаны, проверяем, что хотя бы одно попадает в диапазон
+                            return (minHeight >= min && minHeight <= max) && (maxHeight >= min && maxHeight <= max);
                         }
+                    } else {
+                        return false;
+                    }
                     });
                 }
 
