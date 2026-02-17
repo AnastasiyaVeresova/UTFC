@@ -121,7 +121,7 @@
             },
             "seat_width_with_armrests": {
                 "min": "",
-                "max": 560
+                "max": ""
             },
             "seat_width": {
                 "max": 470

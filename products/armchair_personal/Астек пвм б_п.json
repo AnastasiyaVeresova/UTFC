@@ -90,16 +90,16 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": "",
-                "max": ""
+                "min": null,
+                "max": null
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "",
-                "max": ""
+                "min": null,
+                "max": null
             },
             "armrest_height_from_seat": {
                 "min": "",
@@ -121,8 +121,8 @@
                 "max": ""
             },
             "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
+                "min": null,
+                "max": null
             },
             "seat_width": {
                 "max": 470

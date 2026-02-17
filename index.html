@@ -54,6 +54,37 @@
             </div>
         </div>
 
+        <!-- Фильтр по ширине сиденья с подлокотниками -->
+        <div class="filter-block">
+            <h3>Габаритная ширина</h3>
+            <div class="range-slider">
+                <div class="range-track"></div>
+                <input type="range" id="minSeatWidthWithArmrests" min="100" max="1800" step="5" value="100">
+                <input type="range" id="maxSeatWidthWithArmrests" min="100" max="1800" step="5" value="1800">
+            </div>
+            <div class="range-values">
+                <input type="number" id="minSeatWidthWithArmrestsValue" min="100" max="1800" step="5" value="100">
+                <span>—</span>
+                <input type="number" id="maxSeatWidthWithArmrestsValue" min="100" max="1800" step="5" value="1800">
+            </div>
+        </div>
+
+        <!-- Фильтр по высоте сиденья от пола -->
+        <div class="filter-block">
+            <h3>Высота сиденья от пола</h3>
+            <div class="range-slider">
+                <div class="range-track"></div>
+                <input type="range" id="minSeatToFloorHeight" min="100" max="1800" step="5" value="100">
+                <input type="range" id="maxSeatToFloorHeight" min="100" max="1800" step="5" value="1800">
+            </div>
+            <div class="range-values">
+                <input type="number" id="minSeatToFloorHeightValue" min="100" max="1800" step="5" value="100">
+                <span>—</span>
+                <input type="number" id="maxSeatToFloorHeightValue" min="100" max="1800" step="5" value="1800">
+            </div>
+        </div>
+
+
         <!-- Блок поиска -->
         <div class="search-block">
             <div class="search-input-container">
@@ -163,7 +194,7 @@
 
             </div>
         </div>
-                <!-- Фильтр по пятилучьям -->
+        <!-- Фильтр по пятилучьям -->
         <h3 class="filter-header">
             Диаметр пятилучья
             <button class="toggle-filter" data-target="diameter-filter-content">+</button>
@@ -214,8 +245,14 @@
         let currentTooltip = null;
         let currentCard = null;
         let minHeightInput, maxHeightInput, minHeightValue, maxHeightValue;
+        let minSeatWidthWithArmrestsInput, maxSeatWidthWithArmrestsInput;
+        let minSeatWidthWithArmrestsValue, maxSeatWidthWithArmrestsValue;
+        let minSeatToFloorHeightInput, maxSeatToFloorHeightInput;
+        let minSeatToFloorHeightValue, maxSeatToFloorHeightValue;
         let validProducts = [];
         let filteredProducts = [];
+        let isSeatWidthWithArmrestsChanged = false;
+
 
         // Функция для обновления позиции подсказки
         function updateTooltipPosition(card, tooltip) {
@@ -323,13 +360,13 @@
                         return true;
                     });
 
+
                     validProducts.sort((a, b) => {
                         const aName = Array.isArray(a.unique_name) ? a.unique_name[0] : a.unique_name;
                         const bName = Array.isArray(b.unique_name) ? b.unique_name[0] : b.unique_name;
                         return aName.localeCompare(bName, 'ru');
                     });
 
-                    // Устанавливаем min/max для ползунков
                     let minPossible = Infinity;
                     let maxPossible = -Infinity;
                     validProducts.forEach(product => {
@@ -343,7 +380,10 @@
                             }
                         }
                     });
+                    console.log("Всего товаров после валидации:", validProducts.length);
 
+
+                    // Устанавливаем найденные min/max для ползунков и числовых полей
                     minHeightInput = document.getElementById('minHeight');
                     maxHeightInput = document.getElementById('maxHeight');
                     minHeightValue = document.getElementById('minHeightValue');
@@ -355,18 +395,147 @@
                         minHeightInput.value = minPossible;
                         minHeightValue.value = minPossible;
                     } else {
-                        minHeightInput.value = 300;
-                        minHeightValue.value = 300;
+                        minHeightInput.value = 400;
+                        minHeightValue.value = 400;
                     }
+
                     if (maxPossible !== -Infinity) {
                         maxHeightInput.max = maxPossible;
                         maxHeightValue.max = maxPossible;
                         maxHeightInput.value = maxPossible;
                         maxHeightValue.value = maxPossible;
                     } else {
-                        maxHeightInput.value = 1600;
-                        maxHeightValue.value = 1600;
+                        maxHeightInput.value = 1800;
+                        maxHeightValue.value = 1800;
                     }
+                    //для ширины сиденья с подлокотниками
+                    let minSeatWidthWithArmrestsPossible = Infinity;
+                    validProducts.forEach(product => {
+                        const dimensions = product.dimensions_details?.[0] || {};
+                        const seatWidthWithArmrests = dimensions.seat_width_with_armrests;
+                        const diameterCross = dimensions.diameter_cross;
+                        const runnersWidth = dimensions.runners_width;
+                        const seatWidth = dimensions.seat_width;
+                        const chairDepth = dimensions.chair_depth;
+
+                        // Проверяем все возможные поля, где может быть указана габаритная ширина
+                        const possibleWidths = [
+                            seatWidthWithArmrests?.min,
+                            diameterCross?.min,
+                            runnersWidth?.min,
+                            seatWidth?.min,
+                            chairDepth?.min,
+                        ].filter(w => w !== undefined && w !== null && !isNaN(parseInt(w)));
+
+                        if (possibleWidths.length > 0) {
+                            const currentMin = Math.min(...possibleWidths.map(w => parseInt(w)));
+                            if (currentMin < minSeatWidthWithArmrestsPossible) {
+                                minSeatWidthWithArmrestsPossible = currentMin;
+                            }
+                        }
+                    });
+                    let maxSeatWidthWithArmrestsPossible = -Infinity;
+                    validProducts.forEach(product => {
+                        const dimensions = product.dimensions_details?.[0] || {};
+                        const seatWidthWithArmrests = dimensions.seat_width_with_armrests;
+                        const diameterCross = dimensions.diameter_cross;
+                        const runnersWidth = dimensions.runners_width;
+                        const seatWidth = dimensions.seat_width;
+                        const chairDepth = dimensions.chair_depth;
+
+                        // Проверяем все возможные поля, где может быть указана габаритная ширина
+                        const possibleWidths = [
+                            seatWidthWithArmrests?.max,
+                            diameterCross?.max,
+                            runnersWidth?.max,
+                            seatWidth?.max,
+                            chairDepth?.max,
+                        ].filter(w => w !== undefined && w !== null && !isNaN(parseInt(w)));
+
+                        if (possibleWidths.length > 0) {
+                            const currentMax = Math.max(...possibleWidths.map(w => parseInt(w)));
+                            if (currentMax > maxSeatWidthWithArmrestsPossible) {
+                                maxSeatWidthWithArmrestsPossible = currentMax;
+                            }
+                        }
+                    });
+
+
+
+
+
+                    // Устанавливаем найденные min/max для ползунков и числовых полей
+                    minSeatWidthWithArmrestsInput = document.getElementById('minSeatWidthWithArmrests');
+                    maxSeatWidthWithArmrestsInput = document.getElementById('maxSeatWidthWithArmrests');
+                    minSeatWidthWithArmrestsValue = document.getElementById('minSeatWidthWithArmrestsValue');
+                    maxSeatWidthWithArmrestsValue = document.getElementById('maxSeatWidthWithArmrestsValue');
+                    
+
+                    if (minSeatWidthWithArmrestsPossible !== Infinity) {
+                        minSeatWidthWithArmrestsInput.min = minSeatWidthWithArmrestsPossible;
+                        minSeatWidthWithArmrestsValue.min = minSeatWidthWithArmrestsPossible;
+                        minSeatWidthWithArmrestsInput.value = minSeatWidthWithArmrestsPossible;
+                        minSeatWidthWithArmrestsValue.value = minSeatWidthWithArmrestsPossible;
+                    } else {
+                        minSeatWidthWithArmrestsInput.min = 100;
+                        minSeatWidthWithArmrestsValue.min = 100;
+                        minSeatWidthWithArmrestsInput.value = 100;
+                        minSeatWidthWithArmrestsValue.value = 100;
+                    }
+
+                    if (maxSeatWidthWithArmrestsPossible !== -Infinity) {
+                        maxSeatWidthWithArmrestsInput.max = maxSeatWidthWithArmrestsPossible;
+                        maxSeatWidthWithArmrestsValue.max = maxSeatWidthWithArmrestsPossible;
+                        maxSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsPossible;
+                        maxSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsPossible;
+                    } else {
+                        maxSeatWidthWithArmrestsInput.max = 1800;
+                        maxSeatWidthWithArmrestsValue.max = 1800;
+                        maxSeatWidthWithArmrestsInput.value = 1800;
+                        maxSeatWidthWithArmrestsValue.value = 1800;
+                    }
+
+                    // Аналогично для высоты сиденья от пола
+                    let minSeatToFloorHeightPossible = Infinity;
+                    let maxSeatToFloorHeightPossible = -Infinity;
+                    validProducts.forEach(product => {
+                        const seatToFloorHeight = product.dimensions_details?.[0]?.seat_to_floor_height;
+                        if (seatToFloorHeight) {
+                            if (seatToFloorHeight.min && !isNaN(parseInt(seatToFloorHeight.min)) && parseInt(seatToFloorHeight.min) < minSeatToFloorHeightPossible) {
+                                minSeatToFloorHeightPossible = parseInt(seatToFloorHeight.min);
+                            }
+                            if (seatToFloorHeight.max && !isNaN(parseInt(seatToFloorHeight.max)) && parseInt(seatToFloorHeight.max) > maxSeatToFloorHeightPossible) {
+                                maxSeatToFloorHeightPossible = parseInt(seatToFloorHeight.max);
+                            }
+                        }
+                    });
+
+                    // Устанавливаем найденные min/max для ползунков и числовых полей
+                    minSeatToFloorHeightInput = document.getElementById('minSeatToFloorHeight');
+                    maxSeatToFloorHeightInput = document.getElementById('maxSeatToFloorHeight');
+                    minSeatToFloorHeightValue = document.getElementById('minSeatToFloorHeightValue');
+                    maxSeatToFloorHeightValue = document.getElementById('maxSeatToFloorHeightValue');
+
+                    if (minSeatToFloorHeightPossible !== Infinity) {
+                        minSeatToFloorHeightInput.min = minSeatToFloorHeightPossible;
+                        minSeatToFloorHeightValue.min = minSeatToFloorHeightPossible;
+                        minSeatToFloorHeightInput.value = minSeatToFloorHeightPossible;
+                        minSeatToFloorHeightValue.value = minSeatToFloorHeightPossible;
+                    } else {
+                        minSeatToFloorHeightInput.value = 100;
+                        minSeatToFloorHeightValue.value = 100;
+                    }
+
+                    if (maxSeatToFloorHeightPossible !== -Infinity) {
+                        maxSeatToFloorHeightInput.max = maxSeatToFloorHeightPossible;
+                        maxSeatToFloorHeightValue.max = maxSeatToFloorHeightPossible;
+                        maxSeatToFloorHeightInput.value = maxSeatToFloorHeightPossible;
+                        maxSeatToFloorHeightValue.value = maxSeatToFloorHeightPossible;
+                    } else {
+                        maxSeatToFloorHeightInput.value = 1800;
+                        maxSeatToFloorHeightValue.value = 1800;
+                    }
+
 
                     // Синхронизация ползунков и полей ввода
                     minHeightInput.addEventListener('input', () => {
@@ -400,6 +569,76 @@
                         maxHeightInput.value = maxHeightValue.value;
                         filterProducts();
                     });
+                    // Синхронизация ползунков и числовых полей для ширины сиденья с подлокотниками
+                    minSeatWidthWithArmrestsInput.addEventListener('input', () => {
+                            isSeatWidthWithArmrestsChanged = true;
+                        if (parseInt(minSeatWidthWithArmrestsInput.value) > parseInt(maxSeatWidthWithArmrestsInput.value)) {
+                            minSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsInput.value;
+                        }
+                        minSeatWidthWithArmrestsValue.value = minSeatWidthWithArmrestsInput.value;
+                        filterProducts();
+                    });
+
+                    maxSeatWidthWithArmrestsInput.addEventListener('input', () => {
+                            isSeatWidthWithArmrestsChanged = true;
+                        if (parseInt(maxSeatWidthWithArmrestsInput.value) < parseInt(minSeatWidthWithArmrestsInput.value)) {
+                            maxSeatWidthWithArmrestsInput.value = minSeatWidthWithArmrestsInput.value;
+                        }
+                        maxSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsInput.value;
+                        filterProducts();
+                    });
+
+                    minSeatWidthWithArmrestsValue.addEventListener('change', () => {
+                            isSeatWidthWithArmrestsChanged = true;
+                        if (parseInt(minSeatWidthWithArmrestsValue.value) > parseInt(maxSeatWidthWithArmrestsInput.value)) {
+                            minSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsInput.value;
+                        }
+                        minSeatWidthWithArmrestsInput.value = minSeatWidthWithArmrestsValue.value;
+                        filterProducts();
+                    });
+
+                    maxSeatWidthWithArmrestsValue.addEventListener('change', () => {
+                            isSeatWidthWithArmrestsChanged = true;
+                        if (parseInt(maxSeatWidthWithArmrestsValue.value) < parseInt(minSeatWidthWithArmrestsInput.value)) {
+                            maxSeatWidthWithArmrestsValue.value = minSeatWidthWithArmrestsInput.value;
+                        }
+                        maxSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsValue.value;
+                        filterProducts();
+                    });
+
+                    // Синхронизация ползунков и числовых полей для высоты сиденья от пола
+                    minSeatToFloorHeightInput.addEventListener('input', () => {
+                        if (parseInt(minSeatToFloorHeightInput.value) > parseInt(maxSeatToFloorHeightInput.value)) {
+                            minSeatToFloorHeightInput.value = maxSeatToFloorHeightInput.value;
+                        }
+                        minSeatToFloorHeightValue.value = minSeatToFloorHeightInput.value;
+                        filterProducts();
+                    });
+
+                    maxSeatToFloorHeightInput.addEventListener('input', () => {
+                        if (parseInt(maxSeatToFloorHeightInput.value) < parseInt(minSeatToFloorHeightInput.value)) {
+                            maxSeatToFloorHeightInput.value = minSeatToFloorHeightInput.value;
+                        }
+                        maxSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.value;
+                        filterProducts();
+                    });
+
+                    minSeatToFloorHeightValue.addEventListener('change', () => {
+                        if (parseInt(minSeatToFloorHeightValue.value) > parseInt(maxSeatToFloorHeightInput.value)) {
+                            minSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.value;
+                        }
+                        minSeatToFloorHeightInput.value = minSeatToFloorHeightValue.value;
+                        filterProducts();
+                    });
+
+                    maxSeatToFloorHeightValue.addEventListener('change', () => {
+                        if (parseInt(maxSeatToFloorHeightValue.value) < parseInt(minSeatToFloorHeightInput.value)) {
+                            maxSeatToFloorHeightValue.value = minSeatToFloorHeightInput.value;
+                        }
+                        maxSeatToFloorHeightInput.value = maxSeatToFloorHeightValue.value;
+                        filterProducts();
+                    });
+
 
                     // Построение диаграммы и генерация карточек
                     buildOverallChart(validProducts);
@@ -430,6 +669,11 @@
                 const maxHeightInput = document.getElementById('maxHeight');
                 const minHeightValue = document.getElementById('minHeightValue');
                 const maxHeightValue = document.getElementById('maxHeightValue');
+                const minSeatWidthWithArmrests = parseInt(document.getElementById('minSeatWidthWithArmrests').value);
+                const maxSeatWidthWithArmrests = parseInt(document.getElementById('maxSeatWidthWithArmrests').value);
+                const minSeatToFloorHeight = parseInt(document.getElementById('minSeatToFloorHeight').value);
+                const maxSeatToFloorHeight = parseInt(document.getElementById('maxSeatToFloorHeight').value);
+
 
                 if (!minHeightInput || !maxHeightInput || !minHeightValue || !maxHeightValue) {
                     console.error("Один или несколько элементов не найдены!");
@@ -456,6 +700,10 @@
                         product.category && selectedCategories.includes(product.category)
                     );
                 }
+                console.log("Товары после фильтрации по категории:", filtered.map(p => p.unique_name));
+
+
+
 
 
                 // let filtered = selectedCategories.length > 0
@@ -507,232 +755,232 @@
                 //     });
                 // }
 
-//                 // Фильтрация по подлокотникам, конструктиву и исполнению
-//                 if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
-//                     filtered = filtered.filter(product => {
-//                         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
+                //                 // Фильтрация по подлокотникам, конструктиву и исполнению
+                //                 if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0) {
+                //                     filtered = filtered.filter(product => {
+                //                         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
-//                         // Фильтрация по подлокотникам (если выбраны)
-//                         let armrestMatch = true;
-//                         if (armrestFilters.length > 0) {
-//                             const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
-//                             // Если первое слово совпадает с любым из фильтров — исключаем из результата
-//                             const isFirstWordInFilter = armrestFilters.some(filter => {
-//                                 const patterns = filter.split('|');
-//                                 return patterns.some(pattern => firstWord === pattern.toLowerCase());
-//                             });
-//                             if (isFirstWordInFilter) {
-//                                 armrestMatch = false; // Исключаем из результата
-//                             } else {
-//                                 // Обычная логика фильтрации
-//                                 armrestMatch = armrestFilters.every(filter => {
-//                                     const patterns = filter.split('|');
-//                                     const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-//                                     return patterns.some(pattern => {
-//                                         const lowerPattern = pattern.toLowerCase();
-//                                         const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-//                                         return regex.test(cleanedUniqueName);
-//                                     });
-//                                 });
-//                             }
-//                         }
-
-
-//                         // Проверяем конструктив (если выбран)
-//                         let mechanismMatch = mechanismFilters.length === 0;
-//                         if (mechanismFilters.length > 0) {
-//                             const cleanedUniqueName = uniqueName
-//                                 .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ') // Убираем MB с цифрами (например, А-001-MB)
-//                                 .trim()
-//                                 .toLowerCase();
-//                             console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
-
-//                             mechanismMatch = mechanismFilters.every(filter => {
-//                                 const patterns = filter.split('|');
-//                                 return patterns.some(pattern => {
-//                                     const lowerPattern = pattern.toLowerCase().trim();
-//                                     const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-//                                     const isMatch = regex.test(cleanedUniqueName);
-//                                     console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
-//                                     return isMatch;
-//                                 });
-//                             });
-//                         }
+                //                         // Фильтрация по подлокотникам (если выбраны)
+                //                         let armrestMatch = true;
+                //                         if (armrestFilters.length > 0) {
+                //                             const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+                //                             // Если первое слово совпадает с любым из фильтров — исключаем из результата
+                //                             const isFirstWordInFilter = armrestFilters.some(filter => {
+                //                                 const patterns = filter.split('|');
+                //                                 return patterns.some(pattern => firstWord === pattern.toLowerCase());
+                //                             });
+                //                             if (isFirstWordInFilter) {
+                //                                 armrestMatch = false; // Исключаем из результата
+                //                             } else {
+                //                                 // Обычная логика фильтрации
+                //                                 armrestMatch = armrestFilters.every(filter => {
+                //                                     const patterns = filter.split('|');
+                //                                     const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                //                                     return patterns.some(pattern => {
+                //                                         const lowerPattern = pattern.toLowerCase();
+                //                                         const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                //                                         return regex.test(cleanedUniqueName);
+                //                                     });
+                //                                 });
+                //                             }
+                //                         }
 
 
-//                         // Проверяем исполнение (если выбрано)
-// // Внутри функции filterProducts, в блоке проверки finishMatch:
-// let finishMatch = true;
-// if (finishFilters.length > 0) {
-//     const cleanedUniqueName = uniqueName.toLowerCase();
-//     finishMatch = finishFilters.every(filter => {
-//         const patterns = filter.split('|');
-//         return patterns.some(pattern => {
-//             const lowerPattern = pattern.toLowerCase().trim();
-//             // Для "хрома" отдельная логика
-//             if (lowerPattern === 'хром' || lowerPattern === 'ch') {
-//                 // Ищем "ch" или "хром" как отдельное слово, но не в составе артикула или других слов
-//                 const regex = /(^|\s)(ch|хром)(\s|$)/i;
-//                 return regex.test(cleanedUniqueName);
-//             }
-//             // Для остальных фильтров — стандартная логика
-//             const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-//             return regex.test(cleanedUniqueName);
-//         });
-//     });
-// }
+                //                         // Проверяем конструктив (если выбран)
+                //                         let mechanismMatch = mechanismFilters.length === 0;
+                //                         if (mechanismFilters.length > 0) {
+                //                             const cleanedUniqueName = uniqueName
+                //                                 .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ') // Убираем MB с цифрами (например, А-001-MB)
+                //                                 .trim()
+                //                                 .toLowerCase();
+                //                             console.log(`Исходное имя: "${uniqueName}", Очищенное: "${cleanedUniqueName}"`);
+
+                //                             mechanismMatch = mechanismFilters.every(filter => {
+                //                                 const patterns = filter.split('|');
+                //                                 return patterns.some(pattern => {
+                //                                     const lowerPattern = pattern.toLowerCase().trim();
+                //                                     const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                //                                     const isMatch = regex.test(cleanedUniqueName);
+                //                                     console.log(`Проверка: "${cleanedUniqueName}" на "${lowerPattern}" → ${isMatch}`);
+                //                                     return isMatch;
+                //                                 });
+                //                             });
+                //                         }
 
 
-//  // Проверяем нагрузку (если выбрана)
-// let loadMatch = true;
-// if (loadFilters.length > 0) {
-//     const maxLoad = product.guarantee?.[0]?.max_load;
-//     if (!maxLoad) {
-//         loadMatch = false;
-//     } else {
-//         // Если выбран "other", то пропускаем товары, у которых max_load не входит в стандартный список
-//         const standardLoads = ["90", "120", "130", "150", "180", "210"];
-//         const isOtherSelected = loadFilters.includes("other");
-//         const isStandardLoad = standardLoads.includes(String(maxLoad));
+                //                         // Проверяем исполнение (если выбрано)
+                // // Внутри функции filterProducts, в блоке проверки finishMatch:
+                // let finishMatch = true;
+                // if (finishFilters.length > 0) {
+                //     const cleanedUniqueName = uniqueName.toLowerCase();
+                //     finishMatch = finishFilters.every(filter => {
+                //         const patterns = filter.split('|');
+                //         return patterns.some(pattern => {
+                //             const lowerPattern = pattern.toLowerCase().trim();
+                //             // Для "хрома" отдельная логика
+                //             if (lowerPattern === 'хром' || lowerPattern === 'ch') {
+                //                 // Ищем "ch" или "хром" как отдельное слово, но не в составе артикула или других слов
+                //                 const regex = /(^|\s)(ch|хром)(\s|$)/i;
+                //                 return regex.test(cleanedUniqueName);
+                //             }
+                //             // Для остальных фильтров — стандартная логика
+                //             const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                //             return regex.test(cleanedUniqueName);
+                //         });
+                //     });
+                // }
 
-//         if (isOtherSelected && !isStandardLoad) {
-//             loadMatch = true; // Пропускаем, если нагрузка нестандартная и выбран "other"
-//         } else if (!isOtherSelected && isStandardLoad) {
-//             loadMatch = loadFilters.some(load => String(maxLoad) === load); // Стандартная логика
-//         } else {
-//             loadMatch = false;
-//         }
-//     }
-// }
 
+                //  // Проверяем нагрузку (если выбрана)
+                // let loadMatch = true;
+                // if (loadFilters.length > 0) {
+                //     const maxLoad = product.guarantee?.[0]?.max_load;
+                //     if (!maxLoad) {
+                //         loadMatch = false;
+                //     } else {
+                //         // Если выбран "other", то пропускаем товары, у которых max_load не входит в стандартный список
+                //         const standardLoads = ["90", "120", "130", "150", "180", "210"];
+                //         const isOtherSelected = loadFilters.includes("other");
+                //         const isStandardLoad = standardLoads.includes(String(maxLoad));
 
+                //         if (isOtherSelected && !isStandardLoad) {
+                //             loadMatch = true; // Пропускаем, если нагрузка нестандартная и выбран "other"
+                //         } else if (!isOtherSelected && isStandardLoad) {
+                //             loadMatch = loadFilters.some(load => String(maxLoad) === load); // Стандартная логика
+                //         } else {
+                //             loadMatch = false;
+                //         }
+                //     }
+                // }
 
 
 
-//                         return armrestMatch && mechanismMatch && finishMatch && loadMatch;
-//                     });
-//                 }
-// Фильтрация по подлокотникам, конструктиву и исполнению
-if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0 || diameterFilters.length > 0) {
-    filtered = filtered.filter(product => {
-        const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
 
-        // Фильтрация по подлокотникам (если выбраны)
-        let armrestMatch = true;
-        if (armrestFilters.length > 0) {
-            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
-            const isFirstWordInFilter = armrestFilters.some(filter => {
-                const patterns = filter.split('|');
-                return patterns.some(pattern => firstWord === pattern.toLowerCase());
-            });
-            if (isFirstWordInFilter) {
-                armrestMatch = false;
-            } else {
-                armrestMatch = armrestFilters.every(filter => {
-                    const patterns = filter.split('|');
-                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-                    return patterns.some(pattern => {
-                        const lowerPattern = pattern.toLowerCase();
-                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                        return regex.test(cleanedUniqueName);
+
+                //                         return armrestMatch && mechanismMatch && finishMatch && loadMatch;
+                //                     });
+                //                 }
+                // Фильтрация по подлокотникам, конструктиву и исполнению
+                if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0 || diameterFilters.length > 0) {
+                    filtered = filtered.filter(product => {
+                        const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
+
+                        // Фильтрация по подлокотникам (если выбраны)
+                        let armrestMatch = true;
+                        if (armrestFilters.length > 0) {
+                            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+                            const isFirstWordInFilter = armrestFilters.some(filter => {
+                                const patterns = filter.split('|');
+                                return patterns.some(pattern => firstWord === pattern.toLowerCase());
+                            });
+                            if (isFirstWordInFilter) {
+                                armrestMatch = false;
+                            } else {
+                                armrestMatch = armrestFilters.every(filter => {
+                                    const patterns = filter.split('|');
+                                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                                    return patterns.some(pattern => {
+                                        const lowerPattern = pattern.toLowerCase();
+                                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                        return regex.test(cleanedUniqueName);
+                                    });
+                                });
+                            }
+                        }
+
+                        // Проверяем "подголовник" по всем текстовым полям
+                        let podgоловnikMatch = true;
+                        if (mechanismFilters.includes("подг|подголовник|подголовником")) {
+                            podgоловnikMatch = searchInObject(product, "подголовник");
+                        }
+
+                        // Проверяем остальные конструктивы (кроме "подголовник")
+                        let otherMechanismMatch = true;
+                        const otherMechanismFilters = mechanismFilters.filter(f => !f.includes("подг"));
+                        if (otherMechanismFilters.length > 0) {
+                            const cleanedUniqueName = uniqueName
+                                .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ')
+                                .trim()
+                                .toLowerCase();
+                            otherMechanismMatch = otherMechanismFilters.every(filter => {
+                                const patterns = filter.split('|');
+                                return patterns.some(pattern => {
+                                    const lowerPattern = pattern.toLowerCase().trim();
+                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                    return regex.test(cleanedUniqueName);
+                                });
+                            });
+                        }
+
+                        // Проверяем исполнение (если выбрано)
+                        let finishMatch = true;
+                        if (finishFilters.length > 0) {
+                            const cleanedUniqueName = uniqueName.toLowerCase();
+                            finishMatch = finishFilters.every(filter => {
+                                const patterns = filter.split('|');
+                                return patterns.some(pattern => {
+                                    const lowerPattern = pattern.toLowerCase().trim();
+                                    if (lowerPattern === 'хром' || lowerPattern === 'ch') {
+                                        const regex = /(^|\s)(ch|хром)(\s|$)/i;
+                                        return regex.test(cleanedUniqueName);
+                                    }
+                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                    return regex.test(cleanedUniqueName);
+                                });
+                            });
+                        }
+
+                        // Проверяем нагрузку (если выбрана)
+                        let loadMatch = true;
+                        if (loadFilters.length > 0) {
+                            const maxLoad = product.guarantee?.[0]?.max_load;
+                            if (!maxLoad) {
+                                loadMatch = false;
+                            } else {
+                                const standardLoads = ["90", "120", "130", "150", "180", "210"];
+                                const isOtherSelected = loadFilters.includes("other");
+                                const isStandardLoad = standardLoads.includes(String(maxLoad));
+
+                                if (isOtherSelected && !isStandardLoad) {
+                                    loadMatch = true;
+                                } else if (!isOtherSelected && isStandardLoad) {
+                                    loadMatch = loadFilters.some(load => String(maxLoad) === load);
+                                } else {
+                                    loadMatch = false;
+                                }
+                            }
+                        }
+
+                        // Проверяем диаметр (если выбран)
+                        let diameterMatch = true;
+                        if (diameterFilters.length > 0) {
+                            const diameter = product.dimensions_details?.[0]?.diameter_cross;
+                            const isOtherSelected = diameterFilters.includes("other");
+
+                            // Если диаметр не указан вообще (нет поля или пустое)
+                            if (!diameter || (!diameter.min && !diameter.max && typeof diameter !== 'number')) {
+                                diameterMatch = isOtherSelected; // Пропускаем только если выбран "other"
+                            } else {
+                                // Если диаметр указан
+                                const diameterValue = typeof diameter === 'object' ? (diameter.max || diameter.min) : diameter;
+                                const standardDiameters = ["480", "580", "600", "630", "640", "660", "680", "700", "720", "740", "760"];
+                                const isStandardDiameter = standardDiameters.includes(String(diameterValue));
+
+                                if (isOtherSelected && !isStandardDiameter) {
+                                    diameterMatch = true;
+                                } else if (!isOtherSelected && isStandardDiameter) {
+                                    diameterMatch = diameterFilters.some(diam => String(diameterValue) === diam);
+                                } else {
+                                    diameterMatch = false;
+                                }
+                            }
+                        }
+
+
+
+                        return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch && diameterMatch;
                     });
-                });
-            }
-        }
-
-        // Проверяем "подголовник" по всем текстовым полям
-        let podgоловnikMatch = true;
-        if (mechanismFilters.includes("подг|подголовник|подголовником")) {
-            podgоловnikMatch = searchInObject(product, "подголовник");
-        }
-
-        // Проверяем остальные конструктивы (кроме "подголовник")
-        let otherMechanismMatch = true;
-        const otherMechanismFilters = mechanismFilters.filter(f => !f.includes("подг"));
-        if (otherMechanismFilters.length > 0) {
-            const cleanedUniqueName = uniqueName
-                .replace(/\s*([мm]b|mb)[-\s]?\d*\s*/gi, ' ')
-                .trim()
-                .toLowerCase();
-            otherMechanismMatch = otherMechanismFilters.every(filter => {
-                const patterns = filter.split('|');
-                return patterns.some(pattern => {
-                    const lowerPattern = pattern.toLowerCase().trim();
-                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                    return regex.test(cleanedUniqueName);
-                });
-            });
-        }
-
-        // Проверяем исполнение (если выбрано)
-        let finishMatch = true;
-        if (finishFilters.length > 0) {
-            const cleanedUniqueName = uniqueName.toLowerCase();
-            finishMatch = finishFilters.every(filter => {
-                const patterns = filter.split('|');
-                return patterns.some(pattern => {
-                    const lowerPattern = pattern.toLowerCase().trim();
-                    if (lowerPattern === 'хром' || lowerPattern === 'ch') {
-                        const regex = /(^|\s)(ch|хром)(\s|$)/i;
-                        return regex.test(cleanedUniqueName);
-                    }
-                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                    return regex.test(cleanedUniqueName);
-                });
-            });
-        }
-
-        // Проверяем нагрузку (если выбрана)
-        let loadMatch = true;
-        if (loadFilters.length > 0) {
-            const maxLoad = product.guarantee?.[0]?.max_load;
-            if (!maxLoad) {
-                loadMatch = false;
-            } else {
-                const standardLoads = ["90", "120", "130", "150", "180", "210"];
-                const isOtherSelected = loadFilters.includes("other");
-                const isStandardLoad = standardLoads.includes(String(maxLoad));
-
-                if (isOtherSelected && !isStandardLoad) {
-                    loadMatch = true;
-                } else if (!isOtherSelected && isStandardLoad) {
-                    loadMatch = loadFilters.some(load => String(maxLoad) === load);
-                } else {
-                    loadMatch = false;
                 }
-            }
-        }
-
-        // Проверяем диаметр (если выбран)
-        let diameterMatch = true;
-        if (diameterFilters.length > 0) {
-            const diameter = product.dimensions_details?.[0]?.diameter_cross;
-            const isOtherSelected = diameterFilters.includes("other");
-
-            // Если диаметр не указан вообще (нет поля или пустое)
-            if (!diameter || (!diameter.min && !diameter.max && typeof diameter !== 'number')) {
-                diameterMatch = isOtherSelected; // Пропускаем только если выбран "other"
-            } else {
-                // Если диаметр указан
-                const diameterValue = typeof diameter === 'object' ? (diameter.max || diameter.min) : diameter;
-                const standardDiameters = ["480", "580", "600", "630", "640", "660", "680", "700", "720", "740", "760"];
-                const isStandardDiameter = standardDiameters.includes(String(diameterValue));
-
-                if (isOtherSelected && !isStandardDiameter) {
-                    diameterMatch = true;
-                } else if (!isOtherSelected && isStandardDiameter) {
-                    diameterMatch = diameterFilters.some(diam => String(diameterValue) === diam);
-                } else {
-                    diameterMatch = false;
-                }
-            }
-        }
-
-
-
-        return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch && diameterMatch;
-    });
-}
 
 
 
@@ -878,22 +1126,100 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                 if (!(min === minSliderValue && max === maxSliderValue)) {
                     filtered = filtered.filter(product => {
                         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
-                    if (chairHeight) {
-                        const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
-                        const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
+                        if (chairHeight) {
+                            const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
+                            const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
 
-                        if (maxHeight === null || minHeight === null) {
-                            // Если max не указан, проверяем только min
-                            return (minHeight >= min && minHeight <= max);
+                            if (maxHeight === null || minHeight === null) {
+                                // Если max не указан, проверяем только min
+                                return (minHeight >= min && minHeight <= max);
+                            } else {
+                                // Если оба значения указаны, проверяем, что хотя бы одно попадает в диапазон
+                                return (minHeight >= min && minHeight <= max) && (maxHeight >= min && maxHeight <= max);
+                            }
                         } else {
-                            // Если оба значения указаны, проверяем, что хотя бы одно попадает в диапазон
-                            return (minHeight >= min && minHeight <= max) && (maxHeight >= min && maxHeight <= max);
+                            return false;
                         }
-                    } else {
-                        return false;
-                    }
+                    });
+                    console.log("Товары после фильтрации по высоте:", filtered.map(p => p.unique_name));
+                }
+
+// 5. Фильтрация по ширине сиденья с подлокотниками
+console.log("Товары до фильтрации по ширине:", filtered.map(p => p.unique_name));
+
+if (isSeatWidthWithArmrestsChanged && !(minSeatWidthWithArmrests === 100 && maxSeatWidthWithArmrests === 1800)) {
+    filtered = filtered.filter(product => {
+        const dimensions = product.dimensions_details?.[0] || {};
+        const seatWidthWithArmrests = dimensions.seat_width_with_armrests;
+        const diameterCross = dimensions.diameter_cross;
+        const runnersWidth = dimensions.runners_width;
+
+        // Определяем значение для фильтрации (приоритет: seat_width_with_armrests → diameter_cross → runners_width)
+        let widthValue = null;
+        if (seatWidthWithArmrests?.min || seatWidthWithArmrests?.max) {
+            widthValue = {
+                min: seatWidthWithArmrests.min ? parseInt(seatWidthWithArmrests.min) : null,
+                max: seatWidthWithArmrests.max ? parseInt(seatWidthWithArmrests.max) : null
+            };
+        } else if (diameterCross?.min || diameterCross?.max) {
+            widthValue = {
+                min: diameterCross.min ? parseInt(diameterCross.min) : null,
+                max: diameterCross.max ? parseInt(diameterCross.max) : null
+            };
+        } else if (runnersWidth?.min || runnersWidth?.max) {
+            widthValue = {
+                min: runnersWidth.min ? parseInt(runnersWidth.min) : null,
+                max: runnersWidth.max ? parseInt(runnersWidth.max) : null
+            };
+        }
+
+        // Если значение найдено, проверяем попадание в диапазон
+        if (widthValue) {
+            const minW = widthValue.min || 0;
+            const maxW = widthValue.max || minW;
+            return (minW >= minSeatWidthWithArmrests && minW <= maxSeatWidthWithArmrests) ||
+                   (maxW >= minSeatWidthWithArmrests && maxW <= maxSeatWidthWithArmrests);
+        }
+
+        // Если значение не найдено, пропускаем товар (или оставляем, если нужно)
+        return true;
+    });
+}
+
+console.log("Товары после фильтрации по ширине сиденья с подлокотниками:", filtered.map(p => p.unique_name));
+const missingProducts = validProducts.filter(p => !filtered.some(fp => fp.unique_name === p.unique_name));
+console.log("Пропущенные товары:", missingProducts);
+
+
+
+
+
+                // 6. Фильтрация по высоте сиденья от пола
+                if (!(minSeatToFloorHeight === 100 && maxSeatToFloorHeight === 1800)) {
+                    filtered = filtered.filter(product => {
+                        const seatToFloorHeight = product.dimensions_details?.[0]?.seat_to_floor_height;
+                        if (!seatToFloorHeight) return true; // Не отсеиваем, если высота не указана
+
+                        const minH = seatToFloorHeight.min ? parseInt(seatToFloorHeight.min) : null;
+                        const maxH = seatToFloorHeight.max ? parseInt(seatToFloorHeight.max) : null;
+
+                        if (minH !== null && maxH !== null) {
+                            return (minH >= minSeatToFloorHeight && minH <= maxSeatToFloorHeight) ||
+                                (maxH >= minSeatToFloorHeight && maxH <= maxSeatToFloorHeight);
+                        } else if (minH !== null) {
+                            return minH >= minSeatToFloorHeight && minH <= maxSeatToFloorHeight;
+                        } else if (maxH !== null) {
+                            return maxH >= minSeatToFloorHeight && maxH <= maxSeatToFloorHeight;
+                        } else {
+                            return true;
+                        }
                     });
                 }
+console.log("Товары после фильтрации по высоте сиденья от пола:", filtered.map(p => p.unique_name));
+
+
+
+
 
 
 
@@ -1119,7 +1445,7 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                     .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
                     .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
 
-                    
+
 
                 // Проверяем на параметры с "не указана"
                 if (term.includes('высота не указана') || term.includes('h не указана')) {
@@ -1168,68 +1494,68 @@ if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.le
                     { name: 'Глубина полозьев/ножек (мм)', key: 'runners_depth' },
                     { name: 'Макс. нагрузка (кг)', key: 'max_load', source: 'guarantee' },
                     { name: 'Рекоменд. нагрузка (кг)', key: 'recommended_load', source: 'guarantee' },
-                                        { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
+                    { name: 'Вес брутто (кг)', key: 'brutto', source: 'dimensions' },
                     { name: 'Вес нетто (кг)', key: 'netto', source: 'dimensions' },
                     { name: 'Объем (м³)', key: 'volume', source: 'dimensions' }
 
                 ];
 
-parameters.forEach(param => {
-    const data = products.map(p => {
-        // Для веса и объёма сначала ищем в packaging (индивидуальная упаковка)
-        if (['brutto', 'netto', 'volume'].includes(param.key)) {
-            const packs = p.dimensions?.[0]?.packaging_type || [];
-            const indivPacks = packs.filter(pk => pk.type === 'individual');
-            if (indivPacks.length > 0) {
-                const value = parseNumber(indivPacks[0][param.key]);
-                if (value !== null) return value;
-            }
-            // Если нет в индивидуальной упаковке, ищем в dimensions
-            const dimValue = p.dimensions?.[0]?.[param.key];
-            return parseNumber(dimValue);
-        }
-        // Для остальных параметров - стандартная логика
-        if (param.source === 'packaging') {
-            const packs = p.dimensions?.[0]?.packaging_type || [];
-            const filteredPacks = packs.filter(pk => pk.type === param.type);
-            if (filteredPacks.length > 0) {
-                const values = filteredPacks.map(pk => parseNumber(pk[param.key])).filter(v => v !== null);
-                return values.length > 0 ? Math.max(...values) : null;
-            }
-        }
-        // Если не нашли в packaging, ищем в dimensions
-        if (param.source === 'dimensions' || !param.source) {
-            let value;
-            if (param.source === 'guarantee') {
-                value = p.guarantee?.[0]?.[param.key];
-            } else {
-                value = p.dimensions?.[0]?.[param.key];
-                if (value === undefined) {
-                    const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
-                    const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
-                    if (minValue !== null && maxValue !== null) {
-                        value = Math.max(minValue, maxValue);
-                    } else if (minValue !== null) {
-                        value = minValue;
-                    } else if (maxValue !== null) {
-                        value = maxValue;
+                parameters.forEach(param => {
+                    const data = products.map(p => {
+                        // Для веса и объёма сначала ищем в packaging (индивидуальная упаковка)
+                        if (['brutto', 'netto', 'volume'].includes(param.key)) {
+                            const packs = p.dimensions?.[0]?.packaging_type || [];
+                            const indivPacks = packs.filter(pk => pk.type === 'individual');
+                            if (indivPacks.length > 0) {
+                                const value = parseNumber(indivPacks[0][param.key]);
+                                if (value !== null) return value;
+                            }
+                            // Если нет в индивидуальной упаковке, ищем в dimensions
+                            const dimValue = p.dimensions?.[0]?.[param.key];
+                            return parseNumber(dimValue);
+                        }
+                        // Для остальных параметров - стандартная логика
+                        if (param.source === 'packaging') {
+                            const packs = p.dimensions?.[0]?.packaging_type || [];
+                            const filteredPacks = packs.filter(pk => pk.type === param.type);
+                            if (filteredPacks.length > 0) {
+                                const values = filteredPacks.map(pk => parseNumber(pk[param.key])).filter(v => v !== null);
+                                return values.length > 0 ? Math.max(...values) : null;
+                            }
+                        }
+                        // Если не нашли в packaging, ищем в dimensions
+                        if (param.source === 'dimensions' || !param.source) {
+                            let value;
+                            if (param.source === 'guarantee') {
+                                value = p.guarantee?.[0]?.[param.key];
+                            } else {
+                                value = p.dimensions?.[0]?.[param.key];
+                                if (value === undefined) {
+                                    const minValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.min);
+                                    const maxValue = parseNumber(p.dimensions_details?.[0]?.[param.key]?.max);
+                                    if (minValue !== null && maxValue !== null) {
+                                        value = Math.max(minValue, maxValue);
+                                    } else if (minValue !== null) {
+                                        value = minValue;
+                                    } else if (maxValue !== null) {
+                                        value = maxValue;
+                                    }
+                                }
+                            }
+                            return parseNumber(value);
+                        }
+                        return null;
+                    });
+                    if (data.some(val => val !== null)) {
+                        traces.push({
+                            x: productNames,
+                            y: data,
+                            name: param.name,
+                            type: 'scatter',
+                            mode: 'lines+markers'
+                        });
                     }
-                }
-            }
-            return parseNumber(value);
-        }
-        return null;
-    });
-    if (data.some(val => val !== null)) {
-        traces.push({
-            x: productNames,
-            y: data,
-            name: param.name,
-            type: 'scatter',
-            mode: 'lines+markers'
-        });
-    }
-});
+                });
 
                 const layout = {
                     title: { text: '', font: { family: 'Montserrat, sans-serif', size: 14 } },
@@ -1247,29 +1573,54 @@ parameters.forEach(param => {
             }
 
         });
-            // Обработчик возврата назад
-            window.addEventListener('pageshow', function (event) {
-                document.getElementById('searchInput').value = '';
-                document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter').forEach(checkbox => {
-                    checkbox.checked = false;
-                });
-                const minHeightInput = document.getElementById('minHeight');
-                const maxHeightInput = document.getElementById('maxHeight');
-                const minHeightValue = document.getElementById('minHeightValue');
-                const maxHeightValue = document.getElementById('maxHeightValue');
+        // Обработчик возврата назад
+        window.addEventListener('pageshow', function (event) {
+            document.getElementById('searchInput').value = '';
+            document.querySelectorAll('.armrest-filter, .mechanism-filter, .finish-filter, .load-filter, .diameter-filter').forEach(checkbox => {
+                checkbox.checked = false;
+            });
+            const minHeightInput = document.getElementById('minHeight');
+            const maxHeightInput = document.getElementById('maxHeight');
+            const minHeightValue = document.getElementById('minHeightValue');
+            const maxHeightValue = document.getElementById('maxHeightValue');
 
-                if (minHeightInput && maxHeightInput && minHeightValue && maxHeightValue) {
-                    minHeightInput.value = minHeightInput.min;
-                    maxHeightInput.value = maxHeightInput.max;
-                    minHeightValue.value = minHeightInput.min;
-                    maxHeightValue.value = maxHeightInput.max;
-                } else {
-                    console.error("Один или несколько элементов не найдены!");
-                    return;
+            if (minHeightInput && maxHeightInput && minHeightValue && maxHeightValue) {
+                minHeightInput.value = minHeightInput.min;
+                maxHeightInput.value = maxHeightInput.max;
+                minHeightValue.value = minHeightInput.min;
+                maxHeightValue.value = maxHeightInput.max;
+
+                // Сброс ползунков и числовых полей для ширины сиденья с подлокотниками
+                const minSeatWidthWithArmrestsInput = document.getElementById('minSeatWidthWithArmrests');
+                const maxSeatWidthWithArmrestsInput = document.getElementById('maxSeatWidthWithArmrests');
+                const minSeatWidthWithArmrestsValue = document.getElementById('minSeatWidthWithArmrestsValue');
+                const maxSeatWidthWithArmrestsValue = document.getElementById('maxSeatWidthWithArmrestsValue');
+                if (minSeatWidthWithArmrestsInput && maxSeatWidthWithArmrestsInput && minSeatWidthWithArmrestsValue && maxSeatWidthWithArmrestsValue) {
+                    minSeatWidthWithArmrestsInput.value = minSeatWidthWithArmrestsInput.min;
+                    maxSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsInput.max;
+                    minSeatWidthWithArmrestsValue.value = minSeatWidthWithArmrestsInput.min;
+                    maxSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsInput.max;
                 }
 
-                filterProducts();
-            });
+                // Сброс ползунков и числовых полей для высоты сиденья от пола
+                const minSeatToFloorHeightInput = document.getElementById('minSeatToFloorHeight');
+                const maxSeatToFloorHeightInput = document.getElementById('maxSeatToFloorHeight');
+                const minSeatToFloorHeightValue = document.getElementById('minSeatToFloorHeightValue');
+                const maxSeatToFloorHeightValue = document.getElementById('maxSeatToFloorHeightValue');
+                if (minSeatToFloorHeightInput && maxSeatToFloorHeightInput && minSeatToFloorHeightValue && maxSeatToFloorHeightValue) {
+                    minSeatToFloorHeightInput.value = minSeatToFloorHeightInput.min;
+                    maxSeatToFloorHeightInput.value = maxSeatToFloorHeightInput.max;
+                    minSeatToFloorHeightValue.value = minSeatToFloorHeightInput.min;
+                    maxSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.max;
+                }
+
+            } else {
+                console.error("Один или несколько элементов не найдены!");
+                return;
+            }
+
+
+        });
 
     </script>
 </body>

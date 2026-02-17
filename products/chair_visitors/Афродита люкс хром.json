@@ -91,7 +91,7 @@
         {
             "chair_height": {
                 "min": 850,
-                "max": ""
+                "max": 850
             },
             "headrest_height": {
                 "min": null,

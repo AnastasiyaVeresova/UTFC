@@ -85,7 +85,7 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": "",
+                "min": 955,
                 "max": 955
             },
             "headrest_height": {
