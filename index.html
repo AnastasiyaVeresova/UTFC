@@ -252,6 +252,8 @@
         let validProducts = [];
         let filteredProducts = [];
         let isSeatWidthWithArmrestsChanged = false;
+        let isSeatToFloorHeightChanged = false;
+        let isChairHeightChanged = false;
 
 
         // Функция для обновления позиции подсказки
@@ -539,6 +541,7 @@
 
                     // Синхронизация ползунков и полей ввода
                     minHeightInput.addEventListener('input', () => {
+                        isChairHeightChanged = true;
                         if (parseInt(minHeightInput.value) > parseInt(maxHeightInput.value)) {
                             minHeightInput.value = maxHeightInput.value;
                         }
@@ -547,6 +550,7 @@
                     });
 
                     maxHeightInput.addEventListener('input', () => {
+                        isChairHeightChanged = true;
                         if (parseInt(maxHeightInput.value) < parseInt(minHeightInput.value)) {
                             maxHeightInput.value = minHeightInput.value;
                         }
@@ -555,6 +559,7 @@
                     });
 
                     minHeightValue.addEventListener('change', () => {
+                        isChairHeightChanged = true;
                         if (parseInt(minHeightValue.value) > parseInt(maxHeightInput.value)) {
                             minHeightValue.value = maxHeightInput.value;
                         }
@@ -563,6 +568,7 @@
                     });
 
                     maxHeightValue.addEventListener('change', () => {
+                        isChairHeightChanged = true;
                         if (parseInt(maxHeightValue.value) < parseInt(minHeightInput.value)) {
                             maxHeightValue.value = minHeightInput.value;
                         }
@@ -608,6 +614,7 @@
 
                     // Синхронизация ползунков и числовых полей для высоты сиденья от пола
                     minSeatToFloorHeightInput.addEventListener('input', () => {
+                        isSeatToFloorHeightChanged = true;
                         if (parseInt(minSeatToFloorHeightInput.value) > parseInt(maxSeatToFloorHeightInput.value)) {
                             minSeatToFloorHeightInput.value = maxSeatToFloorHeightInput.value;
                         }
@@ -616,6 +623,7 @@
                     });
 
                     maxSeatToFloorHeightInput.addEventListener('input', () => {
+                        isSeatToFloorHeightChanged = true;
                         if (parseInt(maxSeatToFloorHeightInput.value) < parseInt(minSeatToFloorHeightInput.value)) {
                             maxSeatToFloorHeightInput.value = minSeatToFloorHeightInput.value;
                         }
@@ -624,6 +632,7 @@
                     });
 
                     minSeatToFloorHeightValue.addEventListener('change', () => {
+                        isSeatToFloorHeightChanged = true;
                         if (parseInt(minSeatToFloorHeightValue.value) > parseInt(maxSeatToFloorHeightInput.value)) {
                             minSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.value;
                         }
@@ -632,6 +641,7 @@
                     });
 
                     maxSeatToFloorHeightValue.addEventListener('change', () => {
+                        isSeatToFloorHeightChanged = true;
                         if (parseInt(maxSeatToFloorHeightValue.value) < parseInt(minSeatToFloorHeightInput.value)) {
                             maxSeatToFloorHeightValue.value = minSeatToFloorHeightInput.value;
                         }
@@ -1123,9 +1133,14 @@
                 //     });
                 // }
 
-                if (!(min === minSliderValue && max === maxSliderValue)) {
+                // Фильтрация по высоте кресла
+
+                if (isChairHeightChanged && !(min === minSliderValue && max === maxSliderValue)) {
                     filtered = filtered.filter(product => {
                         const chairHeight = product.dimensions_details?.[0]?.chair_height || {};
+                        if (!chairHeight || (!chairHeight.min && !chairHeight.max)) {
+                            return false; // Исключаем товары, у которых высота не указана
+                        }
                         if (chairHeight) {
                             const minHeight = chairHeight.min ? parseInt(chairHeight.min) : 0;
                             const maxHeight = chairHeight.max ? parseInt(chairHeight.max) : null;
@@ -1154,6 +1169,8 @@
                         const diameterCross = dimensions.diameter_cross;
                         const runnersWidth = dimensions.runners_width;
 
+
+
                         // Определяем значение для фильтрации (приоритет: seat_width_with_armrests → diameter_cross → runners_width)
                         let widthValue = null;
                         if (seatWidthWithArmrests?.min || seatWidthWithArmrests?.max) {
@@ -1171,6 +1188,11 @@
                                 min: runnersWidth.min ? parseInt(runnersWidth.min) : null,
                                 max: runnersWidth.max ? parseInt(runnersWidth.max) : null
                             };
+                        }
+
+                        // Если ни одно из полей не заполнено — исключаем товар
+                        if (!widthValue) {
+                            return false;
                         }
 
                         // Если значение найдено, проверяем попадание в диапазон
@@ -1195,10 +1217,13 @@
 
 
                 // 6. Фильтрация по высоте сиденья от пола
-                if (!(minSeatToFloorHeight === 100 && maxSeatToFloorHeight === 1800)) {
+                if (isSeatToFloorHeightChanged && !(minSeatToFloorHeight === 100 && maxSeatToFloorHeight === 1800)) {
                     filtered = filtered.filter(product => {
                         const seatToFloorHeight = product.dimensions_details?.[0]?.seat_to_floor_height;
-                        if (!seatToFloorHeight) return true; // Не отсеиваем, если высота не указана
+                        // if (!seatToFloorHeight) return true; // Не отсеиваем, если высота не указана
+                        if (!seatToFloorHeight || (!seatToFloorHeight.min && !seatToFloorHeight.max)) {
+                            return false; // Исключаем товары, у которых высота сиденья не указана
+                        }
 
                         const minH = seatToFloorHeight.min ? parseInt(seatToFloorHeight.min) : null;
                         const maxH = seatToFloorHeight.max ? parseInt(seatToFloorHeight.max) : null;
