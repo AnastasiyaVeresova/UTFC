@@ -100,7 +100,7 @@
                 "max": ""
             },
             "chair_depth": {
-                "min": "",
+                "min": 330,
                 "max": null
             },
             "seat_depth": {
