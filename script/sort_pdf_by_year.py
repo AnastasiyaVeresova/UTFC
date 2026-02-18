@@ -46,7 +46,7 @@ def save_results(year_dict, no_year_list, output_file):
             f.write(f"{os.path.basename(file)}\n")
 
 # Основной код
-folder_path = r"C:\Users\UTFC\Documents\Downloads\catalog_to\extracted_images"
+folder_path = r"C:\Users\UTFC\Downloads\UTFC\ТЕХНИЧЕСКОЕ ОПИСАНИЕ"
 output_file = "ТО.txt"
 
 year_dict, no_year_list = process_folder(folder_path)

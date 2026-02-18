@@ -84,8 +84,8 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": "",
-                "max": ""
+                "min": 450,
+                "max": 450
             },
             "headrest_height": {
                 "min": "",
@@ -104,7 +104,7 @@
                 "max": null
             },
             "seat_depth": {
-                "min": "",
+                "min": 305,
                 "max": null
             },
             "backrest_height": {
