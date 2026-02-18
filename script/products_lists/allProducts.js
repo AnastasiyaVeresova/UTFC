@@ -136,6 +136,10 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Бостон СН-277 хром Топ-Ган Люкс",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Бостон Хэви Дьюти МБ",
     "category": "armchair_rukovoditel"
   },

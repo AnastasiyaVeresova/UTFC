@@ -10,7 +10,7 @@ def normalize_model_name(name):
     if not isinstance(name, str):
         return ""
     name = name.lower().strip()
-    name = re.sub(r'\bстул\b|\bкресло\b', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\bстул\b|\bкресло\b|Кресло UTFC\b', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s+', ' ', name)
     name = re.sub(r'[^\w\s-]', '', name)
     name = re.sub(r'с', 'c', name)
