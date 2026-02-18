@@ -123,7 +123,7 @@
             },
             "backrest_height": {
                 "min": "",
-                "max": ""
+                "max": 370
             },
             "height_backrest_seat": {
                 "min": "",
