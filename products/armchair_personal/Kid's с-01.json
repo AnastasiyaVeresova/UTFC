@@ -130,5 +130,11 @@
                 "max": ""
             }
         }
+    ],
+    "lost": [
+        {
+            "clean": true,
+            "limit": false
+        }
     ]
 }

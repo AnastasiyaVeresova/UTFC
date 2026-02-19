@@ -137,5 +137,11 @@
                 "max": ""
             }
         }
+    ],
+    "lost": [
+        {
+            "clean": false,
+            "limit": true
+        }
     ]
 }

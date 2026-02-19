@@ -133,5 +133,11 @@
                 "max": 590
             }
         }
+    ],
+    "lost": [
+        {
+            "clean": true,
+            "limit": false
+        }
     ]
 }

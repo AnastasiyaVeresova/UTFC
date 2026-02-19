@@ -445,4 +445,26 @@ h3 {
 
 .close-modal:hover {
   color: #96C22B;
+}
+
+.lost-indicator {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 12px;
+  height: 12px;
+  background-color: red;
+  border-radius: 50%;
+  z-index: 1000;
+}
+
+.limit-indicator {
+  position: absolute;
+  top: 5px;
+  left: 25px; /* Смещаем вправо, чтобы не перекрывал красный кружок */
+  width: 12px;
+  height: 12px;
+  background-color: #96C22B; /* Салатовый цвет */
+  border-radius: 50%;
+  z-index: 1000;
 }/*# sourceMappingURL=style_menu_main.css.map */
