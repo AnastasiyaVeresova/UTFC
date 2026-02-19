@@ -2341,6 +2341,9 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
                     });
                 });
 
+                    recalculateSliderValues(filteredProducts);
+
+                
                 // Добавляем обработчики для кнопок открытия PDF в новом окне
                 document.querySelectorAll('.open-card-modal').forEach(button => {
                     button.addEventListener('click', function () {
