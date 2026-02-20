@@ -126,16 +126,20 @@
                 "max": null
             },
             "seat_width": {
-                "max": 500
+                "max": 500,
+                "min": ""
             },
             "diameter_cross": {
-                "max": 660
+                "max": 660,
+                "min": ""
             },
             "runners_width": {
-                "max": ""
+                "max": "",
+                "min": ""
             },
             "runners_depth": {
-                "max": ""
+                "max": "",
+                "min": ""
             }
         }
     ]

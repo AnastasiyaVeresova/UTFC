@@ -355,6 +355,8 @@
             // Используем отфильтрованные товары, если они переданы, иначе — все товары
             const productsToUse = filteredProducts.length > 0 ? filteredProducts : validProducts;
 
+
+
             // Получаем выбранные категории
             const selectedCategories = Array.from(document.querySelectorAll('.category-filter:checked')).map(el => el.value);
             let filteredByCategory = productsToUse;
@@ -431,6 +433,11 @@
                 maxHeightValue.value = 1800;
             }
 
+            minHeightInput.value = minHeightInput.min;
+            maxHeightInput.value = maxHeightInput.max;
+            minHeightValue.value = minHeightInput.min;
+            maxHeightValue.value = maxHeightInput.max;
+
             // Пересчитываем min/max для ширины сиденья с подлокотниками
             let minSeatWidthWithArmrestsPossible = Infinity;
             let maxSeatWidthWithArmrestsPossible = -Infinity;
@@ -499,20 +506,54 @@
                 maxSeatWidthWithArmrestsValue.value = 1800;
             }
 
+            minSeatWidthWithArmrestsInput.value = minSeatWidthWithArmrestsInput.min;
+            maxSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsInput.max;
+            minSeatWidthWithArmrestsValue.value = minSeatWidthWithArmrestsInput.min;
+            maxSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsInput.max;
+
             // Пересчитываем min/max для высоты сиденья от пола
             let minSeatToFloorHeightPossible = Infinity;
             let maxSeatToFloorHeightPossible = -Infinity;
+
             filteredByCategory.forEach(product => {
                 const seatToFloorHeight = product.dimensions_details?.[0]?.seat_to_floor_height;
-                if (seatToFloorHeight) {
-                    if (seatToFloorHeight.min && !isNaN(parseInt(seatToFloorHeight.min)) && parseInt(seatToFloorHeight.min) < minSeatToFloorHeightPossible) {
-                        minSeatToFloorHeightPossible = parseInt(seatToFloorHeight.min);
-                    }
-                    if (seatToFloorHeight.max && !isNaN(parseInt(seatToFloorHeight.max)) && parseInt(seatToFloorHeight.max) > maxSeatToFloorHeightPossible) {
-                        maxSeatToFloorHeightPossible = parseInt(seatToFloorHeight.max);
+                if (!seatToFloorHeight) return;
+
+                // Обработка min
+                if (seatToFloorHeight.min && !isNaN(parseInt(seatToFloorHeight.min))) {
+                    const minVal = parseInt(seatToFloorHeight.min);
+                    if (minVal < minSeatToFloorHeightPossible) {
+                        minSeatToFloorHeightPossible = minVal;
                     }
                 }
+                // Обработка max
+                if (seatToFloorHeight.max && !isNaN(parseInt(seatToFloorHeight.max))) {
+                    const maxVal = parseInt(seatToFloorHeight.max);
+                    if (maxVal > maxSeatToFloorHeightPossible) {
+                        maxSeatToFloorHeightPossible = maxVal;
+                    }
+                }
+                // Если есть только min, используем его как min и max
+                if (seatToFloorHeight.min && !seatToFloorHeight.max && !isNaN(parseInt(seatToFloorHeight.min))) {
+                    const minVal = parseInt(seatToFloorHeight.min);
+                    if (minVal > maxSeatToFloorHeightPossible) {
+                        maxSeatToFloorHeightPossible = minVal;
+                    }
+                }
+                // Если есть только max, используем его как min и max
+                if (seatToFloorHeight.max && !seatToFloorHeight.min && !isNaN(parseInt(seatToFloorHeight.max))) {
+                    const maxVal = parseInt(seatToFloorHeight.max);
+                    if (maxVal < minSeatToFloorHeightPossible) {
+                        minSeatToFloorHeightPossible = maxVal;
+                    }
+                }
+
             });
+
+            // // Если после цикла значения не изменились, проставляем дефолт
+            // if (minSeatToFloorHeightPossible === Infinity) minSeatToFloorHeightPossible = 1800;
+            // if (maxSeatToFloorHeightPossible === -Infinity) maxSeatToFloorHeightPossible = 1800;
+
 
             // Обновляем интерфейс для высоты сиденья от пола
             if (minSeatToFloorHeightPossible !== Infinity) {
@@ -538,21 +579,45 @@
                 maxSeatToFloorHeightInput.value = 1800;
                 maxSeatToFloorHeightValue.value = 1800;
             }
+            minSeatToFloorHeightInput.value = minSeatToFloorHeightInput.min;
+            maxSeatToFloorHeightInput.value = maxSeatToFloorHeightInput.max;
+            minSeatToFloorHeightValue.value = minSeatToFloorHeightInput.min;
+            maxSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.max;
 
-            // Пересчитываем min/max для габаритной глубины
             let minChairDepthPossible = Infinity;
             let maxChairDepthPossible = -Infinity;
+
             filteredByCategory.forEach(product => {
                 const chairDepth = product.dimensions_details?.[0]?.chair_depth;
-                if (chairDepth) {
-                    if (chairDepth.min && !isNaN(parseInt(chairDepth.min)) && parseInt(chairDepth.min) < minChairDepthPossible) {
-                        minChairDepthPossible = parseInt(chairDepth.min);
+                if (!chairDepth) return;
+
+                // Обработка min
+                if (chairDepth.min && !isNaN(parseInt(chairDepth.min))) {
+                    const minVal = parseInt(chairDepth.min);
+                    if (minVal < minChairDepthPossible) {
+                        minChairDepthPossible = minVal;
                     }
-                    if (chairDepth.max && !isNaN(parseInt(chairDepth.max)) && parseInt(chairDepth.max) > maxChairDepthPossible) {
-                        maxChairDepthPossible = parseInt(chairDepth.max);
+                }
+                // Обработка max
+                if (chairDepth.max && !isNaN(parseInt(chairDepth.max))) {
+                    const maxVal = parseInt(chairDepth.max);
+                    if (maxVal > maxChairDepthPossible) {
+                        maxChairDepthPossible = maxVal;
+                    }
+                }
+                // Если есть только max, используем его как min
+                if (!chairDepth.min && chairDepth.max && !isNaN(parseInt(chairDepth.max))) {
+                    const maxVal = parseInt(chairDepth.max);
+                    if (maxVal < minChairDepthPossible) {
+                        minChairDepthPossible = maxVal;
                     }
                 }
             });
+
+            // // Если после цикла значения не изменились, проставляем дефолт
+            // if (minChairDepthPossible === Infinity) minChairDepthPossible = 1800;
+            // if (maxChairDepthPossible === -Infinity) maxChairDepthPossible = 1800;
+
 
             // Обновляем интерфейс для габаритной глубины
             if (minChairDepthPossible !== Infinity) {
@@ -573,26 +638,52 @@
                 maxChairDepthInput.value = maxChairDepthPossible;
                 maxChairDepthValue.value = maxChairDepthPossible;
             } else {
-                maxChairDepthInput.max = 1800;
-                maxChairDepthValue.max = 1800;
-                maxChairDepthInput.value = 1800;
-                maxChairDepthValue.value = 1800;
+                maxChairDepthInput.max = 500;
+                maxChairDepthValue.max = 500;
+                maxChairDepthInput.value = 500;
+                maxChairDepthValue.value = 500;
             }
+
+            minSeatToFloorHeightInput.value = minSeatToFloorHeightInput.min;
+            maxSeatToFloorHeightInput.value = maxSeatToFloorHeightInput.max;
+            minSeatToFloorHeightValue.value = minSeatToFloorHeightInput.min;
+            maxSeatToFloorHeightValue.value = maxSeatToFloorHeightInput.max;
 
             // Пересчитываем min/max для глубины сиденья
             let minSeatDepthPossible = Infinity;
             let maxSeatDepthPossible = -Infinity;
+
             filteredByCategory.forEach(product => {
                 const seatDepth = product.dimensions_details?.[0]?.seat_depth;
-                if (seatDepth) {
-                    if (seatDepth.min && !isNaN(parseInt(seatDepth.min)) && parseInt(seatDepth.min) < minSeatDepthPossible) {
-                        minSeatDepthPossible = parseInt(seatDepth.min);
+                if (!seatDepth) return;
+
+                // Обработка min
+                if (seatDepth.min && !isNaN(parseInt(seatDepth.min))) {
+                    const minVal = parseInt(seatDepth.min);
+                    if (minVal < minSeatDepthPossible) {
+                        minSeatDepthPossible = minVal;
                     }
-                    if (seatDepth.max && !isNaN(parseInt(seatDepth.max)) && parseInt(seatDepth.max) > maxSeatDepthPossible) {
-                        maxSeatDepthPossible = parseInt(seatDepth.max);
+                }
+                // Обработка max
+                if (seatDepth.max && !isNaN(parseInt(seatDepth.max))) {
+                    const maxVal = parseInt(seatDepth.max);
+                    if (maxVal > maxSeatDepthPossible) {
+                        maxSeatDepthPossible = maxVal;
+                    }
+                }
+                // Если есть только max, используем его как min
+                if (!seatDepth.min && seatDepth.max && !isNaN(parseInt(seatDepth.max))) {
+                    const maxVal = parseInt(seatDepth.max);
+                    if (maxVal < minSeatDepthPossible) {
+                        minSeatDepthPossible = maxVal;
                     }
                 }
             });
+
+            // // Если после цикла значения не изменились, проставляем дефолт
+            // if (minSeatDepthPossible === Infinity) minSeatDepthPossible = 1800;
+            // if (maxSeatDepthPossible === -Infinity) maxSeatDepthPossible = 1800;
+
 
             // Обновляем интерфейс для глубины сиденья
             if (minSeatDepthPossible !== Infinity) {
@@ -619,41 +710,59 @@
                 maxSeatDepthValue.value = 1800;
             }
 
+            minSeatDepthInput.value = minSeatDepthInput.min;
+            maxSeatDepthInput.value = maxSeatDepthInput.max;
+            minSeatDepthValue.value = maxSeatDepthInput.min;
+            maxSeatDepthValue.value = maxSeatDepthInput.max;
+
             // Пересчитываем min/max для ширины сиденья
             let minSeatWidthPossible = Infinity;
             let maxSeatWidthPossible = -Infinity;
 
             filteredByCategory.forEach(product => {
                 const seatWidth = product.dimensions_details?.[0]?.seat_width;
-                if (seatWidth) {
-                    // Если есть min — используем его
-                    if (seatWidth.min && !isNaN(parseInt(seatWidth.min))) {
-                        const minVal = parseInt(seatWidth.min);
-                        if (minVal < minSeatWidthPossible) {
-                            minSeatWidthPossible = minVal;
-                        }
+                if (!seatWidth) return;
+
+                // Обработка min
+                if (seatWidth.min && !isNaN(parseInt(seatWidth.min))) {
+                    const minVal = parseInt(seatWidth.min);
+                    if (minVal < minSeatWidthPossible) {
+                        minSeatWidthPossible = minVal;
                     }
-                    // Если min нет, но есть max — используем max как min
-                    else if (seatWidth.max && !isNaN(parseInt(seatWidth.max))) {
-                        const maxVal = parseInt(seatWidth.max);
-                        if (maxVal < minSeatWidthPossible) {
-                            minSeatWidthPossible = maxVal;
-                        }
+                }
+                // Обработка max
+                if (seatWidth.max && !isNaN(parseInt(seatWidth.max))) {
+                    const maxVal = parseInt(seatWidth.max);
+                    if (maxVal > maxSeatWidthPossible) {
+                        maxSeatWidthPossible = maxVal;
                     }
-                    // Всегда обновляем max
-                    if (seatWidth.max && !isNaN(parseInt(seatWidth.max))) {
-                        const maxVal = parseInt(seatWidth.max);
-                        if (maxVal > maxSeatWidthPossible) {
-                            maxSeatWidthPossible = maxVal;
-                        }
+                }
+           // Если есть только min, используем его как min и max
+                if (seatWidth.min && !seatWidth.max && !isNaN(parseInt(seatWidth.min))) {
+                    const minVal = parseInt(seatWidth.min);
+                    if (minVal > maxSeatWidthPossible) {
+                        maxSeatWidthPossible = minVal;
+                    }
+                }
+                
+                // Если есть только max, используем его как min и max
+                if (seatWidth.max && !seatWidth.min && !isNaN(parseInt(seatWidth.max))) {
+                    const maxVal = parseInt(seatWidth.max);
+                    if (maxVal < minSeatWidthPossible) {
+                        minSeatWidthPossible = maxVal;
                     }
                 }
             });
 
-            validProducts.forEach(product => {
-                const seatWidth = product.dimensions_details?.[0]?.seat_width;
-                console.log("Продукт:", product.name, "-> seat_width:", seatWidth);
-            });
+            // // Если после цикла значения не изменились, проставляем дефолт
+            // if (minSeatWidthPossible === Infinity) minSeatWidthPossible = 1800;
+            // if (maxSeatWidthPossible === -Infinity) maxSeatWidthPossible = 1800;
+
+
+            // validProducts.forEach(product => {
+            //     const seatWidth = product.dimensions_details?.[0]?.seat_width;
+            //     console.log("Продукт:", product.name, "-> seat_width:", seatWidth);
+            // });
 
             // Обновляем интерфейс для ширины сиденья
             if (minSeatWidthPossible !== Infinity) {
@@ -679,10 +788,23 @@
                 maxSeatWidthInput.value = 1800;
                 maxSeatWidthValue.value = 1800;
             }
+
+            minSeatWidthInput.value = minSeatWidthInput.min;
+            maxSeatDepthInput.value = maxSeatWidthInput.max;
+            minSeatWidthValue.value = minSeatWidthInput.min;
+            maxSeatWidthValue.value = maxSeatDepthInput.max;
+
+            isSeatWidthWithArmrestsChanged = false;
+            isSeatToFloorHeightChanged = false;
+            isChairHeightChanged = false;
+            isChairDepthChanged = false;
+            isSeatDepthChanged = false;
+            isSeatWidthChanged = false;
         }
 
 
         document.addEventListener('DOMContentLoaded', function () {
+            
             // Обработчики для кнопок сворачивания/разворачивания блоков фильтров
             document.querySelectorAll('.toggle-filter').forEach(button => {
                 button.addEventListener('click', function () {
@@ -750,6 +872,7 @@
                         console.error(`Ошибка загрузки ${item.name}:`, error);
                     });
             });
+
 
             Promise.all(promises)
                 .then(() => {
@@ -1000,6 +1123,8 @@
                         minSeatToFloorHeightInput.value = minSeatToFloorHeightPossible;
                         minSeatToFloorHeightValue.value = minSeatToFloorHeightPossible;
                     } else {
+                        minSeatToFloorHeightInput.min = 100;
+                        minSeatToFloorHeightValue.min = 100;
                         minSeatToFloorHeightInput.value = 100;
                         minSeatToFloorHeightValue.value = 100;
                     }
@@ -1009,9 +1134,11 @@
                         maxSeatToFloorHeightValue.max = maxSeatToFloorHeightPossible;
                         maxSeatToFloorHeightInput.value = maxSeatToFloorHeightPossible;
                         maxSeatToFloorHeightValue.value = maxSeatToFloorHeightPossible;
-                        minSeatToFloorHeightInput = document.getElementById('minChairDepth');
+                        minChairDepthInput = document.getElementById('minChairDepth');
 
                     } else {
+                        maxSeatToFloorHeightInput.max = 1800;
+                        maxSeatToFloorHeightValue.max = 1800;
                         maxSeatToFloorHeightInput.value = 1800;
                         maxSeatToFloorHeightValue.value = 1800;
                     }
@@ -1304,8 +1431,8 @@
 
                     // Построение диаграммы и генерация карточек
                     buildOverallChart(validProducts);
-                    recalculateSliderValues();
                     filterProducts();
+                    recalculateSliderValues(filteredProducts);
                 })
                 .catch(error => {
                     console.error('Ошибка загрузки данных:', error);
@@ -1341,6 +1468,8 @@
                 const maxSeatDepth = parseInt(maxSeatDepthInput.value);
                 const minSeatWidth = parseInt(minSeatWidthInput.value);
                 const maxSeatWidth = parseInt(maxSeatWidthInput.value);
+
+
 
 
                 if (!minHeightInput || !maxHeightInput || !minHeightValue || !maxHeightValue) {
@@ -1547,6 +1676,7 @@
                 //                     });
                 //                 }
                 // Фильтрация по подлокотникам, конструктиву и исполнению
+                // Фильтрация по подлокотникам, конструктиву и исполнению
                 if (armrestFilters.length > 0 || mechanismFilters.length > 0 || finishFilters.length > 0 || loadFilters.length > 0 || diameterFilters.length > 0) {
                     filtered = filtered.filter(product => {
                         const uniqueName = (Array.isArray(product.unique_name) ? product.unique_name[0] : product.unique_name).toLowerCase();
@@ -1554,24 +1684,20 @@
                         // Фильтрация по подлокотникам (если выбраны)
                         let armrestMatch = true;
                         if (armrestFilters.length > 0) {
-                            const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
-                            const isFirstWordInFilter = armrestFilters.some(filter => {
+                            armrestMatch = armrestFilters.every(filter => {
                                 const patterns = filter.split('|');
-                                return patterns.some(pattern => firstWord === pattern.toLowerCase());
-                            });
-                            if (isFirstWordInFilter) {
-                                armrestMatch = false;
-                            } else {
-                                armrestMatch = armrestFilters.every(filter => {
-                                    const patterns = filter.split('|');
-                                    const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
-                                    return patterns.some(pattern => {
-                                        const lowerPattern = pattern.toLowerCase();
-                                        const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
-                                        return regex.test(cleanedUniqueName);
-                                    });
+                                const firstWord = uniqueName.split(/\s+/)[0].toLowerCase();
+                                const isFirstWordInFilter = patterns.some(pattern => firstWord === pattern.toLowerCase());
+                                if (isFirstWordInFilter) {
+                                    return false; // Исключаем, если первое слово совпадает с фильтром
+                                }
+                                const cleanedUniqueName = uniqueName.replace(/\s*([сc]н|ch)[-\s]?\d*\s*/gi, ' ').trim();
+                                return patterns.some(pattern => {
+                                    const lowerPattern = pattern.toLowerCase();
+                                    const regex = new RegExp(`(^|\\s)(${lowerPattern})(\\s|$|-)`, 'i');
+                                    return regex.test(cleanedUniqueName);
                                 });
-                            }
+                            });
                         }
 
                         // Проверяем "подголовник" по всем текстовым полям
@@ -1643,11 +1769,9 @@
                             const diameter = product.dimensions_details?.[0]?.diameter_cross;
                             const isOtherSelected = diameterFilters.includes("other");
 
-                            // Если диаметр не указан вообще (нет поля или пустое)
                             if (!diameter || (!diameter.min && !diameter.max && typeof diameter !== 'number')) {
-                                diameterMatch = isOtherSelected; // Пропускаем только если выбран "other"
+                                diameterMatch = isOtherSelected;
                             } else {
-                                // Если диаметр указан
                                 const diameterValue = typeof diameter === 'object' ? (diameter.max || diameter.min) : diameter;
                                 const standardDiameters = ["480", "580", "600", "630", "640", "660", "680", "700", "720", "740", "760"];
                                 const isStandardDiameter = standardDiameters.includes(String(diameterValue));
@@ -1662,11 +1786,10 @@
                             }
                         }
 
-
-
                         return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch && diameterMatch;
                     });
                 }
+
 
 
                 // Фильтрация по поиску
@@ -2129,9 +2252,9 @@
                 document.getElementById('productsCountValue').textContent = filteredProducts.length;
                 console.log(`Актуальное количество отфильтрованных товаров: ${filteredProducts.length}`);
                 // console.log('Первые 3 товара:', filteredProducts.slice(0, 3));
-
+       
                 buildOverallChart(filteredProducts);
-
+                recalculateSliderValues(filteredProducts);
                 // Очищаем контейнер и добавляем отфильтрованные товары
                 productsContainer.innerHTML = '';
                 if (filteredProducts.length === 0) {
@@ -2341,9 +2464,9 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
                     });
                 });
 
-                    
 
-                
+
+
                 // Добавляем обработчики для кнопок открытия PDF в новом окне
                 document.querySelectorAll('.open-card-modal').forEach(button => {
                     button.addEventListener('click', function () {
@@ -2362,14 +2485,14 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
             document.querySelectorAll('.category-filter').forEach(checkbox => {
                 checkbox.addEventListener('change', function () {
                     // Пересчитываем минимальные и максимальные значения для ползунков
-                    recalculateSliderValues();
+                    // recalculateSliderValues(filteredProducts);
                     // Фильтруем товары
-                    filterProducts();
+                    filterProducts(filteredProducts);
                 });
 
                 document.querySelectorAll('.special-offer-filter').forEach(checkbox => {
                     checkbox.addEventListener('change', () => {
-                        recalculateSliderValues();
+                        // recalculateSliderValues(filteredProducts);
                         filterProducts();
                     });
                 });
@@ -2598,7 +2721,6 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
                 console.error("Один или несколько элементов не найдены!");
                 return;
             }
-
 
         });
 

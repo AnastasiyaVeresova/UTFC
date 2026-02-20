@@ -110,7 +110,8 @@
                 "max": ""
             },
             "backrest_height": {
-                "max": 570
+                "max": 570,
+                "min": ""
             },
             "backrest_to_seat_height": {
                 "min": "",
@@ -121,16 +122,20 @@
                 "max": ""
             },
             "seat_width": {
-                "max": 460
+                "max": 460,
+                "min": ""
             },
             "diameter_cross": {
-                "max": 580
+                "max": 580,
+                "min": ""
             },
             "runners_width": {
-                "max": ""
+                "max": "",
+                "min": ""
             },
             "runners_depth": {
-                "max": ""
+                "max": "",
+                "min": ""
             }
         }
     ]

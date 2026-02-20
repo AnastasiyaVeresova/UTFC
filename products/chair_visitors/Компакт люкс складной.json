@@ -62,24 +62,24 @@
             }
         }
     ],
-"dimensions": [
-    {
-        "packaging_type": [
-            {
-                "type": "individual",
-                "brutto": "5,61",
-                "netto": "",
-                "volume": "0,046"
-            },
-            {
-                "type": "box4",
-                "brutto": "5,46",
-                "netto": "4,94",
-                "volume": "0,038"
-            }
-        ]
-    }
-],
+    "dimensions": [
+        {
+            "packaging_type": [
+                {
+                    "type": "individual",
+                    "brutto": "5,61",
+                    "netto": "",
+                    "volume": "0,046"
+                },
+                {
+                    "type": "box4",
+                    "brutto": "5,46",
+                    "netto": "4,94",
+                    "volume": "0,038"
+                }
+            ]
+        }
+    ],
     "guarantee": [
         {
             "period": "12",
@@ -133,16 +133,20 @@
                 "max": ""
             },
             "seat_width": {
-                "max": 405
+                "max": 405,
+                "min": ""
             },
             "diameter_cross": {
-                "max": ""
+                "max": "",
+                "min": ""
             },
             "runners_width": {
-                "max": 450
+                "max": 450,
+                "min": ""
             },
             "runners_depth": {
-                "max": 460
+                "max": 460,
+                "min": ""
             }
         }
     ]
