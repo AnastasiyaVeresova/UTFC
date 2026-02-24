@@ -1000,6 +1000,7 @@ console.log("Текущие значения ползунков:", minChairDepth
                         maxSeatWidthWithArmrestsValue.max = maxSeatWidthWithArmrestsPossible;
                         maxSeatWidthWithArmrestsInput.value = maxSeatWidthWithArmrestsPossible;
                         maxSeatWidthWithArmrestsValue.value = maxSeatWidthWithArmrestsPossible;
+                        minSeatWidthWithArmrestsInput = document.getElementById('minSeatWidthWithArmrests');
                     } else {
                         maxSeatWidthWithArmrestsInput.max = 1800;
                         maxSeatWidthWithArmrestsValue.max = 1800;
@@ -1263,6 +1264,7 @@ maxChairDepthInput.addEventListener('input', () => {
                         maxSeatDepthValue.max = maxSeatDepthPossible;
                         maxSeatDepthInput.value = maxSeatDepthPossible;
                         maxSeatDepthValue.value = maxSeatDepthPossible;
+                        minSeatDepthInput = document.getElementById('minSeatDepth');
                     } else {
                         maxSeatDepthInput.max = 1800;
                         maxSeatDepthValue.max = 1800;
@@ -1343,6 +1345,8 @@ maxChairDepthInput.addEventListener('input', () => {
                         maxSeatWidthValue.max = maxSeatWidthPossible;
                         maxSeatWidthInput.value = maxSeatWidthPossible;
                         maxSeatWidthValue.value = maxSeatWidthPossible;
+                        minSeatWidthInput = document.getElementById('minSeatWidth');
+                        
                     } else {
                         maxSeatWidthInput.max = 1800;
                         maxSeatWidthValue.max = 1800;
