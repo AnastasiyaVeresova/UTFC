@@ -2266,43 +2266,38 @@ filteredByCategory.forEach(product => {
                 // }
 
 if (isChairDepthChanged && !(minChairDepth === 100 && maxChairDepth === 1800)) {
-    filtered = filtered.filter(product => {
+filtered = filtered.filter(product => {
         const dimensions = product.dimensions_details?.[0] || {};
+        const seatDepth = dimensions.seat_depth;
+        const chairDepth = dimensions.chair_depth;
+        const diameterCross = dimensions.diameter_cross;
+        const runnersDepth = dimensions.runners_depth;
 
-        // Определяем минимальную и максимальную габаритную глубину
+        // 1. Собираем все возможные значения глубины
+        const possibleDepths = [
+            seatDepth?.min,
+            seatDepth?.max,
+            chairDepth?.min,
+            chairDepth?.max,
+            diameterCross?.min,
+            diameterCross?.max,
+            runnersDepth?.min,
+            runnersDepth?.max,
+        ].filter(d => d !== undefined && d !== null && !isNaN(parseInt(d)));
+
+        // 2. Определяем минимальную и максимальную габаритную глубину
         let minDepth = null;
         let maxDepth = null;
 
-        // 1. Минимальная глубина — это глубина сиденья (seat_depth)
-        if (dimensions.seat_depth?.min) {
-            minDepth = parseInt(dimensions.seat_depth.min);
-        } else if (dimensions.seat_depth?.max) {
-            minDepth = parseInt(dimensions.seat_depth.max);
-        }
-
-        // 2. Максимальная глубина — это максимум из:
-        //    - глубины кресла (chair_depth)
-        //    - диаметра крестовины (diameter_cross)
-        //    - глубины полозьев (runners_depth)
-        const possibleMaxDepths = [
-            dimensions.chair_depth?.max,
-            dimensions.diameter_cross?.max,
-            dimensions.runners_depth?.max,
-        ].filter(d => d !== undefined && d !== null && !isNaN(parseInt(d)));
-
-        if (possibleMaxDepths.length > 0) {
-            maxDepth = Math.max(...possibleMaxDepths.map(d => parseInt(d)));
+        if (possibleDepths.length > 0) {
+            minDepth = Math.min(...possibleDepths.map(d => parseInt(d)));
+            maxDepth = Math.max(...possibleDepths.map(d => parseInt(d)));
         } else {
-            // Если ни одно из значений не задано, используем глубину сиденья
-            maxDepth = minDepth;
+            // Если ни одно значение не задано, пропускаем товар
+            return false;
         }
 
-        // Если minDepth не задан, используем maxDepth
-        if (minDepth === null) {
-            minDepth = maxDepth;
-        }
-
-        // Проверяем попадание в диапазон
+        // 3. Проверяем попадание в диапазон
         return (
             (minDepth >= minChairDepth && minDepth <= maxChairDepth) ||
             (maxDepth >= minChairDepth && maxDepth <= maxChairDepth)
