@@ -643,34 +643,84 @@
             // console.log("Максимальная габаритная глубина:", maxChairDepthPossible);
             // console.log("Текущие значения ползунков:", minChairDepthInput.value, maxChairDepthInput.value);
 
-            filteredByCategory.forEach(product => {
-                const dimensions = product.dimensions_details?.[0] || {};
-                const diameterCross = dimensions.diameter_cross;
-                const runnersDepth = dimensions.runners_depth;
-                const chairDepth = dimensions.chair_depth;
-                if (chairDepth) {
-                    // Обрабатываем min
-                    if (chairDepth.min && !isNaN(parseInt(chairDepth.min))) {
-                        const minD = parseInt(chairDepth.min);
-                        if (minD < minChairDepthPossible) {
-                            minChairDepthPossible = minD;
-                        }
-                    }
+            // filteredByCategory.forEach(product => {
+            //     const dimensions = product.dimensions_details?.[0] || {};
+            //     const diameterCross = dimensions.diameter_cross;
+            //     const runnersDepth = dimensions.runners_depth;
+            //     const chairDepth = dimensions.chair_depth;
+            //     if (chairDepth) {
+            //         // Обрабатываем min
+            //         if (chairDepth.min && !isNaN(parseInt(chairDepth.min))) {
+            //             const minD = parseInt(chairDepth.min);
+            //             if (minD < minChairDepthPossible) {
+            //                 minChairDepthPossible = minD;
+            //             }
+            //         }
 
-                    // Обрабатываем max
-                    let currentMax = -Infinity;
-                    if (chairDepth.max && !isNaN(parseInt(chairDepth.max))) {
-                        currentMax = parseInt(chairDepth.max);
-                    } else if (chairDepth.min && !isNaN(parseInt(chairDepth.min))) {
-                        // Если max не указан, используем min как max
-                        currentMax = parseInt(chairDepth.min);
-                    }
+            //         // Обрабатываем max
+            //         let currentMax = -Infinity;
+            //         if (chairDepth.max && !isNaN(parseInt(chairDepth.max))) {
+            //             currentMax = parseInt(chairDepth.max);
+            //         } else if (chairDepth.min && !isNaN(parseInt(chairDepth.min))) {
+            //             // Если max не указан, используем min как max
+            //             currentMax = parseInt(chairDepth.min);
+            //         }
 
-                    if (currentMax > maxChairDepthPossible) {
-                        maxChairDepthPossible = currentMax;
-                    }
-                }
-            });
+            //         if (currentMax > maxChairDepthPossible) {
+            //             maxChairDepthPossible = currentMax;
+            //         }
+            //     }
+            // });
+            
+            // Пересчитываем min/max для габаритной глубины
+
+
+filteredByCategory.forEach(product => {
+    const dimensions = product.dimensions_details?.[0] || {};
+    const seatDepth = dimensions.seat_depth;
+    const chairDepth = dimensions.chair_depth;
+    const diameterCross = dimensions.diameter_cross;
+    const runnersDepth = dimensions.runners_depth;
+
+    // 1. Минимальная глубина — это глубина сиденья (seat_depth)
+    let minD = null;
+    if (seatDepth?.min) {
+        minD = parseInt(seatDepth.min);
+    } else if (seatDepth?.max) {
+        minD = parseInt(seatDepth.max);
+    }
+
+    // 2. Максимальная глубина — это максимум из:
+    //    - глубины кресла (chair_depth)
+    //    - диаметра крестовины (diameter_cross)
+    //    - глубины полозьев (runners_depth)
+    const possibleMaxDepths = [
+        chairDepth?.max,
+        diameterCross?.max,
+        runnersDepth?.max,
+    ].filter(d => d !== undefined && d !== null && !isNaN(parseInt(d)));
+
+    let maxD = null;
+    if (possibleMaxDepths.length > 0) {
+        maxD = Math.max(...possibleMaxDepths.map(d => parseInt(d)));
+    } else {
+        maxD = minD;
+    }
+
+    if (minD === null) {
+        minD = maxD;
+    }
+
+    // Обновляем минимальное и максимальное значение
+    if (minD < minChairDepthPossible) {
+        minChairDepthPossible = minD;
+    }
+    if (maxD > maxChairDepthPossible) {
+        maxChairDepthPossible = maxD;
+    }
+});
+
+            
             console.log("Минимальная габаритная глубина:", minChairDepthPossible);
             console.log("Максимальная габаритная глубина:", maxChairDepthPossible);
             console.log("Текущие значения ползунков:", minChairDepthInput.value, maxChairDepthInput.value);
@@ -2118,9 +2168,7 @@
                 //     });
                 // }
 
-                console.log("Товары после фильтрации по ширине сиденья с подлокотниками:", filtered.map(p => p.unique_name));
-                const missingProducts = validProducts.filter(p => !filtered.some(fp => fp.unique_name === p.unique_name));
-                console.log("Пропущенные товары:", missingProducts);
+          
                 if (isSeatWidthWithArmrestsChanged && !(minSeatWidthWithArmrests === 100 && maxSeatWidthWithArmrests === 1800)) {
                     filtered = filtered.filter(product => {
                         const dimensions = product.dimensions_details?.[0] || {};
@@ -2166,53 +2214,104 @@
                     });
                 }
 
+      console.log("Товары после фильтрации по ширине сиденья с подлокотниками:", filtered.map(p => p.unique_name));
+                const missingProducts = validProducts.filter(p => !filtered.some(fp => fp.unique_name === p.unique_name));
+                console.log("Пропущенные товары:", missingProducts);
+                
+                // if (isChairDepthChanged && !(minChairDepth === 100 && maxChairDepth === 1800)) {
+                //     filtered = filtered.filter(product => {
+                //         const dimensions = product.dimensions_details?.[0] || {};
+                //         const ChairDepth = dimensions.chair_depth;
+                //         const diameterCross = dimensions.diameter_cross;
+                //         const runnersDepth = dimensions.runners_depth;
 
-                if (isChairDepthChanged && !(minChairDepth === 100 && maxChairDepth === 1800)) {
-                    filtered = filtered.filter(product => {
-                        const dimensions = product.dimensions_details?.[0] || {};
-                        const ChairDepth = dimensions.chair_depth;
-                        const diameterCross = dimensions.diameter_cross;
-                        const runnersDepth = dimensions.runners_depth;
+
+
+                //         // Определяем значение для фильтрации (приоритет: chair_depth → diameter_cross → runners_depth)
+                //         let DepthValue = null;
+                //         if (ChairDepth?.min || ChairDepth?.max) {
+                //             DepthValue = {
+                //                 min: ChairDepth.min ? parseInt(ChairDepth.min) : null,
+                //                 max: ChairDepth.max ? parseInt(ChairDepth.max) : null
+                //             };
+                //         } else if (diameterCross?.min || diameterCross?.max) {
+                //             DepthValue = {
+                //                 min: diameterCross.min ? parseInt(diameterCross.min) : null,
+                //                 max: diameterCross.max ? parseInt(diameterCross.max) : null
+                //             };
+                //         } else if (runnersDepth?.min || runnersDepth?.max) {
+                //             DepthValue = {
+                //                 min: runnersDepth.min ? parseInt(runnersDepth.min) : null,
+                //                 max: runnersDepth.max ? parseInt(runnersDepth.max) : null
+                //             };
+                //         }
+
+                //         // Если ни одно из полей не заполнено — исключаем товар
+                //         if (!DepthValue) {
+                //             return false;
+                //         }
+
+                //         // Если значение найдено, проверяем попадание в диапазон
+                //         if (DepthValue) {
+                //             const minW = DepthValue.min || 0;
+                //             const maxW = DepthValue.max || minW;
+                //             return (minW >= minChairDepth && minW <= maxChairDepth) ||
+                //                 (maxW >= minChairDepth && maxW <= maxChairDepth);
+                //         }
+
+                //         // Если значение не найдено, пропускаем товар (или оставляем, если нужно)
+                //         return true;
+                //     });
+                //     isChairDepthChanged = false;
+                // }
+
+if (isChairDepthChanged && !(minChairDepth === 100 && maxChairDepth === 1800)) {
+    filtered = filtered.filter(product => {
+        const dimensions = product.dimensions_details?.[0] || {};
+
+        // Определяем минимальную и максимальную габаритную глубину
+        let minDepth = null;
+        let maxDepth = null;
+
+        // 1. Минимальная глубина — это глубина сиденья (seat_depth)
+        if (dimensions.seat_depth?.min) {
+            minDepth = parseInt(dimensions.seat_depth.min);
+        } else if (dimensions.seat_depth?.max) {
+            minDepth = parseInt(dimensions.seat_depth.max);
+        }
+
+        // 2. Максимальная глубина — это максимум из:
+        //    - глубины кресла (chair_depth)
+        //    - диаметра крестовины (diameter_cross)
+        //    - глубины полозьев (runners_depth)
+        const possibleMaxDepths = [
+            dimensions.chair_depth?.max,
+            dimensions.diameter_cross?.max,
+            dimensions.runners_depth?.max,
+        ].filter(d => d !== undefined && d !== null && !isNaN(parseInt(d)));
+
+        if (possibleMaxDepths.length > 0) {
+            maxDepth = Math.max(...possibleMaxDepths.map(d => parseInt(d)));
+        } else {
+            // Если ни одно из значений не задано, используем глубину сиденья
+            maxDepth = minDepth;
+        }
+
+        // Если minDepth не задан, используем maxDepth
+        if (minDepth === null) {
+            minDepth = maxDepth;
+        }
+
+        // Проверяем попадание в диапазон
+        return (
+            (minDepth >= minChairDepth && minDepth <= maxChairDepth) ||
+            (maxDepth >= minChairDepth && maxDepth <= maxChairDepth)
+        );
+    });
+}
 
 
 
-                        // Определяем значение для фильтрации (приоритет: chair_depth → diameter_cross → runners_depth)
-                        let DepthValue = null;
-                        if (ChairDepth?.min || ChairDepth?.max) {
-                            DepthValue = {
-                                min: ChairDepth.min ? parseInt(ChairDepth.min) : null,
-                                max: ChairDepth.max ? parseInt(ChairDepth.max) : null
-                            };
-                        } else if (diameterCross?.min || diameterCross?.max) {
-                            DepthValue = {
-                                min: diameterCross.min ? parseInt(diameterCross.min) : null,
-                                max: diameterCross.max ? parseInt(diameterCross.max) : null
-                            };
-                        } else if (runnersDepth?.min || runnersDepth?.max) {
-                            DepthValue = {
-                                min: runnersDepth.min ? parseInt(runnersDepth.min) : null,
-                                max: runnersDepth.max ? parseInt(runnersDepth.max) : null
-                            };
-                        }
-
-                        // Если ни одно из полей не заполнено — исключаем товар
-                        if (!DepthValue) {
-                            return false;
-                        }
-
-                        // Если значение найдено, проверяем попадание в диапазон
-                        if (DepthValue) {
-                            const minW = DepthValue.min || 0;
-                            const maxW = DepthValue.max || minW;
-                            return (minW >= minChairDepth && minW <= maxChairDepth) ||
-                                (maxW >= minChairDepth && maxW <= maxChairDepth);
-                        }
-
-                        // Если значение не найдено, пропускаем товар (или оставляем, если нужно)
-                        return true;
-                    });
-                    isChairDepthChanged = false;
-                }
 
                 console.log("Товары после фильтрации по габаритной глубине:", filtered.map(p => p.unique_name));
 
