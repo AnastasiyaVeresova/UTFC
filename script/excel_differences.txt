@@ -1,0 +1,386 @@
+=== Изменения по моделям ===
+
+Модель: Бэрри М-902 TG хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Идра Н/п пластик
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Йота М-805 BLACK PL
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Гарвард СН-500 пластик
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Верона К-10 Н/п хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Вальтер Т-01 пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Гарвард СН-500 хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Идра В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Гелакси К-49 В хром/МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Верона К-10 В дерево
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бостон СН-277 пластик 727
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Верона К-10 В хром/МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Афродита Люкс со столиком хром
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Дакота СН-251 В пластик-люкс 727
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Гермес В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Дэли СН-503 белый пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Гелакси К-49 В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Атлант В пластик-люкс 727
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Дакота СН-251 В пластик 727
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бостон Хэви Дьюти МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Идра В дерево
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Вальтер Рондо пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Атлант В/п хром
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Дэли СН-503 Н/п хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Гермес В пластик
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Вермонт СН-151 В хром/ХДП
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Борн С-44 В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Борн С-44 В хром/МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Директ Лайт МС-040 Н хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Вермонт СН-151 В хром/ХДП/МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Йота М-805 WHITE CH
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Идра Бюджет В пластик 727
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Джуно дерево
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Вальтер Б/п пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бруно СН-707
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бэрри М-902 TG пластик
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Верона К-10 В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Афродита Люкс хром
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Атлант В/п пластик-люкс 727
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Идра В пластик
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бостон СН-277 хром Топ-Ган Люкс
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Атлант В/п пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Верона К-10 В дерево/МБ
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Верона К-10 Н/п дерево
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Бостон СН-277 хром
+  netto: 150 → nan
+  brutto: 180 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Веста М-703 DARK GREY PL
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_height: К → nan
+
+Модель: Директ Лайт МС-040 В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Директ Лайт МС-040 Н/п хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Атлант В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Идра Н/п дерево
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Джуно Люкс дерево
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Аэро М-808 BLACK PL
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: КП  → nan
+
+Модель: Йота М-805 GRAY CH
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: монолитный → nan
+  package_depth: + → nan
+  package_height: КП → nan
+
+Модель: Директ Люкс МС-040 В хром
+  netto: 120 → nan
+  brutto: 150 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
+Модель: Изи СН-599 пластик
+  netto: 90 → nan
+  brutto: 120 → nan
+  package_width: немонолитный → nan
+  package_depth: + → nan
+  package_height: СП → nan
+
