@@ -4,24 +4,51 @@ import re
 # Отображение колонок (как в вашем первом скрипте)
 columns_mapping = {
     'Unnamed: 1': ('chair_height', 'min'),
+    'Unnamed: 2': ('chair_height', 'max'),
+
     'Unnamed: 3': ('headrest_height', 'min'),
+    'Unnamed: 4': ('headrest_height', 'max'),
+
     'Unnamed: 5': ('seat_to_floor_height', 'min'),
+    'Unnamed: 6': ('seat_to_floor_height', 'max'),
+
     'Unnamed: 11': ('armrest_height_from_seat', 'min'),
+    'Unnamed: 12': ('armrest_height_from_seat', 'max'),
+
     'Unnamed: 16': ('chair_depth', 'min'),
+    'Unnamed: 17': ('chair_depth', 'angle'),
+
     'Unnamed: 18': ('seat_depth', 'min'),
+    'Unnamed: 19': ('seat_depth', 'max'),
+
     'Unnamed: 21': ('backrest_height', 'max'),
+
     'Unnamed: 22': ('backrest_to_seat_height', 'min'),
+     'Unnamed: 23': ('backrest_to_seat_height', 'max'),
+
     'Unnamed: 26': ('seat_width_with_armrests', 'min'),
+    'Unnamed: 27': ('seat_width_with_armrests', 'max'),
+
     'Unnamed: 28': ('seat_width', 'max'),
+
     'Unnamed: 31': ('diameter_cross', 'max'),
+
     'Unnamed: 32': ('runners_width', 'max'),
     'Unnamed: 33': ('runners_depth', 'max'),
-    'Unnamed: 34': ('netto', None),
-    'Unnamed: 35': ('brutto', None),
-    'Unnamed: 36': ('package_width', None),
-    'Unnamed: 37': ('package_depth', None),
-    'Unnamed: 38': ('package_height', None),
-    'Unnamed: 39': ('volume', None)
+
+    'Unnamed: 34': ('recommended_load', 'max'),
+    'Unnamed: 35': ('max_load', 'max'),    
+
+    'Unnamed: 36': ('skeleton', None),
+    'Unnamed: 37': ('minprodtorg', None),
+    'Unnamed: 37': ('typeofproduct', None),
+
+    'Unnamed: 38': ('netto', None),
+    'Unnamed: 39': ('brutto', None),
+    'Unnamed: 40': ('package_width', None),
+    'Unnamed: 41': ('package_depth', None),
+    'Unnamed: 42': ('package_height', None),
+    'Unnamed: 43': ('volume', None)
 }
 
 def normalize_model_name(name):
