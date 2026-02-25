@@ -132,11 +132,11 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Бостон СН-277 хром Топ-Ган Люкс",
+    "name": "Бостон сн-277 хром топ-ган люкс",
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Бостон Хэви Дьюти МБ",
+    "name": "Бостон хэви дьюти мб",
     "category": "armchair_rukovoditel"
   },
   {
@@ -888,7 +888,7 @@ const knownProductsAllFiles = [
     "category": "armchair_personal"
   },
   {
-    "name": "СН-710 Айкью Н_п",
+    "name": "Сн-710 айкью н_п",
     "category": "armchair_rukovoditel"
   },
   {
@@ -1172,11 +1172,11 @@ const knownProductsAllFiles = [
     "category": "armchair_personal"
   },
   {
-    "name": "UTFC Бремен М-123 алюминий",
+    "name": "Utfc бремен м-123 алюминий",
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "UTFC Канзас М-111 пластик хром",
+    "name": "Utfc канзас м-111 пластик хром",
     "category": "armchair_rukovoditel"
   },
   {
@@ -1196,11 +1196,11 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
-    "name": "UTFC Онтарио М-105 пластик хром",
+    "name": "Utfc онтарио м-105 пластик хром",
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "UTFC Онтарио М-405 Н_п пластик хром",
+    "name": "Utfc онтарио м-405 н_п пластик хром",
     "category": "armchair_rukovoditel"
   },
   {
