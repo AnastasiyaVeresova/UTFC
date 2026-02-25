@@ -143,5 +143,12 @@
                 "min": ""
             }
         }
+    ],
+    "lost": [
+        {
+            "clean": false,
+            "limit": false,
+            "del":true
+        }
     ]
 }

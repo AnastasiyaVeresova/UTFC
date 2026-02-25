@@ -147,7 +147,8 @@
     "lost": [
         {
             "clean": false,
-            "limit": true
+            "limit": true,
+            "del":true
         }
     ]
 }

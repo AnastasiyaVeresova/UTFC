@@ -138,7 +138,8 @@
     "lost": [
         {
             "clean": true,
-            "limit": false
+            "limit": false,
+            "del":true
         }
     ]
 }

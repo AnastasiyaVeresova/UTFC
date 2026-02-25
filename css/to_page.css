@@ -46,16 +46,16 @@ body {
   z-index: 1000;
 }
 
+.front .textcover {
+  position: absolute;
+  max-width: 80%;
+}
 .front {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   position: relative;
-}
-.front .textcover {
-  position: absolute;
-  max-width: 80%;
 }
 .front .title {
   position: relative;
@@ -163,9 +163,6 @@ body {
   font-weight: bold;
 }
 
-.image_dimensions {
-  /* Позиционирование новых блоков */
-}
 .image_dimensions .image_name {
   position: absolute;
   top: 30px;
@@ -235,6 +232,9 @@ body {
   font-size: 14px;
   font-weight: normal;
   white-space: nowrap;
+}
+.image_dimensions {
+  /* Позиционирование новых блоков */
 }
 .image_dimensions #box-info-individual {
   top: 43%;

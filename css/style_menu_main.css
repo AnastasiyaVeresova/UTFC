@@ -467,4 +467,15 @@ h3 {
   background-color: #96C22B; /* Салатовый цвет */
   border-radius: 50%;
   z-index: 1000;
+}
+
+.del-indicator {
+  position: absolute;
+  top: 5px;
+  left: 50px; /* Смещаем вправо, чтобы не перекрывал красный кружок */
+  width: 12px;
+  height: 12px;
+  background-color: #652bc2; /* Салатовый цвет */
+  border-radius: 50%;
+  z-index: 1000;
 }/*# sourceMappingURL=style_menu_main.css.map */

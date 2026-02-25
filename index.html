@@ -48,6 +48,7 @@
             <div class="checkbox-group">
                 <label><input type="checkbox" class="special-offer-filter" value="clean"> Распродажа остатков</label>
                 <label><input type="checkbox" class="special-offer-filter" value="limit"> Минимальный заказ</label>
+                <label><input type="checkbox" class="special-offer-filter" value="del"> Отсутствует в таблице</label>
             </div>
         </div>
 
@@ -299,7 +300,8 @@
             <div class="text_dop_info">
                 w+ - ширина с подлокотниками | w - ширина сиденья | d - габаритная глубина | h - высота | <span
                     style="color: red; font-size: 14px;">●</span> — распродаём остатки | <span
-                    style="color: #96C22B; font-size: 14px;">●</span> — минимальный заказ от...
+                    style="color: #96C22B; font-size: 14px;">●</span> — минимальный заказ от... | <span
+                    style="color: #652bc2; font-size: 14px;">●</span> — отсутствует в таблице...
 
 
             </div>
@@ -378,12 +380,16 @@
                 filteredByCategory = filteredByCategory.filter(product => {
                     const hasClean = product.lost?.[0]?.clean === true;
                     const hasLimit = product.lost?.[0]?.limit === true;
+                    const hasDel = product.lost?.[0]?.del === true;
 
                     // Проверяем наличие нужных индикаторов
                     if (specialOfferFilters.includes("clean") && !hasClean) {
                         return false;
                     }
                     if (specialOfferFilters.includes("limit") && !hasLimit) {
+                        return false;
+                    }
+                    if (specialOfferFilters.includes("del") && !hasDel) {
                         return false;
                     }
                     return true;
@@ -1568,11 +1574,13 @@
                     filtered = filtered.filter(product => {
                         const hasClean = product.lost?.[0]?.clean === true;
                         const hasLimit = product.lost?.[0]?.limit === true;
+                        const hasDel = product.lost?.[0]?.del === true;
 
                         // Показываем, если есть хотя бы один из выбранных индикаторов
                         return specialOfferFilters.some(filter =>
                             (filter === "clean" && hasClean) ||
-                            (filter === "limit" && hasLimit)
+                            (filter === "limit" && hasLimit) ||
+                            (filter === "del" && hasDel)
                         );
                     });
                 }
@@ -2700,6 +2708,13 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
                         const limitIndicator = document.createElement('div');
                         limitIndicator.className = 'limit-indicator';
                         productCard.appendChild(limitIndicator);
+                    }
+                    // Добавляем лиловый кружок, если del: true
+                    if (product.lost?.[0]?.del === true) {
+                        const delIndicator = document.createElement('div');
+                        delIndicator.className = 'del-indicator';
+                        productCard.appendChild(delIndicator);
+                        
                     }
                     productsContainer.appendChild(productCard);
 
