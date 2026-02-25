@@ -12,18 +12,6 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Аляска ch-153 в хром хдп мб",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Аризона сн-400 бюджет в пластик-люкс 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Аризона ch-400 в хром хдп",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Артекс в хром",
     "category": "armchair_rukovoditel"
   },
@@ -220,30 +208,6 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
-    "name": "Гелакси к-49 в хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Гелакси к-49 в хром мб",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Гермес в пластик",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Гермес в хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Дакота ch-251 в пластик 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Дакота ch-251 в пластик-люкс 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Джуно дерево",
     "category": "chair_visitors"
   },
@@ -408,14 +372,6 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Калифорния в cн-438 хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Калифорния ch-438 в бюджет пластик-люкс 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Квадро м-807 black pl",
     "category": "armchair_comfort"
   },
@@ -434,18 +390,6 @@ const knownProductsAllFiles = [
   {
     "name": "Кембридж ch-502 н_п хром",
     "category": "armchair_comfort"
-  },
-  {
-    "name": "Кендо к-41 в пластик",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Кендо к-41 в хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Кендо k-41 в дерево",
-    "category": "armchair_rukovoditel"
   },
   {
     "name": "Клио с-101 нептун пвм хром",
@@ -520,10 +464,6 @@ const knownProductsAllFiles = [
     "category": "chair_visitors"
   },
   {
-    "name": "Комфорт б_п пластик",
-    "category": "armchair_personal"
-  },
-  {
     "name": "Кора чёрный",
     "category": "chair_visitors"
   },
@@ -546,10 +486,6 @@ const knownProductsAllFiles = [
   {
     "name": "Лайм хром",
     "category": "chair_visitors"
-  },
-  {
-    "name": "Логика tg пластик",
-    "category": "armchair_personal"
   },
   {
     "name": "Манго с-109 нептун люкс хром",
@@ -642,22 +578,6 @@ const knownProductsAllFiles = [
   {
     "name": "Микс сн-696 хром tg",
     "category": "armchair_comfort"
-  },
-  {
-    "name": "Надир в дерево",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Надир в пластик",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Надир в пластик-люкс 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Надир в хром",
-    "category": "armchair_rukovoditel"
   },
   {
     "name": "Неон",
@@ -860,18 +780,6 @@ const knownProductsAllFiles = [
     "category": "chair_visitors"
   },
   {
-    "name": "Сириус с-102 нептун хром",
-    "category": "armchair_personal"
-  },
-  {
-    "name": "Сириус с-102 рондо пластик",
-    "category": "armchair_personal"
-  },
-  {
-    "name": "Сириус с-102 самба пластик",
-    "category": "armchair_personal"
-  },
-  {
     "name": "Ситро м-804 black pl",
     "category": "armchair_personal"
   },
@@ -984,18 +892,6 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Фигаро к13 н_п хром",
-    "category": "chair_visitors"
-  },
-  {
-    "name": "Фигаро gts к13 пиастра хром",
-    "category": "armchair_personal"
-  },
-  {
-    "name": "Фигаро gts к13 tg хром",
-    "category": "armchair_personal"
-  },
-  {
     "name": "Форум",
     "category": "chair_visitors"
   },
@@ -1094,10 +990,6 @@ const knownProductsAllFiles = [
   {
     "name": "Эрго б_п овалина пластик",
     "category": "armchair_personal"
-  },
-  {
-    "name": "Эфир с-30 в пластик 727",
-    "category": "armchair_rukovoditel"
   },
   {
     "name": "Cильвия арм хром",
