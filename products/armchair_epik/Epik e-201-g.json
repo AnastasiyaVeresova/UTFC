@@ -89,47 +89,47 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 1060,
-                "max": 1240
+                "min": "1060",
+                "max": "1240"
             },
             "headrest_height": {
-                "min": 150,
-                "max": 230
+                "min": "150",
+                "max": "230"
             },
             "seat_to_floor_height": {
-                "min": 440,
-                "max": 540
+                "min": "440",
+                "max": "540"
             },
             "armrest_height_from_seat": {
-                "min": 140,
-                "max": 200
+                "min": "140",
+                "max": "200"
             },
             "chair_depth": {
-                "min": 660,
+                "min": "660",
                 "max": null
             },
             "seat_depth": {
-                "min": 420,
-                "max": 480
+                "min": "420",
+                "max": "480"
             },
             "backrest_height": {
                 "max": null,
                 "min": ""
             },
             "backrest_to_seat_height": {
-                "min": 480,
+                "min": "480",
                 "max": ""
             },
             "seat_width_with_armrests": {
-                "min": 600,
+                "min": "600",
                 "max": null
             },
             "seat_width": {
-                "max": 510,
+                "max": "510",
                 "min": ""
             },
             "diameter_cross": {
-                "max": 700,
+                "max": "700",
                 "min": ""
             },
             "runners_width": {
@@ -141,5 +141,8 @@
                 "min": ""
             }
         }
-    ]
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": null,
+    "typeofproduct": "К"
 }

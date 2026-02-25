@@ -1,9 +1,5 @@
 const knownProductsAllFiles = [
   {
-    "name": "Айкью н_п",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Айкью сн-710 н пластик",
     "category": "armchair_rukovoditel"
   },
@@ -145,10 +141,6 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Бостон ch-277 пластик 727",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Бремен м-123 алюминий",
     "category": "armchair_rukovoditel"
   },
   {
@@ -428,10 +420,6 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Канзас м-111 пластик хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Квадро м-807 black pl",
     "category": "armchair_comfort"
   },
@@ -518,6 +506,14 @@ const knownProductsAllFiles = [
   {
     "name": "Комо н_п хром",
     "category": "armchair_rukovoditel"
+  },
+  {
+    "name": "Компакт 4Н Складной",
+    "category": "chair_visitors"
+  },
+  {
+    "name": "Компакт Люкс 4Н Складной",
+    "category": "chair_visitors"
   },
   {
     "name": "Компакт люкс складной",
@@ -674,14 +670,6 @@ const knownProductsAllFiles = [
   {
     "name": "Нерон",
     "category": "chair_cafe_and_bar"
-  },
-  {
-    "name": "Онтарио м-105 пластик хром",
-    "category": "armchair_rukovoditel"
-  },
-  {
-    "name": "Онтарио м-405 н_п пластик хром",
-    "category": "armchair_rukovoditel"
   },
   {
     "name": "Оптима м-901 с подголовником черный пластик",
@@ -898,6 +886,10 @@ const knownProductsAllFiles = [
   {
     "name": "Ситро м-804 white ch",
     "category": "armchair_personal"
+  },
+  {
+    "name": "СН-710 Айкью Н_п",
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Соло сн-601 пластик",
@@ -1180,6 +1172,14 @@ const knownProductsAllFiles = [
     "category": "armchair_personal"
   },
   {
+    "name": "UTFC Бремен М-123 алюминий",
+    "category": "armchair_rukovoditel"
+  },
+  {
+    "name": "UTFC Канзас М-111 пластик хром",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Utfc киото м-250",
     "category": "armchair_comfort"
   },
@@ -1194,6 +1194,14 @@ const knownProductsAllFiles = [
   {
     "name": "Utfc номи м-317",
     "category": "armchair_comfort"
+  },
+  {
+    "name": "UTFC Онтарио М-105 пластик хром",
+    "category": "armchair_rukovoditel"
+  },
+  {
+    "name": "UTFC Онтарио М-405 Н_п пластик хром",
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Utfc осака м-201",

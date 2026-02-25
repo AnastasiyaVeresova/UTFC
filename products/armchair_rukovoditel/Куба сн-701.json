@@ -84,31 +84,31 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 1120,
-                "max": 1220
+                "min": "1120",
+                "max": "1220"
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": 500,
-                "max": 600
+                "min": "500",
+                "max": "600"
             },
             "armrest_height_from_seat": {
-                "min": 240,
+                "min": "240",
                 "max": ""
             },
             "chair_depth": {
-                "min": 670,
+                "min": "670",
                 "max": null
             },
             "seat_depth": {
-                "min": 460,
+                "min": "460",
                 "max": null
             },
             "backrest_height": {
-                "max": 650,
+                "max": "650",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -116,15 +116,15 @@
                 "max": null
             },
             "seat_width_with_armrests": {
-                "min": 670,
+                "min": "670",
                 "max": null
             },
             "seat_width": {
-                "max": 540,
+                "max": "540",
                 "min": ""
             },
             "diameter_cross": {
-                "max": 700,
+                "max": "700",
                 "min": ""
             },
             "runners_width": {
@@ -136,5 +136,8 @@
                 "min": ""
             }
         }
-    ]
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "+",
+    "typeofproduct": "СП"
 }

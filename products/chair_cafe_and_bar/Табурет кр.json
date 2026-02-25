@@ -92,7 +92,7 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": 450,
+                "min": "450",
                 "max": ""
             },
             "armrest_height_from_seat": {
@@ -120,7 +120,7 @@
                 "max": ""
             },
             "seat_width": {
-                "max": 325,
+                "max": "325",
                 "min": ""
             },
             "diameter_cross": {
@@ -128,13 +128,16 @@
                 "min": ""
             },
             "runners_width": {
-                "max": 330,
+                "max": "330",
                 "min": ""
             },
             "runners_depth": {
-                "max": 330,
+                "max": "330",
                 "min": ""
             }
         }
-    ]
+    ],
+    "skeleton": "монолитный",
+    "minpromtorg": "+",
+    "typeofproduct": "СП"
 }

@@ -72,8 +72,8 @@
     "guarantee": [
         {
             "period": "12",
-            "max_load": "130",
-            "recommended_load": "100"
+            "max_load": "120",
+            "recommended_load": "90"
         }
     ],
     "images": [
@@ -87,7 +87,7 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 870,
+                "min": "870",
                 "max": 870
             },
             "headrest_height": {
@@ -95,23 +95,23 @@
                 "max": null
             },
             "seat_to_floor_height": {
-                "min": 470,
+                "min": "470",
                 "max": ""
             },
             "armrest_height_from_seat": {
-                "min": 215,
+                "min": "215",
                 "max": ""
             },
             "chair_depth": {
-                "min": 745,
+                "min": "745",
                 "max": null
             },
             "seat_depth": {
-                "min": 420,
+                "min": "420",
                 "max": null
             },
             "backrest_height": {
-                "max": 445,
+                "max": "445",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -119,11 +119,11 @@
                 "max": ""
             },
             "seat_width_with_armrests": {
-                "min": 610,
+                "min": "610",
                 "max": null
             },
             "seat_width": {
-                "max": 450,
+                "max": "450",
                 "min": ""
             },
             "diameter_cross": {
@@ -131,13 +131,16 @@
                 "min": ""
             },
             "runners_width": {
-                "max": 600,
+                "max": "600",
                 "min": ""
             },
             "runners_depth": {
-                "max": 545,
+                "max": "545",
                 "min": ""
             }
         }
-    ]
+    ],
+    "skeleton": "монолитный",
+    "minpromtorg": "+",
+    "typeofproduct": "СП"
 }

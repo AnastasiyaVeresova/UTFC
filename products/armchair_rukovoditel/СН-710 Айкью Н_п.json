@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Айкью сн-710 н_п"
+        "СН-710 Айкью Н_п"
     ],
     "name_all": [
         "Айкью Н/п"
@@ -9,7 +9,7 @@
         "Айкью Н/п"
     ],
     "unique_name": [
-        "Айкью Н_п"
+        "СН-710 Айкью Н_п"
     ],
     "vid": [
         "кресло"
@@ -86,7 +86,7 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 950,
+                "min": "950",
                 "max": 950
             },
             "headrest_height": {
@@ -94,23 +94,23 @@
                 "max": null
             },
             "seat_to_floor_height": {
-                "min": 480,
+                "min": "480",
                 "max": ""
             },
             "armrest_height_from_seat": {
-                "min": 195,
+                "min": "195",
                 "max": ""
             },
             "chair_depth": {
-                "min": 620,
+                "min": "620",
                 "max": null
             },
             "seat_depth": {
-                "min": 470,
+                "min": "470",
                 "max": null
             },
             "backrest_height": {
-                "max": 510,
+                "max": "510",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -118,11 +118,11 @@
                 "max": null
             },
             "seat_width_with_armrests": {
-                "min": 630,
+                "min": "630",
                 "max": null
             },
             "seat_width": {
-                "max": 500,
+                "max": "500",
                 "min": ""
             },
             "diameter_cross": {
@@ -130,11 +130,11 @@
                 "min": ""
             },
             "runners_width": {
-                "max": 460,
+                "max": "460",
                 "min": ""
             },
             "runners_depth": {
-                "max": 585,
+                "max": "585",
                 "min": ""
             }
         }

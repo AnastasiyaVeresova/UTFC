@@ -136,22 +136,39 @@ columns_mapping = {
     'Unnamed: 1': ('chair_height', 'min', 'max'),
     'Unnamed: 3': ('headrest_height', 'min', 'max'),
     'Unnamed: 5': ('seat_to_floor_height', 'min', 'max'),
+
     'Unnamed: 11': ('armrest_height_from_seat', 'min', 'max'),
+
     'Unnamed: 16': ('chair_depth', 'min', None),
+
     'Unnamed: 18': ('seat_depth', 'min', 'max'),
+
     'Unnamed: 21': ('backrest_height', None, 'max'),
+
     'Unnamed: 22': ('backrest_to_seat_height', 'min', 'max'),
+
     'Unnamed: 26': ('seat_width_with_armrests', 'min', 'max'),
+
     'Unnamed: 28': ('seat_width', None, 'max'),
+
     'Unnamed: 31': ('diameter_cross', None, 'max'),
+
     'Unnamed: 32': ('runners_width', None, 'max'),
     'Unnamed: 33': ('runners_depth', None, 'max'),
-    'Unnamed: 34': ('netto', None, None),
-    'Unnamed: 35': ('brutto', None, None),
-    'Unnamed: 36': ('package_width', None, None),
-    'Unnamed: 37': ('package_depth', None, None),
-    'Unnamed: 38': ('package_height', None, None),
-    'Unnamed: 39': ('volume', None, None)
+
+    'Unnamed: 34': ('recommended_load', None, 'max'),
+    'Unnamed: 35': ('max_load', None, 'max'),
+
+    'Unnamed: 36': ('skeleton', None, None),
+    'Unnamed: 37': ('minpromtorg', None, None),
+    'Unnamed: 38': ('typeofproduct', None, None),
+
+    'Unnamed: 39': ('netto', None, None),
+    'Unnamed: 40': ('brutto', None, None),
+    'Unnamed: 41': ('package_width', None, None),
+    'Unnamed: 42': ('package_depth', None, None),
+    'Unnamed: 43': ('package_height', None, None),
+    'Unnamed: 44': ('volume', None, None)
 }
 
 # Создание словаря с данными из Excel
@@ -185,12 +202,12 @@ for i, model in enumerate(models_excel):
             model_data["dimensions_details"][key] = normalize_value(df.iloc[i + 3, df.columns.get_loc(col)])
 
     model_data["additional_info"]["package_dimensions"] = {
-        "width": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 36')]),
-        "depth": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 37')]),
-        "height": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 38')])
+        "width": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 40')]),
+        "depth": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 41')]),
+        "height": normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 42')])
     }
 
-    model_data["additional_info"]["volume"] = normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 39')])
+    model_data["additional_info"]["volume"] = normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 43')])
 
     excel_data[model] = model_data
 

@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Айкью сн-710 н пластик"
+        "СН-710 Айкью Н пластик"
     ],
     "name_all": [
         "Айкью",
@@ -10,7 +10,7 @@
         "Айкью Н"
     ],
     "unique_name": [
-        "Айкью СН-710 Н пластик"
+        "СН-710 Айкью Н пластик"
     ],
     "vid": [
         "кресло"
@@ -89,31 +89,31 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 910,
-                "max": 1010
+                "min": "910",
+                "max": "1010"
             },
             "headrest_height": {
                 "min": null,
                 "max": null
             },
             "seat_to_floor_height": {
-                "min": 450,
-                "max": 550
+                "min": "450",
+                "max": "550"
             },
             "armrest_height_from_seat": {
-                "min": 190,
+                "min": "190",
                 "max": ""
             },
             "chair_depth": {
-                "min": 630,
+                "min": "630",
                 "max": null
             },
             "seat_depth": {
-                "min": 470,
+                "min": "470",
                 "max": null
             },
             "backrest_height": {
-                "max": 510,
+                "max": "510",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -121,15 +121,15 @@
                 "max": null
             },
             "seat_width_with_armrests": {
-                "min": 630,
+                "min": "630",
                 "max": null
             },
             "seat_width": {
-                "max": 500,
+                "max": "500",
                 "min": ""
             },
             "diameter_cross": {
-                "max": 660,
+                "max": "660",
                 "min": ""
             },
             "runners_width": {

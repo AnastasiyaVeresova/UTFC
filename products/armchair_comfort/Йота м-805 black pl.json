@@ -88,31 +88,31 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": 865,
-                "max": 935
+                "min": "865",
+                "max": "935"
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": 415,
-                "max": 485
+                "min": "415",
+                "max": "485"
             },
             "armrest_height_from_seat": {
-                "min": 200,
+                "min": "200",
                 "max": ""
             },
             "chair_depth": {
-                "min": 550,
+                "min": "550",
                 "max": null
             },
             "seat_depth": {
-                "min": 440,
+                "min": "440",
                 "max": ""
             },
             "backrest_height": {
-                "max": 470,
+                "max": "470",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -120,15 +120,15 @@
                 "max": ""
             },
             "seat_width_with_armrests": {
-                "min": 565,
+                "min": "565",
                 "max": null
             },
             "seat_width": {
-                "max": 480,
+                "max": "480",
                 "min": ""
             },
             "diameter_cross": {
-                "max": 660,
+                "max": "660",
                 "min": ""
             },
             "runners_width": {
@@ -140,5 +140,8 @@
                 "min": ""
             }
         }
-    ]
+    ],
+    "skeleton": "монолитный",
+    "minpromtorg": "+",
+    "typeofproduct": "КП"
 }
