@@ -508,11 +508,11 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
-    "name": "Компакт 4Н Складной",
+    "name": "Компакт 4н складной",
     "category": "chair_visitors"
   },
   {
-    "name": "Компакт Люкс 4Н Складной",
+    "name": "Компакт люкс 4н складной",
     "category": "chair_visitors"
   },
   {

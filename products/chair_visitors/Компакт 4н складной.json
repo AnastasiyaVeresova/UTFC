@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Компакт Люкс 4Н Складной"
+        "Компакт 4н складной"
     ],
     "name_all": [
         "Компакт",
@@ -10,7 +10,7 @@
         "Компакт"
     ],
     "unique_name": [
-        "Компакт Люкс 4Н Складной"
+        "Компакт 4н складной"
     ],
     "vid": [
         "стул"
@@ -73,7 +73,7 @@
                 },
                 {
                     "type": "box4",
-                    "brutto": "5,46",
+                    "brutto": "5,44",
                     "netto": "4,94",
                     "volume": "0,038"
                 }
@@ -89,9 +89,9 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/kompakt_lux_4h_bl_s0401_01.png",
-            "chair_view": "img/chair_visitors/kompakt_lux_4h_bl_s0401_02.png",
-            "dimensions": "img/chair_visitors/dimensions/kompakt_lux_4h_bl_s0401_01.png",
+            "vid_main": "img/chair_visitors/kompakt_4h_bl_s0401_01.png",
+            "chair_view": "img/chair_visitors/kompakt_4h_bl_s0401_02.png",
+            "dimensions": "img/chair_visitors/dimensions/kompakt_4h_bl_s0401_01.png",
             "box": "img/box_UTFC_4x.png"
         }
     ],
@@ -106,7 +106,7 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "480",
+                "min": "460",
                 "max": null
             },
             "armrest_height": {
@@ -122,7 +122,7 @@
             },
             "backrest_height": {
                 "min": "",
-                "max": "360"
+                "max": "370"
             },
             "height_backrest_seat": {
                 "min": "",
@@ -133,7 +133,7 @@
                 "max": ""
             },
             "seat_width": {
-                "max": "405",
+                "max": "395",
                 "min": ""
             },
             "diameter_cross": {
