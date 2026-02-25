@@ -1,9 +1,5 @@
 const knownProductsAllFiles = [
   {
-    "name": "Айкью сн-710 н пластик",
-    "category": "armchair_rukovoditel"
-  },
-  {
     "name": "Айкью сн-710 пластик",
     "category": "armchair_rukovoditel"
   },
@@ -886,6 +882,10 @@ const knownProductsAllFiles = [
   {
     "name": "Ситро м-804 white ch",
     "category": "armchair_personal"
+  },
+  {
+    "name": "Сн-710 айкью н пластик",
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Сн-710 айкью н_п",
