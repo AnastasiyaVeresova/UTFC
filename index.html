@@ -216,7 +216,7 @@
                 <label><input type="checkbox" class="mechanism-filter" value="стол|столик|столиком"> Столик</label>
 <label><input type="checkbox" class="mechanism-filter" value="монолит|монолитный"> Монолитный</label>
 <label><input type="checkbox" class="mechanism-filter" value="немонолит|немонолитный"> Немонолитный</label>
-<label><input type="checkbox" class="mechanism-filter" value="складн|складной"> складной</label>
+<label><input type="checkbox" class="mechanism-filter" value="складной"> складной</label>
 
             </div>
         </div>
@@ -1771,7 +1771,7 @@ const expandedMechanismFilters = mechanismFilters.flatMap(filter =>
     filter.split('|').map(item => item.trim())
 );
 
-// Проверяем, выбраны ли фильтры "монолит" или "немонолит"
+// Проверяем, выбраны ли фильтры "монолит", "немонолит" или "складной"
 let skeletonMatch = true;
 const isMonolitSelected =
     expandedMechanismFilters.includes("монолит") ||
@@ -1780,7 +1780,6 @@ const isNemMonolitSelected =
     expandedMechanismFilters.includes("немонолит") ||
     expandedMechanismFilters.includes("немонолитный");
 const isFoldingSelected =
-    expandedMechanismFilters.includes("складн") ||
     expandedMechanismFilters.includes("складной");
 
 if (isMonolitSelected || isNemMonolitSelected || isFoldingSelected) {
@@ -1789,21 +1788,17 @@ if (isMonolitSelected || isNemMonolitSelected || isFoldingSelected) {
     if (!productSkeleton) {
         skeletonMatch = false; // или true, если хотите показывать товары без skeleton
     } else {
-        if (isMonolitSelected && isNemMonolitSelected && isFoldingSelected) {
-            // Если выбраны оба фильтра, показываем все товары с "монолитный" или "немонолитный"
-            skeletonMatch = productSkeleton === "монолитный" || productSkeleton === "немонолитный" || productSkeleton === "складной";
-        } else if (isMonolitSelected) {
-            // Если выбран только "монолит", показываем только "монолитный"
-            skeletonMatch = productSkeleton === "монолитный";
-        } else if (isNemMonolitSelected) {
-            // Если выбран только "немонолит", показываем только "немонолитный"
-            skeletonMatch = productSkeleton === "немонолитный";
-        } else if (isFoldingSelected) {
-            // Если выбран только "складн", показываем только "складной"
-            skeletonMatch = productSkeleton === "складной";
-        }
+        // Собираем массив выбранных значений
+        const selectedSkeletons = [];
+        if (isMonolitSelected) selectedSkeletons.push("монолитный");
+        if (isNemMonolitSelected) selectedSkeletons.push("немонолитный");
+        if (isFoldingSelected) selectedSkeletons.push("складной");
+
+        // Проверяем, что хотя бы одно значение совпадает
+        skeletonMatch = selectedSkeletons.includes(productSkeleton);
     }
 }
+
 
 
 
@@ -1914,16 +1909,16 @@ if (isMonolitSelected || isNemMonolitSelected || isFoldingSelected) {
                             }
                         }
 
-console.log({
-    unique_name: product.unique_name,
-    skeletonMatch,
-    armrestMatch,
-    podgоловnikMatch,
-    otherMechanismMatch,
-    finishMatch,
-    loadMatch,
-    diameterMatch,
-});
+// console.log({
+//     unique_name: product.unique_name,
+//     skeletonMatch,
+//     armrestMatch,
+//     podgоловnikMatch,
+//     otherMechanismMatch,
+//     finishMatch,
+//     loadMatch,
+//     diameterMatch,
+// });
 
                         return armrestMatch && podgоловnikMatch && otherMechanismMatch && finishMatch && loadMatch && diameterMatch && skeletonMatch;
                     });
