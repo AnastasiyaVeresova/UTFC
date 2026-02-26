@@ -54,11 +54,11 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 855,
-                    "depth": 340,
-                    "height": 650
+                    "width": "855",
+                    "depth": "340",
+                    "height": "650"
                 },
-                "box_size": "855x340x650",
+                "box_size": "855х340х650",
                 "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде"
             }
         }
@@ -142,6 +142,6 @@
         }
     ],
     "skeleton": "немонолитный",
-    "minpromtorg": null,
+    "minpromtorg": "-",
     "typeofproduct": "К"
 }

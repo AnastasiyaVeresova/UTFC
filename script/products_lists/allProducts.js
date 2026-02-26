@@ -808,6 +808,10 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Соло max сн-601 хром",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "София",
     "category": "chair_visitors"
   },

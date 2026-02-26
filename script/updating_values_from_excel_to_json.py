@@ -273,6 +273,19 @@ def format_number(value):
         return value.replace('.', ',')
     return value
 
+def remove_trailing_zero(value):
+    if isinstance(value, str):
+        try:
+            num = float(value.replace(',', '.'))
+            if num.is_integer():
+                return str(int(num))
+            else:
+                return value.replace('.', ',')
+        except ValueError:
+            return value
+    return value
+
+
 # Чтение Excel
 excel_path = r'C:\Users\UTFC\Documents\Downloads\Таблица с размерами (для внутреннего пользования).xlsx'
 df = pd.read_excel(excel_path, sheet_name='Размеры')
@@ -334,8 +347,8 @@ for i, model in enumerate(models_excel):
         else:
             model_data["dimensions_details"][key] = format_number(normalize_value(df.iloc[i + 3, df.columns.get_loc(col)]))
 
-    model_data["additional_info"] = {
-        "package_dimensions": {
+    model_data["transportation"] = {
+        "size": {
             "width": format_number(normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 41')])),
             "depth": format_number(normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 42')])),
             "height": format_number(normalize_value(df.iloc[i + 3, df.columns.get_loc('Unnamed: 43')]))
@@ -344,6 +357,7 @@ for i, model in enumerate(models_excel):
     }
 
     excel_data[model] = model_data
+
 
 # Рекурсивный поиск всех JSON-файлов в папке и подпапках
 products_dir = r'C:\Users\UTFC\Documents\Downloads\to\products'
@@ -409,8 +423,13 @@ for json_file in json_files:
             # Обновляем прочие поля
             if 'skeleton' in data and excel_model_data['dimensions_details'].get('skeleton') is not None:
                 data['skeleton'] = excel_model_data['dimensions_details'].get('skeleton')
-            if 'minpromtorg' in data and excel_model_data['dimensions_details'].get('minpromtorg') is not None:
-                data['minpromtorg'] = excel_model_data['dimensions_details'].get('minpromtorg')
+            if 'minpromtorg' in data:
+                minpromtorg_value = excel_model_data['dimensions_details'].get('minpromtorg')
+                if minpromtorg_value is not None:
+                    data['minpromtorg'] = minpromtorg_value
+                else:
+                    data['minpromtorg'] = "-"  # или "", если нужно пустое значение
+
             if 'typeofproduct' in data and excel_model_data['dimensions_details'].get('typeofproduct') is not None:
                 data['typeofproduct'] = excel_model_data['dimensions_details'].get('typeofproduct')
 
@@ -420,6 +439,24 @@ for json_file in json_files:
                     data['guarantee'][0]['max_load'] = format_number(excel_model_data['dimensions_details'].get('max_load'))
                 if 'recommended_load' in data['guarantee'][0] and excel_model_data['dimensions_details'].get('recommended_load') is not None:
                     data['guarantee'][0]['recommended_load'] = format_number(excel_model_data['dimensions_details'].get('recommended_load'))
+
+            # Обновляем transportation.packaging.size и box_size
+            if 'transportation' in data and len(data['transportation']) > 0:
+                if 'packaging' in data['transportation'][0]:
+                    # Обновляем размеры коробки
+                    for key, value in excel_model_data['transportation']['size'].items():
+                        if value is not None:
+                            clean_value = remove_trailing_zero(value)
+                            data['transportation'][0]['packaging']['size'][key] = clean_value
+
+                    # Генерируем box_size
+                    width = data['transportation'][0]['packaging']['size'].get('width', '')
+                    depth = data['transportation'][0]['packaging']['size'].get('depth', '')
+                    height = data['transportation'][0]['packaging']['size'].get('height', '')
+                    if width and depth and height:
+                        data['transportation'][0]['packaging']['box_size'] = f"{width}х{depth}х{height}"
+
+
 
             # Обновляем brutto и netto в dimensions
             if 'dimensions' in data and len(data['dimensions']) > 0:
