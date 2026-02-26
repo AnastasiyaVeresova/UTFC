@@ -1,1 +1,25 @@
 index copy.html
+index copy 2.html
+index copy 3.html
+index copy 4.html
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Flask
+instance/
+.webassets-cache
+
+# Локальные файлы
+app.py
+requirements.txt
+.env
+.DS_Store
+
+# Логи и базы данных
+*.sqlite
+*.db
+*.log

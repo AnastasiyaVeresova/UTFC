@@ -3,15 +3,50 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="Content-Security-Policy"
-        content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.plot.ly https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:;">
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self';
+        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.plot.ly https://cdnjs.cloudflare.com;
+        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+        font-src 'self' https://fonts.gstatic.com;
+        img-src 'self' data:;
+        connect-src 'self' http://UTFC.pythonanywhere.com https://UTFC.pythonanywhere.com;
+    ">
+
+
+        
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style_menu_main.css">
     <link rel="stylesheet" href="css/card.css">
     <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
     <script src="script/products_lists/allProducts.js"></script>
+    <script>
+        function update_json_from_excel() {
+    console.log("Отправляю запрос на обновление...");
+    fetch('https://UTFC.pythonanywhere.com/update_json_from_excel', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        }
+    })
+    .then(response => {
+        console.log("Получен ответ, статус:", response.status);
+        return response.json();
+    })
+    .then(data => {
+        console.log("Ответ сервера:", data);
+        alert(data.message);
+    })
+    .catch(error => {
+        console.error("Ошибка при запросе:", error);
+        alert('Ошибка: ' + error);
+    });
+}
+
+    </script>
     <title>Каталог</title>
+
+    
     
 </head>
 
@@ -323,6 +358,7 @@
             <div id="products"></div>
         </div>
     </div>
+<button onclick="update_json_from_excel()">Обновить данные из Bitrix24</button>
 
     <script>
         let currentTooltip = null;
@@ -3014,6 +3050,34 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
 
 
         });
+
+    // function updateJson() {
+    //     fetch('/update_json', { method: 'POST' })
+    //         .then(response => response.json())
+    //         .then(data => {
+    //             alert(data.message);
+    //         })
+    //         .catch(error => {
+    //             alert('Ошибка: ' + error);
+    //         });
+    // }
+
+
+
+//          async function triggerUpdate() {
+//     const response = await fetch('https://home/nastulua.pythonanywhere.com/update_json', {
+//       method: 'POST',
+//     });
+//     const result = await response.json();
+//     if (result.status === "success") {
+//       alert('Обновление запущено!');
+//     } else {
+//       alert('Ошибка: ' + (result.error || 'Не удалось запустить обновление.'));
+//     }
+//   }
+
+
+  
 
     </script>
 </body>
