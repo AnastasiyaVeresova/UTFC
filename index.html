@@ -20,31 +20,7 @@
     <link rel="stylesheet" href="css/card.css">
     <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
     <script src="script/products_lists/allProducts.js"></script>
-    <script>
-        function update_json_from_excel() {
-    console.log("Отправляю запрос на обновление...");
-    fetch('https://UTFC.pythonanywhere.com/update_json_from_excel', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        }
-    })
-    .then(response => {
-        console.log("Получен ответ, статус:", response.status);
-        return response.json();
-    })
-    .then(data => {
-        console.log("Ответ сервера:", data);
-        alert(data.message);
-    })
-    .catch(error => {
-        console.error("Ошибка при запросе:", error);
-        alert('Ошибка: ' + error);
-    });
-}
-
-    </script>
-    <title>Каталог</title>
+      <title>Каталог</title>
 
     
     
@@ -358,7 +334,7 @@
             <div id="products"></div>
         </div>
     </div>
-<button onclick="update_json_from_excel()">Обновить данные из Bitrix24</button>
+<!-- <button onclick="sendUpdateRequest()">Отправить</button> -->
 
     <script>
         let currentTooltip = null;
@@ -3075,6 +3051,50 @@ ${chairHeight?.min || chairHeight?.max ? (() => {
 //       alert('Ошибка: ' + (result.error || 'Не удалось запустить обновление.'));
 //     }
 //   }
+
+
+// async function sendUpdateRequest() {
+//   try {
+//     const response = await fetch('/update_json_from_excel', {
+//       method: 'POST',
+//       headers: {
+//         'Content-Type': 'application/json',
+//       },
+//       mode: 'cors',
+//       body: JSON.stringify({ action: 'update' })
+//     });
+
+//     console.log('Статус ответа:', response.status);
+//     console.log('Заголовки ответа:', Object.fromEntries(response.headers.entries()));
+
+//     if (!response.ok) {
+//       const errorText = await response.text();
+//       throw new Error(`HTTP ${response.status}: ${errorText}`);
+//     }
+
+//     let data;
+//     try {
+//       data = await response.json();
+//     } catch (parseError) {
+//       // Если ответ не JSON, возвращаем сообщение по умолчанию
+//       data = { message: `Успешно (статус ${response.status})` };
+//     }
+
+//     alert(data.message || 'Запрос выполнен успешно');
+//   } catch (error) {
+//     console.error('Критическая ошибка:', error);
+//     alert('Произошла ошибка: ' + error.message);
+//   }
+// }
+
+// // Вызов функции при загрузке страницы (или по событию)
+// document.addEventListener('DOMContentLoaded', () => {
+//   // Например, вызов по клику кнопки
+//   const button = document.getElementById('updateButton');
+//   if (button) {
+//     button.addEventListener('click', sendUpdateRequest);
+//   }
+// });
 
 
   
