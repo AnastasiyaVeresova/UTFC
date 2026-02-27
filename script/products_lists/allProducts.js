@@ -821,15 +821,15 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Софт м-903 люкс хром",
-    "category": "armchair_personal"
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Софт м-903 tg пластик",
-    "category": "armchair_personal"
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Софт м-903 tg хром",
-    "category": "armchair_personal"
+    "category": "armchair_rukovoditel"
   },
   {
     "name": "Стандарт",
