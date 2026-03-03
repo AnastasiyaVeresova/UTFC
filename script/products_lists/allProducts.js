@@ -912,6 +912,10 @@ const knownProductsAllFiles = [
     "category": "armchair_personal"
   },
   {
+    "name": "Честер gts tg хром",
+    "category": "armchair_personal"
+  },
+  {
     "name": "Чико 4l хром",
     "category": "chair_visitors"
   },
