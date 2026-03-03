@@ -171,7 +171,7 @@
            padding: 3px 6px;
            border-radius: 3px;
            font-size: 10px;
-           z-index: 10;
+           z-index: 1100;
            text-align: right;
            line-height: 1;
 
@@ -188,7 +188,7 @@
            border-radius: 8px;
            font-size: 11px;
            text-align: left;
-           z-index: 20;
+           z-index: 1200;
            pointer-events: none;
            width: 270px;
            left: 50%;
@@ -518,7 +518,7 @@
            outline: none;
     top: 5px;
     right: -25px;
-    z-index: 1200; /* Чтобы блок был поверх других элементов */
+    z-index: 1050; /* Чтобы блок был поверх других элементов */
     background: white; /* Фон для читаемости */
     border-radius: 4px; /* Скругление углов */
     padding: 10px; /* Внутренние отступы */
