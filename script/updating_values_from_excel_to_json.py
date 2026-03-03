@@ -444,16 +444,16 @@ for json_file in json_files:
             # Обновляем transportation.packaging.size и box_size
             if 'transportation' in data and len(data['transportation']) > 0:
                 if 'packaging' in data['transportation'][0]:
-                    # Обновляем размеры коробки
+                    # Обновляем размеры коробки из Excel
                     for key, value in excel_model_data['transportation']['size'].items():
-                        if value is not None:
+                        if value is not None and value != '':
                             clean_value = remove_trailing_zero(value)
                             data['transportation'][0]['packaging']['size'][key] = clean_value
 
-                    # Генерируем box_size
-                    width = data['transportation'][0]['packaging']['size'].get('width', '')
-                    depth = data['transportation'][0]['packaging']['size'].get('depth', '')
-                    height = data['transportation'][0]['packaging']['size'].get('height', '')
+                    # Генерируем box_size на основе значений из Excel
+                    width = excel_model_data['transportation']['size'].get('width', '')
+                    depth = excel_model_data['transportation']['size'].get('depth', '')
+                    height = excel_model_data['transportation']['size'].get('height', '')
                     if width and depth and height:
                         data['transportation'][0]['packaging']['box_size'] = f"{width}х{depth}х{height}"
 
