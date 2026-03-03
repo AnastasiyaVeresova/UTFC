@@ -475,6 +475,16 @@ for json_file in json_files:
                 json.dump(data, f, ensure_ascii=False, indent=4)
         else:
             failed_updates.append((json_file, "Модель не найдена в Excel"))
+            if 'lost' not in data:
+                data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
+            else:
+                if isinstance(data['lost'], list) and len(data['lost']) > 0:
+                    data['lost'][0]['del'] = True
+                else:
+                    data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
+            # Сохраняем обновленный JSON
+            with open(json_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
 
     except Exception as e:
         failed_updates.append((json_file, str(e)))

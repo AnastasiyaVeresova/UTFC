@@ -148,7 +148,7 @@
         {
             "clean": false,
             "limit": true,
-            "del":true
+            "del": true
         }
     ]
 }

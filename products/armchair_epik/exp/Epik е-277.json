@@ -117,5 +117,12 @@
             "diameter_cross": "",
             "runners": ""
         }
+    ],
+    "lost": [
+        {
+            "clean": false,
+            "limit": false,
+            "del": true
+        }
     ]
 }
