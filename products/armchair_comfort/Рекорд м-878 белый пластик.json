@@ -142,7 +142,7 @@
     ],
     "lost": [
         {
-            "clean": true,
+            "clean": false,
             "limit": false
         }
     ],
