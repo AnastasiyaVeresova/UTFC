@@ -68,12 +68,12 @@
         {
             "brutto": "23,1",
             "netto": "19,2",
-            "volume": "0,28"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -97,8 +97,8 @@
                 "max": "280"
             },
             "seat_to_floor_height": {
-                "min": "440",
-                "max": "540"
+                "min": "",
+                "max": ""
             },
             "armrest_height_from_seat": {
                 "min": "140",
@@ -106,14 +106,14 @@
             },
             "chair_depth": {
                 "min": "660",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "440",
                 "max": "490"
             },
             "backrest_height": {
-                "max": null,
+                "max": "",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -122,7 +122,7 @@
             },
             "seat_width_with_armrests": {
                 "min": "620",
-                "max": "620"
+                "max": ""
             },
             "seat_width": {
                 "max": "500",
@@ -133,7 +133,7 @@
                 "min": ""
             },
             "runners_width": {
-                "max": "700",
+                "max": "",
                 "min": ""
             },
             "runners_depth": {
@@ -149,14 +149,14 @@
                 "max": "260"
             },
             "armrest_width_support": {
-                "max": "200"
+                "max": ""
             },
             "armrest_length_support": {},
             "seat_depth_km": {
-                "max": "490"
+                "max": ""
             },
             "backrest_height_external": {
-                "max": "550"
+                "max": ""
             },
             "backrest_width_narrow": {
                 "max": "400"

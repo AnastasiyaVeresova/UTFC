@@ -57,25 +57,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 660,
-                    "depth": 620,
-                    "height": 960
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "660х620х960",
+                "box_size": "",
                 "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "5,2",
+            "brutto": "",
             "netto": "",
-            "volume": "0,4"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -92,46 +92,46 @@
         {
             "chair_height": {
                 "min": "850",
-                "max": 850
+                "max": ""
             },
             "headrest_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_to_floor_height": {
-                "min": "485",
+                "min": "",
                 "max": ""
             },
             "armrest_height_from_seat": {
-                "min": null,
-                "max": 145
+                "min": "",
+                "max": ""
             },
             "chair_depth": {
-                "min": null,
-                "max": 730
+                "min": "",
+                "max": ""
             },
             "seat_depth": {
                 "min": "440",
-                "max": null
+                "max": ""
             },
             "backrest_height": {
-                "max": 380,
+                "max": "",
                 "min": ""
             },
             "backrest_to_seat_height": {
                 "min": "",
-                "max": 380
+                "max": ""
             },
             "seat_width_with_armrests": {
                 "min": "540",
-                "max": "540"
+                "max": ""
             },
             "seat_width": {
                 "max": "465",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "450",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

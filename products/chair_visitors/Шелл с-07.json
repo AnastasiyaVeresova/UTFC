@@ -52,25 +52,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": "570",
-                    "depth": "510",
-                    "height": "610"
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "570х510х610",
+                "box_size": "",
                 "transportation": "<strong>Упаковка каркаса-ракушки</strong> на поддон по 100 шт. (может находится большее количество) оборачивается стрейч-пленкой, <strong>металлический каркас</strong> - на поддон по 100 шт., оборачивается на стрейч-пленкой<br>Этот вариант упаковки применим только для стула «Шелл»<br><strong>ВОХ2</strong> - упаковка по 2 шт. в отдельный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "3,45-4,8",
+            "brutto": "",
             "netto": "",
-            "volume": "0,035-0,09"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -87,14 +87,14 @@
         {
             "chair_height": {
                 "min": "840",
-                "max": 840
+                "max": ""
             },
             "headrest_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_to_floor_height": {
-                "min": "480",
+                "min": "",
                 "max": ""
             },
             "armrest_height_from_seat": {
@@ -103,11 +103,11 @@
             },
             "chair_depth": {
                 "min": "540",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "420",
-                "max": null
+                "max": ""
             },
             "backrest_height": {
                 "max": "420",
@@ -115,18 +115,18 @@
             },
             "backrest_to_seat_height": {
                 "min": "",
-                "max": 420
+                "max": ""
             },
             "seat_width_with_armrests": {
                 "min": "",
-                "max": null
+                "max": ""
             },
             "seat_width": {
                 "max": "460",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "350",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

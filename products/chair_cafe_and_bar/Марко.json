@@ -55,7 +55,7 @@
                     "depth": "",
                     "height": ""
                 },
-                "box_size": "760х515х420",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>\n<strong>Упаковка каркасов:</strong><br>\nпо 4 шт. оборачиваются стрейч-пленкой<br>\n64 шт. на паллете<br>\n<strong>Сиденья и крепежные изделия</strong> упаковываются отдельно<br>\nпо 15 комплектов в гофрокороб размером"
             }
         }
@@ -64,12 +64,12 @@
         {
             "brutto": "",
             "netto": "3,8",
-            "volume": "0,04"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -86,46 +86,46 @@
         {
             "chair_height": {
                 "min": "785",
-                "max": 785
+                "max": ""
             },
             "headrest_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_to_floor_height": {
                 "min": "425",
-                "max": 460
+                "max": ""
             },
             "armrest_height_from_seat": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "chair_depth": {
                 "min": "480",
-                "max": 480
+                "max": ""
             },
             "seat_depth": {
                 "min": "410",
-                "max": 410
+                "max": ""
             },
             "backrest_height": {
-                "max": null,
+                "max": "",
                 "min": ""
             },
             "backrest_to_seat_height": {
                 "min": "325",
-                "max": 325
+                "max": ""
             },
             "seat_width_with_armrests": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_width": {
                 "max": "410",
                 "min": ""
             },
             "diameter_cross": {
-                "max": null,
+                "max": "",
                 "min": ""
             },
             "runners_width": {
@@ -147,7 +147,7 @@
             },
             "backrest_height_external": {},
             "backrest_width_narrow": {
-                "max": "410"
+                "max": ""
             },
             "backrest_width_wide": {},
             "recommended_load": "90",

@@ -55,25 +55,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 860,
-                    "depth": 800,
-                    "height": 430
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "860х800х430",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "24,5",
+            "brutto": "",
             "netto": "",
-            "volume": "0,3"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "210",
             "recommended_load": "150"
         }
@@ -106,23 +106,23 @@
             },
             "chair_depth": {
                 "min": "730",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "500",
-                "max": null
+                "max": ""
             },
             "backrest_height": {
                 "max": "650",
                 "min": ""
             },
             "backrest_to_seat_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_width_with_armrests": {
                 "min": "800",
-                "max": "800"
+                "max": ""
             },
             "seat_width": {
                 "max": "600",
@@ -133,11 +133,11 @@
                 "min": ""
             },
             "runners_width": {
-                "max": "740",
+                "max": "",
                 "min": ""
             },
             "runners_depth": {
-                "max": null,
+                "max": "",
                 "min": ""
             },
             "seat_to_floor_height_upper": {

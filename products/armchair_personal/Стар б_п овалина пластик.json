@@ -49,25 +49,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 530,
-                    "depth": 225,
-                    "height": 550
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "530х225х550",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "6,5",
+            "brutto": "",
             "netto": "",
-            "volume": "0,07"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -91,8 +91,8 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "420",
-                "max": "560"
+                "min": "",
+                "max": ""
             },
             "armrest_height_from_seat": {
                 "min": "",
@@ -100,7 +100,7 @@
             },
             "chair_depth": {
                 "min": "490",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "355",
@@ -116,7 +116,7 @@
             },
             "seat_width_with_armrests": {
                 "min": "",
-                "max": null
+                "max": ""
             },
             "seat_width": {
                 "max": "400",
@@ -127,7 +127,7 @@
                 "min": ""
             },
             "runners_width": {
-                "max": "580",
+                "max": "",
                 "min": ""
             },
             "runners_depth": {
@@ -142,7 +142,7 @@
             "armrest_width_support": {},
             "armrest_length_support": {},
             "seat_depth_km": {
-                "max": "380"
+                "max": ""
             },
             "backrest_height_external": {
                 "max": "260"

@@ -49,25 +49,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 680,
-                    "depth": 620,
-                    "height": 1000
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "680х620х1000",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>Полозья на поддон по 64 шт., оборачивается стрейч-пленкой<br>Упаковка мягких частей по 6 шт. в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "13",
+            "brutto": "",
             "netto": "",
-            "volume": "0,2"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -84,15 +84,15 @@
         {
             "chair_height": {
                 "min": "940",
-                "max": 940
+                "max": ""
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "480",
-                "max": 480
+                "min": "",
+                "max": ""
             },
             "armrest_height": {
                 "min": "",
@@ -100,11 +100,11 @@
             },
             "chair_depth": {
                 "min": "610",
-                "max": 610
+                "max": ""
             },
             "seat_depth": {
                 "min": "460",
-                "max": 460
+                "max": ""
             },
             "backrest_height": {
                 "min": "",
@@ -123,7 +123,7 @@
                 "min": ""
             },
             "diameter_cross": {
-                "max": "490",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

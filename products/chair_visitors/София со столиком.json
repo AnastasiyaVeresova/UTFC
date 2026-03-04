@@ -54,25 +54,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 670,
-                    "depth": 630,
-                    "height": 970
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "670х630х970",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения стул поставляется с собранном виде<br>Каждый стул упакован в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "9,4",
+            "brutto": "",
             "netto": "9,4",
-            "volume": "0,4"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -89,11 +89,11 @@
         {
             "chair_height": {
                 "min": "890",
-                "max": 890
+                "max": ""
             },
             "headrest_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_to_floor_height": {
                 "min": "430",
@@ -105,7 +105,7 @@
             },
             "chair_depth": {
                 "min": "770",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "440",
@@ -121,14 +121,14 @@
             },
             "seat_width_with_armrests": {
                 "min": "580",
-                "max": "580"
+                "max": ""
             },
             "seat_width": {
                 "max": "460",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "460",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

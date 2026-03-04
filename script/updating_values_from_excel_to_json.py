@@ -220,6 +220,54 @@ import json
 import os
 import re
 import math
+import copy
+
+def compare_and_log_changes(original_data, updated_data, json_file):
+    changes_detected = False
+    changes_log = []
+
+    def compare_values(original, updated, path):
+        nonlocal changes_detected
+        if isinstance(updated, dict) and isinstance(original, dict):
+            compare_dicts(original, updated, path)
+        elif isinstance(updated, list) and isinstance(original, list):
+            compare_lists(original, updated, path)
+        else:
+            if original != updated:
+                changes_detected = True
+                changes_log.append(f"Изменено: {path}: '{original}' → '{updated}'")
+
+    def compare_dicts(original, updated, path):
+        for key in updated:
+            current_path = f"{path}.{key}" if path else key
+            if key in original:
+                compare_values(original[key], updated[key], current_path)
+            else:
+                changes_detected = True
+                changes_log.append(f"Добавлено: {current_path}: '{updated[key]}'")
+
+    def compare_lists(original, updated, path):
+        if len(original) != len(updated):
+            changes_detected = True
+            changes_log.append(f"Изменён размер списка: {path}: {len(original)} → {len(updated)}")
+        else:
+            for i, (orig_item, upd_item) in enumerate(zip(original, updated)):
+                current_path = f"{path}[{i}]"
+                compare_values(orig_item, upd_item, current_path)
+
+    compare_values(original_data, updated_data, "")
+
+    if changes_detected:
+        with open('changes_log.txt', 'w', encoding='utf-8') as log_file:
+            log_file.write(f"\nФайл: {json_file}\n")
+            for change in changes_log:
+                log_file.write(f"{change}\n")
+
+        print(f"В файле {os.path.basename(json_file)} обнаружены изменения. Подробности в changes_log.txt")
+
+    return changes_detected, changes_log
+
+
 
 # Функция нормализации имени модели
 def normalize_model_name(name):
@@ -388,11 +436,14 @@ skipped_updates = []
 for json_file in json_files:
     try:
         with open(json_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            original_data = json.load(f)
 
-        model_name = data.get('namefile', [''])[0]
+        # Сохраняем копию оригинальных данных
+        original_data_copy = copy.deepcopy(original_data)
+
+        model_name = original_data.get('namefile', [''])[0]
         if not model_name:
-            model_name = data.get('name', [''])[0]
+            model_name = original_data.get('name', [''])[0]
 
         normalized = normalize_model_name(model_name)
         excel_model = None
@@ -406,94 +457,97 @@ for json_file in json_files:
             excel_model_data = excel_data[excel_model]
 
             # Обновляем dimensions_details
-            if 'dimensions_details' not in data:
-                data['dimensions_details'] = [{}]
+            if 'dimensions_details' not in original_data:
+                original_data['dimensions_details'] = [{}]
 
             for key, value in excel_model_data['dimensions_details'].items():
-                if key not in data['dimensions_details'][0]:
-                    data['dimensions_details'][0][key] = {}
+                if key not in original_data['dimensions_details'][0]:
+                    original_data['dimensions_details'][0][key] = {}
 
                 if isinstance(value, dict):
                     for sub_key, sub_value in value.items():
                         if sub_value is not None:
-                            if sub_key not in data['dimensions_details'][0][key]:
-                                data['dimensions_details'][0][key][sub_key] = sub_value
+                            if sub_key not in original_data['dimensions_details'][0][key]:
+                                original_data['dimensions_details'][0][key][sub_key] = sub_value
                             else:
-                                data['dimensions_details'][0][key][sub_key] = sub_value
+                                original_data['dimensions_details'][0][key][sub_key] = sub_value
                 else:
                     if value is not None:
-                        data['dimensions_details'][0][key] = value
+                        original_data['dimensions_details'][0][key] = value
 
             # Обновляем additional_info
-            if 'additional_info' in data:
-                if 'package_dimensions' in data['additional_info']:
+            if 'additional_info' in original_data:
+                if 'package_dimensions' in original_data['additional_info']:
                     for key, value in excel_model_data['additional_info']['package_dimensions'].items():
                         if value is not None:
-                            data['additional_info']['package_dimensions'][key] = value
-                if 'volume' in data['additional_info']:
+                            original_data['additional_info']['package_dimensions'][key] = value
+                if 'volume' in original_data['additional_info']:
                     if excel_model_data['additional_info']['volume'] is not None:
-                        data['additional_info']['volume'] = excel_model_data['additional_info']['volume']
+                        original_data['additional_info']['volume'] = excel_model_data['additional_info']['volume']
 
             # Обновляем прочие поля
-            if 'skeleton' in data and excel_model_data['dimensions_details'].get('skeleton') is not None:
-                data['skeleton'] = excel_model_data['dimensions_details'].get('skeleton')
-            if 'minpromtorg' in data:
+            if 'skeleton' in original_data and excel_model_data['dimensions_details'].get('skeleton') is not None:
+                original_data['skeleton'] = excel_model_data['dimensions_details'].get('skeleton')
+            if 'minpromtorg' in original_data:
                 minpromtorg_value = excel_model_data['dimensions_details'].get('minpromtorg')
                 if minpromtorg_value is not None:
-                    data['minpromtorg'] = minpromtorg_value
+                    original_data['minpromtorg'] = minpromtorg_value
                 else:
-                    data['minpromtorg'] = "-"  # или "", если нужно пустое значение
+                    original_data['minpromtorg'] = "-"  # или "", если нужно пустое значение
 
-            if 'typeofproduct' in data and excel_model_data['dimensions_details'].get('typeofproduct') is not None:
-                data['typeofproduct'] = excel_model_data['dimensions_details'].get('typeofproduct')
+            if 'typeofproduct' in original_data and excel_model_data['dimensions_details'].get('typeofproduct') is not None:
+                original_data['typeofproduct'] = excel_model_data['dimensions_details'].get('typeofproduct')
 
             # Обновляем max_load и recommended_load в guarantee
-            if 'guarantee' in data and len(data['guarantee']) > 0:
-                if 'max_load' in data['guarantee'][0] and excel_model_data['dimensions_details'].get('max_load') is not None:
-                    data['guarantee'][0]['max_load'] = format_number(excel_model_data['dimensions_details'].get('max_load'))
-                if 'recommended_load' in data['guarantee'][0] and excel_model_data['dimensions_details'].get('recommended_load') is not None:
-                    data['guarantee'][0]['recommended_load'] = format_number(excel_model_data['dimensions_details'].get('recommended_load'))
+            if 'guarantee' in original_data and len(original_data['guarantee']) > 0:
+                if 'max_load' in original_data['guarantee'][0] and excel_model_data['dimensions_details'].get('max_load') is not None:
+                    original_data['guarantee'][0]['max_load'] = format_number(excel_model_data['dimensions_details'].get('max_load'))
+                if 'recommended_load' in original_data['guarantee'][0] and excel_model_data['dimensions_details'].get('recommended_load') is not None:
+                    original_data['guarantee'][0]['recommended_load'] = format_number(excel_model_data['dimensions_details'].get('recommended_load'))
 
             # Обновляем transportation.packaging.size и box_size
-            if 'transportation' in data and len(data['transportation']) > 0:
-                if 'packaging' in data['transportation'][0]:
+            if 'transportation' in original_data and len(original_data['transportation']) > 0:
+                if 'packaging' in original_data['transportation'][0]:
                     for key, value in excel_model_data['transportation']['size'].items():
                         if value is not None and value != '':
                             clean_value = remove_trailing_zero(value)
-                            data['transportation'][0]['packaging']['size'][key] = clean_value
+                            original_data['transportation'][0]['packaging']['size'][key] = clean_value
 
-                    width = data['transportation'][0]['packaging']['size'].get('width', '')
-                    depth = data['transportation'][0]['packaging']['size'].get('depth', '')
-                    height = data['transportation'][0]['packaging']['size'].get('height', '')
+                    width = original_data['transportation'][0]['packaging']['size'].get('width', '')
+                    depth = original_data['transportation'][0]['packaging']['size'].get('depth', '')
+                    height = original_data['transportation'][0]['packaging']['size'].get('height', '')
                     if width and depth and height:
-                        data['transportation'][0]['packaging']['box_size'] = f"{width}х{depth}х{height}"
+                        original_data['transportation'][0]['packaging']['box_size'] = f"{width}х{depth}х{height}"
 
             # Обновляем brutto и netto в dimensions
-            if 'dimensions' in data and len(data['dimensions']) > 0:
-                if 'brutto' in data['dimensions'][0] and excel_model_data['dimensions_details'].get('brutto') is not None:
-                    data['dimensions'][0]['brutto'] = format_number(excel_model_data['dimensions_details'].get('brutto'))
-                if 'netto' in data['dimensions'][0] and excel_model_data['dimensions_details'].get('netto') is not None:
+            if 'dimensions' in original_data and len(original_data['dimensions']) > 0:
+                if 'brutto' in original_data['dimensions'][0] and excel_model_data['dimensions_details'].get('brutto') is not None:
+                    original_data['dimensions'][0]['brutto'] = format_number(excel_model_data['dimensions_details'].get('brutto'))
+                if 'netto' in original_data['dimensions'][0] and excel_model_data['dimensions_details'].get('netto') is not None:
                     data['dimensions'][0]['netto'] = format_number(excel_model_data['dimensions_details'].get('netto'))
 
             # Обновляем volume в dimensions
-            if 'dimensions' in data and len(data['dimensions']) > 0 and excel_model_data['additional_info'].get('volume') is not None:
-                data['dimensions'][0]['volume'] = format_number(excel_model_data['additional_info'].get('volume'))
+            if 'dimensions' in original_data and len(original_data['dimensions']) > 0 and excel_model_data['additional_info'].get('volume') is not None:
+                original_data['dimensions'][0]['volume'] = format_number(excel_model_data['additional_info'].get('volume'))
+
+            # Сравниваем и логируем изменения
+            compare_and_log_changes(original_data_copy, original_data, json_file)
 
             # Сохраняем обновленный JSON
             with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
+                json.dump(original_data, f, ensure_ascii=False, indent=4)
         else:
             failed_updates.append((json_file, "Модель не найдена в Excel"))
-            if 'lost' not in data:
-                data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
+            if 'lost' not in original_data:
+                original_data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
             else:
-                if isinstance(data['lost'], list) and len(data['lost']) > 0:
-                    data['lost'][0]['del'] = True
+                if isinstance(original_data['lost'], list) and len(original_data['lost']) > 0:
+                    original_data['lost'][0]['del'] = True
                 else:
-                    data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
+                    original_data['lost'] = [{'clean': False, 'limit': False, 'del': True}]
             # Сохраняем обновленный JSON
             with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
+                json.dump(original_data, f, ensure_ascii=False, indent=4)
     except Exception as e:
         failed_updates.append((json_file, str(e)))
 

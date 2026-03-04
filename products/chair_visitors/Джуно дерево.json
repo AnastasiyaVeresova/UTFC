@@ -51,25 +51,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 624,
-                    "depth": 322,
-                    "height": 665
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "624х322х665",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде. Упаковка стульев: 2 шт в гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "7",
+            "brutto": "",
             "netto": "6,5",
-            "volume": "0,07"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -86,11 +86,11 @@
         {
             "chair_height": {
                 "min": "810",
-                "max": 810
+                "max": ""
             },
             "headrest_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_to_floor_height": {
                 "min": "420",
@@ -102,11 +102,11 @@
             },
             "chair_depth": {
                 "min": "610",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "470",
-                "max": null
+                "max": ""
             },
             "backrest_height": {
                 "max": "360",
@@ -118,14 +118,14 @@
             },
             "seat_width_with_armrests": {
                 "min": "550",
-                "max": "550"
+                "max": ""
             },
             "seat_width": {
                 "max": "460",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "420",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

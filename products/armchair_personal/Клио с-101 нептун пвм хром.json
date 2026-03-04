@@ -50,25 +50,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 624,
-                    "depth": 322,
-                    "height": 665
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "624х322х665",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "13,2",
+            "brutto": "",
             "netto": "",
-            "volume": "0,13"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -92,20 +92,20 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "490",
-                "max": "630"
+                "min": "",
+                "max": ""
             },
             "armrest_height_from_seat": {
                 "min": "220",
-                "max": 220
+                "max": ""
             },
             "chair_depth": {
                 "min": "640",
-                "max": 640
+                "max": ""
             },
             "seat_depth": {
                 "min": "480",
-                "max": 480
+                "max": ""
             },
             "backrest_height": {
                 "max": "540",
@@ -117,7 +117,7 @@
             },
             "seat_width_with_armrests": {
                 "min": "630",
-                "max": "630"
+                "max": ""
             },
             "seat_width": {
                 "max": "480",
@@ -128,7 +128,7 @@
                 "min": ""
             },
             "runners_width": {
-                "max": "600",
+                "max": "",
                 "min": ""
             },
             "runners_depth": {

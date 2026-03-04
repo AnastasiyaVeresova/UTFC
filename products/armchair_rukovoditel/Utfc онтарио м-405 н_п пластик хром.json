@@ -62,12 +62,12 @@
         {
             "brutto": "18,6",
             "netto": "16,8",
-            "volume": "0,22"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -91,7 +91,7 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "495",
+                "min": "",
                 "max": ""
             },
             "armrest_height_from_seat": {
@@ -100,11 +100,11 @@
             },
             "chair_depth": {
                 "min": "700",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "500",
-                "max": null
+                "max": ""
             },
             "backrest_height": {
                 "max": "580",
@@ -116,14 +116,14 @@
             },
             "seat_width_with_armrests": {
                 "min": "675",
-                "max": "675"
+                "max": ""
             },
             "seat_width": {
                 "max": "520",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "535",
+                "max": "",
                 "min": ""
             },
             "runners_width": {

@@ -1,10 +1,88 @@
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc киото м-250.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc кофу м-231.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc мориока м-242.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc номи м-317.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc осака м-201.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc санда м-207.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Альт м-811 black pl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Астон м-711 с подголовником белый пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Астон м-711 с подголовником черный пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Аэро м-808 black pl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер б_п пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер рондо пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер т-01 пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Гарвард сн-500 пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Директ лайт мс-040 н_п хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Директ люкс мс-040 в хром.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Дэли ch-503 white ch.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Изи сн-599 пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Квадро м-807 black pl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Квадро м-807 white ch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Микс сн-696 н_п bl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Микс сн-696 н_п ch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Микс сн-696 пластик пиастра.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Оптима м-901 с подголовником черный пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Оптима м-901 черный пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Профи м-900 black ppl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Профи м-900 grey pch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Рекорд м-878 белый пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Рекорд м-878 чёрный пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Ультра рондо н пластик pl660.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Ультра т-01 н пластик pl660.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Хэнди м-806 gray ch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энжел сн-800 белый н_п нео сн.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энжел сн-800 белый пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энжел сн-800 чёрный н_п нео bl.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энжел сн-800 чёрный.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энтер комби сн-320 гольф пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энтер сн-320 нептун хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энтер сн-320 т-01 пластик.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\escape\Тоник.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik a-112-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik a-130-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik a-155-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik a-177-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik a-181-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik e-201-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik e-212-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik e-222-mb.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik k-400-ch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik k-430-ch.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik p-521-sb.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik p-700.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik а-001-mb.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik а-007-g.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\Epik а-011-g.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\exp\Epik е-277.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Kid's с-01.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg б_п.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg гольф.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg самба.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек пвм б_п.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Бэрри м-902 tg пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Кремона пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Кремона хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро б_п пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро гольф пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро люкс нептун хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро люкс т-01 пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро рондо пвм пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро рондо пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро самба пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро т-01 пвм пластик.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж cpt.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж люкс.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж пвм.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp tg столик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp tg.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp пиастра столик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp пиастра.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Честер gtp tg хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Честер gtp пиастра хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Честер gts tg хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Шелл gts с-21 белый.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Шелл gts с-21 хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Шелл gts с-21 черный.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Комфорт б_п пластик.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Логика tg пластик.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 нептун хром.json: Модель не найдена в Excel
@@ -12,8 +90,39 @@ C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сири�
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 самба пластик.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Фигаро gts к13 tg хром.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Фигаро gts к13 пиастра хром.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Utfc бремен м-123 алюминий.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Utfc канзас м-111 пластик хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Utfc онтарио м-105 пластик хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Utfc онтарио м-405 н_п пластик хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Артекс в хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в_п пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Борн c-44 в хром мб.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон ch-277 пластик 727.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон сн-277 хром топ-ган люкс.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон сн-277 хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон хэви дьюти мб.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Вермонт ch-151 в хром хдп.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Вермонт сн-151 в хром хдп мб.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в дерево.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в хром мб.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 н_п дерево.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 в хром мб.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 в хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 н хром.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман в топ-ган lux.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман комфорт ch-301 в хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман трио ch-303 н хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Комо н_п дерево.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Комо н_п пластик-люкс 727.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Комо н_п пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Куба сн-701.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Орегон сн-686 в пластик 727.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Орион в дерево.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Ройс м-704.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Сн-710 айкью н_п.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Соло max сн-601 хром.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Соло сн-601 пластик.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Эльф в пластик 727.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аляска ch-153 в хром хдп мб.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аризона ch-400 в хром хдп.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аризона сн-400 бюджет в пластик-люкс 727.json: Модель не найдена в Excel
@@ -34,8 +143,18 @@ C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Над
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Надир в хром.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Палермо м-702.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Эфир с-30 в пластик 727.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\chair_cafe_and_bar\Марко.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Асти 4к.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Джуно дерево.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Изо-2.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Изо-3.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Кора чёрный.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Кремона 4к.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Неон.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Парма 4к.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Сиена 4к.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\София со столиком.json: name 'data' is not defined
+C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\София.json: name 'data' is not defined
 C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Шелл софт.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб 4l.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб 4к.json: Модель не найдена в Excel

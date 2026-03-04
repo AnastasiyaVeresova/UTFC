@@ -55,25 +55,25 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 900,
-                    "depth": 490,
-                    "height": 676
+                    "width": "",
+                    "depth": "",
+                    "height": ""
                 },
-                "box_size": "900х490х676",
+                "box_size": "",
                 "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
             }
         }
     ],
     "dimensions": [
         {
-            "brutto": "17,8",
+            "brutto": "",
             "netto": "12,4",
-            "volume": "0,4"
+            "volume": ""
         }
     ],
     "guarantee": [
         {
-            "period": "12",
+            "period": "",
             "max_load": "120",
             "recommended_load": "90"
         }
@@ -90,14 +90,14 @@
         {
             "chair_height": {
                 "min": "980",
-                "max": 980
+                "max": ""
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "470",
+                "min": "",
                 "max": ""
             },
             "armrest_height_from_seat": {
@@ -106,7 +106,7 @@
             },
             "chair_depth": {
                 "min": "730",
-                "max": null
+                "max": ""
             },
             "seat_depth": {
                 "min": "500",
@@ -117,19 +117,19 @@
                 "min": ""
             },
             "backrest_to_seat_height": {
-                "min": null,
-                "max": null
+                "min": "",
+                "max": ""
             },
             "seat_width_with_armrests": {
                 "min": "620",
-                "max": "620"
+                "max": ""
             },
             "seat_width": {
                 "max": "500",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "510",
+                "max": "",
                 "min": ""
             },
             "runners_width": {
