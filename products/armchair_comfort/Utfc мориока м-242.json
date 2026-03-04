@@ -170,7 +170,8 @@
             "package_height": "590,0",
             "volume": "0,11",
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": {}
         }
     ],
     "lost": [
@@ -180,6 +181,6 @@
         }
     ],
     "skeleton": "немонолитный",
-    "minpromtorg": "-",
+    "minpromtorg": "",
     "addition": ""
 }

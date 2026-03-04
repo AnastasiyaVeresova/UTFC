@@ -346,12 +346,13 @@ def normalize_model_name(name):
 # Преобразование пустых значений
 def normalize_value(value):
     if isinstance(value, str) and value.strip() in ('', '-', '--'):
-        return None
+        return ""
     if isinstance(value, float) and math.isnan(value):
-        return None
+        return ""
     if value is None:
-        return None
-    return value
+        return ""
+    return str(value)
+
 
 # Замена точки на запятую в числовых значениях
 def format_number(value):
@@ -417,7 +418,8 @@ columns_mapping = {
     'Unnamed: 43': ('package_height', None, None),  # Высота упаковки
     'Unnamed: 44': ('volume', None, None),  # Объем
     'Unnamed: 45': ('box_on_pallet', None, None),  # Количество коробок на паллете, шт.
-    'Unnamed: 46': ('pallet_width', None, None)  # габариты нагруженного паллета, мм (д.ш.в.)		
+    'Unnamed: 46': ('pallet_width', None, None),
+    'Unnamed: 49': ('addition', None, None)  # Дополнения		
 }
 
 for i, model in enumerate(models_excel):
@@ -429,6 +431,15 @@ for i, model in enumerate(models_excel):
     }
 
     for col, (key, min_key, max_key) in columns_mapping.items():
+        if min_key is None and max_key is None:
+            if key == 'addition':
+                raw_value = df.iloc[i + 3, df.columns.get_loc(col)]
+                if pd.isna(raw_value) or raw_value == "":
+                    model_data[key] = ""
+                else:
+                    model_data[key] = str(raw_value)
+
+
         if min_key is not None and max_key is not None:
             model_data["dimensions_details"][key] = {
                 "min": format_number(normalize_value(df.iloc[i + 3, df.columns.get_loc(col)])),
@@ -605,6 +616,16 @@ for json_file in json_files:
             if 'dimensions' in original_data and len(original_data['dimensions']) > 0 and excel_model_data['additional_info'].get('volume') is not None:
                 original_data['dimensions'][0]['volume'] = format_number(excel_model_data['additional_info'].get('volume'))
 
+            # Обновляем addition (если оно есть в excel_model_data)
+            if 'addition' in excel_model_data:
+                original_data['addition'] = excel_model_data['addition']
+
+
+
+
+
+
+
 
             original_data = update_description_with_dimensions(original_data, excel_model_data)
 
@@ -658,7 +679,7 @@ print("Обновление завершено. Список неудачных 
 # print("После замены пробелов:", name)
 # name = re.sub(r'[^\w\s+]', '', name)
 # print("После удаления неразрешённых символов:", name)
-excel_name = "Кресло UTFC Онтарио М-405 Н/п пластик/хром"
-json_name = "UTFC Онтарио М-405 Н_п пластик хром"
-print("Excel:", normalize_model_name(excel_name))
-print("JSON:", normalize_model_name(json_name))
+# excel_name = "Кресло UTFC Онтарио М-405 Н/п пластик/хром"
+# json_name = "UTFC Онтарио М-405 Н_п пластик хром"
+# print("Excel:", normalize_model_name(excel_name))
+# print("JSON:", normalize_model_name(json_name))

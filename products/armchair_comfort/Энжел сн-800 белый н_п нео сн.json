@@ -61,7 +61,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "10,16",
+            "brutto": "",
             "netto": "8,8",
             "volume": "0,19"
         }
@@ -170,10 +170,11 @@
             "package_height": {},
             "volume": {},
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": "не поставляется в кожзаме Z"
         }
     ],
     "skeleton": "немонолитный",
     "minpromtorg": "+",
-    "addition": ""
+    "addition": "не поставляется в кожзаме Z"
 }

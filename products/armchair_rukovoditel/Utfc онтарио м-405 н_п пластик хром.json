@@ -165,7 +165,8 @@
             "package_height": "670,0",
             "volume": "0,22",
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": {}
         }
     ],
     "lost": [
@@ -174,5 +175,6 @@
             "limit": false,
             "del": false
         }
-    ]
+    ],
+    "addition": ""
 }

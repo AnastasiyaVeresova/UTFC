@@ -168,7 +168,9 @@
             "package_height": "650,0",
             "volume": "0,2",
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": {}
         }
-    ]
+    ],
+    "addition": ""
 }

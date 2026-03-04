@@ -63,7 +63,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "10,3",
+            "brutto": "",
             "netto": "",
             "volume": "0,13"
         }
@@ -169,7 +169,8 @@
             "package_height": {},
             "volume": {},
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": {}
         }
     ],
     "lost": [

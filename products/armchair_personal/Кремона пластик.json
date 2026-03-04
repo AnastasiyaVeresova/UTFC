@@ -65,7 +65,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "10,1",
+            "brutto": "",
             "netto": "8,6",
             "volume": "0,18"
         }
@@ -175,10 +175,11 @@
             "package_height": {},
             "volume": {},
             "box_on_pallet": {},
-            "pallet_width": {}
+            "pallet_width": {},
+            "addition": {}
         }
     ],
     "skeleton": "монолитный",
-    "minpromtorg": "-",
+    "minpromtorg": "",
     "addition": ""
 }
