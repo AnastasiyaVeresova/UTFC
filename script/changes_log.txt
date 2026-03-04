@@ -1,83 +1,60 @@
 
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Идра н_п пластик.json
-Изменено: dimensions_details[0].armrest_width_support.max: '45' → '50'
-Изменено: dimensions_details[0].armrest_length_support.max: '340' → '270'
-
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Utfc номи м-317.json
-Изменено: dimensions_details[0].armrest_height_from_seat.min: '180' → '200'
-Изменено: dimensions_details[0].chair_depth.min: '620' → '630'
-Изменено: dimensions_details[0].seat_width_with_armrests.min: '635' → '655'
-Изменено: dimensions_details[0].backrest_width_narrow.max: '430' → '420'
-
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Квадро м-807 white ch.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[8]: '<strong>Пятилучье</strong> «Альфа» - хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Микс сн-696 хром tg.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[8]: '<strong>Пятилучье</strong> «Альфа» - хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Энтер сн-320 нептун хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[11]: '<strong>Пятилучье</strong> «Альфа» - хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Бэрри м-902 tg хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[7]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Клио с-101 нептун пвм хром.json
+Изменено: construction_and_materials[0].components[6]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Кремона хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[6]: '<strong>Пятилучье</strong> «Альфа» - хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Манго с-109 нептун люкс хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[7]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Мартин люкс нептун хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[6]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Метро люкс нептун хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[7]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж нептун овалина хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[4]: '<strong>Пятилучье</strong> пластиковое d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> пластиковое d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Пронто сн-211 хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[5]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола. Ролики черные d=600 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола. Ролики черные d=640 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба gtp tg.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[9]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба gtp пиастра.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[9]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp tg столик.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[10]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp tg.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[9]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp пиастра столик.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[10]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Самба люкс gtp пиастра.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[9]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Честер gts tg хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[6]: '<strong>Пятилучье</strong> «Испания» - хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> «Испания» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Честер gts пиастра хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
+Изменено: construction_and_materials[0].components[4]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Шелл gts с-21 хром.json
-Изменено: dimensions_details[0].diameter_cross.max: '600' → '640'
-
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Борн c-44 в хром мб.json
-Изменено: dimensions_details[0].armrest_width_support.max: '55' → '60'
-Изменено: dimensions_details[0].armrest_length_support.max: '300' → '290'
-
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Борн с-44 в хром.json
-Изменено: dimensions_details[0].armrest_width_support.max: '55' → '60'
-Изменено: dimensions_details[0].armrest_length_support.max: '300' → '290'
-
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Идра в пластик.json
-Изменено: dimensions_details[0].armrest_width_support.max: '50' → '45'
-Изменено: dimensions_details[0].armrest_length_support.max: '270' → '340'
-
-Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Идра н_п пластик.json
-Изменено: dimensions_details[0].armrest_width_support.max: '50' → '45'
-Изменено: dimensions_details[0].armrest_length_support.max: '270' → '340'
+Изменено: construction_and_materials[0].components[4]: '<strong>Пятилучье</strong> хромированное d=600 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
