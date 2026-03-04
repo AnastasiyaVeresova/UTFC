@@ -621,12 +621,6 @@ for json_file in json_files:
                 original_data['addition'] = excel_model_data['addition']
 
 
-
-
-
-
-
-
             original_data = update_description_with_dimensions(original_data, excel_model_data)
 
             # Сравниваем и логируем изменения

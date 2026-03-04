@@ -2666,7 +2666,7 @@ filtered = filtered.filter(product => {
                     let detailedTooltipText = `
                         <strong>${productName}</strong><br><br>
                         ${upholstery ? `<strong>Обсуждается дополнительно:<br></strong> ${upholstery.replace('-', '').trim()}<br>` : ''}
-                        <br>${addition ? `<strong>min:</strong> ${addition}<br><br>` : ''}
+                        <br>${addition ? `${addition}<br><br>` : ''}
 ${chairHeight?.min || chairHeight?.max ? (() => {
                             const minH = chairHeight.min ? parseInt(chairHeight.min) : null;
                             const maxH = chairHeight.max ? parseInt(chairHeight.max) : null;
