@@ -1080,6 +1080,10 @@ const knownProductsAllFiles = [
     "category": "armchair_comfort"
   },
   {
+    "name": "Utfc номи м-317 с подголовником",
+    "category": "armchair_comfort"
+  },
+  {
     "name": "Utfc онтарио м-105 пластик хром",
     "category": "armchair_rukovoditel"
   },
