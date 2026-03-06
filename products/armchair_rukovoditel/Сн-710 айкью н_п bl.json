@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "СН-710 Айкью Н_п"
+        "СН-710 Айкью Н_п bl"
     ],
     "name_all": [
         "Айкью Н/п"
@@ -9,7 +9,7 @@
         "Айкью Н/п"
     ],
     "unique_name": [
-        "Сн-710 айкью н_п"
+        "Сн-710 айкью н_п BL"
     ],
     "vid": [
         "кресло"
@@ -77,9 +77,9 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_rukovoditel/iq_ch710_np_s0422_01.png",
-            "chair_view": "img/armchair_rukovoditel/iq_ch710_np_s0422_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/iq_ch710_np_s0422_01.png",
+            "vid_main": "img/armchair_rukovoditel/iq_ch710_np_bl_s0422_01.png",
+            "chair_view": "img/armchair_rukovoditel/iq_ch710_np_bl_s0422_02.png",
+            "dimensions": "img/armchair_rukovoditel/dimensions/iq_ch710_np_bl_s0422_01.png",
             "box": "img/box_UTFC.png"
         }
     ],

@@ -800,6 +800,10 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Сн-710 айкью н_п bl",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Соло сн-601 пластик",
     "category": "armchair_rukovoditel"
   },
