@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Соло max сн-601 хром"
+        "Соло max сн-601 пластик"
     ],
     "name_all": [
         "Соло хром",
@@ -10,7 +10,7 @@
         "Соло хром"
     ],
     "unique_name": [
-        "Соло max CH-601 хром"
+        "Соло max CH-601 пластик"
     ],
     "vid": [
         "кресло"
@@ -47,7 +47,7 @@
                 "<strong>Материал</strong> облицовки подголовника и подлокотников: ткань (Moderno), экокожа (S,R)",
                 "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
                 "<strong>Газ-лифт</strong> хром с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-                "<strong>Пятилучье</strong> хромированное d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Пятилучье</strong> хромированное d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
                 "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
             ]
         }
@@ -69,8 +69,8 @@
     ],
     "dimensions": [
         {
-            "brutto": "13,8",
-            "netto": "12",
+            "brutto": "12,8",
+            "netto": "11",
             "volume": "0,17"
         }
     ],
@@ -83,9 +83,9 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_rukovoditel/solo_max_kombi_01.png",
-            "chair_view": "img/armchair_rukovoditel/solo_max_kombi_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/solo max ch-601 ch.png",
+            "vid_main": "img/armchair_rukovoditel/solo ch-601 pl_01.png",
+            "chair_view": "img/armchair_rukovoditel/solo ch-601 pl_02.png",
+            "dimensions": "img/armchair_rukovoditel/dimensions/solo ch-601 pl_01.png",
             "box": "img/box_UTFC.png"
         }
     ],
@@ -132,7 +132,7 @@
                 "min": ""
             },
             "diameter_cross": {
-                "max": "700",
+                "max": "660",
                 "min": ""
             },
             "runners_width": {
@@ -172,8 +172,8 @@
             "max_load": "150",
             "skeleton": "немонолитный",
             "minpromtorg": {},
-            "netto": "12",
-            "brutto": "13,8",
+            "netto": "11",
+            "brutto": "12,8",
             "package_width": "910",
             "package_depth": "270,0",
             "package_height": "690,0",

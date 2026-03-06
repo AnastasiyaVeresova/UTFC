@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Шелл gts с-21 хром"
+        "Шелл gts с-21 софт хром"
     ],
     "name_all": [
         "Шелл GTS пластик",
@@ -10,7 +10,7 @@
         "Шелл GTS хром"
     ],
     "unique_name": [
-        "Шелл GTS С-21 хром"
+        "Шелл GTS С-21 софт хром"
     ],
     "vid": [
         "кресло"
@@ -77,9 +77,9 @@
     ],
     "images": [
         {
-            "vid_main": "img/armchair_personal/shell_c21_gts_ch_grey_01.png",
-            "chair_view": "img/armchair_personal/shell_c21_gts_ch_grey_02.png",
-            "dimensions": "img/armchair_personal/dimensions/shell_c21_gts_ch_grey_01.png",
+            "vid_main": "img/armchair_personal/shell_soft_ch_01.png",
+            "chair_view": "img/armchair_personal/shell_soft_ch_02.png",
+            "dimensions": "img/armchair_personal/dimensions/shell_soft_ch_01.png",
             "box": "img/box_UTFC.png"
         }
     ],
@@ -94,8 +94,8 @@
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "390",
-                "max": "510"
+                "min": "445",
+                "max": "565"
             },
             "armrest_height_from_seat": {
                 "min": "",
@@ -110,7 +110,7 @@
                 "max": ""
             },
             "backrest_height": {
-                "max": "410",
+                "max": "360",
                 "min": ""
             },
             "backrest_to_seat_height": {
@@ -138,21 +138,21 @@
                 "min": ""
             },
             "seat_to_floor_height_upper": {
-                "min": "380",
-                "max": "500"
+                "min": "",
+                "max": ""
             },
             "armrest_height_from_floor": {},
             "armrest_width_support": {},
             "armrest_length_support": {},
             "seat_depth_km": {
-                "max": "420"
+                "max": ""
             },
             "backrest_height_external": {},
             "backrest_width_narrow": {
-                "max": "270"
+                "max": ""
             },
             "backrest_width_wide": {
-                "max": "430"
+                "max": ""
             },
             "recommended_load": "90",
             "max_load": "120",
@@ -171,5 +171,12 @@
     ],
     "skeleton": "монолитный",
     "minpromtorg": "+",
-    "addition": ""
+    "addition": "",
+    "lost": [
+        {
+            "clean": false,
+            "limit": false,
+            "del": true
+        }
+    ]
 }

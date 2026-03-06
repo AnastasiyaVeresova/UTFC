@@ -1,0 +1,8 @@
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Соло max сн-601 пластик.json
+Изменено: construction_and_materials[0].components[10]: '<strong>Пятилучье</strong> хромированное d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
+Изменено: dimensions[0].brutto: '13,8' → '12,8'
+Изменено: dimensions[0].netto: '12' → '11'
+Изменено: dimensions_details[0].diameter_cross.max: '700' → '660'
+Изменено: dimensions_details[0].netto: '12' → '11'
+Изменено: dimensions_details[0].brutto: '13,8' → '12,8'

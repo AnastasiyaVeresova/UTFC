@@ -176,6 +176,10 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Верона к-10 в дерево мб",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Верона к-10 в хром",
     "category": "armchair_rukovoditel"
   },
@@ -364,11 +368,23 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Кайман ch-300 в bl",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Кайман ch-300 н хром",
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Кайман ch-300 н bl",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Кайман ch-300 н_п хром",
+    "category": "armchair_rukovoditel"
+  },
+  {
+    "name": "Кайман ch-300 н_п bl",
     "category": "armchair_rukovoditel"
   },
   {
@@ -792,6 +808,10 @@ const knownProductsAllFiles = [
     "category": "armchair_rukovoditel"
   },
   {
+    "name": "Соло max сн-601 пластик",
+    "category": "armchair_rukovoditel"
+  },
+  {
     "name": "Соло max сн-601 хром",
     "category": "armchair_rukovoditel"
   },
@@ -929,6 +949,10 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Шелл gts с-21 белый",
+    "category": "armchair_personal"
+  },
+  {
+    "name": "Шелл gts с-21 софт хром",
     "category": "armchair_personal"
   },
   {
