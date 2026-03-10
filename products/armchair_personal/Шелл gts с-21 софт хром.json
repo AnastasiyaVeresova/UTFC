@@ -64,8 +64,8 @@
     "dimensions": [
         {
             "brutto": "",
-            "netto": "6,15",
-            "volume": "0,13"
+            "netto": "",
+            "volume": "0"
         }
     ],
     "guarantee": [
@@ -138,21 +138,21 @@
                 "min": ""
             },
             "seat_to_floor_height_upper": {
-                "min": "",
-                "max": ""
+                "min": "380",
+                "max": "500"
             },
             "armrest_height_from_floor": {},
             "armrest_width_support": {},
             "armrest_length_support": {},
             "seat_depth_km": {
-                "max": ""
+                "max": "375"
             },
             "backrest_height_external": {},
             "backrest_width_narrow": {
-                "max": ""
+                "max": "270"
             },
             "backrest_width_wide": {
-                "max": ""
+                "max": "430"
             },
             "recommended_load": "90",
             "max_load": "120",
@@ -163,7 +163,7 @@
             "package_width": {},
             "package_depth": {},
             "package_height": {},
-            "volume": {},
+            "volume": "0",
             "box_on_pallet": {},
             "pallet_width": {},
             "addition": {}

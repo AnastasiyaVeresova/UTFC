@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Фильтры на схеме кресла</title>
+  <style>
+    .chair-schema-container {
+      position: relative;
+      width: fit-content;
+      margin: 0 auto;
+    }
+
+    .chair-schema-image {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+
+    .size-filter {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      z-index: 10;
+    }
+
+    .size-filter.vertical {
+      flex-direction: column;
+    }
+
+    /* Убираем отступы у контейнера ползунка */
+    .custom-slider.horizontal {
+      position: relative;
+      flex-grow: 1;
+      height: 4px;
+      background:  rgb(42, 42, 42);;
+      border-radius: 2px;
+      margin: 0;
+    }
+
+    .custom-slider.vertical {
+      position: relative;
+      width: 4px;
+      height: 100%;
+      background:  rgb(42, 42, 42);;
+      border-radius: 2px;
+      margin: 0;
+    }
+
+    /* Трек ползунка */
+    .slider-track {
+      position: absolute;
+      background: #96C22B;
+      border-radius: 2px;
+      pointer-events: none;
+    }
+
+    /* Ползунки (бегунки) */
+    .slider-thumb {
+      position: absolute;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #96C22B;
+      cursor: pointer;
+      z-index: 2;
+    }
+
+    /* Ползунок для горизонтального слайдера */
+    .custom-slider.horizontal .slider-thumb {
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    /* Ползунок для вертикального слайдера */
+    .custom-slider.vertical .slider-thumb {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    /* Поля ввода располагаем вплотную к ползунку */
+    .size-filter input[type="number"] {
+      width: 60px;
+      text-align: center;
+      padding: 4px;
+      background-color: rgb(42, 42, 42);
+      color: rgb(255, 255, 255);
+      border: 1px solid #ffffff;
+      border-radius: 5px;
+      margin: 0;
+    }
+
+    /* Небольшие отступы между полем ввода и ползунком */
+    .size-filter.horizontal input[type="number"]:first-child {
+      margin-right: -7px;
+    }
+
+    .size-filter.horizontal input[type="number"]:last-child {
+      margin-left: 5px;
+    }
+
+    .size-filter.vertical input[type="number"]:first-child {
+      margin-bottom: 5px;
+    }
+
+    .size-filter.vertical input[type="number"]:last-child {
+      margin-top: -3px;
+    }
+  </style>
+</head>
+<body>
+  <div class="chair-schema-container">
+    <img src="img/chair-schema.png" alt="Схема кресла" class="chair-schema-image">
+
+    <!-- Горизонтальный фильтр -->
+    <div class="size-filter horizontal" data-coords="63,65,388,4">
+      <input type="number" class="min-value" min="400" max="1800" step="5" value="400">
+      <div class="custom-slider horizontal">
+        <div class="slider-track"></div>
+        <div class="slider-thumb min-thumb"></div>
+        <div class="slider-thumb max-thumb"></div>
+      </div>
+      <input type="number" class="max-value" min="400" max="1800" step="5" value="1800">
+    </div>
+
+    <!-- Вертикальный фильтр -->
+    <div class="size-filter vertical" data-coords="927,95,4,526">
+      <input type="number" class="min-value" min="400" max="1800" step="5" value="400">
+      <div class="custom-slider vertical">
+        <div class="slider-track"></div>
+        <div class="slider-thumb min-thumb"></div>
+        <div class="slider-thumb max-thumb"></div>
+      </div>
+      <input type="number" class="max-value" min="400" max="1800" step="5" value="1800">
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Позиционирование фильтров
+      const filters = document.querySelectorAll('.size-filter');
+      filters.forEach(filter => {
+        const coords = filter.getAttribute('data-coords').split(',').map(Number);
+        const [left, top, width, height] = coords;
+
+        filter.style.left = `${left}px`;
+        filter.style.top = `${top}px`;
+
+        if (filter.classList.contains('vertical')) {
+          filter.style.width = `${width}px`;
+          filter.style.height = `${height}px`;
+        } else {
+          filter.style.width = `${width}px`;
+        }
+      });
+
+      // Инициализация кастомных ползунков
+      function initCustomSlider(slider, isVertical = false) {
+        const track = slider.querySelector('.slider-track');
+        const minThumb = slider.querySelector('.min-thumb');
+        const maxThumb = slider.querySelector('.max-thumb');
+        const minValue = slider.closest('.size-filter').querySelector('.min-value');
+        const maxValue = slider.closest('.size-filter').querySelector('.max-value');
+
+        const min = parseInt(minValue.min);
+        const max = parseInt(maxValue.max);
+
+        let minPos = 0;
+        let maxPos = 100;
+
+        function updateSlider() {
+          if (isVertical) {
+            minThumb.style.bottom = `${minPos}%`;
+            maxThumb.style.bottom = `${maxPos}%`;
+            track.style.bottom = `${minPos}%`;
+            track.style.height = `${maxPos - minPos}%`;
+          } else {
+            minThumb.style.left = `${minPos}%`;
+            maxThumb.style.left = `${maxPos}%`;
+            track.style.left = `${minPos}%`;
+            track.style.width = `${maxPos - minPos}%`;
+          }
+        }
+
+        function setThumbPosition(thumb, value, isMin) {
+          const percent = ((value - min) / (max - min)) * 100;
+          if (isMin) {
+            minPos = percent;
+            minValue.value = value;
+          } else {
+            maxPos = percent;
+            maxValue.value = value;
+          }
+          updateSlider();
+        }
+
+        // Обработчики для полей ввода
+        minValue.addEventListener('input', () => {
+          const value = parseInt(minValue.value);
+          if (value > parseInt(maxValue.value)) {
+            minValue.value = maxValue.value;
+          }
+          setThumbPosition(minThumb, value, true);
+        });
+
+        maxValue.addEventListener('input', () => {
+          const value = parseInt(maxValue.value);
+          if (value < parseInt(minValue.value)) {
+            maxValue.value = minValue.value;
+          }
+          setThumbPosition(maxThumb, value, false);
+        });
+
+        // Перетаскивание ползунков
+        function dragThumb(thumb, isMin) {
+          let isDragging = false;
+
+          thumb.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            e.preventDefault();
+          });
+
+          document.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+
+            const sliderRect = slider.getBoundingClientRect();
+            let percent;
+
+            if (isVertical) {
+              const y = e.clientY - sliderRect.top;
+              percent = ((sliderRect.height - y) / sliderRect.height) * 100;
+            } else {
+              const x = e.clientX - sliderRect.left;
+              percent = (x / sliderRect.width) * 100;
+            }
+
+            percent = Math.max(0, Math.min(100, percent));
+
+            if (isMin) {
+              if (percent > maxPos) percent = maxPos;
+              minPos = percent;
+              minValue.value = Math.round(min + (max - min) * (percent / 100));
+            } else {
+              if (percent < minPos) percent = minPos;
+              maxPos = percent;
+              maxValue.value = Math.round(min + (max - min) * (percent / 100));
+            }
+
+            updateSlider();
+          });
+
+          document.addEventListener('mouseup', () => {
+            isDragging = false;
+          });
+        }
+
+        dragThumb(minThumb, true);
+        dragThumb(maxThumb, false);
+
+        // Инициализация начальных позиций
+        setThumbPosition(minThumb, parseInt(minValue.value), true);
+        setThumbPosition(maxThumb, parseInt(maxValue.value), false);
+      }
+
+      // Инициализация горизонтальных ползунков
+      document.querySelectorAll('.custom-slider.horizontal').forEach(slider => {
+        initCustomSlider(slider);
+      });
+
+      // Инициализация вертикальных ползунков
+      document.querySelectorAll('.custom-slider.vertical').forEach(slider => {
+        initCustomSlider(slider, true);
+      });
+    });
+  </script>
+</body>
+</html>

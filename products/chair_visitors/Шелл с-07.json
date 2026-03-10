@@ -65,7 +65,7 @@
         {
             "brutto": "",
             "netto": "",
-            "volume": "0,035-0,09"
+            "volume": "0"
         }
     ],
     "guarantee": [
@@ -148,7 +148,7 @@
             },
             "backrest_height_external": {},
             "backrest_width_narrow": {
-                "max": "350"
+                "max": "270"
             },
             "backrest_width_wide": {
                 "max": "350"
@@ -162,7 +162,7 @@
             "package_width": {},
             "package_depth": {},
             "package_height": {},
-            "volume": {},
+            "volume": "0",
             "box_on_pallet": {},
             "pallet_width": {},
             "addition": {}

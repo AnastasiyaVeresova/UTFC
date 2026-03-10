@@ -5,7 +5,6 @@ C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек пв�
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж cpt.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж люкс.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж пвм.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Шелл gts с-21 софт хром.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Комфорт б_п пластик.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Логика tg пластик.json: Модель не найдена в Excel
 C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 нептун хром.json: Модель не найдена в Excel

@@ -65,7 +65,7 @@
         {
             "brutto": "",
             "netto": "5,45",
-            "volume": "0,13"
+            "volume": "0"
         }
     ],
     "guarantee": [
@@ -102,7 +102,7 @@
                 "max": ""
             },
             "chair_depth": {
-                "min": "515",
+                "min": "495",
                 "max": null
             },
             "seat_depth": {
@@ -138,8 +138,8 @@
                 "min": ""
             },
             "seat_to_floor_height_upper": {
-                "min": "395",
-                "max": "535"
+                "min": "385",
+                "max": "525"
             },
             "armrest_height_from_floor": {},
             "armrest_width_support": {},
@@ -163,7 +163,7 @@
             "package_width": {},
             "package_depth": {},
             "package_height": {},
-            "volume": {},
+            "volume": "0",
             "box_on_pallet": {},
             "pallet_width": {},
             "addition": {}

@@ -64,7 +64,7 @@
         {
             "brutto": "26,5",
             "netto": "18,25",
-            "volume": "0,32"
+            "volume": "0,320416"
         }
     ],
     "guarantee": [
@@ -163,7 +163,7 @@
             "package_width": "760",
             "package_depth": "680,0",
             "package_height": "620,0",
-            "volume": "0,32",
+            "volume": "0,320416",
             "box_on_pallet": {},
             "pallet_width": {},
             "addition": {}
