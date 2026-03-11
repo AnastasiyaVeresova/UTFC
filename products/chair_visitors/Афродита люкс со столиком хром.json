@@ -57,11 +57,11 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": 660,
-                    "depth": 620,
-                    "height": 960
+                    "width": "670",
+                    "depth": "630",
+                    "height": "970"
                 },
-                "box_size": "660х620х960",
+                "box_size": "670х630х970",
                 "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
             }
         }
@@ -70,7 +70,7 @@
         {
             "brutto": "",
             "netto": "",
-            "volume": "0"
+            "volume": "0,41"
         }
     ],
     "guarantee": [

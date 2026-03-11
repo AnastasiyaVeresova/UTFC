@@ -617,8 +617,10 @@ for json_file in json_files:
 
             # Обновляем volume в dimensions
             if 'dimensions' in original_data and len(original_data['dimensions']) > 0:
-                if excel_model_data['dimensions_details'].get('volume') is not None and excel_model_data != "" and excel_model_data != "0":
-                    original_data['dimensions'][0]['volume'] = format_number(excel_model_data['dimensions_details'].get('volume'))
+                if excel_model_data['dimensions_details'].get('volume') is not None and excel_model_data['dimensions_details'].get('volume') != "":
+                    volume = float(excel_model_data['dimensions_details'].get('volume').replace(',', '.'))
+                    original_data['dimensions'][0]['volume'] = format_number(str(round(volume, 2)))
+
 
 
             # Обновляем addition (если оно есть в excel_model_data)
