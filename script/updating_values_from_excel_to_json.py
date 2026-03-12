@@ -613,15 +613,20 @@ for json_file in json_files:
                 if key not in original_data['dimensions_details'][0]:
                     original_data['dimensions_details'][0][key] = {}
 
-            if isinstance(value, dict):
-                for sub_key, sub_value in value.items():
-                    if sub_value is not None and sub_value != "" and sub_value != "0":
-                        original_data['dimensions_details'][0][key][sub_key] = format_number(sub_value)
-                    # Если sub_value пусто или 0, оставляем значение из JSON
-            else:
-                if value is not None and value != "" and value != "0":
-                    original_data['dimensions_details'][0][key] = format_number(value)
-                # Если value пусто или 0, оставляем значение из JSON
+                if isinstance(value, dict):
+                    for sub_key, sub_value in value.items():
+                        current_value = original_data['dimensions_details'][0][key].get(sub_key, "")
+                        if sub_value is not None and sub_value != "" and sub_value != "0":
+                            formatted_value = format_number(sub_value)  # Форматируем значение из Excel
+                            if current_value != formatted_value:  # Сравниваем с текущим значением в JSON
+                                original_data['dimensions_details'][0][key][sub_key] = formatted_value
+                else:
+                    current_value = original_data['dimensions_details'][0].get(key, "")
+                    if value is not None and value != "" and value != "0":
+                        formatted_value = format_number(value)  # Форматируем значение из Excel
+                        if current_value != formatted_value:  # Сравниваем с текущим значением в JSON
+                            original_data['dimensions_details'][0][key] = formatted_value
+
 
 
             # Обновляем additional_info

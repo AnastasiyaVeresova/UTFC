@@ -3952,3 +3952,300 @@
 
 Файл: C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Шелл с-07.json
 Изменено: dimensions[0].volume: '0' → '0,0'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Престиж нептун овалина хром.json
+Изменено: transportation[0].packaging.box_size: '630x290x600' → '630х290х600'
+Изменено: dimensions[0].brutto: '11,2' → ''
+Изменено: dimensions[0].volume: '0,11' → '0,0'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман комфорт ch-301 в хром.json
+Изменено: transportation[0].packaging.box_size: '910х400х680' → '9100000х400х680'
+Изменено: dimensions[0].netto: '14000000,4' → '14,4'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман комфорт ch-301 в хром.json
+Изменено: construction_and_materials[0].components[8]: '<strong>Пятилучье</strong> хромированное d=900 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола' → '<strong>Пятилучье</strong> хромированное d=700 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Альт м-811 black pl.json
+Изменено: dimensions_details[0].package_width: '{}' → '624'
+Изменено: dimensions_details[0].package_depth: '{}' → '322,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,13361712'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Аэро м-808 black pl.json
+Изменено: dimensions_details[0].package_width: '{}' → '624'
+Изменено: dimensions_details[0].package_depth: '{}' → '322,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,13361712'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер б_п пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер рондо пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Вальтер т-01 пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Гарвард сн-500 пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Гарвард сн-500 хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Директ лайт мс-040 в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Директ лайт мс-040 н хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '624'
+Изменено: dimensions_details[0].package_depth: '{}' → '322,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,13361712'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Директ люкс мс-040 в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg б_п.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg гольф.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек eg самба.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек б_п пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек гольф пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек самба пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Бэрри м-902 tg пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '584'
+Изменено: dimensions_details[0].package_depth: '{}' → '262,0'
+Изменено: dimensions_details[0].package_height: '{}' → '584,0'
+Изменено: dimensions_details[0].volume: '0' → '0,089356672'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Бэрри м-902 tg хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '630'
+Изменено: dimensions_details[0].package_depth: '{}' → '290,0'
+Изменено: dimensions_details[0].package_height: '{}' → '600,0'
+Изменено: dimensions_details[0].volume: '0' → '0,10962'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Айкью сн-710 пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '630'
+Изменено: dimensions_details[0].package_depth: '{}' → '290,0'
+Изменено: dimensions_details[0].package_height: '{}' → '600,0'
+Изменено: dimensions_details[0].volume: '0' → '0,10962'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Альтаир в пластик 727.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Артекс в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в дерево.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в пластик-люкс 727.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в_п пластик-люкс 727.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в_п пластик.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Атлант в_п хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Борн c-44 в хром мб.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Борн с-44 в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон ch-277 пластик 727.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон сн-277 хром топ-ган люкс.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон сн-277 хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бостон хэви дьюти мб.json
+Изменено: dimensions_details[0].package_width: '{}' → '910'
+Изменено: dimensions_details[0].package_depth: '{}' → '270,0'
+Изменено: dimensions_details[0].package_height: '{}' → '690,0'
+Изменено: dimensions_details[0].volume: '0' → '0,169533'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Бруно ch-707.json
+Изменено: dimensions_details[0].package_width: '{}' → '800'
+Изменено: dimensions_details[0].package_depth: '{}' → '360,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,19152'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Вермонт ch-151 в хром хдп.json
+Изменено: dimensions_details[0].package_width: '{}' → '760'
+Изменено: dimensions_details[0].package_depth: '{}' → '440,0'
+Изменено: dimensions_details[0].package_height: '{}' → '650,0'
+Изменено: dimensions_details[0].volume: '0' → '0,21736'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Вермонт сн-151 в хром хдп мб.json
+Изменено: dimensions_details[0].package_width: '{}' → '760'
+Изменено: dimensions_details[0].package_depth: '{}' → '440,0'
+Изменено: dimensions_details[0].package_height: '{}' → '650,0'
+Изменено: dimensions_details[0].volume: '0' → '0,21736'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в дерево мб.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в дерево.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в хром мб.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 в хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 н_п дерево.json
+Изменено: dimensions_details[0].package_width: '{}' → '900'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,298116'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Верона к-10 н_п хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '1100'
+Изменено: dimensions_details[0].package_depth: '{}' → '490,0'
+Изменено: dimensions_details[0].package_height: '{}' → '676,0'
+Изменено: dimensions_details[0].volume: '0' → '0,364364'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 в хром мб.json
+Изменено: dimensions_details[0].seat_to_floor_height.min: '4900000' → '490'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Афродита люкс со столиком хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '670'
+Изменено: dimensions_details[0].package_depth: '{}' → '630,0'
+Изменено: dimensions_details[0].package_height: '{}' → '970,0'
+Изменено: dimensions_details[0].volume: '0' → '0,409437'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Афродита люкс хром.json
+Изменено: dimensions_details[0].package_width: '{}' → '670'
+Изменено: dimensions_details[0].package_depth: '{}' → '630,0'
+Изменено: dimensions_details[0].package_height: '{}' → '970,0'
+Изменено: dimensions_details[0].volume: '0' → '0,409437'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Джуно дерево.json
+Изменено: dimensions_details[0].package_width: '{}' → '624'
+Изменено: dimensions_details[0].package_depth: '{}' → '322,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,13361712'
+
+Файл: C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Джуно люкс дерево.json
+Изменено: dimensions_details[0].package_width: '{}' → '624'
+Изменено: dimensions_details[0].package_depth: '{}' → '322,0'
+Изменено: dimensions_details[0].package_height: '{}' → '665,0'
+Изменено: dimensions_details[0].volume: '0' → '0,13361712'
