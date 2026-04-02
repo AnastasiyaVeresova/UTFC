@@ -154,7 +154,7 @@
         "max": "570"
       },
       "armrest_height_from_seat": {
-        "min": null,
+        "min": 200,
         "max": ""
       },
       "chair_depth": {
@@ -174,7 +174,7 @@
         "max": "430"
       },
       "seat_width_with_armrests": {
-        "min": null,
+        "min": 560,
         "max": null
       },
       "seat_width": {
