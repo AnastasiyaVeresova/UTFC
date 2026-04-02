@@ -220,6 +220,21 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Венус м bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Венус м gr",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Венус ch",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
     "name": "Вермонт сн-151 в хром хдп мб",
     "category": "armchair_rukovoditel",
     "is_archive": false
@@ -406,6 +421,16 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Изо со столиком",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Изо bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Изо gr",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -855,6 +880,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Неон bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Нерон",
     "category": "chair_cafe_and_bar",
     "is_archive": false
@@ -1195,6 +1225,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Стандарт gr",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Стар б_п овалина пластик",
     "category": "armchair_personal",
     "is_archive": false
@@ -1225,7 +1260,27 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Табурет кр bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Табурет кр ch",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
     "name": "Табурет пр",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Табурет пр bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Табурет пр ch",
     "category": "chair_cafe_and_bar",
     "is_archive": false
   },

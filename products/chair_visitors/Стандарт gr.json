@@ -1,0 +1,480 @@
+{
+    "namefile": [
+        "Стандарт gr"
+    ],
+    "name_all": [
+        "Стандарт"
+    ],
+    "name": [
+        "Стандарт"
+    ],
+    "unique_name": [
+        "Стандарт gr"
+    ],
+    "vid": [
+        "стул"
+    ],
+    "category": [
+        "стул"
+    ],
+    "destiny": [
+        "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+    ],
+    "technical_requirements": [
+        [
+            "Стул должен соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- тип покрытия каркаса стула: BL, GR где<br>\nBL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno, D), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "металлического каркаса, спинки, сиденья, пластиковых заглушек и крепежных элементов. Нерегулируемый",
+                "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием",
+                "<strong>Спинка</strong>, опоры сиденья и ножки изготовлены из стальной трубы круглого сечения Ф20х1,2 мм, перекладина - из стальной трубы круглого сечения Ф16х1,2 мм, пластины - из стального листа толщиной 2 мм",
+                "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска черного илисерого цвета. На опорную поверхность ножек каркаса и на торцы спинки устанавливаются заглушки",
+                "<strong>Спинка и сиденье</strong> состоят из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 24, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепятся к каркасу на 4 самореза",
+                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno, D), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "",
+                    "depth": "",
+                    "height": ""
+                },
+                "box_size": "",
+                "transportation": "удобства транспортировки и хранения стул поставляется в собранном виде и укладывается в стопку по 15 шт."
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "",
+            "volume": "0,0"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/chair_visitors/standart_gr_c39_01",
+            "chair_view": "img/chair_visitors/standart_gr_c39_02",
+            "dimensions": "img/chair_visitors/dimensions/standart_gr_c39_01.png",
+            "box": "img/box_0.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42b/cinoo4yb5qfal1hamdt6wvovctm6jnzh.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8e6/u45mzsjj1ktsni6tdzj77ajn88vuagps.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/22d/22ddf3bcabb4bd89b3efee3aafff7c7f.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b6f/b6fb844954fd4b4a6064718a92450cfb.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/d8f/140_140_0/nuihyueb9e9uxi3w1efal9n5p1zttzjv.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a68/a68525ca656adb679f8bf10e4c8957b9.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e7e/e7e07310987904c68082855430874c7e.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e5d/e5ddd9f27b9a4ebb6ca13665fb9ca042.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/8e6/140_140_0/u45mzsjj1ktsni6tdzj77ajn88vuagps.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6da/6daed1c970681bad2f719281d0c2eacb.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+                "https://utfc.ru/upload/resize_cache/iblock/9ed/140_140_0/wg9jncjwsrjsxdeuvrk9l8qew6jzzacs.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ccb/ccb62e3bc40a804259f1514d3bc58182.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6ad/6addfe40dbd34774b5944c4138bca1e4.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/da1/jryjcassqq17e5al93kvg3vv9rqwo766.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0c5/0c5eea6af3603d63b73b652d674a5eff.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8c5/q6g3c4z38ix5et45doz1p8arvjil0o5b.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/063/063f2eefe9886930b7900fdd69b6009c.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9ed/wg9jncjwsrjsxdeuvrk9l8qew6jzzacs.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/21f/21f13b7d7f01b53c29c67ad9a6620c32.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3a5/3a5d425d6688006b1768d11061e38317.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/766/766c72d058e3535b67624ec955aaa19d.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ac8/ac8e664b9a3470d65f500fc3c38f80ba.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4f3/hy8zhsbvsnw3de6dn5xmgabesh7e8h2m.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/031/031d5c380ab03d1ac246711519a96a16.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/be1/be1e6a3b1b4deb2bfc39c20415df68d4.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/407/4079580dba1dd4125a68ade982118f69.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d56/d56a51713891d4b17ee655d114e98c4e.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8fe/8fe971ab8f219e93061b10b7c0d8208c.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d8f/nuihyueb9e9uxi3w1efal9n5p1zttzjv.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/33b/33b582468ede1ac576d2ed697b6a2950.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/4f3/140_140_0/hy8zhsbvsnw3de6dn5xmgabesh7e8h2m.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/86d/iuciluellqs7myy5pm2clu9d8u3o9frj.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/044/0444eb910ce5a1d89c102849d0247aaa.webp",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/resize_cache/iblock/8c5/140_140_0/q6g3c4z38ix5et45doz1p8arvjil0o5b.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/12e/12eac4cbc8e29ff91e60f48774f510e1.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7c4/122c1jv0g1qj8zar5vuu8hqds2uaqx8b.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/28b/tkxpdnzpsu41452lmffrzysee7qflm4w.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5e9/m2nszx5hcx8qi5nn4d8bso4vudve3o5r.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/28b/140_140_0/tkxpdnzpsu41452lmffrzysee7qflm4w.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7e9/bcye8t8936ne2ixcnqmlbmjj7li70qyl.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9eb/6fc2nbbeiidi728337p3y9z4831w3juy.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/277/c9fbycy262ipf62vu6xngurhk6f1lwj0.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/9eb/140_140_0/6fc2nbbeiidi728337p3y9z4831w3juy.png",
+                "https://utfc.ru/upload/resize_cache/iblock/7e9/140_140_0/bcye8t8936ne2ixcnqmlbmjj7li70qyl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/7c4/140_140_0/122c1jv0g1qj8zar5vuu8hqds2uaqx8b.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5e9/140_140_0/m2nszx5hcx8qi5nn4d8bso4vudve3o5r.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3da/65xee8qfhxn04d1hk4fzb20q2kware70.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "830",
+                "max": 830
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": "475",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "560",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "430",
+                "max": null
+            },
+            "backrest_height": {
+                "max": "395",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": null
+            },
+            "seat_width": {
+                "max": "415",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": null,
+                "min": ""
+            },
+            "runners_width": {
+                "max": "450",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "520",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "475"
+            },
+            "armrest_height_from_floor": {},
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {},
+            "backrest_height_external": {},
+            "backrest_width_narrow": {
+                "max": "395"
+            },
+            "backrest_width_wide": {
+                "max": "395"
+            },
+            "recommended_load": "90",
+            "max_load": "120",
+            "skeleton": "монолитный",
+            "minpromtorg": "+",
+            "netto": {},
+            "brutto": {},
+            "package_width": {},
+            "package_depth": {},
+            "package_height": {},
+            "volume": "0",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": {
+                "min": "",
+                "max": ""
+            }
+        }
+    ],
+    "skeleton": "монолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1109",
+        "IE_NAME": "Стул Стандарт GR",
+        "IE_PREVIEW_TEXT": "Широкий ассортимент материалов обивки и цветовых решений позволяет выбрать идеальный вариант. Стул предназначен для использования в барах и кафе, учебных заведениях, а также в других помещениях для ожидания, работы и отдыха. Он оснащен широким сиденьем и удобной спинкой для максимального комфорта.",
+        "IE_DETAIL_TEXT": "Широкий ассортимент материалов обивки и цветовых решений позволяет выбрать идеальный вариант. Стул предназначен для использования в барах и кафе, учебных заведениях, а также в других помещениях для ожидания, работы и отдыха. Он оснащен широким сиденьем и удобной спинкой для максимального комфорта.",
+        "IP_PROP2": 415,
+        "IP_PROP3": 830,
+        "IP_PROP4": 560,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3da/65xee8qfhxn04d1hk4fzb20q2kware70.webp",
+        "IP_PROP31": "",
+        "IP_PROP5": "",
+        "IP_PROP26": "",
+        "IP_PROP27": "",
+        "IP_PROP28": "4,6",
+        "IP_PROP29": "Стрейч-пленка (каркас)",
+        "IP_PROP30": "0,05",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "standart_gr",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/iblock/55b/6ffft3snhavpglxqxyoe9zl81yuqkfmc.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "op_standart_gr",
+        "IP_PROP42": "wo",
+        "IP_PROP43": "",
+        "IP_PROP44": "",
+        "IP_PROP45": "",
+        "IP_PROP46": "",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Стулья",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 1552,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 1599,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 1552,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "title": "Стул Стандарт GR для посетителей в залах ожидания, работы и отдыха производства компании UTFC",
+    "base_name": "Стул Стандарт GR",
+    "article_number": "СтандартGR",
+    "full_describe": "Широкий ассортимент материалов обивки и цветовых решений позволяет выбрать идеальный вариант. Стул предназначен для использования в барах и кафе, учебных заведениях, а также в других помещениях для ожидания, работы и отдыха. Он оснащен широким сиденьем и удобной спинкой для максимального комфорта.",
+    "Link_arm": "https://utfc.ru/catalog/pos_chair/standart_gr/",
+    "Основание": "Металлические опоры стула Стандарт, защитно-декоративное порошковое покрытие серого цвета (GR)",
+    "Подлокотники": "Без подлокотников",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "finish_type": [
+        "Ткань С",
+        "Кожзаменитель Z",
+        "-"
+    ],
+    "color": [
+        "Кожзаменитель Z06 (синий)",
+        "Кожзаменитель Z10 (темно-коричневый)",
+        "Кожзаменитель Z11 (черный)",
+        "Кожзаменитель Z19 (темно-синий)",
+        "Кожзаменитель Z21 (бежевый)",
+        "Кожзаменитель Z29 (красный)",
+        "Кожзаменитель Z34 (светло-зеленый)",
+        "Кожзаменитель Z71 (серый)",
+        "Кожзаменитель Z01 (белый)",
+        "Ткань С02 (красный)",
+        "Ткань С06 (синий)",
+        "Ткань С08 (коричневый)",
+        "Ткань С11 (черный)",
+        "Ткань С13 (бордовый)",
+        "Ткань С15 (черно-синий)",
+        "Ткань С16 (черно-красный)",
+        "Ткань С24 (коричнево-бежевый)",
+        "Ткань С34 (зеленый)",
+        "Ткань С39 (бежевый)",
+        "Ткань С71 (меланж)",
+        "Ткань С72 (черно-стальной)",
+        "Ткань С73 (серый)"
+    ],
+    "variant_name": [
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z06 (синий))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z11 (черный))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z19 (темно-синий))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z21 (бежевый))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z29 (красный))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z71 (серый))",
+        "Стул Стандарт BL (Ткань С, Кожзаменитель Z01 (белый))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z06 (синий))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z11 (черный))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z19 (темно-синий))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z21 (бежевый))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z29 (красный))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z71 (серый))",
+        "Стул Стандарт BL (Кожзаменитель Z, Кожзаменитель Z01 (белый))",
+        "Стул Стандарт BL (-, Кожзаменитель Z06 (синий))",
+        "Стул Стандарт BL (-, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул Стандарт BL (-, Кожзаменитель Z11 (черный))",
+        "Стул Стандарт BL (-, Кожзаменитель Z19 (темно-синий))",
+        "Стул Стандарт BL (-, Кожзаменитель Z21 (бежевый))",
+        "Стул Стандарт BL (-, Кожзаменитель Z29 (красный))",
+        "Стул Стандарт BL (-, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул Стандарт BL (-, Кожзаменитель Z71 (серый))",
+        "Стул Стандарт BL (-, Кожзаменитель Z01 (белый))",
+        "Стул Стандарт BL (Ткань С, Ткань С02 (красный),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С06 (синий),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С08 (коричневый),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С11 (черный),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С13 (бордовый),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С15 (черно-синий),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С16 (черно-красный),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С24 (коричнево-бежевый),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С34 (зеленый),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С39 (бежевый),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С71 (меланж),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С72 (черно-стальной),, )",
+        "Стул Стандарт BL (Ткань С, Ткань С73 (серый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С02 (красный),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С06 (синий),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С08 (коричневый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С11 (черный),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С13 (бордовый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С15 (черно-синий),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С16 (черно-красный),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С24 (коричнево-бежевый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С34 (зеленый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С39 (бежевый),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С71 (меланж),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С72 (черно-стальной),, )",
+        "Стул Стандарт BL (Кожзаменитель Z, Ткань С73 (серый),, )",
+        "Стул Стандарт BL (-, Ткань С02 (красный),, )",
+        "Стул Стандарт BL (-, Ткань С06 (синий),, )",
+        "Стул Стандарт BL (-, Ткань С08 (коричневый),, )",
+        "Стул Стандарт BL (-, Ткань С11 (черный),, )",
+        "Стул Стандарт BL (-, Ткань С13 (бордовый),, )",
+        "Стул Стандарт BL (-, Ткань С15 (черно-синий),, )",
+        "Стул Стандарт BL (-, Ткань С16 (черно-красный),, )",
+        "Стул Стандарт BL (-, Ткань С24 (коричнево-бежевый),, )",
+        "Стул Стандарт BL (-, Ткань С34 (зеленый),, )",
+        "Стул Стандарт BL (-, Ткань С39 (бежевый),, )",
+        "Стул Стандарт BL (-, Ткань С71 (меланж),, )",
+        "Стул Стандарт BL (-, Ткань С72 (черно-стальной),, )",
+        "Стул Стандарт BL (-, Ткань С73 (серый),, )",
+        "Стул Стандарт GR (Ткань С, Ткань С39 (бежевый),, )",
+        "Стул Стандарт GR (-, Ткань С39 (бежевый),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "children": [
+        {
+            "IE_XML_ID": 50394,
+            "IE_NAME": "Стул Стандарт GR С39 (бежевый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/08b/zjabrawmexyw5vusy8k3lowi8j6utv5y.webp",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/79a/80fk8i216xlmny4vvn89o4cx41k3yd05.webp",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12493,
+            "IP_PROP34": "a_1109",
+            "IP_PROP35": "СтандартGR",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7c4/122c1jv0g1qj8zar5vuu8hqds2uaqx8b.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5e9/m2nszx5hcx8qi5nn4d8bso4vudve3o5r.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7e9/bcye8t8936ne2ixcnqmlbmjj7li70qyl.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/28b/tkxpdnzpsu41452lmffrzysee7qflm4w.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9eb/6fc2nbbeiidi728337p3y9z4831w3juy.webp"
+            ],
+            "IP_PROP37": "m_16",
+            "IP_PROP38": "c_39",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 1552,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 1599,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 1552,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ]
+}

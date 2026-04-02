@@ -1,367 +1,368 @@
 {
-  "namefile": [
-    "Epik р-521-sb"
-  ],
-  "name_all": [
-    "EPIK P-521"
-  ],
-  "name": [
-    "EPIK P-521"
-  ],
-  "unique_name": [
-    "EPIK P-521-SB"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Epik р-521-sb"
+    ],
+    "name_all": [
+        "EPIK P-521"
+    ],
+    "name": [
+        "EPIK P-521"
+    ],
+    "unique_name": [
+        "EPIK P-521-SB"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки подголовника, спинки и сиденья:\nсетка<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Подголовник</strong> пластиковый, регулируемый",
+                "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+                "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+                "<strong>Облицовка подголовника, спинки и сиденья</strong>: сетка",
+                "<strong>Подлокотники</strong> - пластиковые, регулируемые с мягкой накладкой. Материал накладки - ППУ высокой плотности",
+                "<strong>Механизм качания</strong> синхронный со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в нескольких положениях",
+                "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> металлическое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "730",
+                    "depth": "715",
+                    "height": "410"
+                },
+                "box_size": "730х715х410",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "26,20",
+            "netto": "22,40",
+            "volume": "0,21"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_epik/1080_epik_p_521_sb_m007_01.png",
+            "chair_view": "img/armchair_epik/1080_epik_p_521_sb_m007_02.png",
+            "dimensions": "img/armchair_epik/dimensions/1080_epik_p_521_sb_m007_01.png",
+            "box": "img/box_epik.png",
+            "additional": [
+                "https://utfc.ru/upload/resize_cache/iblock/9b2/140_140_0/tmijir3i2zlq4vkroxd115oldwktpxt4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/525/140_140_0/og0ukxv3kd0t9chp63lfuaznadbr84tb.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1ec/avopcms2xnuki2dkuszrqcanqd26g5t1.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b2/tmijir3i2zlq4vkroxd115oldwktpxt4.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f43/140_140_0/2in107zwwfss22bevi8nlvfa1gw6khwk.png",
+                "https://utfc.ru/upload/resize_cache/iblock/d92/140_140_0/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0c7/vsrsx1hrgw49spbuonztyffjadd30863.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
+                "https://utfc.ru/upload/resize_cache/iblock/fab/140_140_0/7snvp6nsg47kzvd0bk329fbn0c593d95.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fab/7snvp6nsg47kzvd0bk329fbn0c593d95.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9a9/c6iacbd5cezxtcdt9lwg2nvgw2g2ft3v.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f43/2in107zwwfss22bevi8nlvfa1gw6khwk.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d92/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/525/og0ukxv3kd0t9chp63lfuaznadbr84tb.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aef/qd0rrucmgp9ilk9liav52sh7cmu4r9bz.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bb6/vddq7sj3wp65scbxp4sfy7uc8y7ne9ib.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/35d/bmrxh6uzc1yvdi38du84gskmp9cn1zzu.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1140,00",
+                "max": "1220,00"
+            },
+            "headrest_height": {
+                "min": "190,00",
+                "max": "230,00"
+            },
+            "seat_to_floor_height": {
+                "min": "470,00",
+                "max": "550,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "150,00",
+                "max": "240,00"
+            },
+            "chair_depth": {
+                "min": "640,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "440,00",
+                "max": "490,00"
+            },
+            "backrest_height": {
+                "max": "490",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "480,00",
+                "max": "540,00"
+            },
+            "seat_width_with_armrests": {
+                "min": "700,00",
+                "max": null
+            },
+            "seat_width": {
+                "max": "500,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "700,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "490",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "700",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "470",
+                "max": "550"
+            },
+            "armrest_height_from_floor": {
+                "min": "270,00",
+                "max": "360,00"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {
+                "max": "540,00"
+            },
+            "backrest_height_external": {
+                "max": "540,00"
+            },
+            "backrest_width_narrow": {
+                "max": "400,00"
+            },
+            "backrest_width_wide": {
+                "max": "490,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "120",
+            "netto": "22,40",
+            "brutto": "26,20",
+            "package_width": "730,00",
+            "package_depth": "715,00",
+            "package_height": "410,00",
+            "volume": "0,21",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1085",
+        "IE_NAME": "EPIK Р-521-SB М007 (черный)",
+        "IE_PREVIEW_TEXT": "<p style=\"text-align: left;\">\n\t Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются&nbsp;вперед-назад.\n</p>\n<p style=\"text-align: left;\">\n</p>\n<p style=\"text-align: left;\">\n\t Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).\n</p>\n <b>Дополнительные функции и преимущества:</b><br>\n ✓ Слайдер для регулировки глубины сиденья.<br>",
+        "IE_DETAIL_TEXT": "<p>\n\t Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются&nbsp;вперед-назад.\n</p>\n<p>\n</p>\n<p>\n\t Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).\n</p>\n<p>\n\t Дополнительные функции и преимущества:<br>\n\t ✓ Слайдер для регулировки глубины сиденья.\n</p>",
+        "IP_PROP2": 700,
+        "IP_PROP3": "1140-1220",
+        "IP_PROP4": 640,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/iblock/35d/bmrxh6uzc1yvdi38du84gskmp9cn1zzu.png",
+        "IP_PROP31": "https://utfc.ru/upload/iblock/aef/qd0rrucmgp9ilk9liav52sh7cmu4r9bz.png",
+        "IP_PROP5": 730,
+        "IP_PROP26": 410,
+        "IP_PROP27": 715,
+        "IP_PROP28": "26,2",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,21",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "EPIK_P521SB_M007",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/iblock/d92/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_p521sb",
+        "IP_PROP42": "pl_p521sb",
+        "IP_PROP43": "gl_p521sb",
+        "IP_PROP44": "m_p521",
+        "IP_PROP45": "spec_p521",
+        "IP_PROP46": "r_50_o_pu",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "ЭПИК",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 29500,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 30385,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 29500,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "children": [
+        {
+            "IE_XML_ID": 50299,
+            "IE_NAME": "Кресло EPIK P-521-SB M007 (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12385,
+            "IP_PROP34": "a_1085",
+            "IP_PROP35": "КИЕ-00025",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_45",
+            "IP_PROP38": "p521_m007",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 99,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 29500,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 30385,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 29500,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Эргономичное офисное кресло EPIK Р-521-SB М007 (черный) производства компании UTFC",
+    "base_name": "Кресло EPIK Р-521-SB М007 (черный)",
+    "article_number": "КИЕ-00025",
+    "full_describe": "Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются вперед-назад.Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).Дополнительные функции и преимущества:✓ Слайдер для регулировки глубины сиденья.",
+    "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_p521sb_m007/",
+    "Основание": "Пятилучье металлическое черное Р-521-SB, покрытие матовое, диаметр 700мм",
+    "Подлокотники": "Подлокотники пластиковые регулируемые P-521-SB",
+    "Газлифт": "Высококачественный газ-лифт 3  класса, сертифицирован по стандарту SGS и BIFMA",
+    "Механизм": "Синхронный механизм, регулировка 3 в 1",
+    "Особенности": "Регулируемая поддержка спины и поясничного отдела позвоночника",
+    "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+    "finish_type": [
+        "Сетка высокопрочная Р-521",
+        "-"
+    ],
+    "color": [
+        "Сетка высокопрочная Р-521 (черный)"
+    ],
+    "variant_name": [
+        "Кресло EPIK Р-521-SB М007 (черный) (Сетка высокопрочная Р-521, Сетка высокопрочная Р-521 (черный))",
+        "Кресло EPIK Р-521-SB М007 (черный) (-, Сетка высокопрочная Р-521 (черный))",
+        "Кресло EPIK Р-521-SB М007 (черный) (Сетка высокопрочная Р-521, Сетка высокопрочная Р-521 (черный),, )",
+        "Кресло EPIK Р-521-SB М007 (черный) (-, Сетка высокопрочная Р-521 (черный),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки подголовника, спинки и сиденья:\nсетка<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Подголовник</strong> пластиковый, регулируемый",
-        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
-        "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
-        "<strong>Облицовка подголовника, спинки и сиденья</strong>: сетка",
-        "<strong>Подлокотники</strong> - пластиковые, регулируемые с мягкой накладкой. Материал накладки - ППУ высокой плотности",
-        "<strong>Механизм качания</strong> синхронный со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в нескольких положениях",
-        "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> металлическое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "730",
-          "depth": "715",
-          "height": "410"
-        },
-        "box_size": "730х715х410",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "26,2",
-      "netto": "22,4",
-      "volume": "0,21"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_epik/1080_epik_p_521_sb_m007_01.png",
-      "chair_view": "img/armchair_epik/1080_epik_p_521_sb_m007_02.png",
-      "dimensions": "img/armchair_epik/dimensions/1080_epik_p_521_sb_m007_01.png",
-      "box": "img/box_epik.png",
-      "additional": [
-        "https://utfc.ru/upload/resize_cache/iblock/9b2/140_140_0/tmijir3i2zlq4vkroxd115oldwktpxt4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/525/140_140_0/og0ukxv3kd0t9chp63lfuaznadbr84tb.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1ec/avopcms2xnuki2dkuszrqcanqd26g5t1.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b2/tmijir3i2zlq4vkroxd115oldwktpxt4.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f43/140_140_0/2in107zwwfss22bevi8nlvfa1gw6khwk.png",
-        "https://utfc.ru/upload/resize_cache/iblock/d92/140_140_0/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0c7/vsrsx1hrgw49spbuonztyffjadd30863.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
-        "https://utfc.ru/upload/resize_cache/iblock/fab/140_140_0/7snvp6nsg47kzvd0bk329fbn0c593d95.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fab/7snvp6nsg47kzvd0bk329fbn0c593d95.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9a9/c6iacbd5cezxtcdt9lwg2nvgw2g2ft3v.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f43/2in107zwwfss22bevi8nlvfa1gw6khwk.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d92/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/525/og0ukxv3kd0t9chp63lfuaznadbr84tb.webp",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aef/qd0rrucmgp9ilk9liav52sh7cmu4r9bz.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bb6/vddq7sj3wp65scbxp4sfy7uc8y7ne9ib.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/35d/bmrxh6uzc1yvdi38du84gskmp9cn1zzu.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1140",
-        "max": "1220"
-      },
-      "headrest_height": {
-        "min": "190",
-        "max": "230"
-      },
-      "seat_to_floor_height": {
-        "min": "470",
-        "max": "550"
-      },
-      "armrest_height_from_seat": {
-        "min": "150",
-        "max": "240"
-      },
-      "chair_depth": {
-        "min": "640",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "440",
-        "max": "490"
-      },
-      "backrest_height": {
-        "max": null,
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "480",
-        "max": "540"
-      },
-      "seat_width_with_armrests": {
-        "min": "700",
-        "max": null
-      },
-      "seat_width": {
-        "max": "500",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "700",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "470",
-        "max": "550"
-      },
-      "armrest_height_from_floor": {
-        "min": "270",
-        "max": "360"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "seat_depth_km": {
-        "max": "540"
-      },
-      "backrest_height_external": {
-        "max": "540"
-      },
-      "backrest_width_narrow": {
-        "max": "400"
-      },
-      "backrest_width_wide": {
-        "max": "490"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": {},
-      "netto": "22,4",
-      "brutto": "26,2",
-      "package_width": "730",
-      "package_depth": "715,0",
-      "package_height": "410,0",
-      "volume": "0,2139995",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1085",
-    "IE_NAME": "EPIK Р-521-SB М007 (черный)",
-    "IE_PREVIEW_TEXT": "<p style=\"text-align: left;\">\n\t Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются&nbsp;вперед-назад.\n</p>\n<p style=\"text-align: left;\">\n</p>\n<p style=\"text-align: left;\">\n\t Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).\n</p>\n <b>Дополнительные функции и преимущества:</b><br>\n ✓ Слайдер для регулировки глубины сиденья.<br>",
-    "IE_DETAIL_TEXT": "<p>\n\t Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются&nbsp;вперед-назад.\n</p>\n<p>\n</p>\n<p>\n\t Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).\n</p>\n<p>\n\t Дополнительные функции и преимущества:<br>\n\t ✓ Слайдер для регулировки глубины сиденья.\n</p>",
-    "IP_PROP2": 700,
-    "IP_PROP3": "1140-1220",
-    "IP_PROP4": 640,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/iblock/35d/bmrxh6uzc1yvdi38du84gskmp9cn1zzu.png",
-    "IP_PROP31": "https://utfc.ru/upload/iblock/aef/qd0rrucmgp9ilk9liav52sh7cmu4r9bz.png",
-    "IP_PROP5": 730,
-    "IP_PROP26": 410,
-    "IP_PROP27": 715,
-    "IP_PROP28": "26,2",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,21",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "EPIK_P521SB_M007",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/iblock/d92/qubxxmc0pjt8phf7gwkn0cmh1gck2t29.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_p521sb",
-    "IP_PROP42": "pl_p521sb",
-    "IP_PROP43": "gl_p521sb",
-    "IP_PROP44": "m_p521",
-    "IP_PROP45": "spec_p521",
-    "IP_PROP46": "r_50_o_pu",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "ЭПИК",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 29500,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 30385,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 29500,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50299,
-      "IE_NAME": "Кресло EPIK P-521-SB M007 (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12385,
-      "IP_PROP34": "a_1085",
-      "IP_PROP35": "КИЕ-00025",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_45",
-      "IP_PROP38": "p521_m007",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 99,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 29500,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 30385,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 29500,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Эргономичное офисное кресло EPIK Р-521-SB М007 (черный) производства компании UTFC",
-  "base_name": "Кресло EPIK Р-521-SB М007 (черный)",
-  "article_number": "КИЕ-00025",
-  "full_describe": "Стильный металлический каркас кресла изготовлен по оригинальному дизайну. Конструкция кресла предусматривает регулируемые по высоте подлокотники с мягкими полиуретановыми накладками, которые двигаются вперед-назад.Анатомическая поддержка обеспечивается регулируемым по высоте подголовником и адаптивной поясничной опорой (что снижает нагрузку при длительном использовании).Дополнительные функции и преимущества:✓ Слайдер для регулировки глубины сиденья.",
-  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_p521sb_m007/",
-  "Основание": "Пятилучье металлическое черное Р-521-SB, покрытие матовое, диаметр 700мм",
-  "Подлокотники": "Подлокотники пластиковые регулируемые P-521-SB",
-  "Газлифт": "Высококачественный газ-лифт 3  класса, сертифицирован по стандарту SGS и BIFMA",
-  "Механизм": "Синхронный механизм, регулировка 3 в 1",
-  "Особенности": "Регулируемая поддержка спины и поясничного отдела позвоночника",
-  "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-  "finish_type": [
-    "Сетка высокопрочная Р-521",
-    "-"
-  ],
-  "color": [
-    "Сетка высокопрочная Р-521 (черный)"
-  ],
-  "variant_name": [
-    "Кресло EPIK Р-521-SB М007 (черный) (Сетка высокопрочная Р-521, Сетка высокопрочная Р-521 (черный))",
-    "Кресло EPIK Р-521-SB М007 (черный) (-, Сетка высокопрочная Р-521 (черный))",
-    "Кресло EPIK Р-521-SB М007 (черный) (Сетка высокопрочная Р-521, Сетка высокопрочная Р-521 (черный),, )",
-    "Кресло EPIK Р-521-SB М007 (черный) (-, Сетка высокопрочная Р-521 (черный),, )"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ]
 }

@@ -180,7 +180,11 @@
             "volume": "0,169533",
             "box_on_pallet": {},
             "pallet_width": {},
-            "addition": {}
+            "addition": {},
+            "typeofproduct": {
+                "min": "",
+                "max": ""
+            }
         }
     ],
     "skeleton": "немонолитный",

@@ -1,363 +1,364 @@
 {
-  "namefile": [
-    "Кресло utfc санда м-207"
-  ],
-  "name": [
-    "Санда"
-  ],
-  "unique_name": [
-    "UTFC Санда М-207"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Кресло utfc санда м-207"
+    ],
+    "name": [
+        "Санда"
+    ],
+    "unique_name": [
+        "UTFC Санда М-207"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала и пластика - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка спинки: сетка Сиденье состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
+                "<strong>Подлокотники</strong> - пластиковые",
+                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> черный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "840",
+                    "depth": "270",
+                    "height": "650"
+                },
+                "box_size": "840х270х650",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "13,80",
+            "netto": "11,80",
+            "volume": "0,15"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/sanda_m_207_pl_grey_grey_01.png",
+            "chair_view": "img/armchair_comfort/sanda_m_207_pl_grey_grey_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/sanda_m_207_pl_grey_grey_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8af/8lt0jiny5mq851bkncokwwvginjt6s4u.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/fdd/140_140_0/ldpm75tu3o6w5dauhby8uvbpmkgnkbw3.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4d6/140_140_0/rjrdaopo37spuc9lv8r4cng58g7v5scv.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/327/140_140_0/6i2ta8t7v1hcvui4yuryqow1cg52shvu.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4b6/140_140_0/0neq9j3azevprqg167hb3skkwy7cf9ce.png",
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/48c/boczb9fhd30nm1o83zu2ww9p37g9g6e7.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/327/6i2ta8t7v1hcvui4yuryqow1cg52shvu.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/aeb/140_140_0/71f03y1x0uw5qm0rxxhzope3n6ufi4fk.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f6a/bi6nb3nffnrnmqsu7yb5cf2gp3of5kax.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/137/bwo38z32ey82p258xvuoiooti3jxjebh.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/0neq9j3azevprqg167hb3skkwy7cf9ce.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fdd/ldpm75tu3o6w5dauhby8uvbpmkgnkbw3.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d5/kygaw5y9jh8pfy3stk6m0982x2ic44pl.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4d6/rjrdaopo37spuc9lv8r4cng58g7v5scv.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a1a/9ho4rly0xc0g87tw6oz34jjfjn7bs7xj.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/705/lz60nqz136g8u0rllqz0y50hkedtvyum.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aeb/71f03y1x0uw5qm0rxxhzope3n6ufi4fk.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1055,00",
+                "max": "1155,00"
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "445,00",
+                "max": "545,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "195,00",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "570,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "435,00",
+                "max": ""
+            },
+            "backrest_height": {
+                "max": "630,00",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "500",
+                "max": "630"
+            },
+            "seat_width_with_armrests": {
+                "min": "660,00",
+                "max": ""
+            },
+            "seat_width": {
+                "max": "500,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "660,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "470",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "660",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "445",
+                "max": "545"
+            },
+            "armrest_height_from_floor": {
+                "min": "235,00"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {
+                "max": "500,00"
+            },
+            "backrest_height_external": {
+                "max": "710,00"
+            },
+            "backrest_width_narrow": {
+                "max": "390,00"
+            },
+            "backrest_width_wide": {
+                "max": "470,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "120",
+            "netto": "11,80",
+            "brutto": "13,80",
+            "package_width": "840,00",
+            "package_depth": "270,00",
+            "package_height": "650,00",
+            "volume": "0,15",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1023",
+        "IE_NAME": "UTFC Санда М-207 серый пластик",
+        "IE_PREVIEW_TEXT": "Кресло Санда объединяет в себе изящество и легкость линий. Эргономичный дизайн и прочная сетчатая спинка гарантируют комфортное положение. Оцените удовольствие от работы в офисе, сидя в современном и стильном кресле.",
+        "IE_DETAIL_TEXT": "",
+        "IP_PROP2": 660,
+        "IP_PROP3": "1055-1155",
+        "IP_PROP4": 570,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/iblock/705/lz60nqz136g8u0rllqz0y50hkedtvyum.png",
+        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d5/kygaw5y9jh8pfy3stk6m0982x2ic44pl.webp",
+        "IP_PROP5": 840,
+        "IP_PROP26": 650,
+        "IP_PROP27": 270,
+        "IP_PROP28": "13,8",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,16",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "M207_sanda_gr",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/0neq9j3azevprqg167hb3skkwy7cf9ce.webp",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_m207_pl_gray",
+        "IP_PROP42": "pl_sanda",
+        "IP_PROP43": "gl_m207_pl",
+        "IP_PROP44": "m_tg",
+        "IP_PROP45": "",
+        "IP_PROP46": "r_m207_sanda_bl",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 9204,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 9481,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 9204,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "children": [
+        {
+            "IE_XML_ID": 50107,
+            "IE_NAME": "Кресло UTFC Санда М-207 серый пластик (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12049,
+            "IP_PROP34": "a_1023",
+            "IP_PROP35": 80725177,
+            "IP_PROP36": "",
+            "IP_PROP37": "m_59",
+            "IP_PROP38": "m207_s_gr",
+            "IP_PROP39": "m_60",
+            "IP_PROP40": "m207_gr",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 50,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 9204,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 9481,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 9204,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Новинка: компьютерное кресло UTFC Санда М-207 серый пластик производства компании UTFC",
+    "base_name": "Кресло UTFC Санда М-207 серый пластик",
+    "article_number": "80725177",
+    "full_describe": "Кресло Санда объединяет в себе изящество и легкость линий. Эргономичный дизайн и прочная сетчатая спинка гарантируют комфортное положение. Оцените удовольствие от работы в офисе, сидя в современном и стильном кресле.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m207_sanda_gr/",
+    "Основание": "Пятилучье пластиковое М-207 PL, покрытие матовое, диаметр 660мм, (серый)",
+    "Подлокотники": "Подлокотники нерегулируемые пластиковые Санда М-207",
+    "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный",
+    "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "",
+    "Ролики": "Полиуретановые черные ролики 60 мм",
+    "finish_type": [
+        "Ткань-сетка М-207",
+        "-"
+    ],
+    "color": [
+        "Ткань-сетка М-207 (серый)"
+    ],
+    "variant_name": [
+        "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый))",
+        "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый))",
+        "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый), Ткань М-207, Ткань М-207 (серый))",
+        "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый), -, Ткань М-207 (серый))",
+        "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый), Ткань М-207, Ткань М-207 (серый))",
+        "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый), -, Ткань М-207 (серый))"
+    ],
+    "finish_type_seat": [
+        "Ткань М-207",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань М-207 (серый)"
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала и пластика - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка спинки: сетка Сиденье состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
-        "<strong>Подлокотники</strong> - пластиковые",
-        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> черный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "840",
-          "depth": "270",
-          "height": "650"
-        },
-        "box_size": "840х270х650",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "13,8",
-      "netto": "11,8",
-      "volume": "0,15"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/sanda_m_207_pl_grey_grey_01.png",
-      "chair_view": "img/armchair_comfort/sanda_m_207_pl_grey_grey_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/sanda_m_207_pl_grey_grey_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8af/8lt0jiny5mq851bkncokwwvginjt6s4u.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/fdd/140_140_0/ldpm75tu3o6w5dauhby8uvbpmkgnkbw3.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4d6/140_140_0/rjrdaopo37spuc9lv8r4cng58g7v5scv.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/327/140_140_0/6i2ta8t7v1hcvui4yuryqow1cg52shvu.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4b6/140_140_0/0neq9j3azevprqg167hb3skkwy7cf9ce.png",
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/48c/boczb9fhd30nm1o83zu2ww9p37g9g6e7.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/327/6i2ta8t7v1hcvui4yuryqow1cg52shvu.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/aeb/140_140_0/71f03y1x0uw5qm0rxxhzope3n6ufi4fk.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f6a/bi6nb3nffnrnmqsu7yb5cf2gp3of5kax.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/137/bwo38z32ey82p258xvuoiooti3jxjebh.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/0neq9j3azevprqg167hb3skkwy7cf9ce.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fdd/ldpm75tu3o6w5dauhby8uvbpmkgnkbw3.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d5/kygaw5y9jh8pfy3stk6m0982x2ic44pl.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4d6/rjrdaopo37spuc9lv8r4cng58g7v5scv.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a1a/9ho4rly0xc0g87tw6oz34jjfjn7bs7xj.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/705/lz60nqz136g8u0rllqz0y50hkedtvyum.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aeb/71f03y1x0uw5qm0rxxhzope3n6ufi4fk.webp"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1055",
-        "max": "1155"
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "445",
-        "max": "545"
-      },
-      "armrest_height_from_seat": {
-        "min": "195",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "570",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "435",
-        "max": ""
-      },
-      "backrest_height": {
-        "max": "630",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "660",
-        "max": ""
-      },
-      "seat_width": {
-        "max": "500",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "660",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "445",
-        "max": "545"
-      },
-      "armrest_height_from_floor": {
-        "min": "235"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "seat_depth_km": {
-        "max": "500"
-      },
-      "backrest_height_external": {
-        "max": "710"
-      },
-      "backrest_width_narrow": {
-        "max": "390"
-      },
-      "backrest_width_wide": {
-        "max": "470"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": {},
-      "netto": "11,8",
-      "brutto": "13,8",
-      "package_width": "840",
-      "package_depth": "270,0",
-      "package_height": "650,0",
-      "volume": "0,14742",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1023",
-    "IE_NAME": "UTFC Санда М-207 серый пластик",
-    "IE_PREVIEW_TEXT": "Кресло Санда объединяет в себе изящество и легкость линий. Эргономичный дизайн и прочная сетчатая спинка гарантируют комфортное положение. Оцените удовольствие от работы в офисе, сидя в современном и стильном кресле.",
-    "IE_DETAIL_TEXT": "",
-    "IP_PROP2": 660,
-    "IP_PROP3": "1055-1155",
-    "IP_PROP4": 570,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/iblock/705/lz60nqz136g8u0rllqz0y50hkedtvyum.png",
-    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d5/kygaw5y9jh8pfy3stk6m0982x2ic44pl.webp",
-    "IP_PROP5": 840,
-    "IP_PROP26": 650,
-    "IP_PROP27": 270,
-    "IP_PROP28": "13,8",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,16",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "M207_sanda_gr",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/0neq9j3azevprqg167hb3skkwy7cf9ce.webp",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_m207_pl_gray",
-    "IP_PROP42": "pl_sanda",
-    "IP_PROP43": "gl_m207_pl",
-    "IP_PROP44": "m_tg",
-    "IP_PROP45": "",
-    "IP_PROP46": "r_m207_sanda_bl",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 9204,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 9481,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 9204,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50107,
-      "IE_NAME": "Кресло UTFC Санда М-207 серый пластик (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12049,
-      "IP_PROP34": "a_1023",
-      "IP_PROP35": 80725177,
-      "IP_PROP36": "",
-      "IP_PROP37": "m_59",
-      "IP_PROP38": "m207_s_gr",
-      "IP_PROP39": "m_60",
-      "IP_PROP40": "m207_gr",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 50,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 9204,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 9481,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 9204,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Новинка: компьютерное кресло UTFC Санда М-207 серый пластик производства компании UTFC",
-  "base_name": "Кресло UTFC Санда М-207 серый пластик",
-  "article_number": "80725177",
-  "full_describe": "Кресло Санда объединяет в себе изящество и легкость линий. Эргономичный дизайн и прочная сетчатая спинка гарантируют комфортное положение. Оцените удовольствие от работы в офисе, сидя в современном и стильном кресле.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m207_sanda_gr/",
-  "Основание": "Пятилучье пластиковое М-207 PL, покрытие матовое, диаметр 660мм, (серый)",
-  "Подлокотники": "Подлокотники нерегулируемые пластиковые Санда М-207",
-  "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный",
-  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "",
-  "Ролики": "Полиуретановые черные ролики 60 мм",
-  "finish_type": [
-    "Ткань-сетка М-207",
-    "-"
-  ],
-  "color": [
-    "Ткань-сетка М-207 (серый)"
-  ],
-  "variant_name": [
-    "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый))",
-    "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый))",
-    "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый), Ткань М-207, Ткань М-207 (серый))",
-    "Кресло UTFC Санда М-207 серый пластик (Ткань-сетка М-207, Ткань-сетка М-207 (серый), -, Ткань М-207 (серый))",
-    "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый), Ткань М-207, Ткань М-207 (серый))",
-    "Кресло UTFC Санда М-207 серый пластик (-, Ткань-сетка М-207 (серый), -, Ткань М-207 (серый))"
-  ],
-  "finish_type_seat": [
-    "Ткань М-207",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань М-207 (серый)"
-  ]
 }

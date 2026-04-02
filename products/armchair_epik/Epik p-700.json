@@ -1,372 +1,373 @@
 {
-  "namefile": [
-    "Epik р-700"
-  ],
-  "name_all": [
-    "EPIK P-700"
-  ],
-  "name": [
-    "EPIK P-700"
-  ],
-  "unique_name": [
-    "EPIK P-700"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Epik р-700"
+    ],
+    "name_all": [
+        "EPIK P-700"
+    ],
+    "name": [
+        "EPIK P-700"
+    ],
+    "unique_name": [
+        "EPIK P-700"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки подголовника и спинки: сетка<br>\n- материал облицовки сиденья: ткань<br>\n- цвет материала и пластика - по каталогу"
+            ],
+            "components": [
+                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка подголовника и спинки: сетка",
+                "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
+                "<strong>Подлокотники</strong> - пластиковые",
+                "<strong>Механизм качания</strong> Топ-ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> пластиковое d=680 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> d=50 мм имеют открытый пластиковый чехол"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "700",
+                    "depth": "335",
+                    "height": "670"
+                },
+                "box_size": "700х335х670",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "15,30",
+            "netto": "12,60",
+            "volume": "0,16"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_01.png",
+            "chair_view": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_02.png",
+            "dimensions": "img/armchair_epik/dimensions/1080_epik_p_700_pl_tw68_115_01.png",
+            "box": "img/box_epik.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f39/d3u07e5xlsoaw9wt3fc3h16vro3c0u8d.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4bd/qxpz298zqc6bf9rf1x7o3uuzbdx4izms.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c48/wmjvpxn08hhxqyk46jdrfvzfz0gs29e9.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/65a/140_140_0/xwp5yrf3ehle2igakjvrf14yfspw8t5h.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/resize_cache/iblock/00a/140_140_0/a2ga1dpy9l839nfvwkt4tmkpk3w78jkl.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d5e/nbits0u9k40z6q0097xrl5yhmznp0xgc.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/411/1zxof8gurkvr13ae1phv85wccinzd70b.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/d5e/140_140_0/nbits0u9k40z6q0097xrl5yhmznp0xgc.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/00a/a2ga1dpy9l839nfvwkt4tmkpk3w78jkl.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/beb/wofvlyqiax9l4rtj4aoj9p2eapqs9dxw.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/c48/140_140_0/wmjvpxn08hhxqyk46jdrfvzfz0gs29e9.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/65a/xwp5yrf3ehle2igakjvrf14yfspw8t5h.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5e6/2mzdef8n3j0ojgml4n3j7vrq5ertjrtk.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d0/q34h2i2h9mj2qxhr5seinc85xlzh8fcx.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/602/i4x07n4htmbek8i5anmsxrd8w9fthiyi.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/602/140_140_0/i4x07n4htmbek8i5anmsxrd8w9fthiyi.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/402/140_140_0/bod6pkvxcc1kd54ezuemwm45yprry4jb.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/2f6/140_140_0/h4lj18pzzdm62c2iis4kwgxek75v8s26.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f6/h4lj18pzzdm62c2iis4kwgxek75v8s26.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c2a/7z8rbu6pc0i1h5utrbndxl3zpzx5guya.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/402/bod6pkvxcc1kd54ezuemwm45yprry4jb.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/8a8/140_140_0/o1i16tbsn6ljyw7jajxm173p9lzwl86j.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/e7a/140_140_0/v9lyi1xor12mq8r3x3k6ugh4oj739alp.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8a8/o1i16tbsn6ljyw7jajxm173p9lzwl86j.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/c2a/140_140_0/7z8rbu6pc0i1h5utrbndxl3zpzx5guya.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7a/v9lyi1xor12mq8r3x3k6ugh4oj739alp.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1200,00",
+                "max": "1300,00"
+            },
+            "headrest_height": {
+                "min": "140,00",
+                "max": "180,00"
+            },
+            "seat_to_floor_height": {
+                "min": "460,00",
+                "max": "560,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "200,00",
+                "max": null
+            },
+            "chair_depth": {
+                "min": "620,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "480,00",
+                "max": null
+            },
+            "backrest_height": {
+                "max": "",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "580,00",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "600,00",
+                "max": null
+            },
+            "seat_width": {
+                "max": "500,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "680,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "460",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "680",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "460",
+                "max": "560"
+            },
+            "armrest_height_from_floor": {
+                "min": "255,00"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {},
+            "backrest_height_external": {
+                "max": "560,00"
+            },
+            "backrest_width_narrow": {
+                "max": "450,00"
+            },
+            "backrest_width_wide": {
+                "max": "460,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "120",
+            "netto": "12,60",
+            "brutto": "15,30",
+            "package_width": "700,00",
+            "package_depth": "335,00",
+            "package_height": "670,00",
+            "volume": "0,16",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1089",
+        "IE_NAME": "EPIK Р-700 PL TW68-115 (черный)",
+        "IE_PREVIEW_TEXT": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
+        "IE_DETAIL_TEXT": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
+        "IP_PROP2": 600,
+        "IP_PROP3": "1200-1300",
+        "IP_PROP4": 620,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d0/q34h2i2h9mj2qxhr5seinc85xlzh8fcx.webp",
+        "IP_PROP31": "https://utfc.ru/upload/iblock/4bd/qxpz298zqc6bf9rf1x7o3uuzbdx4izms.png",
+        "IP_PROP5": 700,
+        "IP_PROP26": 670,
+        "IP_PROP27": 335,
+        "IP_PROP28": "15,3",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,16",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "EPIK_P700_PL_TW68_115",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/iblock/602/i4x07n4htmbek8i5anmsxrd8w9fthiyi.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_p700_pl",
+        "IP_PROP42": "pl_p700_pl",
+        "IP_PROP43": "gl_p700_pl",
+        "IP_PROP44": "m_p700",
+        "IP_PROP45": "spec_p700",
+        "IP_PROP46": "r_p700_pl",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "ЭПИК",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 9700,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 9991,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 9700,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "children": [
+        {
+            "IE_XML_ID": 50303,
+            "IE_NAME": "Кресло EPIK P-700 PL TW68-115 (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12389,
+            "IP_PROP34": "a_1089",
+            "IP_PROP35": "КИЕ-00027",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_44",
+            "IP_PROP38": "p700_tw68-115",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 58,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 9700,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 9991,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 9700,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Эргономичное офисное кресло EPIK Р-700 PL TW68-115 (черный) производства компании UTFC",
+    "base_name": "Кресло EPIK Р-700 PL TW68-115 (черный)",
+    "article_number": "КИЕ-00027",
+    "full_describe": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
+    "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_p700_pl_tw68_115/",
+    "Основание": "Пятилучье пластиковое Р-700 PL, покрытие черное матовое, диаметр 680мм",
+    "Подлокотники": "Подлокотники пластиковые нерегулируемые P-700 PL, черные",
+    "Газлифт": "Высококачественный газ-лифт 3  класса, сертифицирован по стандарту SGS и BIFMA",
+    "Механизм": "Механизм Топ-ган с функцией качания и фиксацией в рабочем положении",
+    "Особенности": "Легкая, надежная конструкция",
+    "Ролики": "Прочные пластиковые ролики с идеальной плавностью вращения",
+    "finish_type": [
+        "Ткань-сетка Р-700",
+        "-"
+    ],
+    "color": [
+        "Ткань-сетка Р-700 (черный)"
+    ],
+    "variant_name": [
+        "Кресло EPIK Р-700 PL TW68-115 (черный) (Ткань-сетка Р-700, Ткань-сетка Р-700 (черный))",
+        "Кресло EPIK Р-700 PL TW68-115 (черный) (-, Ткань-сетка Р-700 (черный))",
+        "Кресло EPIK Р-700 PL TW68-115 (черный) (Ткань-сетка Р-700, Ткань-сетка Р-700 (черный),, )",
+        "Кресло EPIK Р-700 PL TW68-115 (черный) (-, Ткань-сетка Р-700 (черный),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки подголовника и спинки: сетка<br>\n- материал облицовки сиденья: ткань<br>\n- цвет материала и пластика - по каталогу"
-      ],
-      "components": [
-        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка подголовника и спинки: сетка",
-        "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
-        "<strong>Подлокотники</strong> - пластиковые",
-        "<strong>Механизм качания</strong> Топ-ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> пластиковое d=680 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> d=50 мм имеют открытый пластиковый чехол"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "700",
-          "depth": "335",
-          "height": "670"
-        },
-        "box_size": "700х335х670",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "15,3",
-      "netto": "12,6",
-      "volume": "0,16"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_01.png",
-      "chair_view": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_02.png",
-      "dimensions": "img/armchair_epik/dimensions/1080_epik_p_700_pl_tw68_115_01.png",
-      "box": "img/box_epik.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f39/d3u07e5xlsoaw9wt3fc3h16vro3c0u8d.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4bd/qxpz298zqc6bf9rf1x7o3uuzbdx4izms.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c48/wmjvpxn08hhxqyk46jdrfvzfz0gs29e9.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/resize_cache/iblock/65a/140_140_0/xwp5yrf3ehle2igakjvrf14yfspw8t5h.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/resize_cache/iblock/00a/140_140_0/a2ga1dpy9l839nfvwkt4tmkpk3w78jkl.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d5e/nbits0u9k40z6q0097xrl5yhmznp0xgc.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/411/1zxof8gurkvr13ae1phv85wccinzd70b.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/d5e/140_140_0/nbits0u9k40z6q0097xrl5yhmznp0xgc.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/00a/a2ga1dpy9l839nfvwkt4tmkpk3w78jkl.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/beb/wofvlyqiax9l4rtj4aoj9p2eapqs9dxw.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/c48/140_140_0/wmjvpxn08hhxqyk46jdrfvzfz0gs29e9.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/65a/xwp5yrf3ehle2igakjvrf14yfspw8t5h.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5e6/2mzdef8n3j0ojgml4n3j7vrq5ertjrtk.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d0/q34h2i2h9mj2qxhr5seinc85xlzh8fcx.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/602/i4x07n4htmbek8i5anmsxrd8w9fthiyi.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/602/140_140_0/i4x07n4htmbek8i5anmsxrd8w9fthiyi.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/402/140_140_0/bod6pkvxcc1kd54ezuemwm45yprry4jb.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/2f6/140_140_0/h4lj18pzzdm62c2iis4kwgxek75v8s26.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f6/h4lj18pzzdm62c2iis4kwgxek75v8s26.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c2a/7z8rbu6pc0i1h5utrbndxl3zpzx5guya.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/402/bod6pkvxcc1kd54ezuemwm45yprry4jb.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/8a8/140_140_0/o1i16tbsn6ljyw7jajxm173p9lzwl86j.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/e7a/140_140_0/v9lyi1xor12mq8r3x3k6ugh4oj739alp.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8a8/o1i16tbsn6ljyw7jajxm173p9lzwl86j.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/c2a/140_140_0/7z8rbu6pc0i1h5utrbndxl3zpzx5guya.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7a/v9lyi1xor12mq8r3x3k6ugh4oj739alp.webp"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1200",
-        "max": "1300"
-      },
-      "headrest_height": {
-        "min": "140",
-        "max": "180"
-      },
-      "seat_to_floor_height": {
-        "min": "460",
-        "max": "560"
-      },
-      "armrest_height_from_seat": {
-        "min": "200",
-        "max": null
-      },
-      "chair_depth": {
-        "min": "620",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "480",
-        "max": null
-      },
-      "backrest_height": {
-        "max": "",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "580",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "600",
-        "max": null
-      },
-      "seat_width": {
-        "max": "500",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "680",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "460",
-        "max": "560"
-      },
-      "armrest_height_from_floor": {
-        "min": "255"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "seat_depth_km": {},
-      "backrest_height_external": {
-        "max": "560"
-      },
-      "backrest_width_narrow": {
-        "max": "450"
-      },
-      "backrest_width_wide": {
-        "max": "460"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": {},
-      "netto": "12,6",
-      "brutto": "15,3",
-      "package_width": "700",
-      "package_depth": "335,0",
-      "package_height": "670,0",
-      "volume": "0,157115",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1089",
-    "IE_NAME": "EPIK Р-700 PL TW68-115 (черный)",
-    "IE_PREVIEW_TEXT": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
-    "IE_DETAIL_TEXT": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
-    "IP_PROP2": 600,
-    "IP_PROP3": "1200-1300",
-    "IP_PROP4": 620,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d0/q34h2i2h9mj2qxhr5seinc85xlzh8fcx.webp",
-    "IP_PROP31": "https://utfc.ru/upload/iblock/4bd/qxpz298zqc6bf9rf1x7o3uuzbdx4izms.png",
-    "IP_PROP5": 700,
-    "IP_PROP26": 670,
-    "IP_PROP27": 335,
-    "IP_PROP28": "15,3",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,16",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "EPIK_P700_PL_TW68_115",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/iblock/602/i4x07n4htmbek8i5anmsxrd8w9fthiyi.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_p700_pl",
-    "IP_PROP42": "pl_p700_pl",
-    "IP_PROP43": "gl_p700_pl",
-    "IP_PROP44": "m_p700",
-    "IP_PROP45": "spec_p700",
-    "IP_PROP46": "r_p700_pl",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "ЭПИК",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 9700,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 9991,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 9700,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50303,
-      "IE_NAME": "Кресло EPIK P-700 PL TW68-115 (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12389,
-      "IP_PROP34": "a_1089",
-      "IP_PROP35": "КИЕ-00027",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_44",
-      "IP_PROP38": "p700_tw68-115",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 58,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 9700,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 9991,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 9700,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Эргономичное офисное кресло EPIK Р-700 PL TW68-115 (черный) производства компании UTFC",
-  "base_name": "Кресло EPIK Р-700 PL TW68-115 (черный)",
-  "article_number": "КИЕ-00027",
-  "full_describe": "Легкая, надежная конструкция. Модель кресла отлично подойдет для персонала, подголовник регулируется по высоте, что позволит эксплуатировать кресло людям с разными габаритами. Отклоняющаяся спинка кресла является ключевой особенностью данной модели.",
-  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_p700_pl_tw68_115/",
-  "Основание": "Пятилучье пластиковое Р-700 PL, покрытие черное матовое, диаметр 680мм",
-  "Подлокотники": "Подлокотники пластиковые нерегулируемые P-700 PL, черные",
-  "Газлифт": "Высококачественный газ-лифт 3  класса, сертифицирован по стандарту SGS и BIFMA",
-  "Механизм": "Механизм Топ-ган с функцией качания и фиксацией в рабочем положении",
-  "Особенности": "Легкая, надежная конструкция",
-  "Ролики": "Прочные пластиковые ролики с идеальной плавностью вращения",
-  "finish_type": [
-    "Ткань-сетка Р-700",
-    "-"
-  ],
-  "color": [
-    "Ткань-сетка Р-700 (черный)"
-  ],
-  "variant_name": [
-    "Кресло EPIK Р-700 PL TW68-115 (черный) (Ткань-сетка Р-700, Ткань-сетка Р-700 (черный))",
-    "Кресло EPIK Р-700 PL TW68-115 (черный) (-, Ткань-сетка Р-700 (черный))",
-    "Кресло EPIK Р-700 PL TW68-115 (черный) (Ткань-сетка Р-700, Ткань-сетка Р-700 (черный),, )",
-    "Кресло EPIK Р-700 PL TW68-115 (черный) (-, Ткань-сетка Р-700 (черный),, )"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ]
 }

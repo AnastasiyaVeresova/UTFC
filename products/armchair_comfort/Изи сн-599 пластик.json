@@ -1,504 +1,505 @@
 {
-  "namefile": [
-    "Изи сн-599 пластик"
-  ],
-  "name_all": [
-    "Изи"
-  ],
-  "name": [
-    "Изи"
-  ],
-  "unique_name": [
-    "Изи СН-599 пластик"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки кресла:<br>сетка (TW)<br>\n- материал облицовки сиденья кресла:<br>ткань-сетка (Е), экокожа (S,R)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, пиастры, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из металлического каркаса и облицовки",
-        "<strong>Каркас</strong> спинки сварной металлический с защитно-декоративным покрытием. Изготовлен из стальной трубы овального сечения 30х15х1,2 мм",
-        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска черного цвета",
-        "<strong>Материал</strong> облицовки спинки: сетка (TW)",
-        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки",
-        "<strong>Материал</strong> облицовки сиденья: ткань-сетка (Е), экокожа (S,R)",
-        "<strong>Подлокотники</strong> пластиковые «Рондо». Крепятся к основанию сиденья с помощью винтов",
-        "<strong>Пиастра</strong> крепится к основанию сиденья с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
-        "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-        "<strong>Пятилучье</strong> «Арктика» - пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют узкий шток"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": 760,
-          "depth": 440,
-          "height": 650
+    "namefile": [
+        "Изи сн-599 пластик"
+    ],
+    "name_all": [
+        "Изи"
+    ],
+    "name": [
+        "Изи"
+    ],
+    "unique_name": [
+        "Изи СН-599 пластик"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки кресла:<br>сетка (TW)<br>\n- материал облицовки сиденья кресла:<br>ткань-сетка (Е), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, пиастры, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из металлического каркаса и облицовки",
+                "<strong>Каркас</strong> спинки сварной металлический с защитно-декоративным покрытием. Изготовлен из стальной трубы овального сечения 30х15х1,2 мм",
+                "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска черного цвета",
+                "<strong>Материал</strong> облицовки спинки: сетка (TW)",
+                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки",
+                "<strong>Материал</strong> облицовки сиденья: ткань-сетка (Е), экокожа (S,R)",
+                "<strong>Подлокотники</strong> пластиковые «Рондо». Крепятся к основанию сиденья с помощью винтов",
+                "<strong>Пиастра</strong> крепится к основанию сиденья с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
+                "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+                "<strong>Пятилучье</strong> «Арктика» - пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют узкий шток"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 760,
+                    "depth": 440,
+                    "height": 650
+                },
+                "box_size": "760х440х650",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "8,55",
+            "volume": "0,22"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/ch_599_izi_rondo_e72_tw72_01.png",
+            "chair_view": "img/armchair_comfort/ch_599_izi_rondo_e72_tw72_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/ch_599_izi_rondo_e72_tw72_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/34d/34d08d97df57660eb8041142e65bc515.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/79f/79ff27e4bd67153ea262c73380c7a92f.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/855/140_140_0/zyu4txljnwj8xxhynewq96zgz726hoaz.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b6/ccuae5t7rfkzijeqdbu63hgad1jtpgx7.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/77c/b8pwz5dbm59uhe1n98sgpvcznrh66g7z.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/164/1642cc9560c18c50c8c334f8afa14f6b.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/825/8bw39wr8yq44gh591mi9t2lybulqi2sz.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/upload/resize_cache/iblock/6c6/140_140_0/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c6/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3e5/3e5bf4664d3032537b67a10c16a1ea40.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf7/53dajljsmxghg1flbbcuzzhvntuf143i.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/resize_cache/iblock/8b6/140_140_0/ccuae5t7rfkzijeqdbu63hgad1jtpgx7.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6bd/6bd89f946618761d63396def067f4b2a.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ea/r123gp67blinllh69u2e81qk1p1fe6pl.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/77c/140_140_0/b8pwz5dbm59uhe1n98sgpvcznrh66g7z.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/855/zyu4txljnwj8xxhynewq96zgz726hoaz.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/825/140_140_0/8bw39wr8yq44gh591mi9t2lybulqi2sz.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "980,00",
+                "max": "1120,00"
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "440,00",
+                "max": "580,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "210,00",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "590,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "470,00",
+                "max": ""
+            },
+            "backrest_height": {
+                "max": "550,00",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "470",
+                "max": "550"
+            },
+            "seat_width_with_armrests": {
+                "min": "575,00",
+                "max": null
+            },
+            "seat_width": {
+                "max": "490,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "660,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "465",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "660",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "440",
+                "max": "580"
+            },
+            "armrest_height_from_floor": {},
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {
+                "max": "470,00"
+            },
+            "backrest_height_external": {},
+            "backrest_width_narrow": {
+                "max": "465,00"
+            },
+            "backrest_width_wide": {
+                "max": "465,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "+",
+            "netto": "8,55",
+            "brutto": "8,55",
+            "package_width": "760,00",
+            "package_depth": "440,00",
+            "package_height": "650,00",
+            "volume": "0,22",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": 7786,
+        "IE_NAME": "СН-599 Изи",
+        "IE_PREVIEW_TEXT": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
+        "IE_DETAIL_TEXT": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
+        "IP_PROP2": 575,
+        "IP_PROP3": "980-1120",
+        "IP_PROP4": 590,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/iblock/2ea/r123gp67blinllh69u2e81qk1p1fe6pl.png",
+        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf7/53dajljsmxghg1flbbcuzzhvntuf143i.webp",
+        "IP_PROP5": 760,
+        "IP_PROP26": 650,
+        "IP_PROP27": 440,
+        "IP_PROP28": "10,68",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,22",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "izi_ch_599",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c6/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.webp",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_660_arkt_pl",
+        "IP_PROP42": "pl_rondo",
+        "IP_PROP43": "gl_290",
+        "IP_PROP44": "m_pi",
+        "IP_PROP45": "",
+        "IP_PROP46": "r_60_o_pu",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 4322,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 4452,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 4322,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "children": [
+        {
+            "IE_XML_ID": 17924,
+            "IE_NAME": "Кресло СН-599 Изи TW-01/Е11-к (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 7787,
+            "IP_PROP34": 7786,
+            "IP_PROP35": "СН599Изи01",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_09",
+            "IP_PROP38": "tw_01",
+            "IP_PROP39": "m_08",
+            "IP_PROP40": "e_11_k",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": 1,
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4322,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4452,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4322,
+            "CV_CURRENCY_3": "RUB"
         },
-        "box_size": "760х440х650",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "",
-      "netto": "8,55",
-      "volume": "0,0"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/ch_599_izi_rondo_e72_tw72_01.png",
-      "chair_view": "img/armchair_comfort/ch_599_izi_rondo_e72_tw72_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/ch_599_izi_rondo_e72_tw72_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/34d/34d08d97df57660eb8041142e65bc515.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/79f/79ff27e4bd67153ea262c73380c7a92f.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/855/140_140_0/zyu4txljnwj8xxhynewq96zgz726hoaz.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b6/ccuae5t7rfkzijeqdbu63hgad1jtpgx7.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/77c/b8pwz5dbm59uhe1n98sgpvcznrh66g7z.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/164/1642cc9560c18c50c8c334f8afa14f6b.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/825/8bw39wr8yq44gh591mi9t2lybulqi2sz.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/upload/resize_cache/iblock/6c6/140_140_0/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c6/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3e5/3e5bf4664d3032537b67a10c16a1ea40.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf7/53dajljsmxghg1flbbcuzzhvntuf143i.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/resize_cache/iblock/8b6/140_140_0/ccuae5t7rfkzijeqdbu63hgad1jtpgx7.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6bd/6bd89f946618761d63396def067f4b2a.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ea/r123gp67blinllh69u2e81qk1p1fe6pl.webp",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/77c/140_140_0/b8pwz5dbm59uhe1n98sgpvcznrh66g7z.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/855/zyu4txljnwj8xxhynewq96zgz726hoaz.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/825/140_140_0/8bw39wr8yq44gh591mi9t2lybulqi2sz.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "980",
-        "max": "1120"
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "440",
-        "max": "580"
-      },
-      "armrest_height_from_seat": {
-        "min": "210",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "590",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "470",
-        "max": ""
-      },
-      "backrest_height": {
-        "max": "550",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "575",
-        "max": null
-      },
-      "seat_width": {
-        "max": "490",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "660",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "440",
-        "max": "580"
-      },
-      "armrest_height_from_floor": {},
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "seat_depth_km": {
-        "max": "470"
-      },
-      "backrest_height_external": {},
-      "backrest_width_narrow": {
-        "max": "465"
-      },
-      "backrest_width_wide": {
-        "max": "465"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": "+",
-      "netto": "8,55",
-      "brutto": {},
-      "package_width": {},
-      "package_depth": {},
-      "package_height": {},
-      "volume": "0",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "+",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": 7786,
-    "IE_NAME": "СН-599 Изи",
-    "IE_PREVIEW_TEXT": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
-    "IE_DETAIL_TEXT": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
-    "IP_PROP2": 575,
-    "IP_PROP3": "980-1120",
-    "IP_PROP4": 590,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/iblock/2ea/r123gp67blinllh69u2e81qk1p1fe6pl.png",
-    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf7/53dajljsmxghg1flbbcuzzhvntuf143i.webp",
-    "IP_PROP5": 760,
-    "IP_PROP26": 650,
-    "IP_PROP27": 440,
-    "IP_PROP28": "10,68",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,22",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "izi_ch_599",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c6/f5yvbyg10sn1yuze1z60pi9tyd2wcdeo.webp",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_660_arkt_pl",
-    "IP_PROP42": "pl_rondo",
-    "IP_PROP43": "gl_290",
-    "IP_PROP44": "m_pi",
-    "IP_PROP45": "",
-    "IP_PROP46": "r_60_o_pu",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 4322,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 4452,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 4322,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 17924,
-      "IE_NAME": "Кресло СН-599 Изи TW-01/Е11-к (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 7787,
-      "IP_PROP34": 7786,
-      "IP_PROP35": "СН599Изи01",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_09",
-      "IP_PROP38": "tw_01",
-      "IP_PROP39": "m_08",
-      "IP_PROP40": "e_11_k",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": 1,
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4322,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4452,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4322,
-      "CV_CURRENCY_3": "RUB"
-    },
-    {
-      "IE_XML_ID": 17929,
-      "IE_NAME": "Кресло СН-599 Изи TW-72/Е72-к (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/295/bu68u2qdessbg53zje8eyt2080uqe8de.webp",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6a0/0ldz6k1zoztg5047c4z1citol105h36w.webp",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 7789,
-      "IP_PROP34": 7786,
-      "IP_PROP35": "СН599Изи03",
-      "IP_PROP36": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d8f/1w0o5hts1akdbaxu194ps0l4uymxo32v.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/646/129g9abevknj5oxw0z9ybf45imryi45v.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b7f/cbp6ak61lhgsi7o4tw4295gc733dx23a.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e22/tua9o6sd7mz0q73ljcbnzgywiwd86arm.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0bd/5dl1spil03p1rk86xxi8nynhd8tm0bvd.webp"
-      ],
-      "IP_PROP37": "m_09",
-      "IP_PROP38": "tw_72",
-      "IP_PROP39": "m_08",
-      "IP_PROP40": "e_72_k",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 1,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": 1,
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4322,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4452,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4322,
-      "CV_CURRENCY_3": "RUB"
-    },
-    {
-      "IE_XML_ID": 30236,
-      "IE_NAME": "Кресло СН-599 Изи TW-53/Е06-к (синий)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 10986,
-      "IP_PROP34": 7786,
-      "IP_PROP35": "СН599Изи40",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_09",
-      "IP_PROP38": "tw_53",
-      "IP_PROP39": "m_08",
-      "IP_PROP40": "e_06_k",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4322,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4452,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4322,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Компактное компьютерное кресло с широкой эргономичной спинкой СН-599 Изи производства компании UTFC",
-  "base_name": "Кресло СН-599 Изи",
-  "article_number": "СН599Изи01",
-  "full_describe": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/izi_ch_599/",
-  "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
-  "Подлокотники": "Подлокотник Рондо пластиковый",
-  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
-  "Механизм": "Пиастра — механизм регулировки высоты сиденья с помощью стальной ручки с пластиковой лопаткой",
-  "Особенности": "",
-  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-  "finish_type": [
-    "Сетка TW",
-    "-"
-  ],
-  "color": [
-    "Сетка TW-01 (черный)",
-    "Сетка TW-53 (синий)",
-    "Сетка TW-72 (серый)"
-  ],
-  "variant_name": [
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый))",
-    "Кресло СН-599 Изи (-, Сетка TW-01 (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-53 (синий))",
-    "Кресло СН-599 Изи (-, Сетка TW-72 (серый))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий), -, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-53 (синий), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-53 (синий), -, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло СН-599 Изи (-, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))"
-  ],
-  "finish_type_seat": [
-    "Ткань Сетка Е",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань Сетка Е11-к (черный)"
-  ]
+        {
+            "IE_XML_ID": 17929,
+            "IE_NAME": "Кресло СН-599 Изи TW-72/Е72-к (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/295/bu68u2qdessbg53zje8eyt2080uqe8de.webp",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6a0/0ldz6k1zoztg5047c4z1citol105h36w.webp",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 7789,
+            "IP_PROP34": 7786,
+            "IP_PROP35": "СН599Изи03",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d8f/1w0o5hts1akdbaxu194ps0l4uymxo32v.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/646/129g9abevknj5oxw0z9ybf45imryi45v.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b7f/cbp6ak61lhgsi7o4tw4295gc733dx23a.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e22/tua9o6sd7mz0q73ljcbnzgywiwd86arm.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0bd/5dl1spil03p1rk86xxi8nynhd8tm0bvd.webp"
+            ],
+            "IP_PROP37": "m_09",
+            "IP_PROP38": "tw_72",
+            "IP_PROP39": "m_08",
+            "IP_PROP40": "e_72_k",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 1,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": 1,
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4322,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4452,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4322,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 30236,
+            "IE_NAME": "Кресло СН-599 Изи TW-53/Е06-к (синий)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 10986,
+            "IP_PROP34": 7786,
+            "IP_PROP35": "СН599Изи40",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_09",
+            "IP_PROP38": "tw_53",
+            "IP_PROP39": "m_08",
+            "IP_PROP40": "e_06_k",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4322,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4452,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4322,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Компактное компьютерное кресло с широкой эргономичной спинкой СН-599 Изи производства компании UTFC",
+    "base_name": "Кресло СН-599 Изи",
+    "article_number": "СН599Изи01",
+    "full_describe": "Компактное кресло с широкой эргономичной спинкой, которая обтянута прочной сеткой, отлично впишется в открытый офис или коворкинг. Изящные подлокотники “Рондо” идеально дополняют тонкий каркас спинки.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/izi_ch_599/",
+    "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
+    "Подлокотники": "Подлокотник Рондо пластиковый",
+    "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+    "Механизм": "Пиастра — механизм регулировки высоты сиденья с помощью стальной ручки с пластиковой лопаткой",
+    "Особенности": "",
+    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+    "finish_type": [
+        "Сетка TW",
+        "-"
+    ],
+    "color": [
+        "Сетка TW-01 (черный)",
+        "Сетка TW-53 (синий)",
+        "Сетка TW-72 (серый)"
+    ],
+    "variant_name": [
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый))",
+        "Кресло СН-599 Изи (-, Сетка TW-01 (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-53 (синий))",
+        "Кресло СН-599 Изи (-, Сетка TW-72 (серый))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-53 (синий), -, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (Сетка TW, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-53 (синий), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-53 (синий), -, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло СН-599 Изи (-, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))"
+    ],
+    "finish_type_seat": [
+        "Ткань Сетка Е",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань Сетка Е11-к (черный)"
+    ]
 }

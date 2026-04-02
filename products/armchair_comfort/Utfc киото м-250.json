@@ -1,440 +1,441 @@
 {
-  "namefile": [
-    "Кресло utfc киото м-250"
-  ],
-  "name": [
-    "Киото"
-  ],
-  "unique_name": [
-    "UTFC Киото М-250"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки и подголовника:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала и пластика - по каталогу"
-      ],
-      "components": [
-        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента, регулируется по высоте и углу наклона. Облицовка подголовника: сетка",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка спинки: сетка",
-        "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
-        "<strong>Подлокотники</strong> пластиковые, регулируются по высоте. В черном каркасе накладки подлокотника регулируются вперед-назад",
-        "<strong>Механизм качания</strong> позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в трех положениях",
-        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> пластиковое d=680 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "745",
-          "depth": "380",
-          "height": "650"
-        },
-        "box_size": "745х380х650",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "19,15",
-      "netto": "16,7",
-      "volume": "0,18"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/kioto_m-250_pl_bl_black_01.png",
-      "chair_view": "img/armchair_comfort/kioto_m-250_pl_bl_black_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/kioto_m-250_pl_bl_black_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d80/3byk31w63p1rpmpytg52hpoew6wfpnmi.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/730/plmk2k37ktj96c0qvv84nq8h0qdajopx.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/resize_cache/iblock/e62/140_140_0/zotdn8xrqqd1d469doznecc8yhr108nr.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/218/aatvqh16k806hc8zfy9a2764k9ndh5kw.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b2b/pnnwpng6dgoieqf5g1imyl3gfyqxhj8u.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4c7/140_140_0/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3f0/d4y8uw2h7u1ouf4ysu321z6nm0o4o9gw.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/840/a82as8fx3fzjycs9lpfzvpdf5u4zn0pc.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5d2/140_140_0/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.png",
-        "https://utfc.ru/upload/resize_cache/iblock/218/140_140_0/aatvqh16k806hc8zfy9a2764k9ndh5kw.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6fa/5h0cjovy7y0iaoudee2ppf3laxavnwge.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d2/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1a2/pbanvdts0hqrupdoqpnmv561nt28j1ld.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/832/mw3ty4cax5ul3gmfynu7f2w8c1mqtvaj.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f0a/vxfpo6ddvcv4quoqyrxo0y8gltms7hx3.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c7/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9ab/9p4hhklxps9si33iv01c3cokwct2hx43.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e62/zotdn8xrqqd1d469doznecc8yhr108nr.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/1a2/140_140_0/pbanvdts0hqrupdoqpnmv561nt28j1ld.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1130",
-        "max": "1280"
-      },
-      "headrest_height": {
-        "min": "130",
-        "max": "180"
-      },
-      "seat_to_floor_height": {
-        "min": "450",
-        "max": "550"
-      },
-      "armrest_height_from_seat": {
-        "min": "150",
-        "max": "220"
-      },
-      "chair_depth": {
-        "min": "610",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "450",
-        "max": "500"
-      },
-      "backrest_height": {
-        "max": "",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "580",
-        "max": null
-      },
-      "seat_width_with_armrests": {
-        "min": "680",
-        "max": null
-      },
-      "seat_width": {
-        "max": "530",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "680",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "450",
-        "max": "550"
-      },
-      "armrest_height_from_floor": {
-        "min": "240",
-        "max": "310"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "seat_depth_km": {},
-      "backrest_height_external": {
-        "max": "590"
-      },
-      "backrest_width_narrow": {
-        "max": "290"
-      },
-      "backrest_width_wide": {
-        "max": "500"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": {},
-      "netto": "16,7",
-      "brutto": "19,15",
-      "package_width": "745",
-      "package_depth": "380,0",
-      "package_height": "650,0",
-      "volume": "0,184015",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1025",
-    "IE_NAME": "UTFC Киото М-250 черный пластик",
-    "IE_PREVIEW_TEXT": "Ультрасовременное кресло в стиле хай-тек с различными механизмами оптимальной настройки. Подголовник 3D, амортизируемый поясничный упор, подлокотники 2D, синхромеханизм 3:1 с фиксацией наклона, слайд-система - регулировка глубины сиденья на 5 см. Все это позволяет максимально настроить кресло под каждого пользователя. Благодаря необычному дизайнерскому исполнению, кресло подойдет под любой офисный или домашний интерьер. Кресло Киото можно сочетать с серией кресел Санда в одном интерьере.",
-    "IE_DETAIL_TEXT": "",
-    "IP_PROP2": 680,
-    "IP_PROP3": "1130-1280",
-    "IP_PROP4": 610,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/iblock/840/a82as8fx3fzjycs9lpfzvpdf5u4zn0pc.png",
-    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f0a/vxfpo6ddvcv4quoqyrxo0y8gltms7hx3.webp",
-    "IP_PROP5": 745,
-    "IP_PROP26": 650,
-    "IP_PROP27": 380,
-    "IP_PROP28": "19,15",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,19",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "M250_kioto_bl",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c1a/afeqddb5q16i1jkf67fa8u8ujr3xzpdo.webp",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_m250_pl_bl",
-    "IP_PROP42": "pl_kioto",
-    "IP_PROP43": "gl_m250_pl",
-    "IP_PROP44": "m_m250",
-    "IP_PROP45": "spec_kioto",
-    "IP_PROP46": "r_m250_kioto_bl",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 13018,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 13409,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 13018,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50109,
-      "IE_NAME": "Кресло UTFC Киото М-250 черный пластик (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8ab/001f09r8hjk2gfwiylxc55mgj4w6hg2f.webp",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/968/5o1r647mwhrcvr54cpae7ibt9gevp997.webp",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12066,
-      "IP_PROP34": "a_1025",
-      "IP_PROP35": "ТК-00021",
-      "IP_PROP36": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/218/aatvqh16k806hc8zfy9a2764k9ndh5kw.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1a2/pbanvdts0hqrupdoqpnmv561nt28j1ld.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c7/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d2/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e62/zotdn8xrqqd1d469doznecc8yhr108nr.webp"
-      ],
-      "IP_PROP37": "m_64",
-      "IP_PROP38": "m250_s_bl",
-      "IP_PROP39": "m_65",
-      "IP_PROP40": "m250_bl",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 199,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 13018,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 13409,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 13018,
-      "CV_CURRENCY_3": "RUB"
+    "namefile": [
+        "Кресло utfc киото м-250"
+    ],
+    "name": [
+        "Киото"
+    ],
+    "unique_name": [
+        "UTFC Киото М-250"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и подголовника:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала и пластика - по каталогу"
+            ],
+            "components": [
+                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента, регулируется по высоте и углу наклона. Облицовка подголовника: сетка",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка спинки: сетка",
+                "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
+                "<strong>Подлокотники</strong> пластиковые, регулируются по высоте. В черном каркасе накладки подлокотника регулируются вперед-назад",
+                "<strong>Механизм качания</strong> позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в трех положениях",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> пластиковое d=680 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "745",
+                    "depth": "380",
+                    "height": "650"
+                },
+                "box_size": "745х380х650",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "19,15",
+            "netto": "16,70",
+            "volume": "0,18"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/kioto_m-250_pl_bl_black_01.png",
+            "chair_view": "img/armchair_comfort/kioto_m-250_pl_bl_black_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/kioto_m-250_pl_bl_black_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d80/3byk31w63p1rpmpytg52hpoew6wfpnmi.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/730/plmk2k37ktj96c0qvv84nq8h0qdajopx.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/e62/140_140_0/zotdn8xrqqd1d469doznecc8yhr108nr.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/218/aatvqh16k806hc8zfy9a2764k9ndh5kw.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b2b/pnnwpng6dgoieqf5g1imyl3gfyqxhj8u.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4c7/140_140_0/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3f0/d4y8uw2h7u1ouf4ysu321z6nm0o4o9gw.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/840/a82as8fx3fzjycs9lpfzvpdf5u4zn0pc.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5d2/140_140_0/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.png",
+                "https://utfc.ru/upload/resize_cache/iblock/218/140_140_0/aatvqh16k806hc8zfy9a2764k9ndh5kw.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6fa/5h0cjovy7y0iaoudee2ppf3laxavnwge.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d2/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1a2/pbanvdts0hqrupdoqpnmv561nt28j1ld.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/832/mw3ty4cax5ul3gmfynu7f2w8c1mqtvaj.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f0a/vxfpo6ddvcv4quoqyrxo0y8gltms7hx3.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c7/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9ab/9p4hhklxps9si33iv01c3cokwct2hx43.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e62/zotdn8xrqqd1d469doznecc8yhr108nr.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/1a2/140_140_0/pbanvdts0hqrupdoqpnmv561nt28j1ld.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1130,00",
+                "max": "1280,00"
+            },
+            "headrest_height": {
+                "min": "130,00",
+                "max": "180,00"
+            },
+            "seat_to_floor_height": {
+                "min": "450,00",
+                "max": "550,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "150,00",
+                "max": "220,00"
+            },
+            "chair_depth": {
+                "min": "610,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "450,00",
+                "max": "500,00"
+            },
+            "backrest_height": {
+                "max": "500",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "580,00",
+                "max": null
+            },
+            "seat_width_with_armrests": {
+                "min": "680,00",
+                "max": null
+            },
+            "seat_width": {
+                "max": "530,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "680,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "500",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "680",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "450",
+                "max": "550"
+            },
+            "armrest_height_from_floor": {
+                "min": "240,00",
+                "max": "310,00"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {},
+            "backrest_height_external": {
+                "max": "590,00"
+            },
+            "backrest_width_narrow": {
+                "max": "290,00"
+            },
+            "backrest_width_wide": {
+                "max": "500,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "120",
+            "netto": "16,70",
+            "brutto": "19,15",
+            "package_width": "745,00",
+            "package_depth": "380,00",
+            "package_height": "650,00",
+            "volume": "0,18",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1025",
+        "IE_NAME": "UTFC Киото М-250 черный пластик",
+        "IE_PREVIEW_TEXT": "Ультрасовременное кресло в стиле хай-тек с различными механизмами оптимальной настройки. Подголовник 3D, амортизируемый поясничный упор, подлокотники 2D, синхромеханизм 3:1 с фиксацией наклона, слайд-система - регулировка глубины сиденья на 5 см. Все это позволяет максимально настроить кресло под каждого пользователя. Благодаря необычному дизайнерскому исполнению, кресло подойдет под любой офисный или домашний интерьер. Кресло Киото можно сочетать с серией кресел Санда в одном интерьере.",
+        "IE_DETAIL_TEXT": "",
+        "IP_PROP2": 680,
+        "IP_PROP3": "1130-1280",
+        "IP_PROP4": 610,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/iblock/840/a82as8fx3fzjycs9lpfzvpdf5u4zn0pc.png",
+        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f0a/vxfpo6ddvcv4quoqyrxo0y8gltms7hx3.webp",
+        "IP_PROP5": 745,
+        "IP_PROP26": 650,
+        "IP_PROP27": 380,
+        "IP_PROP28": "19,15",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,19",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "M250_kioto_bl",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c1a/afeqddb5q16i1jkf67fa8u8ujr3xzpdo.webp",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_m250_pl_bl",
+        "IP_PROP42": "pl_kioto",
+        "IP_PROP43": "gl_m250_pl",
+        "IP_PROP44": "m_m250",
+        "IP_PROP45": "spec_kioto",
+        "IP_PROP46": "r_m250_kioto_bl",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 13018,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 13409,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 13018,
+        "CV_CURRENCY_3": "RUB"
     },
-    {
-      "IE_XML_ID": 50110,
-      "IE_NAME": "Кресло UTFC Киото М-250 черный пластик (серый/черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4cf/h6ozrkq2ry0v75lxcwq4w9mv6osh7m2x.webp",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4ba/cga5prjbixl4m7orxq3gs73xpywirwzg.webp",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12067,
-      "IP_PROP34": "a_1025",
-      "IP_PROP35": 80725192,
-      "IP_PROP36": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/708/o47uy9d2nk0uodngm9uhf6yr15fi29bf.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b46/1e3by0bhthfz0aoxmdp8c9e7ezodz4np.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/741/a4at98k1166kne3j5r3xbrvbsg478rb5.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/47d/pu232gp2dx5imweot3g35yvgb2vpjv8r.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0fc/skcp0rl1eeuxzimu61npwq93hoxgusfo.webp"
-      ],
-      "IP_PROP37": "m_64",
-      "IP_PROP38": "m250_s_gr",
-      "IP_PROP39": "m_65",
-      "IP_PROP40": "m250_bl",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 238,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 13018,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 13409,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 13018,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Новинка: компьютерное кресло UTFC Киото М-250 черный пластик производства компании UTFC",
-  "base_name": "Кресло UTFC Киото М-250 черный пластик",
-  "article_number": "ТК-00021",
-  "full_describe": "Ультрасовременное кресло в стиле хай-тек с различными механизмами оптимальной настройки. Подголовник 3D, амортизируемый поясничный упор, подлокотники 2D, синхромеханизм 3:1 с фиксацией наклона, слайд-система - регулировка глубины сиденья на 5 см. Все это позволяет максимально настроить кресло под каждого пользователя. Благодаря необычному дизайнерскому исполнению, кресло подойдет под любой офисный или домашний интерьер. Кресло Киото можно сочетать с серией кресел Санда в одном интерьере.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m250_kioto_bl/",
-  "Основание": "Пятилучье пластиковое М-250 PL, покрытие матовое, диаметр 680мм, (черный)",
-  "Подлокотники": "Подлокотники 2D регулируемые пластиковые Киото М-250",
-  "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный",
-  "Механизм": "Синхронный механизм с фиксацией в 3-х положениях, слайд система - регулировка глубины сиденья до 5 см.",
-  "Особенности": "Независимая зона поясничной поддержки, регулировка сиденья по глубине на 5 см",
-  "Ролики": "Полиуретановые черные ролики 60 мм",
-  "finish_type": [
-    "Ткань-сетка М-250",
-    "-"
-  ],
-  "color": [
-    "Ткань-сетка М-250S (серый)",
-    "Ткань-сетка М-250S (черный)"
-  ],
-  "variant_name": [
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый))",
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый), Ткань М-250, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый), -, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный), Ткань М-250, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный), -, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый), Ткань М-250, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый), -, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный), Ткань М-250, Ткань М-250 (черный))",
-    "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный), -, Ткань М-250 (черный))"
-  ],
-  "finish_type_seat": [
-    "Ткань М-250",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань М-250 (черный)"
-  ]
+    "children": [
+        {
+            "IE_XML_ID": 50109,
+            "IE_NAME": "Кресло UTFC Киото М-250 черный пластик (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8ab/001f09r8hjk2gfwiylxc55mgj4w6hg2f.webp",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/968/5o1r647mwhrcvr54cpae7ibt9gevp997.webp",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12066,
+            "IP_PROP34": "a_1025",
+            "IP_PROP35": "ТК-00021",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/218/aatvqh16k806hc8zfy9a2764k9ndh5kw.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1a2/pbanvdts0hqrupdoqpnmv561nt28j1ld.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c7/xrlr7or8vp7cx06v3xbv5w09zeo6h6hh.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d2/59ivi06b2qo6ju1lj8cyyfbf1dyzknok.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e62/zotdn8xrqqd1d469doznecc8yhr108nr.webp"
+            ],
+            "IP_PROP37": "m_64",
+            "IP_PROP38": "m250_s_bl",
+            "IP_PROP39": "m_65",
+            "IP_PROP40": "m250_bl",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 199,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 13018,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 13409,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 13018,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 50110,
+            "IE_NAME": "Кресло UTFC Киото М-250 черный пластик (серый/черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4cf/h6ozrkq2ry0v75lxcwq4w9mv6osh7m2x.webp",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4ba/cga5prjbixl4m7orxq3gs73xpywirwzg.webp",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12067,
+            "IP_PROP34": "a_1025",
+            "IP_PROP35": 80725192,
+            "IP_PROP36": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/708/o47uy9d2nk0uodngm9uhf6yr15fi29bf.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b46/1e3by0bhthfz0aoxmdp8c9e7ezodz4np.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/741/a4at98k1166kne3j5r3xbrvbsg478rb5.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/47d/pu232gp2dx5imweot3g35yvgb2vpjv8r.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0fc/skcp0rl1eeuxzimu61npwq93hoxgusfo.webp"
+            ],
+            "IP_PROP37": "m_64",
+            "IP_PROP38": "m250_s_gr",
+            "IP_PROP39": "m_65",
+            "IP_PROP40": "m250_bl",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 238,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 13018,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 13409,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 13018,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Новинка: компьютерное кресло UTFC Киото М-250 черный пластик производства компании UTFC",
+    "base_name": "Кресло UTFC Киото М-250 черный пластик",
+    "article_number": "ТК-00021",
+    "full_describe": "Ультрасовременное кресло в стиле хай-тек с различными механизмами оптимальной настройки. Подголовник 3D, амортизируемый поясничный упор, подлокотники 2D, синхромеханизм 3:1 с фиксацией наклона, слайд-система - регулировка глубины сиденья на 5 см. Все это позволяет максимально настроить кресло под каждого пользователя. Благодаря необычному дизайнерскому исполнению, кресло подойдет под любой офисный или домашний интерьер. Кресло Киото можно сочетать с серией кресел Санда в одном интерьере.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m250_kioto_bl/",
+    "Основание": "Пятилучье пластиковое М-250 PL, покрытие матовое, диаметр 680мм, (черный)",
+    "Подлокотники": "Подлокотники 2D регулируемые пластиковые Киото М-250",
+    "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный",
+    "Механизм": "Синхронный механизм с фиксацией в 3-х положениях, слайд система - регулировка глубины сиденья до 5 см.",
+    "Особенности": "Независимая зона поясничной поддержки, регулировка сиденья по глубине на 5 см",
+    "Ролики": "Полиуретановые черные ролики 60 мм",
+    "finish_type": [
+        "Ткань-сетка М-250",
+        "-"
+    ],
+    "color": [
+        "Ткань-сетка М-250S (серый)",
+        "Ткань-сетка М-250S (черный)"
+    ],
+    "variant_name": [
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый))",
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый), Ткань М-250, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (серый), -, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный), Ткань М-250, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (Ткань-сетка М-250, Ткань-сетка М-250S (черный), -, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый), Ткань М-250, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (серый), -, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный), Ткань М-250, Ткань М-250 (черный))",
+        "Кресло UTFC Киото М-250 черный пластик (-, Ткань-сетка М-250S (черный), -, Ткань М-250 (черный))"
+    ],
+    "finish_type_seat": [
+        "Ткань М-250",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань М-250 (черный)"
+    ]
 }

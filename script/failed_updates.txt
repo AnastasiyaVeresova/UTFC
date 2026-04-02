@@ -1,57 +1,6 @@
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\chair_cafe_and_bar.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors.json: 'list' object has no attribute 'get'
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\Дэли ch-503 white ch.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_comfort\escape\Тоник.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_epik\exp\Epik е-277.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\Астек пвм б_п.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Комфорт б_п пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Логика tg пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Престиж cpt.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Престиж люкс.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Престиж пвм.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 нептун хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 рондо пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Сириус с-102 самба пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Фигаро gts к13 tg хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_personal\escape\Фигаро gts к13 пиастра хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 в bl.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 н bl.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман ch-300 н_п bl.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман в топ-ган lux.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Кайман комфорт ch-301 в bl.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Ройс м-704.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Сн-710 айкью н пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Сн-710 айкью н_п bl.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\Сн-710 айкью н_п.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аляска ch-153 в хром хдп мб.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аризона ch-400 в хром хдп.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Аризона сн-400 бюджет в пластик-люкс 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Гелакси к-49 в хром мб.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Гелакси к-49 в хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Гермес в пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Гермес в хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Дакота ch-251 в пластик 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Дакота ch-251 в пластик-люкс 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Калифорния ch-438 в бюджет пластик-люкс 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Калифорния в cн-438 хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Кендо k-41 в дерево.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Кендо к-41 в пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Кендо к-41 в хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Надир в дерево.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Надир в пластик-люкс 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Надир в пластик.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Надир в хром.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Палермо м-702.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\armchair_rukovoditel\escape\Эфир с-30 в пластик 727.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Изо-2.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Изо-3.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\Шелл софт.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб 4l.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб 4к.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб gts.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Клуб.json: Модель не найдена в Excel
-C:\Users\UTFC\Documents\Downloads\to\products\chair_visitors\escape\Фигаро к13 н_п хром.json: Модель не найдена в Excel
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors.json: 'list' object has no attribute 'get'

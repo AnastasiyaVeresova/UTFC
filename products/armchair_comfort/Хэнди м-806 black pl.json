@@ -1,518 +1,519 @@
 {
-  "namefile": [
-    "Хэнди м-806 black pl"
-  ],
-  "name_all": [
-    "Хэнди gray ch",
-    "Хэнди black pl"
-  ],
-  "name": [
-    "Хэнди black pl"
-  ],
-  "unique_name": [
-    "Хэнди М-806 black pl"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки кресла: сетка (JD)<br>\n- материал облицовки сиденья кресла: ткань (D)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и облицовки. Крепится к основанию сиденья 4-мя винтами. Материал облицовки спинки: сетка (JD)",
-        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Материал облицовки сиденья: ткань (D)",
-        "<strong>Подлокотники</strong> пластиковые. Крепятся к каркасу спинки и основанию сиденья с помощью винтов",
-        "<strong>Механизм качания</strong> Топ-Ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-        "<strong>Пятилучье</strong> «Арктика» - пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> черные d=60 мм с серым полиуретановым покрытием имеют узкий шток"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": 630,
-          "depth": 290,
-          "height": 600
+    "namefile": [
+        "Хэнди м-806 black pl"
+    ],
+    "name_all": [
+        "Хэнди gray ch",
+        "Хэнди black pl"
+    ],
+    "name": [
+        "Хэнди black pl"
+    ],
+    "unique_name": [
+        "Хэнди М-806 black pl"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки кресла: сетка (JD)<br>\n- материал облицовки сиденья кресла: ткань (D)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и облицовки. Крепится к основанию сиденья 4-мя винтами. Материал облицовки спинки: сетка (JD)",
+                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Материал облицовки сиденья: ткань (D)",
+                "<strong>Подлокотники</strong> пластиковые. Крепятся к каркасу спинки и основанию сиденья с помощью винтов",
+                "<strong>Механизм качания</strong> Топ-Ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+                "<strong>Пятилучье</strong> «Арктика» - пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> черные d=60 мм с серым полиуретановым покрытием имеют узкий шток"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 630,
+                    "depth": 290,
+                    "height": 600
+                },
+                "box_size": "630х290х600",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "",
+            "volume": "0,11"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120,00",
+            "recommended_load": "90,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/handy_pl_black_blue_01.png",
+            "chair_view": "img/armchair_comfort/handy_pl_black_blue_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/handy_pl_black_blue_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/f05/140_140_0/y0qwxqqkkgjjec74824lz7qqvw6rftgs.png",
+                "https://utfc.ru/upload/resize_cache/iblock/88c/140_140_0/dynbrdmm8oadhd48egt3j65vfkayzghp.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/493/140_140_0/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c89/c89fe75e794316696f9a420edadffd4f.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e32/e320b673c5c798b20bfbbb6865e544ed.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/295/295ee7a5a50135dadcbe0d4ff858f9c4.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://utfc.ru/upload/resize_cache/iblock/ac8/140_140_0/vxsbgqj8vcxrol069io8n8lk082nkggg.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f05/y0qwxqqkkgjjec74824lz7qqvw6rftgs.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/88c/dynbrdmm8oadhd48egt3j65vfkayzghp.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8e3/8e3193a0be7990a59bc9b69f224bd48f.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/07f/140_140_0/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/610/zl632xjuf4dzr786d23jcjnbgg0a5w15.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d18/l887nvbfl9o3xm4czq33khfs0jidbnas.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac8/vxsbgqj8vcxrol069io8n8lk082nkggg.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/493/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b5e/nmccvdr2t3eh27sfzcaag44l29z6cs3y.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/07f/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "925,00",
+                "max": "1025,00"
+            },
+            "headrest_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_to_floor_height": {
+                "min": "420,00",
+                "max": "520,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "240,00",
+                "max": null
+            },
+            "chair_depth": {
+                "min": "550,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "400,00",
+                "max": null
+            },
+            "backrest_height": {
+                "max": "510,00",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "480",
+                "max": "510"
+            },
+            "seat_width_with_armrests": {
+                "min": "535,00",
+                "max": null
+            },
+            "seat_width": {
+                "max": "500,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "660,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "480",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "660",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "390,00",
+                "max": "490,00"
+            },
+            "armrest_height_from_floor": {
+                "min": "260,00"
+            },
+            "armrest_width_support": {
+                "max": "45,00"
+            },
+            "armrest_length_support": {
+                "max": "320,00"
+            },
+            "seat_depth_km": {
+                "max": "480,00"
+            },
+            "backrest_height_external": {
+                "max": "580,00"
+            },
+            "backrest_width_narrow": {
+                "max": "390,00"
+            },
+            "backrest_width_wide": {
+                "max": "480,00"
+            },
+            "recommended_load": "90,00",
+            "max_load": "120,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "+",
+            "netto": "+",
+            "brutto": {},
+            "package_width": "630,00",
+            "package_depth": "290,00",
+            "package_height": "600,00",
+            "volume": "0,11",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "lost": [
+        {
+            "clean": true,
+            "limit": false
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": 7613,
+        "IE_NAME": "М-806 Хэнди/Handy blackPL Ср",
+        "IE_PREVIEW_TEXT": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет сетчатую спинку и мягкое сиденье. Габариты сиденья и спинки подходят для людей любого роста.",
+        "IE_DETAIL_TEXT": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет выбор различных цветов сетки на спинке и обивочного материала сидения. Габариты сидения и спинки подходят для людей, с любой массой тела.",
+        "IP_PROP2": 535,
+        "IP_PROP3": "925-1025",
+        "IP_PROP4": 550,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/610/zl632xjuf4dzr786d23jcjnbgg0a5w15.webp",
+        "IP_PROP31": "https://utfc.ru/upload/iblock/b5e/nmccvdr2t3eh27sfzcaag44l29z6cs3y.png",
+        "IP_PROP5": 620,
+        "IP_PROP26": 590,
+        "IP_PROP27": 280,
+        "IP_PROP28": "",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,11",
+        "IP_PROP7": "",
+        "IP_PROP8": "да",
+        "IP_PROP9": "handy_pl_black",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/iblock/07e/ziwg8qiaxh83fn22vz7k2b5dx3abo46f.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pl_660_bl",
+        "IP_PROP42": "pl_handi_bl",
+        "IP_PROP43": "gl_230",
+        "IP_PROP44": "m_tg",
+        "IP_PROP45": "",
+        "IP_PROP46": "r_60_o_pu",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 4156,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 4281,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 4156,
+        "CV_CURRENCY_3": "RUB"
+    },
+    "children": [
+        {
+            "IE_XML_ID": 26125,
+            "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-10/D26-28 (голубой/черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fcc/lyfm2ugg6f0s8eqz2gpm0c1tepuwpcil.webp",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c7/017hawzqdu4vs880lawhw9zedyttt635.webp",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 7614,
+            "IP_PROP34": 7613,
+            "IP_PROP35": "ИКХэнди3",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac8/vxsbgqj8vcxrol069io8n8lk082nkggg.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f05/y0qwxqqkkgjjec74824lz7qqvw6rftgs.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/88c/dynbrdmm8oadhd48egt3j65vfkayzghp.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/493/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/07f/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.webp"
+            ],
+            "IP_PROP37": "m_27",
+            "IP_PROP38": "setka_jd_10",
+            "IP_PROP39": "m_13",
+            "IP_PROP40": "d_26_28",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 10,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": 1,
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4156,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4281,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4156,
+            "CV_CURRENCY_3": "RUB"
         },
-        "box_size": "630х290х600",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "",
-      "netto": "",
-      "volume": "0,0"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/handy_pl_black_blue_01.png",
-      "chair_view": "img/armchair_comfort/handy_pl_black_blue_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/handy_pl_black_blue_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/f05/140_140_0/y0qwxqqkkgjjec74824lz7qqvw6rftgs.png",
-        "https://utfc.ru/upload/resize_cache/iblock/88c/140_140_0/dynbrdmm8oadhd48egt3j65vfkayzghp.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/493/140_140_0/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c89/c89fe75e794316696f9a420edadffd4f.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e32/e320b673c5c798b20bfbbb6865e544ed.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/295/295ee7a5a50135dadcbe0d4ff858f9c4.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://utfc.ru/upload/resize_cache/iblock/ac8/140_140_0/vxsbgqj8vcxrol069io8n8lk082nkggg.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f05/y0qwxqqkkgjjec74824lz7qqvw6rftgs.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/88c/dynbrdmm8oadhd48egt3j65vfkayzghp.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8e3/8e3193a0be7990a59bc9b69f224bd48f.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/07f/140_140_0/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/610/zl632xjuf4dzr786d23jcjnbgg0a5w15.webp",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d18/l887nvbfl9o3xm4czq33khfs0jidbnas.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac8/vxsbgqj8vcxrol069io8n8lk082nkggg.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/493/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b5e/nmccvdr2t3eh27sfzcaag44l29z6cs3y.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/07f/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "925",
-        "max": "1025"
-      },
-      "headrest_height": {
-        "min": null,
-        "max": null
-      },
-      "seat_to_floor_height": {
-        "min": "420",
-        "max": "520"
-      },
-      "armrest_height_from_seat": {
-        "min": "240",
-        "max": null
-      },
-      "chair_depth": {
-        "min": "550",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "400",
-        "max": null
-      },
-      "backrest_height": {
-        "max": "510",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": null,
-        "max": null
-      },
-      "seat_width_with_armrests": {
-        "min": "535",
-        "max": null
-      },
-      "seat_width": {
-        "max": "500",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "660",
-        "min": ""
-      },
-      "runners_width": {
-        "max": null,
-        "min": ""
-      },
-      "runners_depth": {
-        "max": null,
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "390",
-        "max": "490"
-      },
-      "armrest_height_from_floor": {
-        "min": "260"
-      },
-      "armrest_width_support": {
-        "max": "45"
-      },
-      "armrest_length_support": {
-        "max": "320"
-      },
-      "seat_depth_km": {
-        "max": "480"
-      },
-      "backrest_height_external": {
-        "max": "580"
-      },
-      "backrest_width_narrow": {
-        "max": "390"
-      },
-      "backrest_width_wide": {
-        "max": "480"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": "+",
-      "netto": {},
-      "brutto": {},
-      "package_width": {},
-      "package_depth": {},
-      "package_height": {},
-      "volume": "0",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "lost": [
-    {
-      "clean": true,
-      "limit": false
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "+",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": 7613,
-    "IE_NAME": "М-806 Хэнди/Handy blackPL Ср",
-    "IE_PREVIEW_TEXT": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет сетчатую спинку и мягкое сиденье. Габариты сиденья и спинки подходят для людей любого роста.",
-    "IE_DETAIL_TEXT": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет выбор различных цветов сетки на спинке и обивочного материала сидения. Габариты сидения и спинки подходят для людей, с любой массой тела.",
-    "IP_PROP2": 535,
-    "IP_PROP3": "925-1025",
-    "IP_PROP4": 550,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/610/zl632xjuf4dzr786d23jcjnbgg0a5w15.webp",
-    "IP_PROP31": "https://utfc.ru/upload/iblock/b5e/nmccvdr2t3eh27sfzcaag44l29z6cs3y.png",
-    "IP_PROP5": 620,
-    "IP_PROP26": 590,
-    "IP_PROP27": 280,
-    "IP_PROP28": "",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,11",
-    "IP_PROP7": "",
-    "IP_PROP8": "да",
-    "IP_PROP9": "handy_pl_black",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/iblock/07e/ziwg8qiaxh83fn22vz7k2b5dx3abo46f.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pl_660_bl",
-    "IP_PROP42": "pl_handi_bl",
-    "IP_PROP43": "gl_230",
-    "IP_PROP44": "m_tg",
-    "IP_PROP45": "",
-    "IP_PROP46": "r_60_o_pu",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 4156,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 4281,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 4156,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 26125,
-      "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-10/D26-28 (голубой/черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fcc/lyfm2ugg6f0s8eqz2gpm0c1tepuwpcil.webp",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6c7/017hawzqdu4vs880lawhw9zedyttt635.webp",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 7614,
-      "IP_PROP34": 7613,
-      "IP_PROP35": "ИКХэнди3",
-      "IP_PROP36": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac8/vxsbgqj8vcxrol069io8n8lk082nkggg.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f05/y0qwxqqkkgjjec74824lz7qqvw6rftgs.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/88c/dynbrdmm8oadhd48egt3j65vfkayzghp.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/493/yozgpv0nnz0ooidum3yz8wiq8oy3b7or.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/07f/kwhsf2o1l3k4j78kolnxauy5pf8koo7k.webp"
-      ],
-      "IP_PROP37": "m_27",
-      "IP_PROP38": "setka_jd_10",
-      "IP_PROP39": "m_13",
-      "IP_PROP40": "d_26_28",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 10,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": 1,
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4156,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4281,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4156,
-      "CV_CURRENCY_3": "RUB"
-    },
-    {
-      "IE_XML_ID": 26124,
-      "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-09/D26-28 (серый/черный)",
-      "IE_ACTIVE": "N",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/c3d/c3d0e0c15e22302210f36d36c00eb687.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/324/32449748d08874d70a9dc6af6a12bae5.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 7615,
-      "IP_PROP34": 7613,
-      "IP_PROP35": "ИКХэнди2",
-      "IP_PROP36": [
-        "https://utfc.ru/upload/iblock/aa6/aa66b72f5c57bf158892a20e5ac1c7e1.png",
-        "https://utfc.ru/upload/iblock/7c3/7c3b2853a753617fdc84c0e480a8a5be.png",
-        "https://utfc.ru/upload/iblock/8c3/8c3093de2a97d1a56fb77c6367bacbad.png",
-        "https://utfc.ru/upload/iblock/66d/66d1e2fb76e88936ea956de5a7928cdb.png",
-        "https://utfc.ru/upload/iblock/88e/88e8883a8fff57f72abe5fc2add3e444.png"
-      ],
-      "IP_PROP37": "m_27",
-      "IP_PROP38": "setka_jd_09",
-      "IP_PROP39": "m_13",
-      "IP_PROP40": "d_26_28",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": 1,
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4156,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4281,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4156,
-      "CV_CURRENCY_3": "RUB"
-    },
-    {
-      "IE_XML_ID": 13128,
-      "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-06/D26-28 (синий/черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/a30/l545pe80cm71pl1g3mgclz70w8vidb8s.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/d00/4b2grhzuusjy1rk06iff5vjtx6nesw5o.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13128,
-      "IP_PROP34": 7613,
-      "IP_PROP35": "КИК-00051",
-      "IP_PROP36": [
-        "https://utfc.ru/upload/iblock/e0f/k247hg16b6muxqmj5r39tt0twxhku04e.png",
-        "https://utfc.ru/upload/iblock/b59/277sgxf1zomke5g9e7z1n84qr1fx9eb4.png",
-        "https://utfc.ru/upload/iblock/308/ein1pk6jiiezwm91h4bw41h0zi3ph2ls.png",
-        "https://utfc.ru/upload/iblock/ba6/6nftjvr5jslns292lnj1aa96k8xzctwk.png",
-        "https://utfc.ru/upload/iblock/2e2/ns4nxv56wm2sav7o0gr778azfadp32sq.png"
-      ],
-      "IP_PROP37": "m_27",
-      "IP_PROP38": "setka_jd_06",
-      "IP_PROP39": "m_13",
-      "IP_PROP40": "d_26_39",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "N",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4156,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4281,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 4156,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Удобное кресло оператора в офис М-806 Хэнди/Handy blackPL Ср производства компании UTFC",
-  "base_name": "Кресло М-806 Хэнди/Handy blackPL Ср",
-  "article_number": "ИКХэнди3",
-  "full_describe": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет сетчатую спинку и мягкое сиденье. Габариты сиденья и спинки подходят для людей любого роста.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/handy_pl_black/",
-  "Основание": "Пятилучье пластиковое с узкими лучами d=660 мм",
-  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для кресла Хэнди",
-  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
-  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "",
-  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-  "finish_type": [
-    "Сетка JD",
-    "-"
-  ],
-  "color": [
-    "Сетка JD-06",
-    "Сетка JD-10"
-  ],
-  "variant_name": [
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06)",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10)",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06)",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10)",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06, Ткань D, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06, -, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10, Ткань D, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10, -, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06, Ткань D, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06, -, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10, Ткань D, Ткань D26-28 (черный))",
-    "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10, -, Ткань D26-28 (черный))"
-  ],
-  "finish_type_seat": [
-    "Ткань D",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань D26-28 (черный)"
-  ]
+        {
+            "IE_XML_ID": 26124,
+            "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-09/D26-28 (серый/черный)",
+            "IE_ACTIVE": "N",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/c3d/c3d0e0c15e22302210f36d36c00eb687.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/324/32449748d08874d70a9dc6af6a12bae5.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 7615,
+            "IP_PROP34": 7613,
+            "IP_PROP35": "ИКХэнди2",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/iblock/aa6/aa66b72f5c57bf158892a20e5ac1c7e1.png",
+                "https://utfc.ru/upload/iblock/7c3/7c3b2853a753617fdc84c0e480a8a5be.png",
+                "https://utfc.ru/upload/iblock/8c3/8c3093de2a97d1a56fb77c6367bacbad.png",
+                "https://utfc.ru/upload/iblock/66d/66d1e2fb76e88936ea956de5a7928cdb.png",
+                "https://utfc.ru/upload/iblock/88e/88e8883a8fff57f72abe5fc2add3e444.png"
+            ],
+            "IP_PROP37": "m_27",
+            "IP_PROP38": "setka_jd_09",
+            "IP_PROP39": "m_13",
+            "IP_PROP40": "d_26_28",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": 1,
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4156,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4281,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4156,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 13128,
+            "IE_NAME": "Кресло М-806 Хэнди/Handy blackPL Ср JD-06/D26-28 (синий/черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/a30/l545pe80cm71pl1g3mgclz70w8vidb8s.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/d00/4b2grhzuusjy1rk06iff5vjtx6nesw5o.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13128,
+            "IP_PROP34": 7613,
+            "IP_PROP35": "КИК-00051",
+            "IP_PROP36": [
+                "https://utfc.ru/upload/iblock/e0f/k247hg16b6muxqmj5r39tt0twxhku04e.png",
+                "https://utfc.ru/upload/iblock/b59/277sgxf1zomke5g9e7z1n84qr1fx9eb4.png",
+                "https://utfc.ru/upload/iblock/308/ein1pk6jiiezwm91h4bw41h0zi3ph2ls.png",
+                "https://utfc.ru/upload/iblock/ba6/6nftjvr5jslns292lnj1aa96k8xzctwk.png",
+                "https://utfc.ru/upload/iblock/2e2/ns4nxv56wm2sav7o0gr778azfadp32sq.png"
+            ],
+            "IP_PROP37": "m_27",
+            "IP_PROP38": "setka_jd_06",
+            "IP_PROP39": "m_13",
+            "IP_PROP40": "d_26_39",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "N",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4156,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4281,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 4156,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Удобное кресло оператора в офис М-806 Хэнди/Handy blackPL Ср производства компании UTFC",
+    "base_name": "Кресло М-806 Хэнди/Handy blackPL Ср",
+    "article_number": "ИКХэнди3",
+    "full_describe": "Кресло оператора, в котором совмещены изящность форм и жесткость каркаса, имеет сетчатую спинку и мягкое сиденье. Габариты сиденья и спинки подходят для людей любого роста.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/handy_pl_black/",
+    "Основание": "Пятилучье пластиковое с узкими лучами d=660 мм",
+    "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для кресла Хэнди",
+    "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+    "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "",
+    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+    "finish_type": [
+        "Сетка JD",
+        "-"
+    ],
+    "color": [
+        "Сетка JD-06",
+        "Сетка JD-10"
+    ],
+    "variant_name": [
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06)",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10)",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06)",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10)",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06, Ткань D, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-06, -, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10, Ткань D, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (Сетка JD, Сетка JD-10, -, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06, Ткань D, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-06, -, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10, Ткань D, Ткань D26-28 (черный))",
+        "Кресло М-806 Хэнди/Handy blackPL Ср (-, Сетка JD-10, -, Ткань D26-28 (черный))"
+    ],
+    "finish_type_seat": [
+        "Ткань D",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань D26-28 (черный)"
+    ]
 }

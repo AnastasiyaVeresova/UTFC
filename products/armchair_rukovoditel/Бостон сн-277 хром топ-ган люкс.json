@@ -67,15 +67,15 @@
     "dimensions": [
         {
             "brutto": "",
-            "netto": "12,9",
+            "netto": "12,90",
             "volume": "0,17"
         }
     ],
     "guarantee": [
         {
             "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
+            "max_load": "120,00",
+            "recommended_load": "90,00"
         }
     ],
     "images": [
@@ -89,95 +89,96 @@
     "dimensions_details": [
         {
             "chair_height": {
-                "min": "1150",
-                "max": "1250"
+                "min": "1150,00",
+                "max": "1250,00"
             },
             "headrest_height": {
                 "min": "",
                 "max": ""
             },
             "seat_to_floor_height": {
-                "min": "480",
-                "max": "580"
+                "min": "480,00",
+                "max": "580,00"
             },
             "armrest_height_from_seat": {
-                "min": "210",
+                "min": "210,00",
                 "max": ""
             },
             "chair_depth": {
-                "min": "660",
+                "min": "660,00",
                 "max": null
             },
             "seat_depth": {
-                "min": "510",
+                "min": "510,00",
                 "max": ""
             },
             "backrest_height": {
-                "max": "700",
+                "max": "700,00",
                 "min": ""
             },
             "backrest_to_seat_height": {
-                "min": "",
-                "max": ""
+                "min": "540",
+                "max": "700"
             },
             "seat_width_with_armrests": {
-                "min": "640",
+                "min": "640,00",
                 "max": ""
             },
             "seat_width": {
-                "max": "520",
+                "max": "520,00",
                 "min": ""
             },
             "diameter_cross": {
-                "max": "700",
+                "max": "700,00",
                 "min": ""
             },
             "runners_width": {
-                "max": "",
+                "max": "510",
                 "min": ""
             },
             "runners_depth": {
-                "max": "",
+                "max": "700",
                 "min": ""
             },
             "seat_to_floor_height_upper": {
-                "min": "390",
-                "max": "490"
+                "min": "390,00",
+                "max": "490,00"
             },
             "armrest_height_from_floor": {
-                "min": "290"
+                "min": "290,00"
             },
             "armrest_width_support": {
-                "max": "70"
+                "max": "70,00"
             },
             "armrest_length_support": {
-                "max": "350"
+                "max": "350,00"
             },
             "seat_depth_km": {
-                "max": "540"
+                "max": "540,00"
             },
             "backrest_height_external": {
-                "max": "740"
+                "max": "740,00"
             },
             "backrest_width_narrow": {
-                "max": "490"
+                "max": "490,00"
             },
             "backrest_width_wide": {
-                "max": "510"
+                "max": "510,00"
             },
-            "recommended_load": "90",
-            "max_load": "120",
+            "recommended_load": "90,00",
+            "max_load": "120,00",
             "skeleton": "немонолитный",
             "minpromtorg": "+",
-            "netto": "12,9",
-            "brutto": {},
-            "package_width": "910",
-            "package_depth": "270,0",
-            "package_height": "690,0",
-            "volume": "0,169533",
+            "netto": "12,90",
+            "brutto": "12,9",
+            "package_width": "910,00",
+            "package_depth": "270,00",
+            "package_height": "690,00",
+            "volume": "0,17",
             "box_on_pallet": {},
             "pallet_width": {},
-            "addition": {}
+            "addition": {},
+            "typeofproduct": "немонолитный"
         }
     ],
     "skeleton": "немонолитный",

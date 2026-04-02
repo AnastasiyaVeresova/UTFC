@@ -1,441 +1,442 @@
 {
-  "namefile": [
-    "Квадро м-807 white ch"
-  ],
-  "name_all": [
-    "Квадро",
-    "Квадро хром"
-  ],
-  "name": [
-    "Квадро хром"
-  ],
-  "unique_name": [
-    "Квадро М-807 white ch"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки:<br>сетка (NET)<br>\n- материал облицовки сиденья:<br>ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
-        "<strong>Материал</strong> облицовки спинки: сетка (NET)",
-        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
-        "<strong>Материал</strong> облицовка сиденья: ткань-сетка (Е)",
-        "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов",
-        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют узкий шток"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": 624,
-          "depth": 322,
-          "height": 665
-        },
-        "box_size": "624х322х665",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "",
-      "netto": "9,3",
-      "volume": "0,0"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "150",
-      "recommended_load": "120"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/kvadro_ch_01.png",
-      "chair_view": "img/armchair_comfort/kvadro_ch_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/kvadro_ch_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/441/aitc3n1seavwwaowlo01shytv2ytzh3q.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/b42/140_140_0/pynkt9ohcaywayyjgljdmakpi5pkx1e1.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e81/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/56b/vnxzhbb4paquk1wsxo80af5n6ic0rdcm.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/e81/140_140_0/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.png",
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cc0/3edhvr5aym7tujylvgwsg5mesuw2bt46.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/resize_cache/iblock/56b/140_140_0/vnxzhbb4paquk1wsxo80af5n6ic0rdcm.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/703/7036dfcc67e0632951197450d24f2bbe.webp",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8d8/lqelriwg96qvw8n9t1ukvugi9fc4z9q3.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/d77/140_140_0/fwmvzojv3ywr75um04ergz7rwowxpqds.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70e/70eecf412866a6b3315c53a12a177393.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://utfc.ru/upload/resize_cache/iblock/c29/140_140_0/hwf71l63phapdqn50t64gpeiox79ddz4.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c29/hwf71l63phapdqn50t64gpeiox79ddz4.webp",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b42/pynkt9ohcaywayyjgljdmakpi5pkx1e1.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d77/fwmvzojv3ywr75um04ergz7rwowxpqds.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba4/b5si50vt41b6kyvl2vwoifidb0xr5af0.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/00a/geghlghet0ssrrcmqbvx8lq7m0s6evfc.webp",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/439/755ed2dcjsaudveufsmxj67a5iqlau87.webp",
-        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.webp"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "940",
-        "max": "1040"
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "460",
-        "max": "560"
-      },
-      "armrest_height_from_seat": {
-        "min": "200",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "610",
-        "max": null
-      },
-      "seat_depth": {
-        "min": "480",
-        "max": null
-      },
-      "backrest_height": {
-        "max": "510",
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "570",
-        "max": ""
-      },
-      "seat_width": {
-        "max": "470",
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": "640",
-        "min": ""
-      },
-      "runners_width": {
-        "max": "",
-        "min": ""
-      },
-      "runners_depth": {
-        "max": "",
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "400",
-        "max": "500"
-      },
-      "armrest_height_from_floor": {
-        "min": "250"
-      },
-      "armrest_width_support": {
-        "max": "45"
-      },
-      "armrest_length_support": {
-        "max": "240"
-      },
-      "seat_depth_km": {
-        "max": "490"
-      },
-      "backrest_height_external": {
-        "max": "510"
-      },
-      "backrest_width_narrow": {
-        "max": "440"
-      },
-      "backrest_width_wide": {
-        "max": "450"
-      },
-      "recommended_load": "120",
-      "max_load": "150",
-      "skeleton": "немонолитный",
-      "minpromtorg": "+",
-      "netto": "9,3",
-      "brutto": {},
-      "package_width": {},
-      "package_depth": {},
-      "package_height": {},
-      "volume": "0",
-      "box_on_pallet": {},
-      "pallet_width": {},
-      "addition": {}
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "+",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "p_5195",
-    "IE_NAME": "М-807 Квадро/Kvadro whitePL хром Ср",
-    "IE_PREVIEW_TEXT": "Компактное кресло оснащено широкой спинкой с поясничной поддержкой и сиденьем с увеличенной мягкой подушкой. Благодаря глубокому сиденью, кресло идеально подходит для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
-    "IE_DETAIL_TEXT": "Малогабаритное кресло обладает широким спинкой с поясничной поддержкой и сидением с увеличенной мягкой подушкой. Широкие квадратные подлокотники обеспечивают комфортную посадку.\nБлагодаря глубокому сидению, кресло отлично подойдет для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
-    "IP_PROP2": 570,
-    "IP_PROP3": "940-1040",
-    "IP_PROP4": 610,
-    "IP_PROP6": "",
-    "IP_PROP19": 150,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://utfc.ru/upload/iblock/439/755ed2dcjsaudveufsmxj67a5iqlau87.png",
-    "IP_PROP31": "https://utfc.ru/upload/iblock/8d8/lqelriwg96qvw8n9t1ukvugi9fc4z9q3.jpg",
-    "IP_PROP5": 624,
-    "IP_PROP26": 665,
-    "IP_PROP27": 322,
-    "IP_PROP28": "11,2",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,13",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "m807_kvadro_whitepl_ch",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e81/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.webp",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "pch_600_alfa_ch",
-    "IP_PROP42": "pl_kvadro_wh",
-    "IP_PROP43": "gl_230_ch",
-    "IP_PROP44": "m_tg",
-    "IP_PROP45": "",
-    "IP_PROP46": "r_60_o_w_pu",
-    "IP_PROP47": "",
-    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP54": "utfc",
-    "IP_PROP59": "Нет",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_GROUP1": "",
-    "IC_GROUP2": "",
-    "CP_QUANTITY": 0,
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 5488,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 5653,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 5488,
-    "CV_CURRENCY_3": "RUB"
-  },
-  "children": [
-    {
-      "IE_XML_ID": 30298,
-      "IE_NAME": "Кресло М-807 Квадро/Kvadro whitePL хром Ср NET11/E11-к (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 10855,
-      "IP_PROP34": "p_5195",
-      "IP_PROP35": "ИККвадро03",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_34",
-      "IP_PROP38": "net_11",
-      "IP_PROP39": "m_08",
-      "IP_PROP40": "e_11_k",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 30,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 5488,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 5653,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 5488,
-      "CV_CURRENCY_3": "RUB"
+    "namefile": [
+        "Квадро м-807 white ch"
+    ],
+    "name_all": [
+        "Квадро",
+        "Квадро хром"
+    ],
+    "name": [
+        "Квадро хром"
+    ],
+    "unique_name": [
+        "Квадро М-807 white ch"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки:<br>сетка (NET)<br>\n- материал облицовки сиденья:<br>ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+                "<strong>Материал</strong> облицовки спинки: сетка (NET)",
+                "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+                "<strong>Материал</strong> облицовка сиденья: ткань-сетка (Е)",
+                "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов",
+                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> «Альфа» - хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют узкий шток"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 624,
+                    "depth": 322,
+                    "height": 665
+                },
+                "box_size": "624х322х665",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "9,30",
+            "volume": "0,13"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "150,00",
+            "recommended_load": "120,00"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/kvadro_ch_01.png",
+            "chair_view": "img/armchair_comfort/kvadro_ch_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/kvadro_ch_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/441/aitc3n1seavwwaowlo01shytv2ytzh3q.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/b42/140_140_0/pynkt9ohcaywayyjgljdmakpi5pkx1e1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e81/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/56b/vnxzhbb4paquk1wsxo80af5n6ic0rdcm.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/e81/140_140_0/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.png",
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cc0/3edhvr5aym7tujylvgwsg5mesuw2bt46.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/56b/140_140_0/vnxzhbb4paquk1wsxo80af5n6ic0rdcm.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/703/7036dfcc67e0632951197450d24f2bbe.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8d8/lqelriwg96qvw8n9t1ukvugi9fc4z9q3.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/d77/140_140_0/fwmvzojv3ywr75um04ergz7rwowxpqds.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70e/70eecf412866a6b3315c53a12a177393.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/resize_cache/iblock/c29/140_140_0/hwf71l63phapdqn50t64gpeiox79ddz4.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c29/hwf71l63phapdqn50t64gpeiox79ddz4.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b42/pynkt9ohcaywayyjgljdmakpi5pkx1e1.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d77/fwmvzojv3ywr75um04ergz7rwowxpqds.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba4/b5si50vt41b6kyvl2vwoifidb0xr5af0.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/00a/geghlghet0ssrrcmqbvx8lq7m0s6evfc.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/439/755ed2dcjsaudveufsmxj67a5iqlau87.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "940,00",
+                "max": "1040,00"
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "460,00",
+                "max": "560,00"
+            },
+            "armrest_height_from_seat": {
+                "min": "200,00",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "610,00",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "480,00",
+                "max": null
+            },
+            "backrest_height": {
+                "max": "510,00",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "490",
+                "max": "510"
+            },
+            "seat_width_with_armrests": {
+                "min": "570,00",
+                "max": ""
+            },
+            "seat_width": {
+                "max": "470,00",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "640,00",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "450",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "640",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "400,00",
+                "max": "500,00"
+            },
+            "armrest_height_from_floor": {
+                "min": "250,00"
+            },
+            "armrest_width_support": {
+                "max": "45,00"
+            },
+            "armrest_length_support": {
+                "max": "240,00"
+            },
+            "seat_depth_km": {
+                "max": "490,00"
+            },
+            "backrest_height_external": {
+                "max": "510,00"
+            },
+            "backrest_width_narrow": {
+                "max": "440,00"
+            },
+            "backrest_width_wide": {
+                "max": "450,00"
+            },
+            "recommended_load": "120,00",
+            "max_load": "150,00",
+            "skeleton": "немонолитный",
+            "minpromtorg": "+",
+            "netto": "9,30",
+            "brutto": "9,3",
+            "package_width": "624,00",
+            "package_depth": "322,00",
+            "package_height": "665,00",
+            "volume": "0,13",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {},
+            "typeofproduct": "немонолитный"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "p_5195",
+        "IE_NAME": "М-807 Квадро/Kvadro whitePL хром Ср",
+        "IE_PREVIEW_TEXT": "Компактное кресло оснащено широкой спинкой с поясничной поддержкой и сиденьем с увеличенной мягкой подушкой. Благодаря глубокому сиденью, кресло идеально подходит для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
+        "IE_DETAIL_TEXT": "Малогабаритное кресло обладает широким спинкой с поясничной поддержкой и сидением с увеличенной мягкой подушкой. Широкие квадратные подлокотники обеспечивают комфортную посадку.\nБлагодаря глубокому сидению, кресло отлично подойдет для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
+        "IP_PROP2": 570,
+        "IP_PROP3": "940-1040",
+        "IP_PROP4": 610,
+        "IP_PROP6": "",
+        "IP_PROP19": 150,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://utfc.ru/upload/iblock/439/755ed2dcjsaudveufsmxj67a5iqlau87.png",
+        "IP_PROP31": "https://utfc.ru/upload/iblock/8d8/lqelriwg96qvw8n9t1ukvugi9fc4z9q3.jpg",
+        "IP_PROP5": 624,
+        "IP_PROP26": 665,
+        "IP_PROP27": 322,
+        "IP_PROP28": "11,2",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,13",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "m807_kvadro_whitepl_ch",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e81/wsqyl0x3cd8g0y9tyovq0i117gmb0jbi.webp",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "pch_600_alfa_ch",
+        "IP_PROP42": "pl_kvadro_wh",
+        "IP_PROP43": "gl_230_ch",
+        "IP_PROP44": "m_tg",
+        "IP_PROP45": "",
+        "IP_PROP46": "r_60_o_w_pu",
+        "IP_PROP47": "",
+        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP54": "utfc",
+        "IP_PROP59": "Нет",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_GROUP1": "",
+        "IC_GROUP2": "",
+        "CP_QUANTITY": 0,
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 5488,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 5653,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 5488,
+        "CV_CURRENCY_3": "RUB"
     },
-    {
-      "IE_XML_ID": 30299,
-      "IE_NAME": "Кресло М-807 Квадро/Kvadro whitePL хром Ср NET72/E72-к (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 10856,
-      "IP_PROP34": "p_5195",
-      "IP_PROP35": "ИККвадро04",
-      "IP_PROP36": "",
-      "IP_PROP37": "m_34",
-      "IP_PROP38": "net_72",
-      "IP_PROP39": "m_08",
-      "IP_PROP40": "e_72_k",
-      "IP_PROP55": "&nbsp;",
-      "IP_PROP61": "",
-      "IC_GROUP0": "",
-      "IP_PROP121": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_GROUP2": "",
-      "CP_QUANTITY": 3,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 5488,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 5653,
-      "CV_CURRENCY_2": "RUB",
-      "CV_PRICE_3": 5488,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Компактное компьютерное кресло с широкой спинкой М-807 Квадро/Kvadro whitePL хром Ср производства компании UTFC",
-  "base_name": "Кресло М-807 Квадро/Kvadro whitePL хром Ср",
-  "article_number": "ИККвадро03",
-  "full_describe": "Компактное кресло оснащено широкой спинкой с поясничной поддержкой и сиденьем с увеличенной мягкой подушкой. Благодаря глубокому сиденью, кресло идеально подходит для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m807_kvadro_whitepl_ch/",
-  "Основание": "Пятилучье хромированное Альфа 640 мм",
-  "Подлокотники": "Нерегулируемый подлокотник Квадро пластик белый",
-  "Газлифт": "Газ-лифт хромированный 3 класса по стандарту Germany DIN 4550, h=230 мм",
-  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "",
-  "Ролики": "Пластиковые белые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм",
-  "finish_type": [
-    "Сетка NET",
-    "-"
-  ],
-  "color": [
-    "Сетка NET11",
-    "Сетка NET72"
-  ],
-  "variant_name": [
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11)",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72)",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11)",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72)",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11, -, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72, -, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11, -, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-    "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72, -, Ткань Сетка Е11-к (черный))"
-  ],
-  "finish_type_seat": [
-    "Ткань Сетка Е",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань Сетка Е11-к (черный)"
-  ]
+    "children": [
+        {
+            "IE_XML_ID": 30298,
+            "IE_NAME": "Кресло М-807 Квадро/Kvadro whitePL хром Ср NET11/E11-к (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 10855,
+            "IP_PROP34": "p_5195",
+            "IP_PROP35": "ИККвадро03",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_34",
+            "IP_PROP38": "net_11",
+            "IP_PROP39": "m_08",
+            "IP_PROP40": "e_11_k",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 30,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 5488,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 5653,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 5488,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 30299,
+            "IE_NAME": "Кресло М-807 Квадро/Kvadro whitePL хром Ср NET72/E72-к (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 10856,
+            "IP_PROP34": "p_5195",
+            "IP_PROP35": "ИККвадро04",
+            "IP_PROP36": "",
+            "IP_PROP37": "m_34",
+            "IP_PROP38": "net_72",
+            "IP_PROP39": "m_08",
+            "IP_PROP40": "e_72_k",
+            "IP_PROP55": "&nbsp;",
+            "IP_PROP61": "",
+            "IC_GROUP0": "",
+            "IP_PROP121": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_GROUP2": "",
+            "CP_QUANTITY": 3,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 5488,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 5653,
+            "CV_CURRENCY_2": "RUB",
+            "CV_PRICE_3": 5488,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Компактное компьютерное кресло с широкой спинкой М-807 Квадро/Kvadro whitePL хром Ср производства компании UTFC",
+    "base_name": "Кресло М-807 Квадро/Kvadro whitePL хром Ср",
+    "article_number": "ИККвадро03",
+    "full_describe": "Компактное кресло оснащено широкой спинкой с поясничной поддержкой и сиденьем с увеличенной мягкой подушкой. Благодаря глубокому сиденью, кресло идеально подходит для сотрудников любой комплекции. Хромированная крестовина с максимальной нагрузкой в 150 кг.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m807_kvadro_whitepl_ch/",
+    "Основание": "Пятилучье хромированное Альфа 640 мм",
+    "Подлокотники": "Нерегулируемый подлокотник Квадро пластик белый",
+    "Газлифт": "Газ-лифт хромированный 3 класса по стандарту Germany DIN 4550, h=230 мм",
+    "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "",
+    "Ролики": "Пластиковые белые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм",
+    "finish_type": [
+        "Сетка NET",
+        "-"
+    ],
+    "color": [
+        "Сетка NET11",
+        "Сетка NET72"
+    ],
+    "variant_name": [
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11)",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72)",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11)",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72)",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET11, -, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (Сетка NET, Сетка NET72, -, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET11, -, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72, Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+        "Кресло М-807 Квадро/Kvadro whitePL хром Ср (-, Сетка NET72, -, Ткань Сетка Е11-к (черный))"
+    ],
+    "finish_type_seat": [
+        "Ткань Сетка Е",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань Сетка Е11-к (черный)"
+    ]
 }
