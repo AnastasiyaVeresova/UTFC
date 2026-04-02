@@ -1,0 +1,483 @@
+{
+  "namefile": [
+    "Атлант в пластик-люкс 727"
+  ],
+  "name_all": [
+    "Атлант В пластик",
+    "Атлант В пластик-люкс 727",
+    "Атлант В дерево",
+    "Атлант В хром"
+  ],
+  "name": [
+    "Атлант В пластик-люкс 727"
+  ],
+  "unique_name": [
+    "Атлант В пластик-люкс 727"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем»"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки-сиденья и накладок подлокотников кресла: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки-сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность — 25 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Материал</strong> облицовки спинки-сиденья и накладок подлокотников: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
+        "<strong>Подлокотники</strong> пластиковые с мягкими накладками, крепятся к основанию спинки-сиденья с помощью винтов М6. Накладки состоят из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность — 22 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "1100",
+          "depth": "490",
+          "height": "676"
+        },
+        "box_size": "1100х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером "
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,36"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/atlant_v_pl_lux_727_01.png",
+      "chair_view": "img/armchair_rukovoditel/atlant_v_pl_lux_727_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/atlant_v_pl_lux_727_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/df9/1971ilsxvotcmr5wlcu1aqcpy7ck2kt7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/929/9297af0396ffa7048aa7c0ceb84c6668.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fb3/fb37e1dfce5e02380209646acccbc3ee.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a69/a69b2b3287b37e924846dd267685cb89.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b87/b878e79fb452a477385521c35aa67e3a.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/896/896a40fe19862edb2abb1ca2e504ead6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/462/4627724bd9f9fac0f94d87a45b3e294c.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/929/140_140_0/9297af0396ffa7048aa7c0ceb84c6668.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d6/5d6a9d6afeba9d4f5d8a71416ad823a7.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/fb3/140_140_0/fb37e1dfce5e02380209646acccbc3ee.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7b7/7b7f5a52ecda242b7bfcafebf85e6026.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/5d6/140_140_0/5d6a9d6afeba9d4f5d8a71416ad823a7.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/492/bg52x3two6qluerl7ey2bhu3y7ken6bp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7b7/140_140_0/7b7f5a52ecda242b7bfcafebf85e6026.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a69/140_140_0/a69b2b3287b37e924846dd267685cb89.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1130",
+        "max": "1230"
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "490",
+        "max": "590"
+      },
+      "armrest_height_from_seat": {
+        "min": "180",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "740",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "530",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "690",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "660",
+        "max": null
+      },
+      "seat_width": {
+        "max": "520",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "660",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "490",
+        "max": "590"
+      },
+      "armrest_height_from_floor": {
+        "min": "300"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {
+        "max": "560"
+      },
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "520"
+      },
+      "backrest_width_wide": {
+        "max": "520"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": "1100",
+      "package_depth": "490,0",
+      "package_height": "676,0",
+      "volume": "0,364364",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5117",
+    "IE_NAME": "Атлант В пластик-люкс 727",
+    "IE_PREVIEW_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек, пластиковые подлокотники с мягкими накладками и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 150 кг.",
+    "IE_DETAIL_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек, пластиковые подлокотники с мягкими накладками и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 150 кг.",
+    "IP_PROP2": 660,
+    "IP_PROP3": "1130-1230",
+    "IP_PROP4": 740,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/492/bg52x3two6qluerl7ey2bhu3y7ken6bp.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/896/896a40fe19862edb2abb1ca2e504ead6.png",
+    "IP_PROP5": 1090,
+    "IP_PROP26": 666,
+    "IP_PROP27": 480,
+    "IP_PROP28": "20,5",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,364",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "atlant_v_pl727lux",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/5d6/5d6a9d6afeba9d4f5d8a71416ad823a7.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_pl",
+    "IP_PROP42": "pl_727_lux_pl",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 9633,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 9922,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 9633,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 28411,
+      "IE_NAME": "Кресло Атлант В пластик-люкс 727 К21 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9425,
+      "IP_PROP34": "p_5117",
+      "IP_PROP35": "ДКАтлант2804",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_01",
+      "IP_PROP38": "k_21",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 16772,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 17276,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 16772,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 28410,
+      "IE_NAME": "Кресло Атлант В пластик-люкс 727 К01 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9426,
+      "IP_PROP34": "p_5117",
+      "IP_PROP35": "ДКАтлант2803",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_01",
+      "IP_PROP38": "k_01",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 12288,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 12657,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 12288,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 27893,
+      "IE_NAME": "Кресло Атлант В пластик-люкс 727 S-0401 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d8b/d8bad37cdb958a54f6144fb57b476273.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/210/2102a2967a0635ed3ad4c5519c233b5d.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9427,
+      "IP_PROP34": "p_5117",
+      "IP_PROP35": "ДКАтлант2801",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8ee/8eeaa010235486782fa760d43c47231f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/af2/af2f7300cc3ad15530d662ffdcae32f6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/382/3825b21c87ab114cca914fbdd849fe30.webp",
+        "https://utfc.ru/upload/iblock/005/005a34b4786190bd9e18844a0ff8c748.png",
+        "https://utfc.ru/upload/iblock/5df/5df60a6ff8748e035e9382115984fa37.png"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0401",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 9633,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9922,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 9633,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Солидное кресло руководителя Атлант В пластик-люкс 727 производства компании UTFC",
+  "base_name": "Кресло Атлант В пластик-люкс 727",
+  "article_number": "atlant_v_pl727lux",
+  "full_describe": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек, пластиковые подлокотники с мягкими накладками и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 150 кг.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/atlant_v_pl727lux/",
+  "Основание": "Пятилучье пластиковое d=660 мм",
+  "Подлокотники": "Подлокотники пластиковые с декоративными мягкими вставками используются на все ДК в исполнении Пластик-люкс 727",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Натуральная кожа К",
+    "Экокожа Santorini",
+    "-"
+  ],
+  "color": [
+    "Натуральная кожа К01",
+    "Натуральная кожа К21"
+  ],
+  "variant_name": [
+    "Кресло Атлант В пластик-люкс 727 (Натуральная кожа К, Натуральная кожа К01)",
+    "Кресло Атлант В пластик-люкс 727 (Натуральная кожа К, Натуральная кожа К21)",
+    "Кресло Атлант В пластик-люкс 727 (Экокожа Santorini, Натуральная кожа К01)",
+    "Кресло Атлант В пластик-люкс 727 (Экокожа Santorini, Натуральная кожа К21)",
+    "Кресло Атлант В пластик-люкс 727 (-, Натуральная кожа К01)",
+    "Кресло Атлант В пластик-люкс 727 (-, Натуральная кожа К21)"
+  ]
+}

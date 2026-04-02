@@ -1,0 +1,20 @@
+{
+  "name": "balmebel-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.2.2",
+    "node-fetch": "^2.7.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}

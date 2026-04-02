@@ -1,0 +1,254 @@
+@charset "UTF-8";
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #fff;
+}
+
+h3 {
+  margin: 60px 0px 20px 0px;
+}
+
+.a4-container {
+  width: 297mm;
+  min-height: 210mm;
+  margin: 0 auto;
+  padding: 10mm;
+  box-sizing: border-box;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  page-break-inside: avoid;
+}
+
+.conditions {
+  position: absolute;
+  top: 320px;
+  left: 40px;
+}
+
+#current-date {
+  color: #96C22B;
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.commercial-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.commercial-logo {
+  position: absolute;
+  right: 40px;
+  bottom: 23px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.commercial-logo img {
+  max-width: 150px;
+}
+
+.commercial-title {
+  position: absolute;
+  font-size: 44px;
+  font-weight: bold;
+  right: 40px;
+  text-align: right;
+  color: #3D4555;
+  top: 300px;
+  page-break-inside: auto;
+}
+
+.commercial-date {
+  text-align: right;
+  position: absolute;
+  right: 40px;
+  top: 25px;
+}
+
+.commercial-company {
+  text-align: left;
+  font-size: 11px;
+  top: 100px;
+  left: 70px;
+  position: absolute;
+  z-index: 2;
+}
+
+.commercial-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+  margin: 250px 0px 0px 0px;
+  max-height: 104.1666666667mm; /* Ограничиваем высоту таблицы */
+}
+
+.commercial-table-body {
+  width: 100%;
+}
+
+.commercial-table th {
+  background-color: #fff;
+  color: #000;
+  padding: 12px;
+  text-align: left;
+}
+
+.commercial-table td {
+  padding: 12px;
+  text-align: left;
+}
+
+.commercial-table tr {
+  page-break-inside: avoid; /* Избегаем разбиения строк */
+}
+
+.commercial-table-container {
+  page-break-inside: auto; /* Разрешаем разбиение контейнера */
+}
+
+.commercial-table tr:nth-child(odd) {
+  background-color: #96C22B;
+  color: #fff;
+}
+
+.commercial-table tr:nth-child(even) {
+  background-color: #fff;
+  color: #000;
+}
+
+.commercial-conditions {
+  margin: 20px 0;
+}
+
+.commercial-conditions p {
+  margin: 5px 0;
+}
+
+.commercial-signature {
+  text-align: left;
+  position: absolute;
+  bottom: 70px;
+  left: 300px;
+}
+
+.dir {
+  text-align: left;
+  position: absolute;
+  bottom: 45px;
+  left: 300px;
+}
+
+.name_dir {
+  text-align: left;
+  position: absolute;
+  bottom: 45px;
+  left: 820px;
+}
+
+.commercial-product {
+  page-break-inside: avoid;
+  margin-bottom: 20px;
+}
+
+.commercial-product-images {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  margin: 10px 0;
+  align-items: flex-start;
+}
+
+.commercial-product-images img {
+  max-width: 280px;
+  max-height: 280px;
+}
+
+.qr-code-container {
+  margin-left: 10px;
+  position: absolute;
+  right: 40px;
+}
+
+.commercial-product-details {
+  position: absolute;
+  bottom: 20px;
+  line-height: 1.15;
+  width: 90%;
+}
+
+.commercial-product-details p {
+  margin: 5px 0;
+  font-size: 12px;
+}
+
+.page-number {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.page-number-box {
+  position: absolute;
+  bottom: 10mm;
+  right: 10mm;
+  width: 10mm;
+  height: 10mm;
+  background-color: #96C22B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  z-index: 100;
+}
+
+.commercial-titul-logo {
+  position: absolute;
+  bottom: 0mm;
+  left: 0mm;
+  width: 80mm;
+  height: auto;
+  z-index: 1;
+}
+
+.commercial-titul-site {
+  position: absolute;
+  top: 30px;
+}
+
+#generateOffer {
+  position: fixed;
+  top: 20px;
+  right: 25px;
+  padding: 10px 20px;
+  background-color: #3D4555;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  z-index: 1000;
+}
+
+.fax {
+  position: absolute;
+  bottom: -15px;
+  left: 500px;
+}
+
+.no-photo-icon {
+  width: 280px;
+  height: 280px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #666;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}/*# sourceMappingURL=commercial.css.map */

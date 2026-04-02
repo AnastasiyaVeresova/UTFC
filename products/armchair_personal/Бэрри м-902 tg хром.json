@@ -1,0 +1,575 @@
+{
+  "namefile": [
+    "Бэрри м-902 tg хром"
+  ],
+  "name_all": [
+    "Бэрри",
+    "Бэрри хром"
+  ],
+  "name": [
+    "Бэрри хром"
+  ],
+  "unique_name": [
+    "Бэрри М-902 TG хром"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья кресла: ткань (Moderno), ткань-\nсетка (Е)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из металлического каркаса и облицовки (съемный чехол на липучке). Каркас спинки сварной металлический с защитно-декоративным покрытием. Изготовлен из стальной трубы круглого сечения 16х1,2 мм. Покрытие каркаса: термореактивная порошковая краска черного цвета",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: ткань (Moderno), ткань-сетка (Е)",
+        "<strong>Подлокотники</strong> - пластиковые, крепятся к основанию сиденья с помощью винтов М6",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 120 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+        "<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм с белым полиуретановым покрытием имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "630",
+          "depth": "290",
+          "height": "600"
+        },
+        "box_size": "630х290х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,11"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/berry_ch_m02_01.png",
+      "chair_view": "img/armchair_personal/berry_ch_m02_02.png",
+      "dimensions": "img/armchair_personal/dimensions/berry_ch_m02_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f9a/f9a42bd21ce2344eea1b9f061b63a18b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/846/846dca319c9dd21834ce2c694b311d63.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/9c0/140_140_0/9c0457395b1b7e4ee918b478ba32de35.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70e/70eecf412866a6b3315c53a12a177393.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/860/140_140_0/860e4ba6bea2ab972ac556f3c49f7c8c.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f83/f8345f070fc1953fc4c14970f40d07da.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f83/140_140_0/f8345f070fc1953fc4c14970f40d07da.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eab/xtbdnvvwp34hr13pkkfxf9h179owxne4.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ebe/ebeabcfabf338589aa3f34ac0b575f10.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/792/140_140_0/7927867d93e79237ef9e3d0644b069e9.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c07/e2ov6rr71q3np7wc20w84u4j9wg98amp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/792/7927867d93e79237ef9e3d0644b069e9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9c0/9c0457395b1b7e4ee918b478ba32de35.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba4/b5si50vt41b6kyvl2vwoifidb0xr5af0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/860/860e4ba6bea2ab972ac556f3c49f7c8c.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/ebe/140_140_0/ebeabcfabf338589aa3f34ac0b575f10.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "910",
+        "max": "1030"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "450",
+        "max": "570"
+      },
+      "armrest_height_from_seat": {
+        "min": "220",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "550",
+        "max": ""
+      },
+      "seat_depth": {
+        "min": "450",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "485",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "620",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "440",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "640",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "395",
+        "max": "515"
+      },
+      "armrest_height_from_floor": {
+        "min": "270"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {
+        "max": "270"
+      },
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "392"
+      },
+      "backrest_width_wide": {
+        "max": "390"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": "630",
+      "package_depth": "290,0",
+      "package_height": "600,0",
+      "volume": "0,10962",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": 7807,
+    "IE_NAME": "М-902 Бэрри хром",
+    "IE_PREVIEW_TEXT": "Компактное кресло имеет износостойкую обивку и удобные S-образные подлокотники. Широкая эргономичная спинка сделают рабочий день максимально комфортным. Максимальная нагрузка 150 кг.",
+    "IE_DETAIL_TEXT": "Компактное кресло имеет износостойкую обивку и удобные S-образные подлокотники. Широкая эргономичная спинка сделают рабочий день максимально комфортным. Максимальная нагрузка 150 кг.",
+    "IP_PROP2": 620,
+    "IP_PROP3": "910-1030",
+    "IP_PROP4": 550,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/eab/xtbdnvvwp34hr13pkkfxf9h179owxne4.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c07/e2ov6rr71q3np7wc20w84u4j9wg98amp.webp",
+    "IP_PROP5": 584,
+    "IP_PROP26": 584,
+    "IP_PROP27": 262,
+    "IP_PROP28": 9,
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,09",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "barry_ch",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f14/idd1i10ecas1ouacmfg1593nsri0vsea.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_600_ch",
+    "IP_PROP42": "pl_s_barry",
+    "IP_PROP43": "gl_260_ch",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_w_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 4240,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 4368,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 4240,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 27355,
+      "IE_NAME": "Кресло М-902 Бэрри хром Ср Moderno 07 (синий)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fda/fda060278e970ad85d7ad7bb0970f6e3.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a85/a85f98e31ca50794dab15a8c631522fd.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7811,
+      "IP_PROP34": 7807,
+      "IP_PROP35": "ИКЯБэрри11",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/792/7927867d93e79237ef9e3d0644b069e9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9c0/9c0457395b1b7e4ee918b478ba32de35.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f83/f8345f070fc1953fc4c14970f40d07da.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/860/860e4ba6bea2ab972ac556f3c49f7c8c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ebe/ebeabcfabf338589aa3f34ac0b575f10.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_07",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4240,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4368,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4240,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 27354,
+      "IE_NAME": "Кресло М-902 Бэрри хром Ср Moderno 05 (терракот)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/392/3922613038f164b7f8ce369a51e4afd9.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7db/7dbd98663d5de280cd9fe1e1aab22b20.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7812,
+      "IP_PROP34": 7807,
+      "IP_PROP35": "ИКЯБэрри10",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/75a/75ae5181ba5ff66ee1cc7082d8d88ecb.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/387/3873d296401d5c568d322f6364da1402.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5ec/5ecb866e0a624a6394e5960cf2b15bba.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec1/ec13253990174120a98aecc498326386.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/230/230a71d189b8e673226220a2fac39cca.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_05",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4240,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4368,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4240,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 27353,
+      "IE_NAME": "Кресло М-902 Бэрри хром Ср Moderno 02 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cd2/cd2c9879636bf7f86bc91eda7ee2c7f7.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/22a/22a79354099f4771c5fbd5ce8bbd65cc.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7813,
+      "IP_PROP34": 7807,
+      "IP_PROP35": "ИКЯБэрри09",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/871/871b095d0c4811807b85d06f93824528.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7f4/7f44cba779a8af15d2f7974853a67ce4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ecc/ecc4d2db90573bb9742c098f42bee3d3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/71e/71e4e93bfd5a350517b95b3364f8bbae.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/664/664c442ed5e8046fa5f2f4f25e5091dc.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4240,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4368,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4240,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 27356,
+      "IE_NAME": "Кресло М-902 Бэрри хром Ср Moderno 11 (мокко)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7c5/7c5b6da026619cf20580d90047c01a89.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1f2/1f2cfdd1bb9faab9daebfc498a3e91ea.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7814,
+      "IP_PROP34": 7807,
+      "IP_PROP35": "ИКЯБэрри12",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a96/a961ccd0284e441b69de95df507f8fc8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/373/373f713a64c10edf8b9afc81790bcb0f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6b3/6b37e3e2c18b7434fa70d2657a5c608a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/315/31506a820906927d130c4a80c65ee8e5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/174/17418934a26cae1cf3e4336e2f3780c5.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_11",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4240,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4368,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4240,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Компактное стильное компьютерное кресло М-902 Бэрри хром производства компании UTFC",
+  "base_name": "Кресло М-902 Бэрри хром",
+  "article_number": "ИКЯБэрри11",
+  "full_describe": "Компактное кресло имеет износостойкую обивку и удобные S-образные подлокотники. Широкая эргономичная спинка сделают рабочий день максимально комфортным. Максимальная нагрузка 150 кг.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/barry_ch/",
+  "Основание": "Пятилучье хромированное Альфа 640 мм",
+  "Подлокотники": "Нерегулируемые пластиковые S-образные, для кресла Бэрри",
+  "Газлифт": "Газ-лифт хром 3 категории по стандарту Germany DIN 4550, h=260 мм, длина штока 120 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые белые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм",
+  "finish_type": [
+    "Ткань Moderno",
+    "-"
+  ],
+  "color": [
+    "Ткань Moderno 02 (серый)",
+    "Ткань Moderno 05 (терракотовый)",
+    "Ткань Moderno 07 (синий)",
+    "Ткань Moderno 11 (мокко)"
+  ],
+  "variant_name": [
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 02 (серый))",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 05 (терракотовый))",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 07 (синий))",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 11 (мокко))",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 02 (серый))",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 05 (терракотовый))",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 07 (синий))",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 11 (мокко))",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 02 (серый),, )",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 05 (терракотовый),, )",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 07 (синий),, )",
+    "Кресло М-902 Бэрри хром (Ткань Moderno, Ткань Moderno 11 (мокко),, )",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 02 (серый),, )",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 05 (терракотовый),, )",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 07 (синий),, )",
+    "Кресло М-902 Бэрри хром (-, Ткань Moderno 11 (мокко),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

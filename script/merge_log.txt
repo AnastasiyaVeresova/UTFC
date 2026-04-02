@@ -1,0 +1,13 @@
+2026-03-23 10:10:10,311 - INFO - Файл merged_result.json успешно сохранён
+2026-03-23 10:16:26,287 - INFO - Файл merged_result.json успешно сохранён
+2026-03-23 15:14:04,440 - INFO - Файл merged_result.json успешно сохранён
+2026-03-30 16:11:00,995 - ERROR - Ошибка загрузки файла export_file_tovar.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 16:11:00,997 - ERROR - Ошибка загрузки файла export_file_offer.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 16:11:00,997 - ERROR - Не удалось загрузить родителей или детей
+2026-03-30 16:12:02,108 - ERROR - Ошибка загрузки файла export_file_tovar.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 16:12:02,109 - ERROR - Ошибка загрузки файла export_file_offer.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 16:12:02,109 - ERROR - Не удалось загрузить родителей или детей
+2026-03-30 16:15:04,314 - ERROR - Ошибка загрузки файла export_file_tovar.json: [Errno 2] No such file or directory: 'export_file_tovar.json'
+2026-03-30 16:15:04,314 - ERROR - Ошибка загрузки файла export_file_offer.json: [Errno 2] No such file or directory: 'export_file_offer.json'
+2026-03-30 16:15:04,314 - ERROR - Не удалось загрузить родителей или детей
+2026-03-30 16:19:59,475 - INFO - Файл merged_result.json успешно сохранён

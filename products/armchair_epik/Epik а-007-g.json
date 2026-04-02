@@ -1,0 +1,366 @@
+{
+  "namefile": [
+    "Epik а-007-g"
+  ],
+  "name_all": [
+    "EPIK A-007"
+  ],
+  "name": [
+    "EPIK A-007"
+  ],
+  "unique_name": [
+    "EPIK А-007-G"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки кресла:<br>\nнатуральная кожа (L)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Подголовник</strong> состоит из увеличенной мягкой подушки и крышки из ABS-пластика, регулируется по высоте и фиксируется в 3-х положениях",
+        "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+        "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+        "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками, регулируются и фиксируются в нескольких положениях, имеют чехол из ABS – пластика",
+        "<strong>Облицовка</strong> подголовника, спинки, сиденья и накладок подлокотников: натуральная кожа (L)",
+        "<strong>Механизм качания</strong> синхронный со слайд-системой, позволяет регулировать высоту сиденья относительно пола",
+        "<strong>Газ-лифт</strong> с высотой подъема 60 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> алюминиевое d=760 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "440",
+          "depth": "765",
+          "height": "930"
+        },
+        "box_size": "440х765х930",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "34,3",
+      "netto": "29",
+      "volume": "0,31"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "130",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_epik/1080_epik_a_007_g_l169_01.png",
+      "chair_view": "img/armchair_epik/1080_epik_a_007_g_l169_02.png",
+      "dimensions": "img/armchair_epik/dimensions/1080_epik_a_007_g_l169_01.png",
+      "box": "img/box_epik.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/040/oazbzfn7g0ijv5oidrn04ujwalc75xx3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/300/01casxsf85ra0cyqp39ybuzti3tfxbvd.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/02d/140_140_0/br0pu7d9thko7p1izltk4wf81jur6489.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5d7/kn6ke3uireztopz8huah9pdnrr1kdgpr.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/300/140_140_0/01casxsf85ra0cyqp39ybuzti3tfxbvd.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0f5/c89kcztt9b9esn2o3av5wber7htz33un.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
+        "https://utfc.ru/upload/resize_cache/iblock/63e/140_140_0/nmnujwyiiwa4e36781yfo28pb5s3kxf2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/02d/br0pu7d9thko7p1izltk4wf81jur6489.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/63e/nmnujwyiiwa4e36781yfo28pb5s3kxf2.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fe7/yakdcttjqqx6ssma1sfou153e3hqyojg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/29a/u5jozhnnne6skwvd0o3gxvv0e1eqhuzq.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/0f5/140_140_0/c89kcztt9b9esn2o3av5wber7htz33un.png",
+        "https://utfc.ru/upload/resize_cache/iblock/78c/140_140_0/922crndd9r723w82mx447goe9tuxoyu9.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d68/45a95lo7be08ny5r2fq6ls3p4unxk2rv.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/uf/13f/zemtuqtzsf4q8jf0im1aqn85utk598gl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78c/922crndd9r723w82mx447goe9tuxoyu9.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/783/e2qcj27rn7v0qtu9icscuwbpecpspsnu.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/13f/zemtuqtzsf4q8jf0im1aqn85utk598gl.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1250",
+        "max": "1310"
+      },
+      "headrest_height": {
+        "min": "230",
+        "max": "280"
+      },
+      "seat_to_floor_height": {
+        "min": "455",
+        "max": "515"
+      },
+      "armrest_height_from_seat": {
+        "min": "160",
+        "max": "230"
+      },
+      "chair_depth": {
+        "min": "680",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "490",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "520",
+        "max": null
+      },
+      "seat_width_with_armrests": {
+        "min": "750",
+        "max": 750
+      },
+      "seat_width": {
+        "max": "530",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "760",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "455",
+        "max": "515"
+      },
+      "armrest_height_from_floor": {
+        "min": "380",
+        "max": "450"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {
+        "max": "580"
+      },
+      "backrest_width_narrow": {
+        "max": "510"
+      },
+      "backrest_width_wide": {
+        "max": "520"
+      },
+      "recommended_load": "90",
+      "max_load": "130",
+      "skeleton": "немонолитный",
+      "minpromtorg": {},
+      "netto": "29",
+      "brutto": "34,3",
+      "package_width": "440",
+      "package_depth": "765,0",
+      "package_height": "930,0",
+      "volume": "0,313038",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1077",
+    "IE_NAME": "EPIK А-007-G L169 (черный)",
+    "IE_PREVIEW_TEXT": "Грациозная модель кресла руководителя. Изящные изгибы, натуральная кожа, декоративные вставки из ABS-пластика с аквапринтом - все это подчеркивает эксклюзивность модели. Подголовник и подлокотники регулируются. Максимальная нагрузка 130 кг.",
+    "IE_DETAIL_TEXT": "Грациозная модель кресла руководителя. Изящные изгибы, натуральная кожа, декоративные вставки из ABS-пластика с аквапринтом - все это подчеркивает эксклюзивность модели. Подголовник и подлокотники регулируются. Максимальная нагрузка 130 кг.",
+    "IP_PROP2": 750,
+    "IP_PROP3": "1250-1310",
+    "IP_PROP4": 680,
+    "IP_PROP6": "",
+    "IP_PROP19": 130,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/29a/u5jozhnnne6skwvd0o3gxvv0e1eqhuzq.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/5d7/kn6ke3uireztopz8huah9pdnrr1kdgpr.png",
+    "IP_PROP5": 440,
+    "IP_PROP26": 930,
+    "IP_PROP27": 765,
+    "IP_PROP28": "34,3",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,31",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "EPIK_A007G_L169",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/0f5/c89kcztt9b9esn2o3av5wber7htz33un.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_a007g",
+    "IP_PROP42": "pl_a007g",
+    "IP_PROP43": "gl_a007g",
+    "IP_PROP44": "m_a007",
+    "IP_PROP45": "spec_a007",
+    "IP_PROP46": "r_a007g",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "ЭПИК",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 62600,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 64478,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 62600,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50291,
+      "IE_NAME": "Кресло EPIK A-007-G L169 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12377,
+      "IP_PROP34": "a_1077",
+      "IP_PROP35": "КИЕ-00008",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_54",
+      "IP_PROP38": "a007_L169",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 11,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 62600,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 64478,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 62600,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Стильное офисное кресло EPIK А-007-G L169 (черный) производства компании UTFC",
+  "base_name": "Кресло EPIK А-007-G L169 (черный)",
+  "article_number": "КИЕ-00008",
+  "full_describe": "Грациозная модель кресла руководителя. Изящные изгибы, натуральная кожа, декоративные вставки из ABS-пластика с аквапринтом - все это подчеркивает эксклюзивность модели. Подголовник и подлокотники регулируются. Максимальная нагрузка 130 кг.",
+  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_a007g_l169/",
+  "Основание": "Пятилучье алюминиевое А-007-G, покрытие глянцевое, диаметр 760 мм",
+  "Подлокотники": "Подлокотники алюминиевые A-007-G регулируемые с мягкими накладками из натуральной кожи с фиксацией в нескольких положениях, чехол из ABS- пластика",
+  "Газлифт": "Высококачественный газ-лифт 3  класса, сертифицирован по стандарту SGS и BIFMA",
+  "Механизм": "Синхронный механизм со скольжением сиденья",
+  "Особенности": "Декоративные вставки из ABS-пластика с аквапринтом",
+  "Ролики": "Прочные пластиковые ролики с идеальной плавностью вращения",
+  "finish_type": [
+    "Кожа натуральная А-007",
+    "-"
+  ],
+  "color": [
+    "Кожа натуральная L169 (черный)"
+  ],
+  "variant_name": [
+    "Кресло EPIK А-007-G L169 (черный) (Кожа натуральная А-007, Кожа натуральная L169 (черный))",
+    "Кресло EPIK А-007-G L169 (черный) (-, Кожа натуральная L169 (черный))",
+    "Кресло EPIK А-007-G L169 (черный) (Кожа натуральная А-007, Кожа натуральная L169 (черный),, )",
+    "Кресло EPIK А-007-G L169 (черный) (-, Кожа натуральная L169 (черный),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

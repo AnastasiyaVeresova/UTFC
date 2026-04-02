@@ -1,0 +1,652 @@
+{
+  "namefile": [
+    "Энжел сн-800 чёрный"
+  ],
+  "name_all": [
+    "Энжел",
+    "Энжел хром"
+  ],
+  "name": [
+    "Энжел"
+  ],
+  "unique_name": [
+    "Энжел СН-800 чёрный"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья:<br>ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+        "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Материал</strong> облицовка сиденья: ткань-сетка (Е)",
+        "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основаниюсиденья с помощью винтов",
+        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют узкий шток"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 630,
+          "depth": 290,
+          "height": 600
+        },
+        "box_size": "630х290х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/ch_800_angel_pl_tw11_01.png",
+      "chair_view": "img/armchair_comfort/ch_800_angel_pl_tw11_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/ch_800_angel_pl_tw11_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/61e/61eee9360f562822e04d02ce736b5f6f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6c/9hbrpvq9ue3xe2v3k6vyuw2jkqwrq3wz.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f61/140_140_0/9mb6pry2g7elmgkancjw7jcbjnvfveq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f09/f0981316929abea22030fd879e7414c8.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/47c/140_140_0/i9hp5754tupf0okaj5a7ozeft6w3byah.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/53a/140_140_0/vtgxho32us08hd3vcf35xkzu0ob586ke.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3b9/p55p3pab9v1gqxsdf88002ko6eflze1y.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f6c/140_140_0/9hbrpvq9ue3xe2v3k6vyuw2jkqwrq3wz.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/265/vkqcegy7r1txd87w239ynh3eqdpqw7z9.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3e5/3e5bf4664d3032537b67a10c16a1ea40.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/53a/vtgxho32us08hd3vcf35xkzu0ob586ke.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/265/140_140_0/vkqcegy7r1txd87w239ynh3eqdpqw7z9.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1fa/1fa48316f1f300f8d49644e355c400b8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/621/v6zm3tl4o7w2peilirkqrga51f7ojr0y.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b4c/8t4ajdq00sjwpo7fh9tlwwycjimzpbsn.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/47c/i9hp5754tupf0okaj5a7ozeft6w3byah.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f61/9mb6pry2g7elmgkancjw7jcbjnvfveq4.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "880",
+        "max": "980"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "460",
+        "max": "560"
+      },
+      "armrest_height_from_seat": {
+        "min": "165",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "650",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "450",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "440",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "575",
+        "max": null
+      },
+      "seat_width": {
+        "max": "490",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "660",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "460",
+        "max": "560"
+      },
+      "armrest_height_from_floor": {
+        "min": "240"
+      },
+      "armrest_width_support": {
+        "max": "50"
+      },
+      "armrest_length_support": {
+        "max": "300"
+      },
+      "seat_depth_km": {
+        "max": "480"
+      },
+      "backrest_height_external": {
+        "max": "550"
+      },
+      "backrest_width_narrow": {
+        "max": "410"
+      },
+      "backrest_width_wide": {
+        "max": "490"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "8",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": "не поставляется в кожзаме Z"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "не поставляется в кожзаме Z",
+  "parent": {
+    "IE_XML_ID": "p_5202",
+    "IE_NAME": "СН-800 Энжел черный",
+    "IE_PREVIEW_TEXT": "Оригинальное кресло \"Энжел\" имеет необычное дизайнерское решение. Оно оборудовано восхитительными \"крылышками\" на спинке, обтянутой прочной сеткой. Ярко выраженная эргономика позволит долгое время находиться в кресле в комфортном положении. Длинные пластиковые подлокотники обеспечат удобную посадку.",
+    "IE_DETAIL_TEXT": "Оригинальное кресло \"Энжел\" имеет необычное дизайнерское решение. Оно оборудовано восхитительными \"крылышками\" на спинке, обтянутой прочной сеткой. Ярко выраженная эргономика позволит долгое время находиться в кресле в комфортном положении. Длинные пластиковые подлокотники обеспечат удобную посадку.",
+    "IP_PROP2": 575,
+    "IP_PROP3": "880-980",
+    "IP_PROP4": 650,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/3b9/p55p3pab9v1gqxsdf88002ko6eflze1y.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/621/v6zm3tl4o7w2peilirkqrga51f7ojr0y.webp",
+    "IP_PROP5": 630,
+    "IP_PROP26": 600,
+    "IP_PROP27": 290,
+    "IP_PROP28": "9,45",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,11",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ch800_angel_black",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e76/bvwk7qwibn1w5izraemgkxa06xrw1ss2.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_arkt_pl",
+    "IP_PROP42": "pl_angel_bl",
+    "IP_PROP43": "",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5346,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5507,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5346,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 30446,
+      "IE_NAME": "Кресло СН-800 Энжел черный Ср TW-01/Е11-к (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/654/yuv9e1q57elfw23ev4yrdykdy3h86958.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11093,
+      "IP_PROP34": "p_5202",
+      "IP_PROP35": "CH800Энжел10",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f61/9mb6pry2g7elmgkancjw7jcbjnvfveq4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6c/9hbrpvq9ue3xe2v3k6vyuw2jkqwrq3wz.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/265/vkqcegy7r1txd87w239ynh3eqdpqw7z9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/47c/i9hp5754tupf0okaj5a7ozeft6w3byah.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/53a/vtgxho32us08hd3vcf35xkzu0ob586ke.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_11_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 4,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5346,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5507,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5346,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30479,
+      "IE_NAME": "Кресло СН-800 Энжел черный Ср TW-01/Е53-к (черный/темно-синий)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/50b/iptu1a3etpcgp380rdal8tcd9jxpm9wk.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e52/54aiwhkoomiqxp5w3085c20v0jwufl7l.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11154,
+      "IP_PROP34": "p_5202",
+      "IP_PROP35": "CH800Энжел09",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c7f/055iy46brocqmg7znytz5jn7hb4wr14z.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b63/miskf55xf8svgobeugts606m3kqaeaf0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/195/z4wvlvedgz9up75gkzz3c52gg0vnzo62.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8c3/rt6behgw436l08g6wqxi2qqmnp4nwv08.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/048/07fwh8c7xb391t11xnxql90ehroes40e.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_53_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5346,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5507,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5346,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30480,
+      "IE_NAME": "Кресло СН-800 Энжел черный Ср TW-01/Е105-к (черный/оранжевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/313/bxmc09a8cs3bfb2qga9z3j4jgdp0r4g8.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4fb/pa99e84ujb9h18sdif7pkfh9mdcf4zw8.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11155,
+      "IP_PROP34": "p_5202",
+      "IP_PROP35": "CH800Энжел04",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/894/5gpez2xoa4nliyqhn039y6a53q62rzl9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/062/wbapp0j85zu1qprnaqzwejd8jiwzzi36.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/027/2ldcqfx7661ujkiiz986ar396c8y5akf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3af/yvslao4bwvf20m1youn1ypcxqu2986nc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/842/zfwwc6gvj0l3m9d0jekncnvone794uny.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_105_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5346,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5507,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5346,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30481,
+      "IE_NAME": "Кресло СН-800 Энжел черный Ср TW-01/Е06-к (черный/синий)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fa5/97nq1wanlpi54ie5cms8xaa2jqsf0ltr.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/82c/rhxgsyo4rg00h24j78fqtuwtihv2h3ym.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11156,
+      "IP_PROP34": "p_5202",
+      "IP_PROP35": "CH800Энжел05",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6e/xf51o4dqp2ugvl2br1iho97li8qw4upq.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/892/2looyqamr1wlneu3ws03ndywiupu3iis.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5e1/mixjaem6t97oimiz936hwq1u5fcazhcr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/592/41nb78hwjp06q2oea13x821l8dw7e3y7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/18d/kbr55p2uoz85iwtfzz6t8f902ev096no.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_06_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5346,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5507,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5346,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30482,
+      "IE_NAME": "Кресло СН-800 Энжел черный Ср TW-01/Е02-к (черный/красный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4f4/5gbzbgu5et90keluwr6jdr5ewpesxh0w.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3a8/tdmug9mhepllaz9urp4od3jq7ew3ovtp.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11157,
+      "IP_PROP34": "p_5202",
+      "IP_PROP35": "КК-00243",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d7f/haplqa6opqgbmf1gsm6vvq2ecu3pjz4v.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6fe/nh3ejzg2zhvita2zee9sg2xo9ow2jahv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0cc/n8u1vs21eaq2wpgr1czbttb3bedhcia3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/18d/5t7fc5o7xs08r4v3kzbvfwvbwvb0zbb2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e74/1b0gzllwi6q93pbrf6wndk9mojeukzh3.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_02_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5346,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5507,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5346,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Оригинальное эргономичное кресло для офиса и дома СН-800 Энжел черный производства компании UTFC",
+  "base_name": "Кресло СН-800 Энжел черный",
+  "article_number": "CH800Энжел10",
+  "full_describe": "Оригинальное кресло \"Энжел\" имеет необычное дизайнерское решение. Оно оборудовано восхитительными \"крылышками\" на спинке, обтянутой прочной сеткой. Ярко выраженная эргономика позволит долгое время находиться в кресле в комфортном положении. Длинные пластиковые подлокотники обеспечат удобную посадку.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/ch800_angel_black/",
+  "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
+  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для кресла Энжел",
+  "Газлифт": "",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Сетка TW",
+    "-"
+  ],
+  "color": [
+    "Сетка TW-01 (черный)"
+  ],
+  "variant_name": [
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е02-к (красный))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е06-к (синий))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е02-к (красный))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е06-к (синий))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-800 Энжел черный (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е02-к (красный))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е06-к (синий))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), -, Ткань Сетка Е02-к (красный))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), -, Ткань Сетка Е06-к (синий))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-800 Энжел черный (-, Сетка TW-01 (черный), -, Ткань Сетка Е53-к (темно-синий))"
+  ],
+  "finish_type_seat": [
+    "Ткань Сетка Е",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань Сетка Е02-к (красный)",
+    "Ткань Сетка Е06-к (синий)",
+    "Ткань Сетка Е105-к (оранжевый)",
+    "Ткань Сетка Е11-к (черный)",
+    "Ткань Сетка Е53-к (темно-синий)"
+  ]
+}

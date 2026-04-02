@@ -1,0 +1,645 @@
+{
+  "namefile": [
+    "Мартин люкс т-01 пластик"
+  ],
+  "name": [
+    "Мартин"
+  ],
+  "unique_name": [
+    "Мартин люкс Т-01 пластик"
+  ],
+  "vid": [
+    "кресло оператора"
+  ],
+  "category": [
+    "поворотное операторское кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях, изготавливается с мягкими элементами спинки и сиденья<br>Возможность индивидуальной адаптации кресла под конкретного человека обеспечивает комфортное положение во время работы"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья: ткань (С), ткань-сетка (Е), кожзаменитель (Z), микролюкс (М), экокожа (S,R)<br>- цвет материала<br>- комплектация подлокотниками: Гольф, Самба, Рондо, Соната, Т-01, без подлокотников"
+      ],
+      "components": [
+        "спинки, сиденья с опорой-пиастрой, соединительного элемента СПТ, газ-лифта, пятилучья и 5-ти роликов и 2-х подлокотников (по желанию заказчика)",
+        "<strong>Спинка</strong> состоит из основания пластикового, вкладыша пенополиуретанового, чехла платикового, металлической скобы спинки, металлической Т-скобы и обивочного элемента. Скоба спинки крепится к основанию с помощью 4-х саморезов. Т-скоба соединяет основание спинки с элементом СПТ с помощью ручки-винта М8. Материал облицовки спинки: ткань (С), ткань-сетка (Е), кожзаменитель (Z), микролюкс (М), экокожа (S,R)",
+        "<strong>Сиденье</strong> состоит из основания, пиастры, чехла пластикового, вкладыша поролонового и обивочного элемента. Основание изготовлено из гнуто-клееной 5-слойной фанеры. Пиастра соединяет шток газ-лифта с основанием сиденья кресла, снабжена рычагом регулировки газ-лифта. Пиастра крепится к основанию 4-мя винтами М6. Вкладыши спинки и сиденья - пенополиуретановые (жесткость - 40, плотность 20 кг/м<sup>3</sup>). Материал облицовки сидения: ткань (С), ткань-сетка (Е), кожзаменитель (Z), микролюкс (М), экокожа (S,R)",
+        "Соединительный элемент СПТ (узел крепления спинки с сиденьем) обеспечивает регулировку высоты, наклона спинки и расстояния от спинки до сиденья",
+        "<strong>Газ-лифт</strong> черный с высотой подъема 140 мм ± 10 позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> пластиковые черные d=50 мм",
+        "<strong>Материал</strong> чехлов спинки и сиденья, чехла газ-лифта, чехла СПТ, подлокотников, пятилучья - полипропилен",
+        "Ролики, ручка механизма качания - пластиковые из материалов согласно технологии поставщика комплектующих",
+        "Покрытие металлических деталей: термореактивная порошковая краска, цвет - черный"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 584,
+          "depth": 262,
+          "height": 584
+        },
+        "box_size": "584х262х584",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/martin_lux_t01_m02_01.png",
+      "chair_view": "img/armchair_personal/martin_lux_t01_m02_02.png",
+      "dimensions": "img/armchair_personal/dimensions/martin_lux_t01_m02_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db2/jxp02rwa2amxftrut0a3lvulz4u195ud.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/03c/rsgg7so9ilu11vec5wq4bjmbt3hs99oc.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/868/140_140_0/qgoxmeorblb36l3f0dkdvu0rcs2yan17.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/433/ea0a27rxjabok2n92r69hv43vodi18a6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4af/v599f09bq8lijfpahpvsh6e6uyzzgjqk.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/868/qgoxmeorblb36l3f0dkdvu0rcs2yan17.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/af1/m6rb7pi9s6gd09sbmg8u9331kl4i43un.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/577/9a6dhm5zwymkq3xc30n8m3ycz4hurjwc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b49/b49e31d80117a9cd6d285641c11faa87.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/577/140_140_0/9a6dhm5zwymkq3xc30n8m3ycz4hurjwc.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/03c/140_140_0/rsgg7so9ilu11vec5wq4bjmbt3hs99oc.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/433/140_140_0/ea0a27rxjabok2n92r69hv43vodi18a6.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/70d/ko5kso5w4sbse5pf0i9hsxtuov0dhsxo.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/97d/97d06c904ddcb338a6ffec201345fcb9.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/70d/140_140_0/ko5kso5w4sbse5pf0i9hsxtuov0dhsxo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "975",
+        "max": "1115"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "430",
+        "max": "570"
+      },
+      "armrest_height_from_seat": {
+        "min": "190",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "540",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "370",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "570",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "555",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "460",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "580",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "430",
+        "max": "570"
+      },
+      "armrest_height_from_floor": {
+        "min": "240"
+      },
+      "armrest_width_support": {
+        "max": "70"
+      },
+      "armrest_length_support": {
+        "max": "260"
+      },
+      "seat_depth_km": {
+        "max": "450"
+      },
+      "backrest_height_external": {
+        "max": "500"
+      },
+      "backrest_width_narrow": {
+        "max": "320"
+      },
+      "backrest_width_wide": {
+        "max": "450"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1121",
+    "IE_NAME": "Мартин Люкс Т-01",
+    "IE_PREVIEW_TEXT": "Комфортное кресло оператора имеет увеличенные мягкие подушки на спинке и сиденье, обитые износостойкой тканью. Удобные пластиковые подлокотники Т-образные подлокотники и синхромеханизм \"Люкс\" с 2-мя рычагами. Один рычаг для регулировки высоты подъема стула, второй рычаг позволяет свободно менять положение тела, обеспечивая постоянный контакт спины пользователя со спинкой кресла, а также фиксирует угол наклона спинки в любом положении.",
+    "IE_DETAIL_TEXT": "Комфортное кресло оператора имеет увеличенные мягкие подушки на спинке и сиденье, обитые износостойкой тканью. Удобные пластиковые подлокотники Т-образные подлокотники и синхромеханизм \"Люкс\" с 2-мя рычагами. Один рычаг для регулировки высоты подъема стула, второй рычаг позволяет свободно менять положение тела, обеспечивая постоянный контакт спины пользователя со спинкой кресла, а также фиксирует угол наклона спинки в любом положении.",
+    "IP_PROP2": 555,
+    "IP_PROP3": "975-1115",
+    "IP_PROP4": 540,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/af1/m6rb7pi9s6gd09sbmg8u9331kl4i43un.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4af/v599f09bq8lijfpahpvsh6e6uyzzgjqk.webp",
+    "IP_PROP5": 574,
+    "IP_PROP26": 574,
+    "IP_PROP27": 252,
+    "IP_PROP28": 10,
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,13",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "martin_lux_t-01",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f91/r4xeaxjhe1j1ffjyjdm3ucxv2g00e2o8.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_580_pl",
+    "IP_PROP42": "pl_t_01",
+    "IP_PROP43": "gl_290",
+    "IP_PROP44": "m_sin",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 4073,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 4196,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 4073,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50636,
+      "IE_NAME": "Кресло Мартин Люкс Т-01 Moderno 02 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8ba/mxp7i8jdo11a6bvy438rdnatfnzou8hj.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c22/29ez2ar2k22w4v9l0foir6a6qkh0jc18.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12752,
+      "IP_PROP34": "a_1121",
+      "IP_PROP35": "ОК-00573",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/70d/ko5kso5w4sbse5pf0i9hsxtuov0dhsxo.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/577/9a6dhm5zwymkq3xc30n8m3ycz4hurjwc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/868/qgoxmeorblb36l3f0dkdvu0rcs2yan17.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/433/ea0a27rxjabok2n92r69hv43vodi18a6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/03c/rsgg7so9ilu11vec5wq4bjmbt3hs99oc.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 1,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4073,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4196,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4073,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50637,
+      "IE_NAME": "Кресло Мартин Люкс Т-01 Moderno 05 (терракот)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/182/59u052u1zjs8l4b2b1uxcdnzx3rseqrb.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e59/1qw4uvvxgjwxdec7k6p5lw5l91ga0q68.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12753,
+      "IP_PROP34": "a_1121",
+      "IP_PROP35": "ОК-00615",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/943/3rg5mk8g50v3gzuks7l4cfgmbiblbcn5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d5d/v10o8ew0s15dn8v0ad46jv1252r4y1ox.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/284/vs73m6mij1cq4lrfsab0mw83ll4vf2yw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/35b/9ouvajcmx1fk7uax1kgty36y6i7zy1u5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/594/m2pie612acct8kiafr3qlk3ou9jxfz2x.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_05",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4073,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4196,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4073,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50638,
+      "IE_NAME": "Кресло Мартин Люкс Т-01 Moderno 07 (синий)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ff4/p2gc1q8sxlhks2pxd0pzk73l6w22u1tg.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d05/k25e9ikdecp8apgdhcorn65gb9353y8a.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12754,
+      "IP_PROP34": "a_1121",
+      "IP_PROP35": "ОК-00616",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4b5/pw052f4ht8gxfrftdcfop83wud0kipr4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eed/gd2gdtb4ilsrigcidb1dsj3kyrj8r6g7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c4/j25yphzw789gvdnjbodz9x75wmrczm5x.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ecf/h55qifo3go4k33cl4x7enyuyad5qm4hu.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5c7/jy165ixe3dplb9shh2qk9u5xk04lvebq.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_07",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4073,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4196,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4073,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50639,
+      "IE_NAME": "Кресло Мартин Люкс Т-01 Moderno 11 (мокко)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2fa/bd7ncqz5ue5tj3y50n3raw19w2fc3xbk.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dab/5nxvjr173uw777vfp9bl5c24nzlz47wy.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12755,
+      "IP_PROP34": "a_1121",
+      "IP_PROP35": "ОК-00617",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/66d/d1s77jiwd5qm5s68lujlsp2a3jkpbopi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/548/ogdnhvmwycdxfx4c49khocu3t4ju4rnf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c23/p620vnzllmw0htw2kl4bi39jedlg193s.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8a4/8gqqtfel3o6h8qi9glnsq8rp5edwxqgn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ee7/jmw8b1vps9acel392yazcgc18v85w8b5.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_11",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4073,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4196,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4073,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50640,
+      "IE_NAME": "Кресло Мартин Люкс Т-01 Moderno 16 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/177/5xw24td8rsnr5kpt3akp6fes2xzut5lx.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/71d/5xhub135duxnj0025k9slu58gpiuruof.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12756,
+      "IP_PROP34": "a_1121",
+      "IP_PROP35": "ОК-00618",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4dd/w3tu87u6xnaj3qgn0ujxh5jmj0xbod2g.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d77/7wkm6gahq3j94r87byxhn39jeojehekp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/621/n7u3iuylurbdmng331me9yonf7a95s23.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b7f/n7pzcf6i4x5ebktjyue1s4habmjs8hoq.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ffd/c3s78jk8ubqbf1n6aikx3l3azz90olmm.webp"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_16",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4073,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4196,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4073,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло Мартин Люкс Т-01 производства компании UTFC",
+  "base_name": "Кресло Мартин Люкс Т-01",
+  "article_number": "ОК-00573",
+  "full_describe": "Комфортное кресло оператора имеет увеличенные мягкие подушки на спинке и сиденье, обитые износостойкой тканью. Удобные пластиковые подлокотники Т-образные подлокотники и синхромеханизм \"Люкс\" с 2-мя рычагами. Один рычаг для регулировки высоты подъема стула, второй рычаг позволяет свободно менять положение тела, обеспечивая постоянный контакт спины пользователя со спинкой кресла, а также фиксирует угол наклона спинки в любом положении.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/martin_lux_t-01/",
+  "Основание": "Пятилучье пластиковое d=580 мм",
+  "Подлокотники": "Подлокотник Т-01 пластиковый",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+  "Механизм": "Синхромеханизм кресла с двумя рычагами. Один рычаг для регулировки высоты подъема кресла, второй рычаг позволяет свободно менять положение тела, обеспечивая постоянный контакт спины пользователя со спинкой кресла, а также фиксирует угол наклона спинки в любом положении",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Ткань Moderno",
+    "-"
+  ],
+  "color": [
+    "Ткань Moderno 16 (черный)",
+    "Ткань Moderno 02 (серый)",
+    "Ткань Moderno 05 (терракотовый)",
+    "Ткань Moderno 07 (синий)",
+    "Ткань Moderno 11 (мокко)"
+  ],
+  "variant_name": [
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 16 (черный))",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 02 (серый))",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 05 (терракотовый))",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 07 (синий))",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 11 (мокко))",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 16 (черный))",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 02 (серый))",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 05 (терракотовый))",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 07 (синий))",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 11 (мокко))",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 16 (черный),, )",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 02 (серый),, )",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 05 (терракотовый),, )",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 07 (синий),, )",
+    "Кресло Мартин Люкс Т-01 (Ткань Moderno, Ткань Moderno 11 (мокко),, )",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 16 (черный),, )",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 02 (серый),, )",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 05 (терракотовый),, )",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 07 (синий),, )",
+    "Кресло Мартин Люкс Т-01 (-, Ткань Moderno 11 (мокко),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

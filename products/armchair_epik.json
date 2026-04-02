@@ -1,0 +1,2707 @@
+[
+    {
+        "namefile": [
+            "Epik a-112-g"
+        ],
+        "name_all": [
+            "EPIK A-112"
+        ],
+        "name": [
+            "EPIK A-112"
+        ],
+        "unique_name": [
+            "EPIK A-112-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла:<br>\nнатуральная кожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: натуральная кожа",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками",
+                    "<strong>Механизм качания</strong> синхронный, позволяет регулировать высоту сиденья, жесткость отклонения спинки и обеспечивает фиксацию наклона в 4-х положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 85 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют узкий шток"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "920",
+                        "depth": "340",
+                        "height": "650"
+                    },
+                    "box_size": "920х340х650",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "26",
+                "netto": "23,4",
+                "volume": "0,20332"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_112_g_l114_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_112_g_l114_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_112_g_l114_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1225",
+                    "max": "1310"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "460",
+                    "max": "545"
+                },
+                "armrest_height_from_seat": {
+                    "min": "210",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "510",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "805",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "680",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "550",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "460",
+                    "max": "545"
+                },
+                "armrest_height_from_floor": {
+                    "min": "285"
+                },
+                "armrest_width_support": {
+                    "max": "60"
+                },
+                "armrest_length_support": {
+                    "max": "290"
+                },
+                "seat_depth_km": {
+                    "max": "525"
+                },
+                "backrest_height_external": {
+                    "max": "880"
+                },
+                "backrest_width_narrow": {
+                    "max": "510"
+                },
+                "backrest_width_wide": {
+                    "max": "540"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "23,4",
+                "brutto": "26",
+                "package_width": "920",
+                "package_depth": "340,0",
+                "package_height": "650,0",
+                "volume": "0,20332",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik a-130-g"
+        ],
+        "name_all": [
+            "EPIK A-130"
+        ],
+        "name": [
+            "EPIK A-130"
+        ],
+        "unique_name": [
+            "EPIK A-130-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими полиуретановыми накладками",
+                    "<strong>Механизм качания</strong> синхронный, позволяет регулировать высоту сиденья, жесткость отклонения спинки и обеспечивает фиксацию наклона в 4-х положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "890",
+                        "depth": "350",
+                        "height": "650"
+                    },
+                    "box_size": "890х350х650",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "22",
+                "netto": "19,4",
+                "volume": "0,202475"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/epik_a_130_g_black_01.png",
+                "chair_view": "img/armchair_epik/epik_a_130_g_black_02.png",
+                "dimensions": "img/armchair_epik/dimensions/epik_a_130_g_black_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1215",
+                    "max": "1315"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "460",
+                    "max": "560"
+                },
+                "armrest_height_from_seat": {
+                    "min": "210",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "650",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "480",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "770",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "640",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "510",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "460",
+                    "max": "560"
+                },
+                "armrest_height_from_floor": {
+                    "min": "285"
+                },
+                "armrest_width_support": {
+                    "max": "60"
+                },
+                "armrest_length_support": {
+                    "max": "300"
+                },
+                "seat_depth_km": {
+                    "max": "500"
+                },
+                "backrest_height_external": {
+                    "max": "860"
+                },
+                "backrest_width_narrow": {
+                    "max": "450"
+                },
+                "backrest_width_wide": {
+                    "max": "500"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "19,4",
+                "brutto": "22",
+                "package_width": "890",
+                "package_depth": "350,0",
+                "package_height": "650,0",
+                "volume": "0,202475",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik a-155-g"
+        ],
+        "name_all": [
+            "EPIK A-155"
+        ],
+        "name": [
+            "EPIK A-155"
+        ],
+        "unique_name": [
+            "EPIK A-155-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими полиуретановыми накладками",
+                    "<strong>Механизм качания</strong> синхронный, позволяет регулировать высоту сиденья, жесткость отклонения спинки и обеспечивает фиксацию наклона в 4-х положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют узкий шток"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "855",
+                        "depth": "340",
+                        "height": "650"
+                    },
+                    "box_size": "855х340х650",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "22",
+                "netto": "19,15",
+                "volume": "0,188955"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/epik_a_155_g_black_01.png",
+                "chair_view": "img/armchair_epik/epik_a_155_g_black_02.png",
+                "dimensions": "img/armchair_epik/dimensions/epik_a_155_g_black_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1210",
+                    "max": "1290"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "500",
+                    "max": "580"
+                },
+                "armrest_height_from_seat": {
+                    "min": "220",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "730",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "490",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "740",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "500",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "500",
+                    "max": "580"
+                },
+                "armrest_height_from_floor": {
+                    "min": "290"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {
+                    "max": "500"
+                },
+                "backrest_height_external": {
+                    "max": "840"
+                },
+                "backrest_width_narrow": {
+                    "max": "470"
+                },
+                "backrest_width_wide": {
+                    "max": "520"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "19,15",
+                "brutto": "22",
+                "package_width": "855",
+                "package_depth": "340,0",
+                "package_height": "650,0",
+                "volume": "0,188955",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik а-177-g"
+        ],
+        "name_all": [
+            "EPIK A-177"
+        ],
+        "name": [
+            "EPIK A-177"
+        ],
+        "unique_name": [
+            "EPIK A-177-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях<br>Механизм качания позволяет фиксировать наклон кресла в любом положении, что обеспечит полный комфорт и расслабление во время рабочего дня"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    ""
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: L187-200 (светло-серый - коричневый), 187-200 (светло-серый - коричневый) (L - натуральная кожа)",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в любом положении",
+                    "<strong>Газ-лифт</strong> с высотой подъема 70 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "1065",
+                        "depth": "730",
+                        "height": "585"
+                    },
+                    "box_size": "1065х730х585",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Пятилучье, газ-лифт и ролики - упакованы в отдельный гофрокороб размером <strong>690х100х660 мм</strong><br>Обитый каркас упакован в Г-образный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "34,2",
+                "netto": "24,9",
+                "volume": "0,45480825"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_177_g_187_200_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_177_g_187_200_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_177_g_187_200_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1170",
+                    "max": "1240"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "430",
+                    "max": "500"
+                },
+                "armrest_height_from_seat": {
+                    "min": "220",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "510",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "760",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "690",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "530",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": null,
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": null,
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "430",
+                    "max": "500"
+                },
+                "armrest_height_from_floor": {
+                    "min": "330"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {},
+                "backrest_width_narrow": {
+                    "max": "440"
+                },
+                "backrest_width_wide": {
+                    "max": "560"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "монолитный",
+                "minpromtorg": {},
+                "netto": "24,9",
+                "brutto": "34,2",
+                "package_width": "1065",
+                "package_depth": "730,0",
+                "package_height": "585,0",
+                "volume": "0,45480825",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "монолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik a-181-g"
+        ],
+        "name_all": [
+            "EPIK A-181"
+        ],
+        "name": [
+            "EPIK A-181"
+        ],
+        "unique_name": [
+            "EPIK A-181-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла: натуральная кожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: натуральная кожа",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в 4-х положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 70 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=50 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "970",
+                        "depth": "635",
+                        "height": "695"
+                    },
+                    "box_size": "970х635х695",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Пятилучье, газ-лифт и ролики упакованы отдельно в гофрокороб размером <strong>690х100х660 мм</strong><br>Каждое кресло упаковано в отдельный Г-образный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "32,35",
+                "netto": "26,05",
+                "volume": "0,42808525"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_181_g_l169_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_181_g_l169_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_181_g_l169_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1235",
+                    "max": "1300"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "490",
+                    "max": "565"
+                },
+                "armrest_height_from_seat": {
+                    "min": "260",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "750",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "500",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "775",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "720",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "580",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": null,
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": null,
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "490",
+                    "max": "565"
+                },
+                "armrest_height_from_floor": {
+                    "min": "380"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {},
+                "backrest_width_narrow": {
+                    "max": "460"
+                },
+                "backrest_width_wide": {
+                    "max": "550"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "монолитный",
+                "minpromtorg": {},
+                "netto": "26,05",
+                "brutto": "32,35",
+                "package_width": "970",
+                "package_depth": "635,0",
+                "package_height": "695,0",
+                "volume": "0,42808525",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "монолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik e-201-g"
+        ],
+        "name_all": [
+            "EPIK E-201"
+        ],
+        "name": [
+            "EPIK E-201"
+        ],
+        "unique_name": [
+            "EPIK E-201-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло серии комфорт"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки подголовника, спинки и сиденья: сетка<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
+                    "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: сетка",
+                    "<strong>Подлокотники</strong> - алюминиевые, регулируемые в 6-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении, слайд-система",
+                    "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "730",
+                        "depth": "660",
+                        "height": "650"
+                    },
+                    "box_size": "730х660х650",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "",
+                "netto": "20,2",
+                "volume": "0,31317"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_e_201_g_m007_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_e_201_g_m007_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_e_201_g_m007_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1060",
+                    "max": "1240"
+                },
+                "headrest_height": {
+                    "min": "150",
+                    "max": "230"
+                },
+                "seat_to_floor_height": {
+                    "min": "440",
+                    "max": "540"
+                },
+                "armrest_height_from_seat": {
+                    "min": "140",
+                    "max": "200"
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "420",
+                    "max": "480"
+                },
+                "backrest_height": {
+                    "max": null,
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "480",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "600",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "510",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "440",
+                    "max": "540"
+                },
+                "armrest_height_from_floor": {
+                    "min": "200",
+                    "max": "260"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {},
+                "backrest_width_narrow": {
+                    "max": "520"
+                },
+                "backrest_width_wide": {
+                    "max": "510"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "20,2",
+                "brutto": {},
+                "package_width": "730",
+                "package_depth": "660,0",
+                "package_height": "650,0",
+                "volume": "0,31317",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik e-212-g"
+        ],
+        "name_all": [
+            "EPIK E-212"
+        ],
+        "name": [
+            "EPIK E-212"
+        ],
+        "unique_name": [
+            "EPIK E-212-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло серии комфорт"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки подголовника, спинки и сиденья: ткань<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
+                    "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: ткань",
+                    "<strong>Подлокотники</strong> - алюминиевые, регулируемые в 6-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении, слайд-система",
+                    "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "930",
+                        "depth": "460",
+                        "height": "660"
+                    },
+                    "box_size": "930х460х660",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "23,1",
+                "netto": "19,2",
+                "volume": "0,282348"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_e_212_g_m021_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_e_212_g_m021_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_e_212_g_m021_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1160",
+                    "max": "1330"
+                },
+                "headrest_height": {
+                    "min": "210",
+                    "max": "280"
+                },
+                "seat_to_floor_height": {
+                    "min": "440",
+                    "max": "540"
+                },
+                "armrest_height_from_seat": {
+                    "min": "140",
+                    "max": "200"
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "440",
+                    "max": "490"
+                },
+                "backrest_height": {
+                    "max": null,
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "500",
+                    "max": "550"
+                },
+                "seat_width_with_armrests": {
+                    "min": "620",
+                    "max": 620
+                },
+                "seat_width": {
+                    "max": "500",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "440",
+                    "max": "540"
+                },
+                "armrest_height_from_floor": {
+                    "min": "200",
+                    "max": "260"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {},
+                "backrest_width_narrow": {
+                    "max": "400"
+                },
+                "backrest_width_wide": {
+                    "max": "440"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "19,2",
+                "brutto": "23,1",
+                "package_width": "930",
+                "package_depth": "460,0",
+                "package_height": "660,0",
+                "volume": "0,282348",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik e-222-mb"
+        ],
+        "name_all": [
+            "EPIK E-222"
+        ],
+        "name": [
+            "EPIK E-222"
+        ],
+        "unique_name": [
+            "EPIK E-222-MB"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло серии комфорт"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки подголовника, спинки и сиденья: ткань<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте",
+                    "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: ткань",
+                    "<strong>Подлокотники</strong> - алюминиевые, регулируются по высоте",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении, слайд-система",
+                    "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=680 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "730",
+                        "depth": "520",
+                        "height": "655"
+                    },
+                    "box_size": "730х520х655",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "33,4",
+                "netto": "25,5",
+                "volume": "0,248638"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_e_222_mb_s001_115_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_e_222_mb_s001_115_02 .png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_e_222_mb_s001_115_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1160",
+                    "max": "1240"
+                },
+                "headrest_height": {
+                    "min": "140",
+                    "max": "170"
+                },
+                "seat_to_floor_height": {
+                    "min": "450",
+                    "max": "530"
+                },
+                "armrest_height_from_seat": {
+                    "min": "200",
+                    "max": "240"
+                },
+                "chair_depth": {
+                    "min": "640",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "470",
+                    "max": "500"
+                },
+                "backrest_height": {
+                    "max": "630",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "685",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "500",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "680",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": null,
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": null,
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "450",
+                    "max": "530"
+                },
+                "armrest_height_from_floor": {
+                    "min": "250",
+                    "max": "290"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {
+                    "max": "590"
+                },
+                "backrest_width_narrow": {
+                    "max": "410"
+                },
+                "backrest_width_wide": {
+                    "max": "500"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "25,5",
+                "brutto": "33,4",
+                "package_width": "730",
+                "package_depth": "520,0",
+                "package_height": "655,0",
+                "volume": "0,248638",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik k-400-ch"
+        ],
+        "name_all": [
+            "EPIK K-400"
+        ],
+        "name": [
+            "EPIK K-400"
+        ],
+        "unique_name": [
+            "EPIK K-400-CH"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "конференц-кресло"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, 2-х накладок подлокотников, металлического каркаса и 4-х пластиковых опор",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+                    "<strong>Каркас</strong> металлический, хромированный. На опорную поверхность каркаса устанавливаются опоры (4 шт.)",
+                    "<strong>Опоры и накладки подлокотников</strong> - пластиковые из материалов согласно технологии поставщика комплектующих"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "760",
+                        "depth": "680",
+                        "height": "620"
+                    },
+                    "box_size": "760х680х620",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "26,5",
+                "netto": "18,25",
+                "volume": "0,320416"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_k_400_ch_169_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_k_400_ch_169_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_k_400_ch_169_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1080",
+                    "max": ""
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "470",
+                    "max": ""
+                },
+                "armrest_height_from_seat": {
+                    "min": "220",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "570",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "460",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "630",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "590",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "520",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "590",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "550",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "470"
+                },
+                "armrest_height_from_floor": {
+                    "min": "290"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {
+                    "max": "670"
+                },
+                "backrest_width_narrow": {
+                    "max": "500"
+                },
+                "backrest_width_wide": {
+                    "max": "510"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "монолитный",
+                "minpromtorg": {},
+                "netto": "18,25",
+                "brutto": "26,5",
+                "package_width": "760",
+                "package_depth": "680,0",
+                "package_height": "620,0",
+                "volume": "0,320416",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "монолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik к-430-ch"
+        ],
+        "name_all": [
+            "EPIK K-430"
+        ],
+        "name": [
+            "EPIK K-430"
+        ],
+        "unique_name": [
+            "EPIK K-430-CH"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "конференц-кресло"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "-  материал  облицовки  спинки,  сиденья  и  накладок  подлокотников:<br>\nэкокожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, 2-х накладок подлокотников, металлического каркаса и 4-х пластиковых опор",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+                    "<strong>Накладки подлокотников</strong> состоят из основания и обивочного элемента",
+                    "<strong>Каркас</strong> металлический, хромированный. На опорную поверхность каркаса устанавливаются опоры (4 шт.)",
+                    "<strong>Опоры</strong> - пластиковые из материалов согласно технологии поставщика комплектующих"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "700",
+                        "depth": "710",
+                        "height": "660"
+                    },
+                    "box_size": "700х710х660",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "20,7",
+                "netto": "16,7",
+                "volume": "0,32802"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/epik_k_430_ch_169_01.png",
+                "chair_view": "img/armchair_epik/epik_k_430_ch_169_02.png",
+                "dimensions": "img/armchair_epik/dimensions/epik_k_430_ch_169_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1070",
+                    "max": ""
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "480",
+                    "max": ""
+                },
+                "armrest_height_from_seat": {
+                    "min": "200",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "480",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "615",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "590",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "510",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "590",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "600",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "480"
+                },
+                "armrest_height_from_floor": {
+                    "min": "270"
+                },
+                "armrest_width_support": {
+                    "max": "45"
+                },
+                "armrest_length_support": {
+                    "max": "270"
+                },
+                "seat_depth_km": {
+                    "max": "500"
+                },
+                "backrest_height_external": {
+                    "max": "680"
+                },
+                "backrest_width_narrow": {
+                    "max": "475"
+                },
+                "backrest_width_wide": {
+                    "max": "500"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "монолитный",
+                "minpromtorg": {},
+                "netto": "16,7",
+                "brutto": "20,7",
+                "package_width": "700",
+                "package_depth": "710,0",
+                "package_height": "660,0",
+                "volume": "0,32802",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "монолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik р-521-sb"
+        ],
+        "name_all": [
+            "EPIK P-521"
+        ],
+        "name": [
+            "EPIK P-521"
+        ],
+        "unique_name": [
+            "EPIK P-521-SB"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло серии комфорт"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки подголовника, спинки и сиденья:\nсетка<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> пластиковый, регулируемый",
+                    "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+                    "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Облицовка подголовника, спинки и сиденья</strong>: сетка",
+                    "<strong>Подлокотники</strong> - пластиковые, регулируемые с мягкой накладкой. Материал накладки - ППУ высокой плотности",
+                    "<strong>Механизм качания</strong> синхронный со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в нескольких положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> металлическое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "730",
+                        "depth": "715",
+                        "height": "410"
+                    },
+                    "box_size": "730х715х410",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "26,2",
+                "netto": "22,4",
+                "volume": "0,2139995"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_p_521_sb_m007_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_p_521_sb_m007_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_p_521_sb_m007_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1140",
+                    "max": "1220"
+                },
+                "headrest_height": {
+                    "min": "190",
+                    "max": "230"
+                },
+                "seat_to_floor_height": {
+                    "min": "470",
+                    "max": "550"
+                },
+                "armrest_height_from_seat": {
+                    "min": "150",
+                    "max": "240"
+                },
+                "chair_depth": {
+                    "min": "640",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "440",
+                    "max": "490"
+                },
+                "backrest_height": {
+                    "max": null,
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "480",
+                    "max": "540"
+                },
+                "seat_width_with_armrests": {
+                    "min": "700",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "500",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "470",
+                    "max": "550"
+                },
+                "armrest_height_from_floor": {
+                    "min": "270",
+                    "max": "360"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {
+                    "max": "540"
+                },
+                "backrest_height_external": {
+                    "max": "540"
+                },
+                "backrest_width_narrow": {
+                    "max": "400"
+                },
+                "backrest_width_wide": {
+                    "max": "490"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "22,4",
+                "brutto": "26,2",
+                "package_width": "730",
+                "package_depth": "715,0",
+                "package_height": "410,0",
+                "volume": "0,2139995",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik р-700"
+        ],
+        "name_all": [
+            "EPIK P-700"
+        ],
+        "name": [
+            "EPIK P-700"
+        ],
+        "unique_name": [
+            "EPIK P-700"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло серии комфорт"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки подголовника и спинки: сетка<br>\n- материал облицовки сиденья: ткань<br>\n- цвет материала и пластика - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента",
+                    "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Облицовка подголовника и спинки: сетка",
+                    "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
+                    "<strong>Подлокотники</strong> - пластиковые",
+                    "<strong>Механизм качания</strong> Топ-ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                    "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> пластиковое d=680 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=50 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "700",
+                        "depth": "335",
+                        "height": "670"
+                    },
+                    "box_size": "700х335х670",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "15,3",
+                "netto": "12,6",
+                "volume": "0,157115"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_p_700_pl_tw68_115_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_p_700_pl_tw68_115_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1200",
+                    "max": "1300"
+                },
+                "headrest_height": {
+                    "min": "140",
+                    "max": "180"
+                },
+                "seat_to_floor_height": {
+                    "min": "460",
+                    "max": "560"
+                },
+                "armrest_height_from_seat": {
+                    "min": "200",
+                    "max": null
+                },
+                "chair_depth": {
+                    "min": "620",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "480",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "580",
+                    "max": ""
+                },
+                "seat_width_with_armrests": {
+                    "min": "600",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "500",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "680",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "460",
+                    "max": "560"
+                },
+                "armrest_height_from_floor": {
+                    "min": "255"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {
+                    "max": "560"
+                },
+                "backrest_width_narrow": {
+                    "max": "450"
+                },
+                "backrest_width_wide": {
+                    "max": "460"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "12,6",
+                "brutto": "15,3",
+                "package_width": "700",
+                "package_depth": "335,0",
+                "package_height": "670,0",
+                "volume": "0,157115",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik а-001-mb"
+        ],
+        "name_all": [
+            "EPIK A-001"
+        ],
+        "name": [
+            "EPIK A-001"
+        ],
+        "unique_name": [
+            "EPIK А-001-MB"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла:<br>экокожа, натуральная кожа (L)<br>\n- цвет материала - по каталогу<br>\n- тип покрытия подлокотников и пятилучья:<br>матовое или глянцевое"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> регулируемый с увеличенной мягкой подушкой",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка</strong> подголовника, спинки и сиденья: экокожа, натуральная кожа (L)",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в любом положении",
+                    "<strong>Газ-лифт</strong> с высотой подъема 70 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют узкий шток"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "1065",
+                        "depth": "730",
+                        "height": "585"
+                    },
+                    "box_size": "1065х730х585",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Пятилучье, газ-лифт и ролики упакованы отдельно в гофрокороб размером <strong>690х100х660 мм</strong><br>Каждое кресло упаковано в отдельный Г-образный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "32,2",
+                "netto": "24,9",
+                "volume": "0,45480825"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_001_mb_171_172_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_001_mb_171_172_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_001_mb_171_172_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1170",
+                    "max": "1240"
+                },
+                "headrest_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_to_floor_height": {
+                    "min": "430",
+                    "max": "500"
+                },
+                "armrest_height_from_seat": {
+                    "min": "220",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "660",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "510",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "800",
+                    "max": "840"
+                },
+                "seat_width_with_armrests": {
+                    "min": "690",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "530",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "430",
+                    "max": "500"
+                },
+                "armrest_height_from_floor": {
+                    "min": "330"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {
+                    "max": "720"
+                },
+                "backrest_width_narrow": {
+                    "max": "440"
+                },
+                "backrest_width_wide": {
+                    "max": "560"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "монолитный",
+                "minpromtorg": {},
+                "netto": "24,9",
+                "brutto": "32,2",
+                "package_width": "1065",
+                "package_depth": "730,0",
+                "package_height": "585,0",
+                "volume": "0,45480825",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "монолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik а-007-g"
+        ],
+        "name_all": [
+            "EPIK A-007"
+        ],
+        "name": [
+            "EPIK A-007"
+        ],
+        "unique_name": [
+            "EPIK А-007-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки кресла:<br>\nнатуральная кожа (L)<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Подголовник</strong> состоит из увеличенной мягкой подушки и крышки из ABS-пластика, регулируется по высоте и фиксируется в 3-х положениях",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками, регулируются и фиксируются в нескольких положениях, имеют чехол из ABS – пластика",
+                    "<strong>Облицовка</strong> подголовника, спинки, сиденья и накладок подлокотников: натуральная кожа (L)",
+                    "<strong>Механизм качания</strong> синхронный со слайд-системой, позволяет регулировать высоту сиденья относительно пола",
+                    "<strong>Газ-лифт</strong> с высотой подъема 60 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=760 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "440",
+                        "depth": "765",
+                        "height": "930"
+                    },
+                    "box_size": "440х765х930",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "34,3",
+                "netto": "29",
+                "volume": "0,313038"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "130",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_007_g_l169_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_007_g_l169_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_007_g_l169_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1250",
+                    "max": "1310"
+                },
+                "headrest_height": {
+                    "min": "230",
+                    "max": "280"
+                },
+                "seat_to_floor_height": {
+                    "min": "455",
+                    "max": "515"
+                },
+                "armrest_height_from_seat": {
+                    "min": "160",
+                    "max": "230"
+                },
+                "chair_depth": {
+                    "min": "680",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "490",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": "520",
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "750",
+                    "max": 750
+                },
+                "seat_width": {
+                    "max": "530",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "760",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "455",
+                    "max": "515"
+                },
+                "armrest_height_from_floor": {
+                    "min": "380",
+                    "max": "450"
+                },
+                "armrest_width_support": {},
+                "armrest_length_support": {},
+                "seat_depth_km": {},
+                "backrest_height_external": {
+                    "max": "580"
+                },
+                "backrest_width_narrow": {
+                    "max": "510"
+                },
+                "backrest_width_wide": {
+                    "max": "520"
+                },
+                "recommended_load": "90",
+                "max_load": "130",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "29",
+                "brutto": "34,3",
+                "package_width": "440",
+                "package_depth": "765,0",
+                "package_height": "930,0",
+                "volume": "0,313038",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    },
+    {
+        "namefile": [
+            "Epik а-011-g"
+        ],
+        "name_all": [
+            "EPIK A-011"
+        ],
+        "name": [
+            "EPIK A-011"
+        ],
+        "unique_name": [
+            "EPIK А-011-G"
+        ],
+        "vid": [
+            "кресло"
+        ],
+        "category": [
+            "поворотное кресло руководителя"
+        ],
+        "destiny": [
+            "ежедневной работы в офисных и домашних помещениях"
+        ],
+        "technical_requirements": [
+            [
+                "Кресло должно соответствовать требованиям:",
+                "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+                "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+                "настоящего технического описания",
+                "комплекта конструкторской документации",
+                "образцу-эталону, утвержденному в установленном порядке производителем"
+            ]
+        ],
+        "construction_and_materials": [
+            {
+                "upholstery_materials": [
+                    "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
+                ],
+                "components": [
+                    "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                    "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                    "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                    "<strong>Облицовка спинки и сиденья:</strong> экокожа",
+                    "<strong>Подлокотники</strong> - алюминиевые с мягкими накладками, регулируются при использовании механизма отклонения спинки",
+                    "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в 4-х положениях",
+                    "<strong>Газ-лифт</strong> с высотой подъема 70 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                    "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                    "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+                ]
+            }
+        ],
+        "transportation": [
+            {
+                "standard": "ГОСТ 16371-2014",
+                "packaging": {
+                    "type": "5-слойный гофрокороб",
+                    "size": {
+                        "width": "645",
+                        "depth": "470",
+                        "height": "960"
+                    },
+                    "box_size": "645х470х960",
+                    "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+                }
+            }
+        ],
+        "dimensions": [
+            {
+                "brutto": "34,3",
+                "netto": "28,6",
+                "volume": "0,291024"
+            }
+        ],
+        "guarantee": [
+            {
+                "period": "12",
+                "max_load": "120",
+                "recommended_load": "90"
+            }
+        ],
+        "images": [
+            {
+                "vid_main": "img/armchair_epik/1080_epik_a_011_g_201_01.png",
+                "chair_view": "img/armchair_epik/1080_epik_a_011_g_201_02.png",
+                "dimensions": "img/armchair_epik/dimensions/1080_epik_a_011_g_201_01.png",
+                "box": "img/box_epik.png"
+            }
+        ],
+        "dimensions_details": [
+            {
+                "chair_height": {
+                    "min": "1270",
+                    "max": "1340"
+                },
+                "headrest_height": {
+                    "min": "",
+                    "max": ""
+                },
+                "seat_to_floor_height": {
+                    "min": "490",
+                    "max": "560"
+                },
+                "armrest_height_from_seat": {
+                    "min": "230",
+                    "max": ""
+                },
+                "chair_depth": {
+                    "min": "690",
+                    "max": null
+                },
+                "seat_depth": {
+                    "min": "480",
+                    "max": null
+                },
+                "backrest_height": {
+                    "max": "780",
+                    "min": ""
+                },
+                "backrest_to_seat_height": {
+                    "min": null,
+                    "max": null
+                },
+                "seat_width_with_armrests": {
+                    "min": "670",
+                    "max": null
+                },
+                "seat_width": {
+                    "max": "560",
+                    "min": ""
+                },
+                "diameter_cross": {
+                    "max": "700",
+                    "min": ""
+                },
+                "runners_width": {
+                    "max": "",
+                    "min": ""
+                },
+                "runners_depth": {
+                    "max": "",
+                    "min": ""
+                },
+                "seat_to_floor_height_upper": {
+                    "min": "490",
+                    "max": "560"
+                },
+                "armrest_height_from_floor": {
+                    "min": "320"
+                },
+                "armrest_width_support": {
+                    "max": "75"
+                },
+                "armrest_length_support": {
+                    "max": "300"
+                },
+                "seat_depth_km": {},
+                "backrest_height_external": {},
+                "backrest_width_narrow": {
+                    "max": "440"
+                },
+                "backrest_width_wide": {
+                    "max": "540"
+                },
+                "recommended_load": "90",
+                "max_load": "120",
+                "skeleton": "немонолитный",
+                "minpromtorg": {},
+                "netto": "28,6",
+                "brutto": "34,3",
+                "package_width": "645",
+                "package_depth": "470,0",
+                "package_height": "960,0",
+                "volume": "0,291024",
+                "box_on_pallet": {},
+                "pallet_width": {},
+                "addition": {}
+            }
+        ],
+        "skeleton": "немонолитный",
+        "minpromtorg": "",
+        "addition": ""
+    }
+]

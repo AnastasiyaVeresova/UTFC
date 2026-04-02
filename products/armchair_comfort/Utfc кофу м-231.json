@@ -1,0 +1,361 @@
+{
+  "namefile": [
+    "Кресло utfc кофу м-231"
+  ],
+  "name": [
+    "Кофу"
+  ],
+  "unique_name": [
+    "UTFC Кофу М-231"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки:<br>сетка<br>\n- материал облицовки сиденья:<br>ткань<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка регулируется по глубине и высоте. Облицовка спинки: сетка",
+        "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. Облицовка сиденья: ткань",
+        "<strong>Подлокотники</strong> - пластиковые, регулируются по высоте",
+        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=640 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> пластиковые d=50 мм имеют открытый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "620",
+          "depth": "290",
+          "height": "600"
+        },
+        "box_size": "620х290х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "10,95",
+      "netto": "10",
+      "volume": "0,11"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/kofu_m-231_pl_bl_01.png",
+      "chair_view": "img/armchair_comfort/kofu_m-231_pl_bl_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/kofu_m-231_pl_bl_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b38/hjss8lcqxess3qgk2ptu3qvlt709gglz.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/551/140_140_0/rwbjcqistnyepx22mr233pvfllc9rq9k.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/51c/140_140_0/wds3ft003mg6o2h80b5ln0l6wpvbatqh.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/985/rwld2h0lc3eybh10o4gw89kwodcvh0bs.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/51c/wds3ft003mg6o2h80b5ln0l6wpvbatqh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eab/smwk1d8cfxdoicy1u1sofc5tsqktn0f1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c3/nikan4gsqb2swwwgo98ixs1o0zgf7msa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1bf/dbz1q31mi3z98rvb69x888yn2rgzlnzw.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/614/7d5rt632mbp218cqclwiw94280kx1540.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/457/wvs76nqoxve83xsgzbe8epcjhdyls7mp.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7a9/140_140_0/sl4n93o3ux8icpez6iguk5jo437w9mxu.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4c3/140_140_0/nikan4gsqb2swwwgo98ixs1o0zgf7msa.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/551/rwbjcqistnyepx22mr233pvfllc9rq9k.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e34/auicaicizfkr3iglzh8o9uw9p7fsjv0x.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/db1/140_140_0/pvpr6vbu6xepn4xkhux9vt0oulqwtaqo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/db1/pvpr6vbu6xepn4xkhux9vt0oulqwtaqo.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a9/sl4n93o3ux8icpez6iguk5jo437w9mxu.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "950",
+        "max": "1050"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "455",
+        "max": "555"
+      },
+      "armrest_height_from_seat": {
+        "min": "190",
+        "max": "290"
+      },
+      "chair_depth": {
+        "min": "590",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "480",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "510",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "615",
+        "max": null
+      },
+      "seat_width": {
+        "max": "480",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "640",
+        "min": ""
+      },
+      "runners_width": {
+        "max": null,
+        "min": ""
+      },
+      "runners_depth": {
+        "max": null,
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "455",
+        "max": "555"
+      },
+      "armrest_height_from_floor": {
+        "min": "250",
+        "max": "350"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "450"
+      },
+      "backrest_width_wide": {
+        "max": "480"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": {},
+      "netto": "10",
+      "brutto": "10,95",
+      "package_width": "620",
+      "package_depth": "290,0",
+      "package_height": "600,0",
+      "volume": "0,10788",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1026",
+    "IE_NAME": "UTFC Кофу М-231",
+    "IE_PREVIEW_TEXT": "Главной отличительной особенностью кресла Кофу является настройка поясничного упора по высоте и глубине. Дополнительно, кресло оснащено регулируемыми по высоте подлокотниками и механизмом топ-ган с режимом свободного качания и фиксации в вертикальном положении. Прочная дышащая сетка на спинке и широкое глубокое сиденье обеспечивают комфорт в течение всего рабочего дня перед компьютером.",
+    "IE_DETAIL_TEXT": "",
+    "IP_PROP2": 615,
+    "IP_PROP3": "950-1050",
+    "IP_PROP4": 590,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/457/wvs76nqoxve83xsgzbe8epcjhdyls7mp.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eab/smwk1d8cfxdoicy1u1sofc5tsqktn0f1.webp",
+    "IP_PROP5": 620,
+    "IP_PROP26": 600,
+    "IP_PROP27": 290,
+    "IP_PROP28": "10,95",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,11",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "M231_kofu_bl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/551/rwbjcqistnyepx22mr233pvfllc9rq9k.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_m231_pl",
+    "IP_PROP42": "pl_kofu",
+    "IP_PROP43": "",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "spec_kofu",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5777,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5951,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5777,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50111,
+      "IE_NAME": "Кресло UTFC Кофу М-231 черный пластик (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12068,
+      "IP_PROP34": "a_1026",
+      "IP_PROP35": "ТК-00047",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_68",
+      "IP_PROP38": "m231_s_bl",
+      "IP_PROP39": "m_69",
+      "IP_PROP40": "m231_bl",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 117,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5777,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5951,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5777,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло для работы за компьютером с регулировкой поясничного упора UTFC Кофу М-231 производства компании UTFC",
+  "base_name": "Кресло UTFC Кофу М-231",
+  "article_number": "ТК-00047",
+  "full_describe": "Главной отличительной особенностью кресла Кофу является настройка поясничного упора по высоте и глубине. Дополнительно, кресло оснащено регулируемыми по высоте подлокотниками и механизмом топ-ган с режимом свободного качания и фиксации в вертикальном положении. Прочная дышащая сетка на спинке и широкое глубокое сиденье обеспечивают комфорт в течение всего рабочего дня перед компьютером.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m231_kofu_bl/",
+  "Основание": "Пятилучье пластиковое М-231 PL, покрытие матовое, диаметр 640мм, (черный)",
+  "Подлокотники": "Подлокотники регулируемые пластиковые Кофу М-231",
+  "Газлифт": "",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "Регулируемая по высоте и глубине поддержка поясницы",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань-сетка М-231",
+    "-"
+  ],
+  "color": [
+    "Ткань-сетка М-231S (черный)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Кофу М-231 (Ткань-сетка М-231, Ткань-сетка М-231S (черный))",
+    "Кресло UTFC Кофу М-231 (-, Ткань-сетка М-231S (черный))",
+    "Кресло UTFC Кофу М-231 (Ткань-сетка М-231, Ткань-сетка М-231S (черный), Ткань М-231, Ткань М-231 (черный))",
+    "Кресло UTFC Кофу М-231 (Ткань-сетка М-231, Ткань-сетка М-231S (черный), -, Ткань М-231 (черный))",
+    "Кресло UTFC Кофу М-231 (-, Ткань-сетка М-231S (черный), Ткань М-231, Ткань М-231 (черный))",
+    "Кресло UTFC Кофу М-231 (-, Ткань-сетка М-231S (черный), -, Ткань М-231 (черный))"
+  ],
+  "finish_type_seat": [
+    "Ткань М-231",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань М-231 (черный)"
+  ]
+}

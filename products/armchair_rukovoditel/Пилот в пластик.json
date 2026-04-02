@@ -1,0 +1,489 @@
+{
+  "namefile": [
+    "Пилот в пластик"
+  ],
+  "name_all": [
+    "Пилот В пластик",
+    "Пилот В пластик-люкс 727",
+    "Пилот Н пластик",
+    "Пилот Н пластик-люкс 727"
+  ],
+  "name": [
+    "Пилот В пластик"
+  ],
+  "unique_name": [
+    "Пилот В пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья кресла:\nткань (Moderno), ткань-сетка (Е), искусственная кожа (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки-сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка-сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность - 25 кг/м<sup>3</sup>) и обивочного элемента. Облицовка спинки-сиденья: ткань (Moderno), искусственная кожа (Z), ткань-сетка (Е), экокожа (S,R)",
+        "<strong>Облицовка</strong> спинки-сиденья: ткань (Moderno), искусственная кожа (Z), ткань-сетка (Е), экокожа (S,R)",
+        "<strong>Подлокотники</strong> - пластиковые Сенатор, крепятся к основанию спинки и сиденья с помощью винтов М6",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 1100,
+          "depth": 490,
+          "height": 676
+        },
+        "box_size": "1100х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/pilot_v_pl_z11_01.png",
+      "chair_view": "img/armchair_rukovoditel/pilot_v_pl_z11_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/pilot_v_pl_z11_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/5c2/140_140_0/5c29239d78a7f64cb1594d06e7d1f09f.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/169/169d9ac2e85780a9fc70b806a08243ce.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6a9/6a9f104d7f37d7a264490b827394ab9b.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/434/140_140_0/4348eab9be2c6ecd83d68bc543da9bdd.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b87/b878e79fb452a477385521c35aa67e3a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/12e/12eac4cbc8e29ff91e60f48774f510e1.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/resize_cache/iblock/6a9/140_140_0/6a9f104d7f37d7a264490b827394ab9b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/8cb/140_140_0/8cbbe0c4d16e5a11bda53c802a2945aa.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8cb/8cbbe0c4d16e5a11bda53c802a2945aa.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5c2/5c29239d78a7f64cb1594d06e7d1f09f.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ccb/ccb62e3bc40a804259f1514d3bc58182.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1f0/7016lzib555ekoju14yj14gdow41bmww.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/169/140_140_0/169d9ac2e85780a9fc70b806a08243ce.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f95/f9515a0ee80f3570696a7c4698b9879c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/434/4348eab9be2c6ecd83d68bc543da9bdd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b27/rwsig40heiz55tkjlxe46ezyab8p7m4h.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1075",
+        "max": "1175"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "465",
+        "max": "565"
+      },
+      "armrest_height_from_seat": {
+        "min": "180",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "755",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "505",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "625",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_width_with_armrests": {
+        "min": "640",
+        "max": null
+      },
+      "seat_width": {
+        "max": "520",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "660",
+        "min": ""
+      },
+      "runners_width": {
+        "max": null,
+        "min": ""
+      },
+      "runners_depth": {
+        "max": null,
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "465",
+        "max": "565"
+      },
+      "armrest_height_from_floor": {
+        "min": "280"
+      },
+      "armrest_width_support": {
+        "max": "45"
+      },
+      "armrest_length_support": {
+        "max": "340"
+      },
+      "seat_depth_km": {
+        "max": "530"
+      },
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "445"
+      },
+      "backrest_width_wide": {
+        "max": "510"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "s8013",
+    "IE_NAME": "Пилот В пластик",
+    "IE_PREVIEW_TEXT": "Кресло хорошо подойдет для строгого кабинета, конференц-зала. Высокая эргономичная спинка обеспечивает поддержку спины на протяжении всего рабочего дня, а широкое сиденье и подлокотники - комфортную посадку.",
+    "IE_DETAIL_TEXT": "Кресло хорошо подойдет для строгого кабинета, конференц-зала. Высокая эргономичная спинка обеспечивает поддержку спины на протяжении всего рабочего дня, а широкое сидение и подлокотники - комфортную посадку.",
+    "IP_PROP2": 640,
+    "IP_PROP3": "1075-1175",
+    "IP_PROP4": 755,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/1f0/7016lzib555ekoju14yj14gdow41bmww.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b27/rwsig40heiz55tkjlxe46ezyab8p7m4h.webp",
+    "IP_PROP5": 1100,
+    "IP_PROP26": 676,
+    "IP_PROP27": 490,
+    "IP_PROP28": "17,56",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,364",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "pilot_v_pl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/018/018c55644a7e705784a8ec3a77aec298.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_pl",
+    "IP_PROP42": "pl_senator_pl",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 7600,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 7828,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 7600,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 15848,
+      "IE_NAME": "Кресло Пилот В пластик S-0401 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/baa/baa8730dfd37ae87408221145021e72c.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/39c/39cef8c08c8226a490c6b4b9f12141cf.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7879,
+      "IP_PROP34": "s8013",
+      "IP_PROP35": "ДКПилот150",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/434/4348eab9be2c6ecd83d68bc543da9bdd.png",
+        "https://utfc.ru/upload/iblock/8cb/8cbbe0c4d16e5a11bda53c802a2945aa.png",
+        "https://utfc.ru/upload/iblock/169/169d9ac2e85780a9fc70b806a08243ce.png",
+        "https://utfc.ru/upload/iblock/6a9/6a9f104d7f37d7a264490b827394ab9b.png",
+        "https://utfc.ru/upload/iblock/5c2/5c29239d78a7f64cb1594d06e7d1f09f.png"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0401",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8590,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8848,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8590,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 15864,
+      "IE_NAME": "Кресло Пилот В пластик Z11 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/b49/b49ee976d9b7f34be4ba2884cde3bdbb.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/093/0934d6af73e6c431bdb5ffbd2832b008.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7880,
+      "IP_PROP34": "s8013",
+      "IP_PROP35": "ДКПилот102",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/f88/f88e0991b8dcd99c0d9ec78f2ee1b3d0.png",
+        "https://utfc.ru/upload/iblock/461/461adf1af8c635ea92bbe03b67594a21.png",
+        "https://utfc.ru/upload/iblock/d46/d46447e46b03337e77241a87dce70161.png",
+        "https://utfc.ru/upload/iblock/cdb/cdb35046976e851c1cf1bb11c5293440.png",
+        "https://utfc.ru/upload/iblock/3f0/3f012062e51208bd385c2c918dd2bf7c.png"
+      ],
+      "IP_PROP37": "m_02",
+      "IP_PROP38": "z_11",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 7,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7600,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 7828,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7600,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 15869,
+      "IE_NAME": "Кресло Пилот В пластик Z21 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7881,
+      "IP_PROP34": "s8013",
+      "IP_PROP35": "ДКПилот113",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_02",
+      "IP_PROP38": "z_21",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7768,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8002,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7768,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло для строгого кабинета и конференц-зала Пилот В пластик производства компании UTFC",
+  "base_name": "Кресло Пилот В пластик",
+  "article_number": "pilot_v_pl",
+  "full_describe": "Кресло хорошо подойдет для строгого кабинета, конференц-зала. Высокая эргономичная спинка обеспечивает поддержку спины на протяжении всего рабочего дня, а широкое сиденье и подлокотники - комфортную посадку.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/pilot_v_pl/",
+  "Основание": "Пятилучье пластиковое d=660 мм",
+  "Подлокотники": "Подлокотники пластиковые «Сенатор» используются на все ДК в исполнении Пластик",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Кожзаменитель Z",
+    "Экокожа Santorini",
+    "-"
+  ],
+  "color": [
+    "Экокожа Santorini S0401 (черный)"
+  ],
+  "variant_name": [
+    "Кресло Пилот В пластик (Кожзаменитель Z, Экокожа Santorini S0401 (черный))",
+    "Кресло Пилот В пластик (Экокожа Santorini, Экокожа Santorini S0401 (черный))",
+    "Кресло Пилот В пластик (-, Экокожа Santorini S0401 (черный))"
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "namefile": [
+    "Асти 4к"
+  ],
+  "name_all": [
+    "Асти"
+  ],
+  "name": [
+    "Асти"
+  ],
+  "unique_name": [
+    "Асти 4К"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
+        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный. На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
+        "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
+        "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 570,
+          "depth": 510,
+          "height": 610
+        },
+        "box_size": "570х510х610",
+        "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде. Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой. Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/asti_4k_v02_01.png",
+      "chair_view": "img/chair_visitors/asti_4k_v02_02.png",
+      "dimensions": "img/chair_visitors/dimensions/asti_4k_v02_01.png",
+      "box": "img/box_UTFC_2x.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/726/il5i1x6gs6jxkznakg92v73nuj3zzj5k.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cd4/d7r100trp2mkjnx516p8b7ouwra3vikq.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/726/140_140_0/il5i1x6gs6jxkznakg92v73nuj3zzj5k.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3a7/7vf5x3vgwbytws1oo2uyuusxffrart2n.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d9a/w3qhsipmueylq5co73k7pqnjchsey0f7.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/3a7/140_140_0/7vf5x3vgwbytws1oo2uyuusxffrart2n.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/cd4/140_140_0/d7r100trp2mkjnx516p8b7ouwra3vikq.png",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4a4/140_140_0/xyugl1m307mij5tvu93tms6mnp6n1y2u.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4a4/xyugl1m307mij5tvu93tms6mnp6n1y2u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f37/3q1ohav4mrz2f102tvlys86d0nuxyyra.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/005/gq9dncaopgc6zza80ar3qu5yb1dq7az3.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cb1/th2r9a8a4dc4w87zerng51hbjt9062ai.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/365/jz72k44xuf7njrx7r16y8g4a6insl333.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5a3/z8o53ka33paj2pun9ldfz6m8aby0lmjr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94b/291cco6tzr1fr12bcx6ytknw6pm4plyo.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/006/a922h5rr72gr22cjogp94dbpa01l30nk.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/41a/3dkoqwrkdo2eewhim3tc3gjebijkzw2u.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/41a/140_140_0/3dkoqwrkdo2eewhim3tc3gjebijkzw2u.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "810",
+        "max": 810
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "165",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "600",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "470",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "340",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "540",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "450",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "440",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "410"
+      },
+      "armrest_height_from_floor": {
+        "min": "230"
+      },
+      "armrest_width_support": {
+        "max": "40"
+      },
+      "armrest_length_support": {
+        "max": "240"
+      },
+      "seat_depth_km": {
+        "max": "470"
+      },
+      "backrest_height_external": {
+        "max": "410"
+      },
+      "backrest_width_narrow": {
+        "max": "370"
+      },
+      "backrest_width_wide": {
+        "max": "470"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": {},
+      "netto": "8",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1066",
+    "IE_NAME": "Стул Асти 4К BL",
+    "IE_PREVIEW_TEXT": "Вдохновлённый атмосферой итальянского пригорода, стул Асти — это идеальное сочетание эстетики и функциональности. Он одинаково уместен как в обеденной зоне, так и в зоне отдыха, создавая ощущение уюта и гармонии в любом интерьере.\nФорма стула отличается плавными линиями и округлыми углами, что делает его не только эстетичным, но и удобным для ежедневного использования.",
+    "IE_DETAIL_TEXT": "Вдохновлённый атмосферой итальянского пригорода, стул Асти — это идеальное сочетание эстетики и функциональности. Он одинаково уместен как в обеденной зоне, так и в зоне отдыха, создавая ощущение уюта и гармонии в любом интерьере.\nФорма стула отличается плавными линиями и округлыми углами, что делает его не только эстетичным, но и удобным для ежедневного использования.",
+    "IP_PROP2": 540,
+    "IP_PROP3": 810,
+    "IP_PROP4": 600,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/d9a/w3qhsipmueylq5co73k7pqnjchsey0f7.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/006/a922h5rr72gr22cjogp94dbpa01l30nk.png",
+    "IP_PROP5": 570,
+    "IP_PROP26": 610,
+    "IP_PROP27": 510,
+    "IP_PROP28": "8,75",
+    "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
+    "IP_PROP30": "0,114",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "asti_4k",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1c7/qjkk75hevhcdyxt54dgzv7tcwakknma1.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_4k_bl",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Да",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5238,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5396,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5238,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50238,
+      "IE_NAME": "Стул Асти 4К BL Velutto 03 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5e4/qmyxq8qpe6i4mh40i2k5ysfxh4hejxo8.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e42/yfq5ts16e6sxsf02v122vtnbzupkyaj1.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12281,
+      "IP_PROP34": "a_1066",
+      "IP_PROP35": "НКС-00022",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/726/il5i1x6gs6jxkznakg92v73nuj3zzj5k.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/41a/3dkoqwrkdo2eewhim3tc3gjebijkzw2u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3a7/7vf5x3vgwbytws1oo2uyuusxffrart2n.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cd4/d7r100trp2mkjnx516p8b7ouwra3vikq.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4a4/xyugl1m307mij5tvu93tms6mnp6n1y2u.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_03",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5238,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5396,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5238,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50239,
+      "IE_NAME": "Стул Асти 4К BL Velutto 20 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b17/4qqwo78gg54am4eelk0bexqrr09tx7hi.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c9/x5y0eclpmr97cilp518qhifciopacgxm.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12282,
+      "IP_PROP34": "a_1066",
+      "IP_PROP35": "ГС-00456",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1ae/ni0v08n5u8rvgzyef3upwa1diq6o9vqp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e23/44e5fd3bf5o34csz115po7gmce0dwgei.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c35/f3ywfilp9va3usy0h31tsi6y4d3ogp5w.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/728/i467lakfxj2vpqa4yh52li7rioqy8o50.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/552/oh2wow6b9xgyw69mgvvxlcasiw0amrn3.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_20",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5238,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5396,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5238,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50240,
+      "IE_NAME": "Стул Асти 4К BL Velutto 18 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/259/fy22lz3bznnr0r4uilni939ui5osyj1r.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2b0/pld2zswzvh9k0hhh3sc1r1t2x8i6q00q.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12283,
+      "IP_PROP34": "a_1066",
+      "IP_PROP35": "ГС-00455",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ca6/kem2uf4n9crn2n58mluq65je9srb3rgu.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/434/xqt9f05pdiu6pkdzk1yqafkn1r4nabze.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/035/alwc705sut8ccz3sr9f97q09j979n088.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/56f/o8luyulrzz56jepfvhi1o7zaptca05cx.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5c6/mzt0r3bos5fi4emzdfns2sn4elfvddvo.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_18",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5238,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5396,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5238,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50241,
+      "IE_NAME": "Стул Асти 4К BL Velutto 06 (коричневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b4d/3r6luufkszr3nh1eeuxr1rokikea7doi.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a63/biugm2qs0prgmlqqe6kid06vj47rytg5.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12284,
+      "IP_PROP34": "a_1066",
+      "IP_PROP35": "ГС-00454",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ca4/ctob7tbjx7hx59o3hksaw9qx8ggsl6ti.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/58a/6oxyzq713g74wr4jjxd72gt57cmpq239.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/83a/7h9tvqbjot0aje7qwstjkowh90upnxns.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/13e/6touy0e0djz6asqauwkat7edu7jz0bdg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/82c/34ihf3tq9phtknypswtbmgwisyldmd01.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_06",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5238,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5396,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5238,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50242,
+      "IE_NAME": "Стул Асти 4К BL Velutto 02 (светло-бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de3/6egjs2wkvphc0ltsi3wflc4rxf87e6gk.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bb0/bv231pz6ayluav4bi5yporedh4znwqrh.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12285,
+      "IP_PROP34": "a_1066",
+      "IP_PROP35": "ГС-00453",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/492/nucvq47cj294ccq1uv5qxswox2u25d4i.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6b6/09im4o5j0ka534704ky2z1frx7orp3nn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8e0/u9on5lp3svq2551nytxallqtb7dm5nqp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/be0/8xb2y2v84asq3xooz36j57wios0dq0w6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5ef/6qradu7k9p9zzu9wx4l8lw8z813ytkku.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5238,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5396,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5238,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Новинка: Стул Асти 4К BL Ткань Velutto производства компании UTFC",
+  "base_name": "Стул Асти 4К BL",
+  "article_number": "НКС-00022",
+  "full_describe": "Вдохновлённый атмосферой итальянского пригорода, стул Асти — это идеальное сочетание эстетики и функциональности. Он одинаково уместен как в обеденной зоне, так и в зоне отдыха, создавая ощущение уюта и гармонии в любом интерьере.Форма стула отличается плавными линиями и округлыми углами, что делает его не только эстетичным, но и удобным для ежедневного использования.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/asti_4k/",
+  "Основание": "Металлические опоры, защитно-декоративное порошковое покрытие черного цвета (BL)",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань Velutto",
+    "-"
+  ],
+  "color": [
+    "Велюр 02 (светло-бежевый)",
+    "Велюр 03 (бежевый)",
+    "Велюр 06 (коричневый)",
+    "Велюр 20 (черный)",
+    "Велюр 18 (серый)"
+  ],
+  "variant_name": [
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый))",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 03 (бежевый))",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 06 (коричневый))",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 20 (черный))",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 18 (серый))",
+    "Стул Асти 4К BL (-, Велюр 02 (светло-бежевый))",
+    "Стул Асти 4К BL (-, Велюр 03 (бежевый))",
+    "Стул Асти 4К BL (-, Велюр 06 (коричневый))",
+    "Стул Асти 4К BL (-, Велюр 20 (черный))",
+    "Стул Асти 4К BL (-, Велюр 18 (серый))",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый),, )",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 03 (бежевый),, )",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 06 (коричневый),, )",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 20 (черный),, )",
+    "Стул Асти 4К BL (Ткань Velutto, Велюр 18 (серый),, )",
+    "Стул Асти 4К BL (-, Велюр 02 (светло-бежевый),, )",
+    "Стул Асти 4К BL (-, Велюр 03 (бежевый),, )",
+    "Стул Асти 4К BL (-, Велюр 06 (коричневый),, )",
+    "Стул Асти 4К BL (-, Велюр 20 (черный),, )",
+    "Стул Асти 4К BL (-, Велюр 18 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "namefile": [
+    "Кембридж сн-502 н/п"
+  ],
+  "name": [
+    "Кембридж Н/п"
+  ],
+  "unique_name": [
+    "Кембридж СН-502 Н_п"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья: ткань (D), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлических полозьев, спинки, сиденья, подлокотников",
+        "<strong>Полозья</strong> «Нео» сварные металлические с защитно-декоративным покрытием",
+        "<strong>Каркас</strong> и перемычки полозьев изготовлен из стальной трубы круглого сечения Ф25х2 мм. Покрытие полозьев: термореактивная порошковая краска, цвет - черный или хромовое блестящее. На торцевые поверхности каркаса полозьев устанавливаются заглушки (2шт.). На опорную поверхность каркаса полозьев устанавливаются опоры (4 шт.)",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+        "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (Е)",
+        "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 584,
+          "depth": 262,
+          "height": 584
+        },
+        "box_size": "584х262х584",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/ch502_kembridge_np_pl_tw72_01.png",
+      "chair_view": "img/armchair_comfort/ch502_kembridge_np_pl_tw72_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/ch502_kembridge_np_pl_tw72_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5b2/7t0meovm5ej1vo8oxwoook7ng0him9gw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/296/03iwdc86ow178idqygnnnmgmz8f9qhs6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/resize_cache/iblock/25d/140_140_0/bwbqluv72k2sx2g4c64yj4hnoyehyn0s.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2aa/bzameyazbyxa7v58yiyay329kjpwe7np.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/164/1642cc9560c18c50c8c334f8afa14f6b.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/155/9blaccqqy7xmvqza2zlf95h36qovtwi3.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/914/140_140_0/drs44116vjtgu2dv06k1uiggwyzi8p1a.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/914/drs44116vjtgu2dv06k1uiggwyzi8p1a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/265/140_140_0/mqe8jmwi98c1hncgzav8q36g2g909i4q.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a46/vwnb7tkfmi4urbstik9y2ha3v91obejl.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/265/mqe8jmwi98c1hncgzav8q36g2g909i4q.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/155/140_140_0/9blaccqqy7xmvqza2zlf95h36qovtwi3.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/25d/bwbqluv72k2sx2g4c64yj4hnoyehyn0s.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/296/140_140_0/03iwdc86ow178idqygnnnmgmz8f9qhs6.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "920",
+        "max": ""
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "180",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "565",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "430",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "460",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "535",
+        "max": null
+      },
+      "seat_width": {
+        "max": "470",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "480",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "590",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "480"
+      },
+      "armrest_height_from_floor": {
+        "min": "245"
+      },
+      "armrest_width_support": {
+        "max": "55"
+      },
+      "armrest_length_support": {},
+      "seat_depth_km": {
+        "max": "480"
+      },
+      "backrest_height_external": {
+        "max": "540"
+      },
+      "backrest_width_narrow": {
+        "max": "445"
+      },
+      "backrest_width_wide": {
+        "max": "460"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "lost": [
+    {
+      "clean": true,
+      "limit": false
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1010",
+    "IE_NAME": "СН-502 Кембридж Н/п",
+    "IE_PREVIEW_TEXT": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на металлических полозьях. Максимальная нагрузка 120 кг.",
+    "IE_DETAIL_TEXT": "",
+    "IP_PROP2": 535,
+    "IP_PROP3": 920,
+    "IP_PROP4": 565,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/a46/vwnb7tkfmi4urbstik9y2ha3v91obejl.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2aa/bzameyazbyxa7v58yiyay329kjpwe7np.webp",
+    "IP_PROP5": 584,
+    "IP_PROP26": 584,
+    "IP_PROP27": 262,
+    "IP_PROP28": "9,66",
+    "IP_PROP29": "Гофрокартон, полиэтилен",
+    "IP_PROP30": "0,19",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "kembrige_np_502",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/914/drs44116vjtgu2dv06k1uiggwyzi8p1a.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pol_neo_bl",
+    "IP_PROP42": "pl_502",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5165,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5320,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5165,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50086,
+      "IE_NAME": "Кресло СН-502 Кембридж Н/п TW-72/Е72-к/Е72-к (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12018,
+      "IP_PROP34": "a_1010",
+      "IP_PROP35": "СН502КембриджНп12",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_72",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_72_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5165,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5320,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5165,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на металлических полозьях. Максимальная нагрузка 120 кг. Кресло СН-502 Кембридж Н/п для дома и офиса производства компании UTFC.",
+  "base_name": "Кресло СН-502 Кембридж Н/п",
+  "article_number": "СН502КембриджНп12",
+  "full_describe": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на металлических полозьях. Максимальная нагрузка 120 кг.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/kembrige_np_502/",
+  "Основание": "Полозья металлические Нео, защитно-декоративное порошковое покрытие черного цвета, d=25х2 мм",
+  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для СН-502 Кэмбридж",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Сетка TW",
+    "-"
+  ],
+  "color": [
+    "Сетка TW-72 (серый)"
+  ],
+  "variant_name": [
+    "Кресло СН-502 Кембридж Н/п (Сетка TW, Сетка TW-72 (серый))",
+    "Кресло СН-502 Кембридж Н/п (-, Сетка TW-72 (серый))",
+    "Кресло СН-502 Кембридж Н/п (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е72-к (серый))",
+    "Кресло СН-502 Кембридж Н/п (Сетка TW, Сетка TW-72 (серый), -, Ткань Сетка Е72-к (серый))",
+    "Кресло СН-502 Кембридж Н/п (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е72-к (серый))",
+    "Кресло СН-502 Кембридж Н/п (-, Сетка TW-72 (серый), -, Ткань Сетка Е72-к (серый))"
+  ],
+  "finish_type_seat": [
+    "Ткань Сетка Е",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань Сетка Е72-к (серый)"
+  ]
+}

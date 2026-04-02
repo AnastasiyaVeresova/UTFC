@@ -1,0 +1,603 @@
+{
+  "namefile": [
+    "Ситро м-804 white ch"
+  ],
+  "name_all": [
+    "Ситро",
+    "Ситро хром"
+  ],
+  "name": [
+    "Ситро хром"
+  ],
+  "unique_name": [
+    "Ситро М-804 white ch"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья:<br>ткань (QH)<br>\n- цвет материала и пластика - по каталогу"
+      ],
+      "components": [
+        "спинки с подлокотниками, сиденья, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> с подлокотниками состоит из пластикового каркаса и обивочного элемента",
+        "<strong>Спинка</strong> крепится к основанию сиденья с помощью винтов",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 22 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: ткань (QH)",
+        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> хром с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> «Испания» - хромированное d=640 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=60 мм с полиуретановым покрытием имеют узкий шток."
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 760,
+          "depth": 440,
+          "height": 650
+        },
+        "box_size": "760х440х650",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/citro_m_804_white_turquoise_01.png",
+      "chair_view": "img/armchair_personal/citro_m_804_white_turquoise_02.png",
+      "dimensions": "img/armchair_personal/dimensions/citro_m_804_white_turquoise_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/296/296acc0f5f2d61b6455b299a74576be3.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/163/163cecc4ac29b9d40a80ccf6cc5654f8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/63d/63de70c8f27ad663ff950dfb5ca10957.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/442/140_140_0/44260717a1704790e6b0dc6a232f3382.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d8b/d8bb18e5a2b122a090ae4695974e1463.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e3f/nhf13s7p2h6tbdc3meayxo36h4kzqt13.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b47/b478cc70dec6c3dcab0583c3f688908a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce2/ce2628a065d94c959b706c172d4d41c4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/561/2n9wd2cc54quof05yquyoyjpfs6tnge5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/703/7036dfcc67e0632951197450d24f2bbe.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fe2/fe2eb7eab19b86a013cdab55f884f8bc.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/b47/140_140_0/b478cc70dec6c3dcab0583c3f688908a.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/442/44260717a1704790e6b0dc6a232f3382.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/6fd/140_140_0/6fdd3d1eec99b81a25e7109850db5dc1.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/ce2/140_140_0/ce2628a065d94c959b706c172d4d41c4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e44/e44feb4b77b4cbf62038a42f24d72c1f.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db8/db8280880ad5cc33986558f08975cb8c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/69f/69fa6a47598994112263dad99f7d4ba1.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/63d/140_140_0/63de70c8f27ad663ff950dfb5ca10957.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6fd/6fdd3d1eec99b81a25e7109850db5dc1.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "950",
+        "max": "1050"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": "580"
+      },
+      "armrest_height_from_seat": {
+        "min": "195",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "615",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "510",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "520",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "610",
+        "max": null
+      },
+      "seat_width": {
+        "max": "520",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "640",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "420",
+        "max": "520"
+      },
+      "armrest_height_from_floor": {
+        "min": "255"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {
+        "max": "495"
+      },
+      "backrest_width_narrow": {
+        "max": "380"
+      },
+      "backrest_width_wide": {
+        "max": "450"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "lost": [
+    {
+      "clean": true,
+      "limit": false
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": 7618,
+    "IE_NAME": "М-804 Ситро/Citro whitePL хром Ср",
+    "IE_PREVIEW_TEXT": "Воздушность конструкции выполнена за счет парящей спинки. При этом жесткость конструкции достигается за счет крепких подлокотников, являющихся частью каркаса.",
+    "IE_DETAIL_TEXT": "Воздушность конструкции выполнена за счет парящей спинки. При этом жесткость конструкции достигается за счет крепких подлокотников, являющихся частью каркаса.",
+    "IP_PROP2": 610,
+    "IP_PROP3": "950-1050",
+    "IP_PROP4": 615,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e3f/nhf13s7p2h6tbdc3meayxo36h4kzqt13.webp",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/561/2n9wd2cc54quof05yquyoyjpfs6tnge5.png",
+    "IP_PROP5": 760,
+    "IP_PROP26": 650,
+    "IP_PROP27": 440,
+    "IP_PROP28": "10,45",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,22",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "citro_ch_white",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/589/589b5b1c715057f1eabf7efa9833ab3b.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_640_ch_new",
+    "IP_PROP42": "pl_citro_wh",
+    "IP_PROP43": "gl_230_ch",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_w_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 6111,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 6295,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 6111,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 29376,
+      "IE_NAME": "Кресло М-804 Ситро/Citro whitePL хром Ср QH21-1307 (бирюза)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/954/954535bb2e1267ed06691844361e3114.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/71f/71f49840411f11eb1aaa65f93b1ca5c2.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7616,
+      "IP_PROP34": 7618,
+      "IP_PROP35": "ИКСитро08",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce2/ce2628a065d94c959b706c172d4d41c4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/63d/63de70c8f27ad663ff950dfb5ca10957.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/442/44260717a1704790e6b0dc6a232f3382.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6fd/6fdd3d1eec99b81a25e7109850db5dc1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b47/b478cc70dec6c3dcab0583c3f688908a.webp"
+      ],
+      "IP_PROP37": "m_31",
+      "IP_PROP38": "qh21-1307",
+      "IP_PROP39": "m_31",
+      "IP_PROP40": "qh21-1307",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 22,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 6111,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 6295,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 6111,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 29377,
+      "IE_NAME": "Кресло М-804 Ситро/Citro whitePL хром Ср МТ01-4/МТ70-13 (оранжевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/035/035971bb1b58bcedee39adc709728985.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f1c/f1c127b256803c7aefa6a5d5e6e03b09.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7617,
+      "IP_PROP34": 7618,
+      "IP_PROP35": "ИКСитро4",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/622/6221cac704ca325c99602b83912b16cc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/94e/94e0f0c2a2f6bdd7c2dc358f65e51a9c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dc9/dc9445953df40ab677b43a21a16589a7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d14/d14e43d0127627b3cd0cf8db91611bb3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e9c/e9cf0dcd9d925b6b7d1822ba5c9061ad.webp"
+      ],
+      "IP_PROP37": "m_26",
+      "IP_PROP38": "mt_01_4",
+      "IP_PROP39": "m_26",
+      "IP_PROP40": "mt_70_13",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 19,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 6111,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 6295,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 6111,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 29378,
+      "IE_NAME": "Кресло М-804 Ситро/Citro whitePL хром Ср QH21-1320 (красный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/45c/45c723bcbdd1c9daba28a2cedb2f1b82.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bac/bacfbca06d11076e46f9bfd4aac8631f.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9020,
+      "IP_PROP34": 7618,
+      "IP_PROP35": "ИКСитро06",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea8/ea85db664014c5e03126040472e82774.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ec/6ec0d0cd60a513eaa53abc07d8988f05.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/775c7a4778be72a2afa930fd190ebc06.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78a/78a72cd5194911c95a7ecc62f994e79c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/80c/80c1485c9f8b5a187ab23c3406b2e0e5.webp"
+      ],
+      "IP_PROP37": "m_31",
+      "IP_PROP38": "qh21-1320",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 354,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 6111,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 6295,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 6111,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 29379,
+      "IE_NAME": "Кресло М-804 Ситро/Citro whitePL хром Ср QH21-1310 (сиреневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 490,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a29/a29417377f277dddd4e18e079ba7a7f6.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7e/e7ee275d492151e6add931b6d60797c2.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9021,
+      "IP_PROP34": 7618,
+      "IP_PROP35": "ИКСитро07",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c4/4c493c960def67ea86aabe6b8643998d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dd0/dd082385e0ddb77dac76dfe50164a66a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a0/2a015114e94f927c122b69f73eaf5f2d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/169/1699b84840ea47021931c118e073eff0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/193/1935b1f3a488c30bb77a6078c3474474.webp"
+      ],
+      "IP_PROP37": "m_31",
+      "IP_PROP38": "qh21-1310",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 37,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 6111,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 6295,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 6111,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Дизайнерское компьютерное кресло для офиса и дома М-804 Ситро/Citro whitePL хром Ср производства компании UTFC",
+  "base_name": "Кресло М-804 Ситро/Citro whitePL хром Ср",
+  "article_number": "ИКСитро08",
+  "full_describe": "Воздушность конструкции выполнена за счет парящей спинки. При этом жесткость конструкции достигается за счет крепких подлокотников, являющихся частью каркаса.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/citro_ch_white/",
+  "Основание": "Пятилучье хромированное d=640 мм",
+  "Подлокотники": "Монолитная конструкция спинки и подлокотника из белого ударопрочного пластика для кресла Ситро",
+  "Газлифт": "Газ-лифт хромированный 3 класса по стандарту Germany DIN 4550, h=230 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые белые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм",
+  "finish_type": [
+    "Ткань МТ",
+    "Ткань QH",
+    "-"
+  ],
+  "color": [
+    "Ткань 1307 (бирюзовый)",
+    "Ткань 1310 (сиреневый)",
+    "Ткань 1320 (красный)"
+  ],
+  "variant_name": [
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1310 (сиреневый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1320 (красный))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1310 (сиреневый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1320 (красный))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1310 (сиреневый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1320 (красный))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1307 (бирюзовый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1307 (бирюзовый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1307 (бирюзовый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1310 (сиреневый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1310 (сиреневый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1310 (сиреневый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1320 (красный), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1320 (красный), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань МТ, Ткань 1320 (красный), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1307 (бирюзовый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1307 (бирюзовый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1307 (бирюзовый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1310 (сиреневый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1310 (сиреневый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1310 (сиреневый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1320 (красный), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1320 (красный), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (Ткань QH, Ткань 1320 (красный), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1307 (бирюзовый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1307 (бирюзовый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1307 (бирюзовый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1310 (сиреневый), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1310 (сиреневый), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1310 (сиреневый), -, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1320 (красный), Ткань МТ, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1320 (красный), Ткань QH, Ткань 1307 (бирюзовый))",
+    "Кресло М-804 Ситро/Citro whitePL хром Ср (-, Ткань 1320 (красный), -, Ткань 1307 (бирюзовый))"
+  ],
+  "finish_type_seat": [
+    "Ткань МТ",
+    "Ткань QH",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань 1307 (бирюзовый)"
+  ]
+}

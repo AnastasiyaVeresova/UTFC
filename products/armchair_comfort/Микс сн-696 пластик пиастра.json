@@ -1,0 +1,456 @@
+{
+  "namefile": [
+    "Микс сн-696 пластик пиастра"
+  ],
+  "name_all": [
+    "Микс",
+    "Микс хром"
+  ],
+  "name": [
+    "Микс"
+  ],
+  "unique_name": [
+    "Микс СН-696 пластик пиастра"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья:<br>ткань (С), кожзаменитель (Z), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, пиастры, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+        "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Материал</strong> облицовка сиденья: ткань (С), кожзаменитель (Z), ткань- сетка (E)",
+        "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов. Пиастра крепится к основанию сиденья с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта. По желанию заказчика пиастру можно заменить на механизм качания «Топ-ган»",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=50 мм имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 630,
+          "depth": 290,
+          "height": 600
+        },
+        "box_size": "630х290х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8,2",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/ch_696_mix_pl_tw01_c11_01.png",
+      "chair_view": "img/armchair_comfort/ch_696_mix_pl_tw01_c11_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/ch_696_mix_pl_tw01_c11_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea0/ea0784217cb8cb843cb776f8bfdfe410.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e5d/e5ddd9f27b9a4ebb6ca13665fb9ca042.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9f3/140_140_0/9f301aa56206b5d5aa6f64142a2ddb2f.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9f3/9f301aa56206b5d5aa6f64142a2ddb2f.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c6f/c6fd2c4da5c61cf08e0a0833c2768589.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3dd/6g9n2zm9rrq8s4w6h29gt55d8w26kr6d.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/ea0/140_140_0/ea0784217cb8cb843cb776f8bfdfe410.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4a1/4a1b72db96a3a32a24b6d9d416e888f2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c9/4c975551cff04e3cc99bc2cdb57d2fe3.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4c9/140_140_0/4c975551cff04e3cc99bc2cdb57d2fe3.png",
+        "https://utfc.ru/upload/resize_cache/iblock/995/140_140_0/995869e3e4a71166c29ddbdff6dc1a33.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6bd/6bd89f946618761d63396def067f4b2a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/995/995869e3e4a71166c29ddbdff6dc1a33.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/c6f/140_140_0/c6fd2c4da5c61cf08e0a0833c2768589.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e5f/0v5swqw4knqlb9qqwsuwvnemj0f87cy3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a62/a629e8660ecc670d4e9adc8a90aeecf3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/258/2580dc0a638e96985b7014cc720a8d16.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f77/140_140_0/f77c0ca1c706b1918216987d1116345e.png",
+        "https://utfc.ru/upload/resize_cache/iblock/c29/140_140_0/c2940036bbe635a2b607c40208d123ae.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e87/e87731bc2936ab9689d721ac99b1972f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f77/f77c0ca1c706b1918216987d1116345e.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c29/c2940036bbe635a2b607c40208d123ae.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/258/140_140_0/2580dc0a638e96985b7014cc720a8d16.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a62/140_140_0/a629e8660ecc670d4e9adc8a90aeecf3.png",
+        "https://utfc.ru/upload/resize_cache/iblock/e87/140_140_0/e87731bc2936ab9689d721ac99b1972f.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "900",
+        "max": "1040"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "430",
+        "max": "570"
+      },
+      "armrest_height_from_seat": {
+        "min": "185",
+        "max": 185
+      },
+      "chair_depth": {
+        "min": "600",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "430",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "500",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_width_with_armrests": {
+        "min": "570",
+        "max": null
+      },
+      "seat_width": {
+        "max": "495",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "580",
+        "min": ""
+      },
+      "runners_width": {
+        "max": null,
+        "min": ""
+      },
+      "runners_depth": {
+        "max": null,
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "375",
+        "max": "515"
+      },
+      "armrest_height_from_floor": {
+        "min": "240"
+      },
+      "armrest_width_support": {
+        "max": "50"
+      },
+      "armrest_length_support": {
+        "max": "250"
+      },
+      "seat_depth_km": {
+        "max": "480"
+      },
+      "backrest_height_external": {
+        "max": "435"
+      },
+      "backrest_width_narrow": {
+        "max": "410"
+      },
+      "backrest_width_wide": {
+        "max": "440"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "8,2",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5170",
+    "IE_NAME": "СН-696 Микс пластик",
+    "IE_PREVIEW_TEXT": "Современное компактное кресло для персонала будет хорошо смотреться в открытых офисах и коворкингах. Сетчатая спинка обеспечивает оптимальную циркуляцию воздуха, что немаловажно при длительной работе. Широкие пластиковые подлокотники являются частью каркаса.",
+    "IE_DETAIL_TEXT": "Современное компактное кресло для персонала будет хорошо смотреться в открытых офисах и коворкингах. Сетчатая спинка обеспечивает оптимальную циркуляцию воздуха, что немаловажно при длительной работе. Широкие пластиковые подлокотники являются частью каркаса",
+    "IP_PROP2": 570,
+    "IP_PROP3": "900-1040",
+    "IP_PROP4": 600,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3dd/6g9n2zm9rrq8s4w6h29gt55d8w26kr6d.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e5f/0v5swqw4knqlb9qqwsuwvnemj0f87cy3.webp",
+    "IP_PROP5": 630,
+    "IP_PROP26": 600,
+    "IP_PROP27": 290,
+    "IP_PROP28": "10,6",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,11",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ch696_miks_pl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/821/8213253b3b25c781ed9757f81a395158.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_580_pl",
+    "IP_PROP42": "pl_696",
+    "IP_PROP43": "gl_290",
+    "IP_PROP44": "m_pi",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 4299,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 4428,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 4299,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 28986,
+      "IE_NAME": "Кресло СН-696 Микс пластик TW-01/Е11-к (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/9ca/9ca64dffb2890a13e5612a9c445c627d.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/a8c/a8ca3bdd6c5b61c18529e0d028062b72.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9871,
+      "IP_PROP34": "p_5170",
+      "IP_PROP35": "CH696Микс02",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/c6f/c6fd2c4da5c61cf08e0a0833c2768589.png",
+        "https://utfc.ru/upload/iblock/ea0/ea0784217cb8cb843cb776f8bfdfe410.png",
+        "https://utfc.ru/upload/iblock/995/995869e3e4a71166c29ddbdff6dc1a33.png",
+        "https://utfc.ru/upload/iblock/9f3/9f301aa56206b5d5aa6f64142a2ddb2f.png",
+        "https://utfc.ru/upload/iblock/4c9/4c975551cff04e3cc99bc2cdb57d2fe3.png"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_11_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "HIT",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4511,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4647,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4511,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 28987,
+      "IE_NAME": "Кресло СН-696 Микс пластик TW-01/С11 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 510,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/b88/b88204f4f2278903117a248d6ca425d5.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/dd3/dd3d25dd3bceaf4c7a23ed492497fe72.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9872,
+      "IP_PROP34": "p_5170",
+      "IP_PROP35": "CH696Микс04",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/e87/e87731bc2936ab9689d721ac99b1972f.png",
+        "https://utfc.ru/upload/iblock/a62/a629e8660ecc670d4e9adc8a90aeecf3.png",
+        "https://utfc.ru/upload/iblock/c29/c2940036bbe635a2b607c40208d123ae.png",
+        "https://utfc.ru/upload/iblock/258/2580dc0a638e96985b7014cc720a8d16.png",
+        "https://utfc.ru/upload/iblock/f77/f77c0ca1c706b1918216987d1116345e.png"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_16",
+      "IP_PROP40": "c_11",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "STORE",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4299,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4428,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4299,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Компактное современное кресло для открытых офисов и коворкингов СН-696 Микс пластик производства компании UTFC",
+  "base_name": "Кресло СН-696 Микс пластик",
+  "article_number": "CH696Микс04",
+  "full_describe": "Современное компактное кресло для персонала будет хорошо смотреться в открытых офисах и коворкингах. Сетчатая спинка обеспечивает оптимальную циркуляцию воздуха, что немаловажно при длительной работе. Широкие пластиковые подлокотники являются частью каркаса.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/ch696_miks_pl/",
+  "Основание": "Пятилучье пластиковое d=580 мм",
+  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для кресла CH 696 Микс",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+  "Механизм": "Пиастра — механизм регулировки высоты сиденья с помощью стальной ручки с пластиковой лопаткой",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Сетка TW",
+    "-"
+  ],
+  "color": [
+    "Сетка TW-01 (черный)"
+  ],
+  "variant_name": [
+    "Кресло СН-696 Микс пластик (Сетка TW, Сетка TW-01 (черный))",
+    "Кресло СН-696 Микс пластик (-, Сетка TW-01 (черный))",
+    "Кресло СН-696 Микс пластик (Сетка TW, Сетка TW-01 (черный), Ткань С, Ткань С11 (черный))",
+    "Кресло СН-696 Микс пластик (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань С11 (черный))",
+    "Кресло СН-696 Микс пластик (Сетка TW, Сетка TW-01 (черный), -, Ткань С11 (черный))",
+    "Кресло СН-696 Микс пластик (-, Сетка TW-01 (черный), Ткань С, Ткань С11 (черный))",
+    "Кресло СН-696 Микс пластик (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань С11 (черный))",
+    "Кресло СН-696 Микс пластик (-, Сетка TW-01 (черный), -, Ткань С11 (черный))"
+  ],
+  "finish_type_seat": [
+    "Ткань С",
+    "Ткань Сетка Е",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань С11 (черный)"
+  ]
+}

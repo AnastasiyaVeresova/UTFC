@@ -1,0 +1,632 @@
+{
+  "namefile": [
+    "Сн-710 айкью н пластик"
+  ],
+  "name_all": [
+    "Айкью",
+    "Айкью Н"
+  ],
+  "name": [
+    "Айкью Н"
+  ],
+  "unique_name": [
+    "Сн-710 айкью н пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем»"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки подголовника, спинки и сиденья:<br>\nткань (D, QH), экокожа (S)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового основания, вкладышей и обивочного материала. Крепится к основанию сиденья 10-ю винтами",
+        "<strong>Сиденье</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 30, плотность - 20 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: ткань (D, QH), экокожа (S)",
+        "<br><strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья с помощью 10-ти винтов и к основанию спинки 4-мя винтами",
+        "<strong>Механизм качания</strong> Топ-ган обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> «Арктика» пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные с серым полиуретановым покрытием d=50 мм имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 630,
+          "depth": 290,
+          "height": 600
+        },
+        "box_size": "630х290х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером "
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "12,1",
+      "netto": "",
+      "volume": "0,11"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/iq_ch710_n_s0401_01.png",
+      "chair_view": "img/armchair_rukovoditel/iq_ch710_n_s0401_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/iq_ch710_n_s0401_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d4/1d4602fd80132442365aa96095e71e91.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/dab/140_140_0/rchmk0s60pz6ee1h0wq792uvtoc0btec.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a36/140_140_0/alehnaxt4052y4pwzo7wngzo1s1cfxbl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/30b/yf2014i0h5s9z7t6in0s63q0e8sebmix.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/30b/140_140_0/yf2014i0h5s9z7t6in0s63q0e8sebmix.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a36/alehnaxt4052y4pwzo7wngzo1s1cfxbl.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fc9/fc9d5521d7726f3dbfb57faf1dea62f5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7fb/7fb5c0460d468bdc4627a98b77b53c2e.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/adb/140_140_0/pzsem28n3nzbt86bxcx5unfl7gqgsl91.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dab/rchmk0s60pz6ee1h0wq792uvtoc0btec.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6f9/6f9e62bc35273a36e2f606dafa6c58d1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/55c/bzyco2y3i5h5ot5b4qs64eom3q4rolw0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/763/76317f578a7c73b35d2b787381fb3116.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/adb/pzsem28n3nzbt86bxcx5unfl7gqgsl91.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f6/d5d7dkmgv4fovd8nxa8pc0m7z7ysqv3o.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eea/drlimw9oklp2ptotzbtfbqcjmo5xvgcd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/2f6/140_140_0/d5d7dkmgv4fovd8nxa8pc0m7z7ysqv3o.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "910",
+        "max": "1010"
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "450",
+        "max": "550"
+      },
+      "armrest_height_from_seat": {
+        "min": "190",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "630",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "470",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "510",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_width_with_armrests": {
+        "min": "630",
+        "max": null
+      },
+      "seat_width": {
+        "max": "500",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "660",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "450",
+        "max": "550"
+      },
+      "armrest_height_from_floor": {
+        "min": "210"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {
+        "max": "550"
+      },
+      "backrest_width_narrow": {
+        "max": "420"
+      },
+      "backrest_width_wide": {
+        "max": "480"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": {},
+      "box_on_pallet": {},
+      "pallet_width": {}
+    }
+  ],
+  "lost": [
+    {
+      "clean": false,
+      "limit": false,
+      "del": true
+    }
+  ],
+  "parent": {
+    "IE_XML_ID": "p_5253",
+    "IE_NAME": "СН-710 Айкью Н Ср",
+    "IE_PREVIEW_TEXT": "Современное кресло в стиле хай-тек. Мягкие элементы спинки кресла расположены в трех зонах, соприкасаясь с которыми спина сидящего человека находится в положении максимального комфорта. Изящные подлокотники идеально вписываются в общую конструкцию кресла. Кресло изготавливается в любом цвете тканях D, QH и в экокоже Santorini. Максимальная нагрузка до 150 кг.",
+    "IE_DETAIL_TEXT": "Современное кресло в стиле хай-тек. Мягкие элементы спинки кресла расположены в трех зонах, соприкасаясь с которыми спина сидящего человека находится в положении максимального комфорта. Изящные подлокотники идеально вписываются в общую конструкцию кресла. Кресло изготавливается в любом цвете тканях D, QH и в экокоже Santorini. Максимальная нагрузка до 150 кг.",
+    "IP_PROP2": 630,
+    "IP_PROP3": "910-1010",
+    "IP_PROP4": 630,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/55c/bzyco2y3i5h5ot5b4qs64eom3q4rolw0.webp",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/eea/drlimw9oklp2ptotzbtfbqcjmo5xvgcd.png",
+    "IP_PROP5": 630,
+    "IP_PROP26": 600,
+    "IP_PROP27": 290,
+    "IP_PROP28": "12,1",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,11",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ch710_iq_n",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/d50/zi4dr9fp4yb4eh8h60wl0hl3ew5web2r.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_arkt_pl",
+    "IP_PROP42": "pl_iq",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 8312,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 8562,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 8312,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 40116,
+      "IE_NAME": "Кресло СН-710 Айкью Н Ср S-0419 (темно-синий)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/da1/zwgn2u8q9rvibzrqnqweog2f914g84en.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/27d/q20awdifxy0j607ayf5yvpx2os8hl9qw.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11706,
+      "IP_PROP34": "p_5253",
+      "IP_PROP35": "КК-00304",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f6/d5d7dkmgv4fovd8nxa8pc0m7z7ysqv3o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a36/alehnaxt4052y4pwzo7wngzo1s1cfxbl.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/30b/yf2014i0h5s9z7t6in0s63q0e8sebmix.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dab/rchmk0s60pz6ee1h0wq792uvtoc0btec.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/adb/pzsem28n3nzbt86bxcx5unfl7gqgsl91.webp"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0419",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8539,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8796,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8539,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 40117,
+      "IE_NAME": "Кресло СН-710 Айкью Н Ср QH21-1325 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3a4/2ik8nes7xg0dxw0sygwzdtwdvdnupus3.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/248/x8dxzf5k3il9ib0b0xudy6hsp0qun4l6.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11707,
+      "IP_PROP34": "p_5253",
+      "IP_PROP35": "КК-00210",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1a3/f37lehtk8l6iy6lq6vtxnwo6hje1hdcd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fc8/ok2yfu16burciuvzjf4hqtcp9tg7hsqm.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3a5/q7j4bmvchsxjnebcw5itcjn7o69lgkr6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e1e/0yxenmakg4rerz5orowsqroeg3wkmyfn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/421/owbnx99yb4s2sytvwx24dna8zwo2ihx2.webp"
+      ],
+      "IP_PROP37": "m_31",
+      "IP_PROP38": "qh21-1325",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 1,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8763,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9026,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8763,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 40118,
+      "IE_NAME": "Кресло СН-710 Айкью Н Ср QH21-1323 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/705/innbvmodvi50cznbpsi3sv4qllkwz8uh.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/051/vrf79ikxlq3vmk11qv0urzr8kvrus7eu.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11708,
+      "IP_PROP34": "p_5253",
+      "IP_PROP35": "КК-00299",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8eb/r6qjs85scvy6t3zfisa038gkqazd9bfp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c6f/6osfu7590639has0lwyfr4sp8226796u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d26/3889xi67a01rjmy1emj32rn9aqzwzomr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6d8/8mm69rnn1k4sadcke7bs12e742rf0rdm.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c8a/8u38x09gikjqa1cvzxz6hodd2ymtrqqm.webp"
+      ],
+      "IP_PROP37": "m_31",
+      "IP_PROP38": "qh21-1323",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8763,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9026,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8763,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 40119,
+      "IE_NAME": "Кресло СН-710 Айкью Н Ср D26-28 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/5frfs2ro1r0wyaumpmqqkyzedwhjhk15.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4e2/wzs2fghuouzn3gztyadmasg7t6e2afd9.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11709,
+      "IP_PROP34": "p_5253",
+      "IP_PROP35": "КК-00301",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e19/vukfkdtkenfit8nk0craxlqmkwqso65q.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b97/2jmr782ce80kal56qjye2p4t5yy4hzgf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/582/v9910d9p0o39esnozzsxsggl1oh4dtxg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a81/0gmp127w96mc31j0hf2fd9e5yqueho4f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0c1/g7gd1qsvi5e9b4kdp7zdm7ocfwnk2v5s.webp"
+      ],
+      "IP_PROP37": "m_13",
+      "IP_PROP38": "d_26_28",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8312,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8562,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8312,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 40120,
+      "IE_NAME": "Кресло СН-710 Айкью Н Ср D26-25 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d94/hl5ujt9cy73wnevqhiehxjtustieuazs.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/269/n31k1pz5qftg31v50nk328cu06gi0yoh.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11710,
+      "IP_PROP34": "p_5253",
+      "IP_PROP35": "КК-00209",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6d8/nmqwcln5y3odfusfv4w6bx1c9cbr1cr4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/mhry24d62ww2t6wdcyzgyu0ihs5n9pho.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e93/4iyiwep86xi0vv6puvtu1arbqh2jfv7u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3b9/0gdg38uvw7ez4vyk67hnz64ggklc76vk.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b85/z1ur4dbhabiujgitwslh1na7pcd20ja1.webp"
+      ],
+      "IP_PROP37": "m_13",
+      "IP_PROP38": "d_26_25",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 8312,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8562,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 8312,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Умное кресло для работы за компьютером СН-710 Айкью Н Ср производства компании UTFC",
+  "base_name": "Кресло СН-710 Айкью Н Ср",
+  "article_number": "КК-00304",
+  "full_describe": "Современное кресло в стиле хай-тек. Мягкие элементы спинки кресла расположены в трех зонах, соприкасаясь с которыми спина сидящего человека находится в положении максимального комфорта. Изящные подлокотники идеально вписываются в общую конструкцию кресла. Кресло изготавливается в любом цвете тканях D, QH и в экокоже Santorini. Максимальная нагрузка до 150 кг.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch710_iq_n/",
+  "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
+  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники для кресла АйКью",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Экокожа Santorini",
+    "Ткань D",
+    "Ткань QH",
+    "-"
+  ],
+  "color": [
+    "Экокожа Santorini S0419 (темно-синий)"
+  ],
+  "variant_name": [
+    "Кресло СН-710 Айкью Н Ср (Экокожа Santorini, Экокожа Santorini S0419 (темно-синий))",
+    "Кресло СН-710 Айкью Н Ср (Ткань D, Экокожа Santorini S0419 (темно-синий))",
+    "Кресло СН-710 Айкью Н Ср (Ткань QH, Экокожа Santorini S0419 (темно-синий))",
+    "Кресло СН-710 Айкью Н Ср (-, Экокожа Santorini S0419 (темно-синий))",
+    "Кресло СН-710 Айкью Н Ср (Экокожа Santorini, Экокожа Santorini S0419 (темно-синий),, )",
+    "Кресло СН-710 Айкью Н Ср (Ткань D, Экокожа Santorini S0419 (темно-синий),, )",
+    "Кресло СН-710 Айкью Н Ср (Ткань QH, Экокожа Santorini S0419 (темно-синий),, )",
+    "Кресло СН-710 Айкью Н Ср (-, Экокожа Santorini S0419 (темно-синий),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

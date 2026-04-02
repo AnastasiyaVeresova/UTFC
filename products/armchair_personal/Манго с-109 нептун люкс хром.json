@@ -1,0 +1,495 @@
+{
+  "namefile": [
+    "Манго с-109 нептун люкс хром"
+  ],
+  "name": [
+    "Манго"
+  ],
+  "unique_name": [
+    "Манго С-109 нептун люкс хром"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья кресла: ткань (D, Moderno)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, синхромеханизма, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из основания пластикового, вкладыша пенополиуретанового (жесткость - 30, плотность - 20 кг/м<sup>3</sup>), чехла пластикового и обивочного материала",
+        "<strong>Сиденье</strong> состоит из основания фанерного (фанера гнуто-клееная 5-слойная), вкладыша пенополиуретанового (жесткость - 30, плотность 20 кг/м<sup>3</sup>), чехла пластикового и обивочного элемента",
+        "Облицовка спинки и сиденья: ткань (D, Moderno)",
+        "<strong>Подлокотники</strong> - пластиковые «Нептун», крепятся к основанию сиденья с помощью винтов М6",
+        "<strong>Синхромеханизм</strong> позволяет свободно менять положение тела, обеспечивает постоянный контакт спины пользователя со спинкой кресла и фиксацию спинки под любым углом. Синхромеханизм соединяет спинку с сиденьем и позволяет регулировать высоту спинки",
+        "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> хромированное d=640 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 624,
+          "depth": 322,
+          "height": 665
+        },
+        "box_size": "624х322х665",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/c109_mango_neptune_lux_ch_01.png",
+      "chair_view": "img/armchair_personal/c109_mango_neptune_lux_ch_02.png",
+      "dimensions": "img/armchair_personal/dimensions/c109_mango_neptune_lux_ch_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4be/4be25128a52f4c8df436380f5c3e3ecf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9fb/140_140_0/9fb381f5e8cea493d56c3f488746974f.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/9af/140_140_0/9af86ed4cbf2d496bcd72daab7be6630.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/32e/32ed4be6c3059b596e7986f7ca007b43.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/dd4/140_140_0/dd464c3c1505ea16744e1a2b0c7c8c1b.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dd4/dd464c3c1505ea16744e1a2b0c7c8c1b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9af/9af86ed4cbf2d496bcd72daab7be6630.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f76/f76fad406700266f9c71fe962060aa4f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fc9/fc9d5521d7726f3dbfb57faf1dea62f5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/867/867861d3cd32d66cc73d996547d0a905.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8f5/q6mnrhwpepvmcrro03vii7ba8jynhvsa.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7b5/7b5511069f8acbabb163025a8fcef928.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8f0/21w833v3mrv6gvnmffla23lxjk0jrbpf.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9fb/9fb381f5e8cea493d56c3f488746974f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/97d/97d06c904ddcb338a6ffec201345fcb9.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/resize_cache/iblock/32e/140_140_0/32ed4be6c3059b596e7986f7ca007b43.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7b5/140_140_0/7b5511069f8acbabb163025a8fcef928.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba4/b5si50vt41b6kyvl2vwoifidb0xr5af0.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1010",
+        "max": "1150"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "460",
+        "max": "600"
+      },
+      "armrest_height_from_seat": {
+        "min": "230",
+        "max": 230
+      },
+      "chair_depth": {
+        "min": "500",
+        "max": 500
+      },
+      "seat_depth": {
+        "min": "410",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "495",
+        "max": "560"
+      },
+      "seat_width_with_armrests": {
+        "min": "625",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "475",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "640",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "460",
+        "max": "600"
+      },
+      "armrest_height_from_floor": {
+        "min": "303"
+      },
+      "armrest_width_support": {
+        "max": "55"
+      },
+      "armrest_length_support": {
+        "max": "340"
+      },
+      "seat_depth_km": {},
+      "backrest_height_external": {
+        "max": "495"
+      },
+      "backrest_width_narrow": {
+        "max": "250"
+      },
+      "backrest_width_wide": {
+        "max": "430"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": {},
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": 7475,
+    "IE_NAME": "С-109 Манго Люкс Нептун хром",
+    "IE_PREVIEW_TEXT": "Качественное кресло традиционного дизайна, с особенностью в виде синхромеханизма, который позволяет одновременно регулировать угол наклона сиденья и спинки.",
+    "IE_DETAIL_TEXT": "Качественное кресло традиционного дизайна, с особенностью в виде синхромеханизма, который позволяет одновременно регулировать угол наклона сиденья и спинки.",
+    "IP_PROP2": 625,
+    "IP_PROP3": "1010-1150",
+    "IP_PROP4": 500,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/8f5/q6mnrhwpepvmcrro03vii7ba8jynhvsa.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8f0/21w833v3mrv6gvnmffla23lxjk0jrbpf.webp",
+    "IP_PROP5": 624,
+    "IP_PROP26": 665,
+    "IP_PROP27": 322,
+    "IP_PROP28": "12,5",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,13",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "mango_lux_neptun_ch",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_600_ch",
+    "IP_PROP42": "pl_neptun",
+    "IP_PROP43": "gl_290",
+    "IP_PROP44": "m_sin",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 4761,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 4904,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 4761,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 29328,
+      "IE_NAME": "Кресло С-109 Манго Люкс Нептун хром D26-28 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/448/448b48c28c27dff4627c305b60e07510.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/668/6687b3fc7f3f1d0480f5eb16a8aa04a2.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7474,
+      "IP_PROP34": 7475,
+      "IP_PROP35": "С109МангоЛюксНептун03",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9fb/9fb381f5e8cea493d56c3f488746974f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9af/9af86ed4cbf2d496bcd72daab7be6630.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/32e/32ed4be6c3059b596e7986f7ca007b43.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dd4/dd464c3c1505ea16744e1a2b0c7c8c1b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7b5/7b5511069f8acbabb163025a8fcef928.webp"
+      ],
+      "IP_PROP37": "m_13",
+      "IP_PROP38": "d_26_28",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4761,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4904,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4761,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 29380,
+      "IE_NAME": "Кресло С-109 Манго Люкс Нептун хром D26-25 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9961,
+      "IP_PROP34": 7475,
+      "IP_PROP35": "С109МангоЛюксНептун23",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_13",
+      "IP_PROP38": "d_26_25",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 10,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4761,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4904,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4761,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 29384,
+      "IE_NAME": "Кресло С-109 Манго Люкс Нептун хром D26-29 (оранжевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9965,
+      "IP_PROP34": 7475,
+      "IP_PROP35": "С109МангоЛюксНептун40",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_13",
+      "IP_PROP38": "d_26_29",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 4761,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 4904,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 4761,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Классическое офисное кресло С-109 Манго Люкс Нептун хром производства компании UTFC",
+  "base_name": "Кресло С-109 Манго Люкс Нептун хром",
+  "article_number": "С109МангоЛюксНептун03",
+  "full_describe": "Качественное кресло традиционного дизайна, с особенностью в виде синхромеханизма, который позволяет одновременно регулировать угол наклона сиденья и спинки.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/mango_lux_neptun_ch/",
+  "Основание": "Пятилучье хромированное Альфа 640 мм",
+  "Подлокотники": "Подлокотник Нептун пластиковый с алюминиевой вставкой",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+  "Механизм": "Синхромеханизм кресла с двумя рычагами. Один рычаг для регулировки высоты подъема кресла, второй рычаг позволяет свободно менять положение тела, обеспечивая постоянный контакт спины пользователя со спинкой кресла, а также фиксирует угол наклона спинки в любом положении",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Ткань D",
+    "-"
+  ],
+  "color": [
+    "Ткань D26-25 (серый)",
+    "Ткань D26-28 (черный)",
+    "Ткань D26-29 (оранжевый)"
+  ],
+  "variant_name": [
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-25 (серый))",
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-28 (черный))",
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-29 (оранжевый))",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-25 (серый))",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-28 (черный))",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-29 (оранжевый))",
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-25 (серый),, )",
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-28 (черный),, )",
+    "Кресло С-109 Манго Люкс Нептун хром (Ткань D, Ткань D26-29 (оранжевый),, )",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-25 (серый),, )",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-28 (черный),, )",
+    "Кресло С-109 Манго Люкс Нептун хром (-, Ткань D26-29 (оранжевый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

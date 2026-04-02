@@ -1,0 +1,184 @@
+
+  .chair-schema-container {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+    overflow: visible;
+    top: 20px;
+  }
+
+  .chair-schema-image {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  .size-filter {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    z-index: 10;
+    // background: rgba(255, 255, 255, 0.8);
+    // padding: 5px;
+    border-radius: 5px;
+    // box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    flex-direction: column;
+  }
+
+  .size-filter.vertical {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px; /* Отступ между элементами */
+  }
+
+.size-filter.horizontal {
+    flex-direction: row; /* Горизонтальное расположение */
+    align-items: center; /* Выравнивание по центру */
+    // gap: 5px; /* Отступ между элементами */
+}
+.size-filter.horizontal input[type="number"]:first-child {
+    order: 1; /* Первое поле ввода (min) */
+    margin-right: -5px; /* Отступ справа */
+}
+
+.size-filter.horizontal .custom-slider {
+    order: 2; /* Ползунок посередине */
+    flex-grow: 1; /* Растягиваем ползунок */
+    z-index: -5;
+    
+}
+
+.size-filter.horizontal input[type="number"]:last-child {
+    order: 3; /* Второе поле ввода (max) */
+    // margin-left: 5px; /* Отступ слева */
+}
+  .filter-label {
+    font-size: 12px;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+  .custom-slider.horizontal {
+    
+    position: relative;
+    flex-grow: 1;
+    height: 2px;
+    background: #545454;
+    border-radius: 2px;
+  }
+
+  .custom-slider.horizontal .slider-thumb {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #96C22B;
+    cursor: pointer;
+    z-index: 2;
+    top: 50%;
+}
+
+.custom-slider.horizontal .min-thumb {
+    transform: translateX(0) translateY(-50%);
+}
+
+.custom-slider.horizontal .max-thumb {
+    transform: translateX(-100%) translateY(-50%);
+    left: 104%; 
+}
+
+
+.custom-slider.vertical {
+    position: relative;
+    width: 2px;
+    height: 100%;
+    background: #545454;
+    border-radius: 2px;
+    // margin: 5px 0;
+}
+
+  .slider-track {
+    position: absolute;
+    background: #96C22B;
+    border-radius: 2px;
+    pointer-events: none;
+  }
+
+.custom-slider.vertical .slider-thumb {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #96C22B;
+    cursor: pointer;
+    z-index: 2;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+
+   
+.custom-slider.vertical .min-thumb {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0; /* minThumb внизу */
+}
+
+.custom-slider.vertical .max-thumb {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 100%; /* maxThumb вверху */
+    transform: translate(-50%, 100%);
+}
+ 
+.custom-slider.vertical .slider-track {
+    position: absolute;
+    width: 100%;
+    background: #545454;
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+  .size-filter input[type="number"] {
+    width: 47px;
+    text-align: center;
+    padding: 4px;
+    background-color:#ffffff;
+    color: #000000;
+    border: 2px solid #545454;
+    border-radius: 3px;
+  }
+
+
+.size-filter.vertical input[type="number"]:first-child {
+    order: 1; /* Первое поле ввода (min) */
+    margin-bottom: -10px; /* Отступ снизу */
+}
+
+.size-filter.vertical .custom-slider {
+    order: 2; /* Ползунок посередине */
+    flex-grow: 1; /* Растягиваем ползунок */
+    // width: 4px;
+    // height: 100%;
+    z-index: -5;
+}
+
+.size-filter.vertical input[type="number"]:last-child {
+    order: 3; /* Второе поле ввода (max) */
+    margin-top: -10px; /* Отступ сверху */
+}
+
+/* Убираем стрелочки для всех input[type="number"] */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Для Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}

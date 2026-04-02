@@ -1,0 +1,417 @@
+{
+    "namefile": [
+        "Изо +"
+    ],
+    "name_all": [
+        "Изо",
+        "Изо+",
+        "Изо со столиком",
+        "Изо пластик"
+    ],
+    "name": [
+        "Изо+"
+    ],
+    "unique_name": [
+        "ИЗО +"
+    ],
+    "vid": [
+        "стул"
+    ],
+    "category": [
+        "стул"
+    ],
+    "destiny": [
+        "обстановки общественных помещений, предназначен для работы и кратковременного отдыха сидя<br>Используется в общественных помещениях различного назначения (в том числе в административных и т.д.)<br>Изготавливается с мягкими или жесткими элементами спинки и сиденья"
+    ],
+    "technical_requirements": [
+        [
+            "Стул должен соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- тип покрытия каркаса стула: BL, CH, GR, где<br>\n BL - окрашенный, цвет черный<br>\nСН - хромовое блестящее<br>\nGR - окрашенный, цвет серый<br>- материал облицовки спинки и сиденья стула:<br>\nдля  мягких  элементов:<br>ткань (С, D, Moderno ), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R)<br>\nдля жестких элементов - пластик<br>\n- цвет материала - по каталогу\n«ИЗО+», «ИЗО со столиком»\n(правый или левый) укомплектовываются подлокотником"
+            ],
+            "components": [
+                "металлического каркаса, спинки, сиденья, 2-х подлокотников, пластиковых заглушек и крепежных элементов. Нерегулируемый",
+                "<strong>Каркас</strong> стула сварной металлический, с защитно-декоративным покрытием, состоит из ножек (2 шт.), дуг спинки (2 шт.) и поперечин (2 шт.)",
+                "<strong>Ножки и дуги спинки</strong> изготовлены из трубы овального сечения 30х15х1,2 мм, поперечины - из трубы круглого сечения Ф16х1,2 мм",
+                "<strong>Покрытие каркаса:</strong> термореактивная порошковая краска черного или серого цвета, хромовое блестящее",
+                "<strong>Спинка и сиденье</strong> мягкие, состоят из основания фанерного (фанера гнуто-клееная 4-слойная), вкладыша пенополиуретанового толщиной 25 мм (жесткость - 25, плотность - 18 кг/м<sup>3</sup>), чехла пластикового (полипропилен), и облицовки (ткань, ткань-сетка, искусственная кожа или экокожа)",
+                "На основаниях спинки и сиденья установлены гайки мебельные М6 для соединения спинки и сиденья с каркасом винтами М6",
+                "Чехол спинки закрывает ее с тыльной стороны и крепится с помощью 4-х самонарезающих винтов к основанию спинки. Чехол сиденья закрывает его с нижней стороны",
+                "Допускается крепление чехла пластикового к основанию фанерному скобой обивочной или саморезами",
+                "<strong>Подлокотники</strong> «ИЗО+» устанавливаются в отверстия поперечин до упора. Материал подлокотников - полипропилен (ГОСТ 26996-86 «Полипропилен и сополимеры пропилена»)",
+                "Для сборки стульев используются винты с защитно-декоративным покрытием",
+                "Заглушки устанавливаются на ножки каркаса (4 шт.) и на торцы поперечин (4 шт.)"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "",
+                    "depth": "",
+                    "height": ""
+                },
+                "box_size": "",
+                "transportation": "Укладка в стопку не более 18 шт<br>ООО \"ФЕСТ\" оставляет за собой право дальнейшего совершенствования конструкции стула, а также дополнения настоящего технического описания"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "BL, GR - 6,4 / CH - 6,5",
+            "netto": "",
+            "volume": "0,04-0,06"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "150",
+            "recommended_load": "120"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/chair_visitors/iso_bl_plus_z71_01.png",
+            "chair_view": "img/chair_visitors/iso_bl_plus_z71_02.png",
+            "dimensions": "img/chair_visitors/dimensions/izo_ch_z71_01.png",
+            "box": "img/box_0.png",
+            "additional": [
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ae8/ae8935cb59b3b0f21339d68112ec8eae.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/052/0520a8fe4d1e119499fdc30f60b308c3.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e7e/e7e07310987904c68082855430874c7e.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e5d/e5ddd9f27b9a4ebb6ca13665fb9ca042.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/cf8/140_140_0/cf820c8a22a0322078ccbc336f66c724.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5d4/sz9v486ets8o67a5tszj4ai48kzirwzi.webp",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4a4/140_140_0/4a4b36575ed2c2985028d01017700953.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/12e/12eac4cbc8e29ff91e60f48774f510e1.webp",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/991/pn53y40p3ygal190hwtsp2328zts0x4r.webp",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dc1/dc13e6ec9d5d9e83e02a44c8bafbb86c.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/dc1/140_140_0/dc13e6ec9d5d9e83e02a44c8bafbb86c.png",
+                "https://utfc.ru/upload/resize_cache/iblock/717/140_140_0/717688d61263333a31c19590b6669951.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/751/140_140_0/751f1d8bc1a1fe03650930b7a5c32d3d.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4c3/4c3a0cbbf06a18ec85243623e0eb2f72.webp",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2e6/qbwgzenl2foehl9mtvuf7ugdjc2y12eb.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/4c3/140_140_0/4c3a0cbbf06a18ec85243623e0eb2f72.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cf8/cf820c8a22a0322078ccbc336f66c724.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/717/717688d61263333a31c19590b6669951.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/052/140_140_0/0520a8fe4d1e119499fdc30f60b308c3.png",
+                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+                "https://utfc.ru/upload/resize_cache/iblock/ae8/140_140_0/ae8935cb59b3b0f21339d68112ec8eae.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/751/751f1d8bc1a1fe03650930b7a5c32d3d.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4a4/4a4b36575ed2c2985028d01017700953.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/be1/be1e6a3b1b4deb2bfc39c20415df68d4.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d4/1d4602fd80132442365aa96095e71e91.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6da/6daed1c970681bad2f719281d0c2eacb.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/791/791b522e509c64b45e53cb02e39f010e.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a56/a569ed7da653191844645055717515c7.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/308/qxgig3zbk7gaji15ymoveic2y2tychb6.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42e/42e6c4481d6e1825f4a2de223be6e640.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ef7/9m9hpb4me939w38invtvwm925b747dvg.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/124/12488cc5e7825b6c33ec205fee2cf98d.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/065/y85u7jd7rpdbjt47u3ga8ue5cyv16358.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10d/10d0587341e6b54c71f71cc811115d9c.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/031/031d5c380ab03d1ac246711519a96a16.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d56/d56a51713891d4b17ee655d114e98c4e.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/407/4079580dba1dd4125a68ade982118f69.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/21f/21f13b7d7f01b53c29c67ad9a6620c32.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8fe/8fe971ab8f219e93061b10b7c0d8208c.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/065/140_140_0/y85u7jd7rpdbjt47u3ga8ue5cyv16358.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7f6/7f622a8a3c6d109774c96a627c14ece3.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b6f/b6fb844954fd4b4a6064718a92450cfb.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/766/766c72d058e3535b67624ec955aaa19d.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/308/140_140_0/qxgig3zbk7gaji15ymoveic2y2tychb6.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6ad/6addfe40dbd34774b5944c4138bca1e4.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/5f8/400_400_0/5f87deb598a64f6efb82c20f80096b81.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42b/cinoo4yb5qfal1hamdt6wvovctm6jnzh.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f1b/f1b389f0a925393f619c55dd840941ea.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/044/0444eb910ce5a1d89c102849d0247aaa.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/22d/22ddf3bcabb4bd89b3efee3aafff7c7f.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8aa/ljtm365nmazz9j5spgllvt009fuiyu43.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/33b/33b582468ede1ac576d2ed697b6a2950.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ccb/ccb62e3bc40a804259f1514d3bc58182.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0c5/0c5eea6af3603d63b73b652d674a5eff.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/291/2519jdk1g5zuyed08f1113rftyjk73kj.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/063/063f2eefe9886930b7900fdd69b6009c.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ac8/ac8e664b9a3470d65f500fc3c38f80ba.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a68/a68525ca656adb679f8bf10e4c8957b9.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/79d/79de729e01a00f3c79268a1bfba110da.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/291/140_140_0/2519jdk1g5zuyed08f1113rftyjk73kj.png",
+                "https://utfc.ru/upload/resize_cache/iblock/8aa/140_140_0/ljtm365nmazz9j5spgllvt009fuiyu43.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/df0/df06c7f63b82e1fd4408a31594276efc.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3a5/3a5d425d6688006b1768d11061e38317.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/e7b/140_140_0/zg7d1acrmolvydp9fjmf24cahvox5wag.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7b/zg7d1acrmolvydp9fjmf24cahvox5wag.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/2ce/140_140_0/zsdggemujp5bc1nakuxv29nuhbpxfn6q.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ce/zsdggemujp5bc1nakuxv29nuhbpxfn6q.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/866/140_140_0/cfxszjanu1jy4c5hgaqaz9gpxis37dne.png",
+                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/866/cfxszjanu1jy4c5hgaqaz9gpxis37dne.webp"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "835",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "470",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "600",
+                "max": null
+            },
+            "seat_depth": {
+                "min": "450",
+                "max": ""
+            },
+            "backrest_height": {
+                "max": "360",
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "680",
+                "max": null
+            },
+            "seat_width": {
+                "max": "470",
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": "",
+                "min": ""
+            },
+            "runners_width": {
+                "max": "550",
+                "min": ""
+            },
+            "runners_depth": {
+                "max": "400",
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "435"
+            },
+            "armrest_height_from_floor": {},
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "seat_depth_km": {
+                "max": "415"
+            },
+            "backrest_height_external": {},
+            "backrest_width_narrow": {
+                "max": "490"
+            },
+            "backrest_width_wide": {
+                "max": "490"
+            },
+            "recommended_load": "120",
+            "max_load": "150",
+            "skeleton": "монолитный",
+            "minpromtorg": "+",
+            "netto": {},
+            "brutto": {},
+            "package_width": {},
+            "package_depth": {},
+            "package_height": {},
+            "volume": "0",
+            "box_on_pallet": {},
+            "pallet_width": {},
+            "addition": {}
+        }
+    ],
+    "skeleton": "монолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "title": "Стул ИЗО СН для посетителей с большим выбором обивки производства компании UTFC",
+    "base_name": "Стул ИЗО СН",
+    "article_number": "1120CHЛ3",
+    "full_describe": "Бестселлер в категории \"стулья для посетителей\". Стул для посетителей имеет широкую спинку и сиденье. Представлен большой выбор обивки. Максимальная нагрузка - 150 кг.",
+    "Link_arm": "https://utfc.ru/catalog/pos_chair/izo_ch/",
+    "Основание": "Металлические опоры стула ИЗО, защитно-декоративное покрытие никель-хром (СН),  d = 16 мм",
+    "Подлокотники": "Без подлокотников",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "finish_type": [
+        "Ткань С",
+        "Кожзаменитель Z",
+        "-",
+        "Экокожа Santorini"
+    ],
+    "color": [
+        "Кожзаменитель Z11 (черный)",
+        "Кожзаменитель Z34 (светло-зеленый)",
+        "Кожзаменитель Z06 (синий)",
+        "Кожзаменитель Z10 (темно-коричневый)",
+        "Кожзаменитель Z19 (темно-синий)",
+        "Кожзаменитель Z21 (бежевый)",
+        "Кожзаменитель Z29 (красный)",
+        "Кожзаменитель Z71 (серый)",
+        "Кожзаменитель Z01 (белый)",
+        "Ткань С02 (красный)",
+        "Ткань С06 (синий)",
+        "Ткань С08 (коричневый)",
+        "Ткань С11 (черный)",
+        "Ткань С13 (бордовый)",
+        "Ткань С15 (черно-синий)",
+        "Ткань С16 (черно-красный)",
+        "Ткань С24 (коричнево-бежевый)",
+        "Ткань С34 (зеленый)",
+        "Ткань С39 (бежевый)",
+        "Ткань С71 (меланж)",
+        "Ткань С72 (черно-стальной)",
+        "Ткань С73 (серый)"
+    ],
+    "variant_name": [
+        "Стул ИЗО СН со столиком (Ткань С, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН со столиком (Ткань С, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН со столиком (Кожзаменитель Z, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН со столиком (Кожзаменитель Z, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН со столиком (-, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН со столиком (-, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z06 (синий))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z19 (темно-синий))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z21 (бежевый))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z29 (красный))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z71 (серый))",
+        "Стул ИЗО СН (Ткань С, Кожзаменитель Z01 (белый))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z06 (синий))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z19 (темно-синий))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z21 (бежевый))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z29 (красный))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z71 (серый))",
+        "Стул ИЗО СН (Кожзаменитель Z, Кожзаменитель Z01 (белый))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z06 (синий))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z19 (темно-синий))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z21 (бежевый))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z29 (красный))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z71 (серый))",
+        "Стул ИЗО СН (Экокожа Santorini, Кожзаменитель Z01 (белый))",
+        "Стул ИЗО СН (-, Кожзаменитель Z06 (синий))",
+        "Стул ИЗО СН (-, Кожзаменитель Z10 (темно-коричневый))",
+        "Стул ИЗО СН (-, Кожзаменитель Z11 (черный))",
+        "Стул ИЗО СН (-, Кожзаменитель Z19 (темно-синий))",
+        "Стул ИЗО СН (-, Кожзаменитель Z21 (бежевый))",
+        "Стул ИЗО СН (-, Кожзаменитель Z29 (красный))",
+        "Стул ИЗО СН (-, Кожзаменитель Z34 (светло-зеленый))",
+        "Стул ИЗО СН (-, Кожзаменитель Z71 (серый))",
+        "Стул ИЗО СН (-, Кожзаменитель Z01 (белый))",
+        "Стул ИЗО СН со столиком (Ткань С, Кожзаменитель Z11 (черный),, )",
+        "Стул ИЗО СН со столиком (Ткань С, Кожзаменитель Z34 (светло-зеленый),, )",
+        "Стул ИЗО СН со столиком (Кожзаменитель Z, Кожзаменитель Z11 (черный),, )",
+        "Стул ИЗО СН со столиком (Кожзаменитель Z, Кожзаменитель Z34 (светло-зеленый),, )",
+        "Стул ИЗО СН со столиком (-, Кожзаменитель Z11 (черный),, )",
+        "Стул ИЗО СН со столиком (-, Кожзаменитель Z34 (светло-зеленый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С02 (красный),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С06 (синий),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С08 (коричневый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С11 (черный),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С13 (бордовый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С15 (черно-синий),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С16 (черно-красный),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С24 (коричнево-бежевый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С34 (зеленый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С39 (бежевый),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С71 (меланж),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С72 (черно-стальной),, )",
+        "Стул ИЗО СН (Ткань С, Ткань С73 (серый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С02 (красный),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С06 (синий),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С08 (коричневый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С11 (черный),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С13 (бордовый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С15 (черно-синий),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С16 (черно-красный),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С24 (коричнево-бежевый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С34 (зеленый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С39 (бежевый),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С71 (меланж),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С72 (черно-стальной),, )",
+        "Стул ИЗО СН (Кожзаменитель Z, Ткань С73 (серый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С02 (красный),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С06 (синий),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С08 (коричневый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С11 (черный),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С13 (бордовый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С15 (черно-синий),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С16 (черно-красный),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С24 (коричнево-бежевый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С34 (зеленый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С39 (бежевый),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С71 (меланж),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С72 (черно-стальной),, )",
+        "Стул ИЗО СН (Экокожа Santorini, Ткань С73 (серый),, )",
+        "Стул ИЗО СН (-, Ткань С02 (красный),, )",
+        "Стул ИЗО СН (-, Ткань С06 (синий),, )",
+        "Стул ИЗО СН (-, Ткань С08 (коричневый),, )",
+        "Стул ИЗО СН (-, Ткань С11 (черный),, )",
+        "Стул ИЗО СН (-, Ткань С13 (бордовый),, )",
+        "Стул ИЗО СН (-, Ткань С15 (черно-синий),, )",
+        "Стул ИЗО СН (-, Ткань С16 (черно-красный),, )",
+        "Стул ИЗО СН (-, Ткань С24 (коричнево-бежевый),, )",
+        "Стул ИЗО СН (-, Ткань С34 (зеленый),, )",
+        "Стул ИЗО СН (-, Ткань С39 (бежевый),, )",
+        "Стул ИЗО СН (-, Ткань С71 (меланж),, )",
+        "Стул ИЗО СН (-, Ткань С72 (черно-стальной),, )",
+        "Стул ИЗО СН (-, Ткань С73 (серый),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ]
+}

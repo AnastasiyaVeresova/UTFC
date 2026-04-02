@@ -1,0 +1,639 @@
+{
+  "namefile": [
+    "Стул парма 4к"
+  ],
+  "name_all": [
+    "Парма"
+  ],
+  "name": [
+    "Парма"
+  ],
+  "unique_name": [
+    "Парма 4К"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
+        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный. На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
+        "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
+        "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 570,
+          "depth": 510,
+          "height": 610
+        },
+        "box_size": "570х510х610",
+        "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой<br>Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8,65",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/parma_4k_v03_01.png",
+      "chair_view": "img/chair_visitors/parma_4k_v03_02.png",
+      "dimensions": "img/chair_visitors/dimensions/parma_4k_v03_01.png",
+      "box": "img/box_UTFC_2x.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/092/140_140_0/7vhdcpkkp3l3a9wpols105l42s17tkx2.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/428/140_140_0/m4gg7kcyrw6ct8oav8e7r0pe6rimuize.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/092/7vhdcpkkp3l3a9wpols105l42s17tkx2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7d/kg5s0z8ooavef3y0d7i8ewluv25y7a0b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f2b/bp3h2lwm0zxw96381q589thlq3gokeqs.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3e0/6hgv2ibxnpmyelmew7whzo7f5ykg4juv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/114/z1l4db8lwamh9o0sv3hl1iexnsadn94i.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46e/y8i7ghd5hksh5dq8ximjfd35e06ijbuc.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/e7d/140_140_0/kg5s0z8ooavef3y0d7i8ewluv25y7a0b.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f37/3q1ohav4mrz2f102tvlys86d0nuxyyra.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/005/gq9dncaopgc6zza80ar3qu5yb1dq7az3.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f2b/140_140_0/bp3h2lwm0zxw96381q589thlq3gokeqs.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cb1/th2r9a8a4dc4w87zerng51hbjt9062ai.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/365/jz72k44xuf7njrx7r16y8g4a6insl333.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5a3/z8o53ka33paj2pun9ldfz6m8aby0lmjr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94b/291cco6tzr1fr12bcx6ytknw6pm4plyo.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3e0/140_140_0/6hgv2ibxnpmyelmew7whzo7f5ykg4juv.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/428/m4gg7kcyrw6ct8oav8e7r0pe6rimuize.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "830",
+        "max": 830
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "250",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "550",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "455",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "360",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "540",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "425",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "440",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "410"
+      },
+      "armrest_height_from_floor": {
+        "min": "300"
+      },
+      "armrest_width_support": {
+        "max": "55"
+      },
+      "armrest_length_support": {
+        "max": "260"
+      },
+      "seat_depth_km": {
+        "max": "455"
+      },
+      "backrest_height_external": {
+        "max": "420"
+      },
+      "backrest_width_narrow": {
+        "max": "350"
+      },
+      "backrest_width_wide": {
+        "max": "500"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": {},
+      "netto": "8,65",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1064",
+    "IE_NAME": "Стул Парма 4К BL",
+    "IE_PREVIEW_TEXT": "Современная мечта в стильном цвете — стул Парма, вдохновлённый атмосферой итальянского пригорода. Это идеальное сочетание эстетики и практичности для вашей кухни, столовой или зоны отдыха.\n\nМягкая обивка, слегка закруглённая спинка и сиденье из мягкого велюра обеспечивают комфорт в каждой детали. Тонкие металлические ножки придают стулу лёгкость и современный вид, который легко впишется в любой интерьер — от скандинавского до классического.",
+    "IE_DETAIL_TEXT": "Современная мечта в стильном цвете — стул Парма, вдохновлённый атмосферой итальянского пригорода. Это идеальное сочетание эстетики и практичности для вашей кухни, столовой или зоны отдыха.\n\nМягкая обивка, слегка закруглённая спинка и сиденье из мягкого велюра обеспечивают комфорт в каждой детали. Тонкие металлические ножки придают стулу лёгкость и современный вид, который легко впишется в любой интерьер — от скандинавского до классического.",
+    "IP_PROP2": 540,
+    "IP_PROP3": 830,
+    "IP_PROP4": 550,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46e/y8i7ghd5hksh5dq8ximjfd35e06ijbuc.webp",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/114/z1l4db8lwamh9o0sv3hl1iexnsadn94i.png",
+    "IP_PROP5": 570,
+    "IP_PROP26": 610,
+    "IP_PROP27": 510,
+    "IP_PROP28": "9,4",
+    "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
+    "IP_PROP30": "0,114",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "parma_4k",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf1/x6na7zu4y0vzekeuysvveggbopmbrxee.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_4k_bl",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Да",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5380,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5542,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5380,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50228,
+      "IE_NAME": "Стул Парма 4К BL Velutto 03 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d7/zt86tssnxeoaywd9u3g7zn3f7cuxqssx.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e18/iuwrue0ci5mhq2dtl1x03uljbgtomixa.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12271,
+      "IP_PROP34": "a_1064",
+      "IP_PROP35": "НКС-00024",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/428/m4gg7kcyrw6ct8oav8e7r0pe6rimuize.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e7d/kg5s0z8ooavef3y0d7i8ewluv25y7a0b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f2b/bp3h2lwm0zxw96381q589thlq3gokeqs.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/092/7vhdcpkkp3l3a9wpols105l42s17tkx2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3e0/6hgv2ibxnpmyelmew7whzo7f5ykg4juv.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_03",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5380,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5542,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5380,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50229,
+      "IE_NAME": "Стул Парма 4К BL Velutto 20 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/002/8g5qwxg0xmombjlbkqzbphs2gsp9sqw4.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/058/9n4lyzey3vz4hh6550f2e2ferleatrbj.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12272,
+      "IP_PROP34": "a_1064",
+      "IP_PROP35": "ГС-00448",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f80/s3fpyoxsocgrlxufary0pi2iag10yzzd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d99/y50y4ukhgk52x8ckc7vjspzuu8p83vw1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fda/jocha7h70aap9mba26711lgn4ojx7w7r.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/08e/mcjoo9b30v6g7olyoplsgvovzt2pbdms.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3d9/vcw6mp4lac11okrj6viavnmkeixf9vvc.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_20",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5380,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5542,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5380,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50230,
+      "IE_NAME": "Стул Парма 4К BL Velutto 18 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/21c/7qt0ftli8whhu95f9r8tneoed79nntl1.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a80/mak4pz4jzpmutp3n4b7u18hd02n0m6fn.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12273,
+      "IP_PROP34": "a_1064",
+      "IP_PROP35": "ГС-00447",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c04/fqc736sueasrus1ou3itfomqn99208s5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c3f/z4tabvudgf0zc4kz5w87aed5biqqc6ad.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e37/qx9rmseeupxmpatkqgee2f15qqdnu9cw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bf5/t691ob83fzeksxh7o2mlsb1edz2y87kd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46d/uymd67ng2e70rdc25vbcj30cuzplzzej.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_18",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5380,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5542,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5380,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50231,
+      "IE_NAME": "Стул Парма 4К BL Velutto 06 (коричневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/645/xs7cwwst3ezx3xgtzfs0nbeagno7lu94.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/15b/1h43ync9uzc4weaap3cx269q352mgjvc.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12274,
+      "IP_PROP34": "a_1064",
+      "IP_PROP35": "ГС-00446",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a21/yfns3ax7u0t3uuz8woo0ehq8yzvh05ai.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bdd/09ed73bnhjgf3ejxwzkt5beokobj8nut.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/60a/r15jn64g0rntv75fwsw4pa7hbdoc60o0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/abf/ze2lyu03wjideyxxlc7o39s00roeypxf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3e8/voyppn9djcz4xh29fxhps4r8b35n7drd.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_06",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5380,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5542,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5380,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50232,
+      "IE_NAME": "Стул Парма 4К BL Velutto 02 (светло-бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c55/9dkzp3ng894bmdti817oc54ss5p0g0w6.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/05e/rc3ppnwuqg2dthwy08710p26e4awoek0.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12275,
+      "IP_PROP34": "a_1064",
+      "IP_PROP35": "ГС-00445",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f47/ayj75dc2zg26vo8tkmysc5nci828fmam.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c5b/hwanpjlunkox6xxurv7gzm0y4irfe70h.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/658/6oswv7cilus8km7ggpje9o2g1qivuarg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/552/1k38ntwtepn3htjcaexhzjg0xwb9sxzj.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b1a/nu9c0s1vrk1jpo0pqcop7z15kym6z5o4.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5380,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5542,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5380,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Новинка: Стул Парма 4К BL Ткань Velutto производства компании UTFC",
+  "base_name": "Стул Парма 4К BL",
+  "article_number": "НКС-00024",
+  "full_describe": "Современная мечта в стильном цвете — стул Парма, вдохновлённый атмосферой итальянского пригорода. Это идеальное сочетание эстетики и практичности для вашей кухни, столовой или зоны отдыха.Мягкая обивка, слегка закруглённая спинка и сиденье из мягкого велюра обеспечивают комфорт в каждой детали. Тонкие металлические ножки придают стулу лёгкость и современный вид, который легко впишется в любой интерьер — от скандинавского до классического.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/parma_4k/",
+  "Основание": "Металлические опоры, защитно-декоративное порошковое покрытие черного цвета (BL)",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань Velutto",
+    "-"
+  ],
+  "color": [
+    "Велюр 02 (светло-бежевый)",
+    "Велюр 03 (бежевый)",
+    "Велюр 06 (коричневый)",
+    "Велюр 20 (черный)",
+    "Велюр 18 (серый)"
+  ],
+  "variant_name": [
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый))",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 03 (бежевый))",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 06 (коричневый))",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 20 (черный))",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 18 (серый))",
+    "Стул Парма 4К BL (-, Велюр 02 (светло-бежевый))",
+    "Стул Парма 4К BL (-, Велюр 03 (бежевый))",
+    "Стул Парма 4К BL (-, Велюр 06 (коричневый))",
+    "Стул Парма 4К BL (-, Велюр 20 (черный))",
+    "Стул Парма 4К BL (-, Велюр 18 (серый))",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый),, )",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 03 (бежевый),, )",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 06 (коричневый),, )",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 20 (черный),, )",
+    "Стул Парма 4К BL (Ткань Velutto, Велюр 18 (серый),, )",
+    "Стул Парма 4К BL (-, Велюр 02 (светло-бежевый),, )",
+    "Стул Парма 4К BL (-, Велюр 03 (бежевый),, )",
+    "Стул Парма 4К BL (-, Велюр 06 (коричневый),, )",
+    "Стул Парма 4К BL (-, Велюр 20 (черный),, )",
+    "Стул Парма 4К BL (-, Велюр 18 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

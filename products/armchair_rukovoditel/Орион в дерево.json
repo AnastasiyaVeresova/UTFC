@@ -1,0 +1,445 @@
+{
+  "namefile": [
+    "Орион в дерево"
+  ],
+  "name_all": [
+    "Орион В хром",
+    "Орион В пластик",
+    "Орион В дерево"
+  ],
+  "name": [
+    "Орион В дерево"
+  ],
+  "unique_name": [
+    "Орион В дерево"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки-сиденья и накладок подлокотников кресла: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки-сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность — 25 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Материал</strong> облицовки спинки-сиденья: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
+        "<strong>Подлокотники</strong> деревянные, крепятся к основанию спинки-сиденья с помощью винтов",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом.",
+        "<strong>Пятилучье</strong> металлическое d=720 мм с деревянными накладками и 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют закрытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 1100,
+          "depth": 490,
+          "height": 676
+        },
+        "box_size": "1100х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "18,5",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/orion_v_derevo_01.png",
+      "chair_view": "img/armchair_rukovoditel/orion_v_derevo_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/orion_v_derevo_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/85d/85d77607d8ed74990babd8b4655559a7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/1cf/140_140_0/1cf35fd4df1d9613191ad86f405fffc7.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f2/2f2c282641ce1ced05b36ac5ac86f1f3.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1cf/1cf35fd4df1d9613191ad86f405fffc7.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/84c/84cda0c6fa6d811aff30145b67862fe7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/d51/140_140_0/d51d21293a62400d8d39c659a60c31d2.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/092/0928f23cf14d531fa7da8b72c63fd39a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/691/8kzqukx8dqm7vx19wido5p5tqmbly930.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/2f2/140_140_0/2f2c282641ce1ced05b36ac5ac86f1f3.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/p38pdc6kyx25t23p8y3qgryp1iq6rvjn.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a9a/a9a599b49fe68a354d10b77e0133c21d.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/092/140_140_0/0928f23cf14d531fa7da8b72c63fd39a.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d51/d51d21293a62400d8d39c659a60c31d2.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f45/140_140_0/f459da318139455efe762d5b2b2caf51.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/432/u9zuhu1y7v4tnpvpljk3dfycg5tci2pl.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f45/f459da318139455efe762d5b2b2caf51.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e2d/e2d22e8a532864a25a574ea14ebefc2b.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/50b/140_140_0/50b478aded56f08cf6e792b88ac334d4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/e2d/140_140_0/e2d22e8a532864a25a574ea14ebefc2b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/d4b/140_140_0/d4bebb56daf54e461aeb21f73113de6f.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7a7/140_140_0/7a7d80d4ab560278bc49fec77bdf7473.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b87/b878e79fb452a477385521c35aa67e3a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/12e/12eac4cbc8e29ff91e60f48774f510e1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/357/35797b91227c35e7c8e194aeb6669280.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/357/140_140_0/35797b91227c35e7c8e194aeb6669280.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4b/d4bebb56daf54e461aeb21f73113de6f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a7/7a7d80d4ab560278bc49fec77bdf7473.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f95/f9515a0ee80f3570696a7c4698b9879c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/50b/50b478aded56f08cf6e792b88ac334d4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c97/trza918jgxft6gq47uo4jsix3axjmjug.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fde/2vu9oybxoss1zd427lbmggs7pbxzqzx6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/279/h8e96b0hrvipfepkwfthsallt9dnvj2j.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0fd/0fda18cfeaac751f2bb77c8d5f76ce62.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/98f/140_140_0/98f3bf2cc93aa4b86563689f3e761d84.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a56/a569ed7da653191844645055717515c7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42e/42e6c4481d6e1825f4a2de223be6e640.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/0fd/140_140_0/0fda18cfeaac751f2bb77c8d5f76ce62.png",
+        "https://utfc.ru/upload/resize_cache/iblock/af7/140_140_0/af76f570f1010869f3a2045c0333317e.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c02/c0234fe65f3fd3518f0179cfb6fd89bd.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/65b/140_140_0/65b0791d94255e675b17fd5c7e791d34.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/98f/98f3bf2cc93aa4b86563689f3e761d84.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/65b/65b0791d94255e675b17fd5c7e791d34.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/03e/140_140_0/03e2b4cde59c1ad8f93c875e898c728c.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/83f/jo6sghqy6hi8lvw61fb337wic4kgn0sj.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d50/d5002e3a406b4610127f863d5f897ffc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/af7/af76f570f1010869f3a2045c0333317e.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/03e/03e2b4cde59c1ad8f93c875e898c728c.webp",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1120",
+        "max": "1220"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": "580"
+      },
+      "armrest_height_from_seat": {
+        "min": "230",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "790",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "530",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "680",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "630",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "550",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "720",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "355",
+        "max": "455"
+      },
+      "armrest_height_from_floor": {
+        "min": "300"
+      },
+      "armrest_width_support": {
+        "max": "60"
+      },
+      "armrest_length_support": {
+        "max": "340"
+      },
+      "seat_depth_km": {
+        "max": "540"
+      },
+      "backrest_height_external": {
+        "max": "760"
+      },
+      "backrest_width_narrow": {
+        "max": "510"
+      },
+      "backrest_width_wide": {
+        "max": "520"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "18,5",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "s8008",
+    "IE_NAME": "Орион В дерево",
+    "IE_PREVIEW_TEXT": "Кресло обладает широкой эргономичной спинкой с креативной прострочкой, которая добавляет интересный дизайн, разделяя спинку на небольшие прямоугольники. Обивка - экокожа высокого качества, широкий встроенный подголовник. Подлокотники и крестовина выполнены из натурального дерева. Максимальная нагрузка до 150 кг.",
+    "IE_DETAIL_TEXT": "Кресло с широкой эргономичной спинкой имеет креативную прострочку, делящие каркас на небольшие прямоугольники. Обивка - экокожа высокого качества, широкий подголовник, подлокотники и крестовина - натуральное дерево. Максимальная нагрузка до 150 кг.",
+    "IP_PROP2": 630,
+    "IP_PROP3": "1120-1220",
+    "IP_PROP4": 790,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/432/u9zuhu1y7v4tnpvpljk3dfycg5tci2pl.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/691/8kzqukx8dqm7vx19wido5p5tqmbly930.webp",
+    "IP_PROP5": 1100,
+    "IP_PROP26": 676,
+    "IP_PROP27": 490,
+    "IP_PROP28": "22,2",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,364",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "orion_v_derevo",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2d2/2d2ba105bb2082662ab632f3b4538bed.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_720_d",
+    "IP_PROP42": "pl_derevo",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_c",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 14662,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 15102,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 14662,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 15676,
+      "IE_NAME": "Кресло Орион В дерево D8 (темный орех) S-0401 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a18/a18b8cc88d54675a73341d9c31241dff.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/764/764b16c8e2093472e9dc54673c68948e.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7868,
+      "IP_PROP34": "s8008",
+      "IP_PROP35": "ДКОрион0205",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1cf/1cf35fd4df1d9613191ad86f405fffc7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f2/2f2c282641ce1ced05b36ac5ac86f1f3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d51/d51d21293a62400d8d39c659a60c31d2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f45/f459da318139455efe762d5b2b2caf51.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/092/0928f23cf14d531fa7da8b72c63fd39a.webp"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0401",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "d8",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 14662,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 15102,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 14662,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Большое кресло руководителя Орион В хром производства компании UTFC",
+  "base_name": "Кресло Орион В хром",
+  "article_number": "ДК37",
+  "full_describe": "Массивное кресло руководителя оснащено горизонтальными прострочками по всей ширине спинки и хромированными подлокотниками с мягкими накладками. Механизм качания позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении. Максимальная нагрузка составляет 150 кг.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/orion_v_ch/",
+  "Основание": "Пятилучье хромированное d=700 мм",
+  "Подлокотники": "Подлокотники «Айрон-хром» с декоративными мягкими накладками",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Экокожа Santorini",
+    "-",
+    "Кожзаменитель Z",
+    "Натуральная кожа К"
+  ],
+  "color": [
+    "Экокожа Santorini S0401 (черный)",
+    "Экокожа Santorini S0427 (слоновая кость)",
+    "Экокожа Santorini S0428 (бежевый)"
+  ],
+  "variant_name": [
+    "Кресло Орион В дерево (Экокожа Santorini, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В дерево (-, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В пластик (Кожзаменитель Z, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В пластик (Экокожа Santorini, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В пластик (-, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0427 (слоновая кость))",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0428 (бежевый))",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0427 (слоновая кость))",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0428 (бежевый))",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0427 (слоновая кость))",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0428 (бежевый))",
+    "Кресло Орион В хром (-, Экокожа Santorini S0401 (черный))",
+    "Кресло Орион В хром (-, Экокожа Santorini S0427 (слоновая кость))",
+    "Кресло Орион В хром (-, Экокожа Santorini S0428 (бежевый))",
+    "Кресло Орион В дерево (Экокожа Santorini, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В дерево (-, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В пластик (Кожзаменитель Z, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В пластик (Экокожа Santorini, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В пластик (-, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Кресло Орион В хром (Натуральная кожа К, Экокожа Santorini S0428 (бежевый),, )",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Кресло Орион В хром (Кожзаменитель Z, Экокожа Santorini S0428 (бежевый),, )",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Кресло Орион В хром (Экокожа Santorini, Экокожа Santorini S0428 (бежевый),, )",
+    "Кресло Орион В хром (-, Экокожа Santorini S0401 (черный),, )",
+    "Кресло Орион В хром (-, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Кресло Орион В хром (-, Экокожа Santorini S0428 (бежевый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}

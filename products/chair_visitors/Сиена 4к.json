@@ -1,0 +1,633 @@
+{
+  "namefile": [
+    "Стул сиена 4к"
+  ],
+  "name_all": [
+    "Сиена"
+  ],
+  "name": [
+    "Сиена"
+  ],
+  "unique_name": [
+    "Сиена 4К"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
+        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный. На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
+        "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
+        "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 570,
+          "depth": 510,
+          "height": 610
+        },
+        "box_size": "570х510х610",
+        "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой<br>Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "7,8",
+      "volume": "0,0"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/siena_4k_v03_01.png",
+      "chair_view": "img/chair_visitors/siena_4k_v03_02.png",
+      "dimensions": "img/chair_visitors/dimensions/siena_4k_v03_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/11e/oo65uhvt49cu4294xccw5upnaaaysthx.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eee/75c52ji6zjc73hdah1oiz6d3uhjssu37.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f44/140_140_0/g30g2bup4pptmg05nbjh781b74mjzwfa.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/eee/140_140_0/75c52ji6zjc73hdah1oiz6d3uhjssu37.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/7d8/140_140_0/wcw494344pjkuo96amc6p5wwuhp7kp5r.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f37/3q1ohav4mrz2f102tvlys86d0nuxyyra.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/82c/jbasxgrehwrgwzen0lujsjmnxuy7oo01.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d8/wcw494344pjkuo96amc6p5wwuhp7kp5r.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/005/gq9dncaopgc6zza80ar3qu5yb1dq7az3.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cb1/th2r9a8a4dc4w87zerng51hbjt9062ai.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/365/jz72k44xuf7njrx7r16y8g4a6insl333.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5a3/z8o53ka33paj2pun9ldfz6m8aby0lmjr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/ac5/140_140_0/ufbn8za4hc6mzomx4l9e0m9p1770wqit.png",
+        "https://utfc.ru/upload/resize_cache/iblock/528/140_140_0/596ucslno921avi0z4iobppnk1linq1m.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94b/291cco6tzr1fr12bcx6ytknw6pm4plyo.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/528/596ucslno921avi0z4iobppnk1linq1m.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f44/g30g2bup4pptmg05nbjh781b74mjzwfa.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac5/ufbn8za4hc6mzomx4l9e0m9p1770wqit.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "955",
+        "max": 955
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "570",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "450",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "480",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "490",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "470",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "440",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "410"
+      },
+      "armrest_height_from_floor": {},
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {
+        "max": "450"
+      },
+      "backrest_height_external": {
+        "max": "560"
+      },
+      "backrest_width_narrow": {
+        "max": "330"
+      },
+      "backrest_width_wide": {
+        "max": "420"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": {},
+      "netto": "7,8",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {}
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1063",
+    "IE_NAME": "Стул Сиена 4К BL",
+    "IE_PREVIEW_TEXT": "Стул Сиена — это сочетание элегантности и практичности. Его дизайн отражает дух европейской классики, но при этом остаётся актуальным и современным, что делает его идеальным выбором для самых разных помещений.\nПрострочка вдоль спинки придаёт креслу Сиена изысканный и аккуратный вид, напоминающий традиционную итальянскую мебель.\nБлагородные оттенки велюра дают возможность подобрать кресло под любой современный интерьер.",
+    "IE_DETAIL_TEXT": "Стул Сиена — это сочетание элегантности и практичности. Его дизайн отражает дух европейской классики, но при этом остаётся актуальным и современным, что делает его идеальным выбором для самых разных помещений.\nПрострочка вдоль спинки придаёт креслу Сиена изысканный и аккуратный вид, напоминающий традиционную итальянскую мебель.\nБлагородные оттенки велюра дают возможность подобрать кресло под любой современный интерьер.",
+    "IP_PROP2": 490,
+    "IP_PROP3": 955,
+    "IP_PROP4": 570,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/82c/jbasxgrehwrgwzen0lujsjmnxuy7oo01.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/11e/oo65uhvt49cu4294xccw5upnaaaysthx.png",
+    "IP_PROP5": 570,
+    "IP_PROP26": 610,
+    "IP_PROP27": 510,
+    "IP_PROP28": "8,55",
+    "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
+    "IP_PROP30": "0,114",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "siena_4k",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/79c/qc0ek46y835s5901cw4jubdxy8pkwsti.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_4k_bl",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Да",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5187,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5343,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5187,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50223,
+      "IE_NAME": "Стул Сиена 4К BL Velutto 03 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ead/fi84gck52ez6rbgbdk98fkhq41jzi3k8.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b3/xlis1sf80c8a0jn854f8elphcdhwewww.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12266,
+      "IP_PROP34": "a_1063",
+      "IP_PROP35": "НКС-00023",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eee/75c52ji6zjc73hdah1oiz6d3uhjssu37.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ac5/ufbn8za4hc6mzomx4l9e0m9p1770wqit.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d8/wcw494344pjkuo96amc6p5wwuhp7kp5r.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/528/596ucslno921avi0z4iobppnk1linq1m.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f44/g30g2bup4pptmg05nbjh781b74mjzwfa.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_03",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50224,
+      "IE_NAME": "Стул Сиена 4К BL Velutto 20 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/74f/nguzgv4313o6fqbteq07vfjpqyops4ro.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ff/s9f3y0ug1dhmvcid4nlgwqx9nixu720v.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12267,
+      "IP_PROP34": "a_1063",
+      "IP_PROP35": "ГС-00441",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/384/42g3eespualbgk266xa4knmozkitg7yl.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0de/zhfefo6zwx35s2arpfnkpyczepcr0jnd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/40f/vb4t40k34nsafji9u2wgtzlnfs8bl1uw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e63/2wn4mk47c0j1onkoli9pqk05gxdaae66.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a25/iiq0bgvcy1r8rflkhbwvodqrre83e7jk.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_20",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50225,
+      "IE_NAME": "Стул Сиена 4К BL Velutto 18 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fe4/giuwbrm4259rxu0fr5nge6xb4av8xpqc.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f92/v0il9qjyfqndbn880iiznjxj77jl7tal.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12268,
+      "IP_PROP34": "a_1063",
+      "IP_PROP35": "ГС-00442",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/14b/2b0l0ryemct11erbypo2n0ejre6czooe.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e57/elmheo9uyzx7jhmebs5ezjf1yli9vfcl.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99e/3auawcejlwt8zdt2a4ejhfu1f7ejfn49.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dab/3kn5wvy30yrj39fb103au794q8z1ogts.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/619/ctqujk1x50gdx3e309ws74haffxrt0ea.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_18",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50226,
+      "IE_NAME": "Стул Сиена 4К BL Velutto 06 (коричневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/db7/8vbrq4z3034ljal4kqirj2rit5lctaos.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c12/wvq5717sfnroqa49w01zkrjt1gwp6pw3.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12269,
+      "IP_PROP34": "a_1063",
+      "IP_PROP35": "ГС-00443",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/933/n1pmmeenkqx6m4jtgz6ypgi92al91qp2.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/049/sij2ejmg8wmvmnztwrpk1y6bnx6ia4km.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d17/wyc1w73yzr022mqmj4mlcf8vgvrkhhey.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/236/3lqh5007urj1c2c0dbcc4cqtzyck9ym5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bcd/d0ocuwbl5e7b80i02ma1dtjuh9wnr1ex.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_06",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50227,
+      "IE_NAME": "Стул Сиена 4К BL Velutto 02 (светло-бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/20f/kikj6wfhp160ph0q3c4hia3r393np8ac.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/93f/6dcpzxsvf6fa42q9osune9cwv4x1pkx1.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12270,
+      "IP_PROP34": "a_1063",
+      "IP_PROP35": "ГС-00444",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1b4/8y113fsiwn0r1cd23pbn11a5n24om2yy.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b34/vm416hgg5fxsvw1amw6xaonnc1epa24q.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6b1/q6k9ge5i2d8i55rlf3sr0xzm0xqs3xr8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/730/j5zvgdnsnl9c58afhjljh8dbcwdd7u8c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c26/4mcmi9azhuav16h4muwp7iayxlknz3dk.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Новинка:Стул Сиена 4К BL Ткань Velutto производства компании UTFC",
+  "base_name": "Стул Сиена 4К BL",
+  "article_number": "НКС-00023",
+  "full_describe": "Стул Сиена — это сочетание элегантности и практичности. Его дизайн отражает дух европейской классики, но при этом остаётся актуальным и современным, что делает его идеальным выбором для самых разных помещений.Прострочка вдоль спинки придаёт креслу Сиена изысканный и аккуратный вид, напоминающий традиционную итальянскую мебель.Благородные оттенки велюра дают возможность подобрать кресло под любой современный интерьер.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/siena_4k/",
+  "Основание": "Металлические опоры, защитно-декоративное порошковое покрытие черного цвета (BL)",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань Velutto",
+    "-"
+  ],
+  "color": [
+    "Велюр 02 (светло-бежевый)",
+    "Велюр 03 (бежевый)",
+    "Велюр 06 (коричневый)",
+    "Велюр 20 (черный)",
+    "Велюр 18 (серый)"
+  ],
+  "variant_name": [
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый))",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 03 (бежевый))",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 06 (коричневый))",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 20 (черный))",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 18 (серый))",
+    "Стул Сиена 4К BL (-, Велюр 02 (светло-бежевый))",
+    "Стул Сиена 4К BL (-, Велюр 03 (бежевый))",
+    "Стул Сиена 4К BL (-, Велюр 06 (коричневый))",
+    "Стул Сиена 4К BL (-, Велюр 20 (черный))",
+    "Стул Сиена 4К BL (-, Велюр 18 (серый))",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый),, )",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 03 (бежевый),, )",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 06 (коричневый),, )",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 20 (черный),, )",
+    "Стул Сиена 4К BL (Ткань Velutto, Велюр 18 (серый),, )",
+    "Стул Сиена 4К BL (-, Велюр 02 (светло-бежевый),, )",
+    "Стул Сиена 4К BL (-, Велюр 03 (бежевый),, )",
+    "Стул Сиена 4К BL (-, Велюр 06 (коричневый),, )",
+    "Стул Сиена 4К BL (-, Велюр 20 (черный),, )",
+    "Стул Сиена 4К BL (-, Велюр 18 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}
