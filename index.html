@@ -948,19 +948,90 @@ function getFinalSelectionData() {
             return term;
         }
 
-        function searchInObject(obj, searchTerm) {
-            if (!obj) return false;
-            if (typeof obj === 'string') {
-                return normalizeSearchTerm(obj).includes(searchTerm);
-            }
-            if (Array.isArray(obj)) {
-                return obj.some(item => searchInObject(item, searchTerm));
-            }
-            if (typeof obj === 'object') {
-                return Object.values(obj).some(value => searchInObject(value, searchTerm));
-            }
-            return false;
+  // Функция для проверки наличия противоположных слов
+function containsOppositeTerms(str, searchTerm) {
+    const oppositesMap = {
+        'регулируемый': ['нерегулируемый', 'фиксированный', 'нерегулируемый'],
+        // добавьте другие пары слов по необходимости
+    };
+
+    const key = searchTerm.toLowerCase();
+    const opposites = oppositesMap[key] || [];
+
+    for (const opposite of opposites) {
+        const regex = new RegExp(`\\b${opposite}\\b`, 'i');
+        if (regex.test(str)) {
+            return true;
         }
+    }
+    return false;
+}
+
+// Функция для разбивки строки на слова после нормализации
+function getNormalizedWords(str) {
+    return normalizeSearchTerm(str).split(/\s+/);
+}
+
+// Обновленная функция поиска, ищет целую фразу или слова
+function searchInObject(obj, searchTerm) {
+  if (!obj) return false;
+
+  // Нормализуем поисковый термин и получаем массив слов
+  const searchWords = getNormalizedWords(searchTerm).filter(w => w);
+
+  if (searchWords.length === 0) return false;
+
+  // Для строк
+  if (typeof obj === 'string') {
+    const objWords = getNormalizedWords(obj);
+    // Проверяем, содержит ли строка последовательность searchWords
+    // Например, ищем подмассив searchWords внутри objWords
+    return containsSequence(objWords, searchWords);
+  }
+
+  // Для массивов
+  if (Array.isArray(obj)) {
+    return obj.some(item => searchInObject(item, searchTerm));
+  }
+
+  // Для объектов
+  if (typeof obj === 'object') {
+    return Object.values(obj).some(value => searchInObject(value, searchTerm));
+  }
+
+  return false;
+}
+
+// Вспомогательная функция для поиска последовательности слов в массиве
+function containsSequence(sourceWords, targetWords) {
+    if (targetWords.length === 0) return true;
+    for (let i = 0; i <= sourceWords.length - targetWords.length; i++) {
+        let match = true;
+        for (let j = 0; j < targetWords.length; j++) {
+            if (sourceWords[i + j] !== targetWords[j]) {
+                match = false;
+                break;
+            }
+        }
+        if (match) return true;
+    }
+    return false;
+}
+
+
+        // function searchInObject(obj, searchTerm) {
+        //     if (!obj) return false;
+        //     if (typeof obj === 'string') {
+        //         return normalizeSearchTerm(obj).includes(searchTerm);
+        //     }
+        //     if (Array.isArray(obj)) {
+        //         return obj.some(item => searchInObject(item, searchTerm));
+        //     }
+        //     if (typeof obj === 'object') {
+        //         return Object.values(obj).some(value => searchInObject(value, searchTerm));
+        //     }
+        //     return false;
+        // }
 
         function initCustomSlider(slider, isVertical = false) {
             const track = slider.querySelector('.slider-track');
@@ -3661,39 +3732,139 @@ function updateCartIcons() {
                 document.getElementById('productsCountValue').textContent = `${parentsCount} (родители) + ${childrenCount} (дети)`;
             }
         }
-function generateOfferData() {
+// function generateOfferData() {
+//     const finalSelection = JSON.parse(localStorage.getItem('finalSelection')) || {};
+//     const uniqueProducts = {};
+//     const offerData = [];
+
+//     // Группируем товары по name (или по уникальному ключу)
+//     Object.entries(finalSelection).forEach(([name, product]) => {
+//         if (!uniqueProducts[name]) {
+//             // Загружаем фото из localStorage
+//             if (!product.images) {
+//                 product.images = [];
+//             }
+//             for (let i = 0; i < 4; i++) {
+//                 const imageKey = `image_${name}_${i}`;
+//                 const cachedImage = localStorage.getItem(imageKey);
+//                 if (cachedImage) {
+//                     product.images[i] = cachedImage;
+//                 } else if (!product.images[i]) {
+//                     product.images[i] = "";
+//                 }
+//             }
+//             uniqueProducts[name] = { ...product, name: name };
+//         } else {
+//             // Объединяем данные, если есть дубликат
+//             if (product.images && product.images.length > 0) {
+//                 uniqueProducts[name].images = product.images;
+//             }
+//             // Объединяем количество
+//             if (product.count) {
+//                 uniqueProducts[name].count = (uniqueProducts[name].count || 0) + product.count;
+//             }
+//         }
+//     });
+
+//     // Формируем offerData
+//     Object.values(uniqueProducts).forEach(product => {
+//         offerData.push(product);
+//     });
+
+//     return offerData;
+// }
+
+
+async function convertImagesToDataURLs(product) {
+  // Обработка массива изображений
+  for (let i = 0; i < product.images.length; i++) {
+    const url = product.images[i];
+    // Проверка, если уже DataURL (например, начинается с 'data:')
+    if (url.startsWith('data:')) {
+      continue; // Уже встроено
+    }
+    // Если ссылка внешняя, скачиваем и преобразуем
+    try {
+      const response = await fetch(url);
+      const blob = await response.blob();
+      const dataUrl = await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onloadend = () => resolve(reader.result);
+        reader.onerror = reject;
+        reader.readAsDataURL(blob);
+      });
+      product.images[i] = dataUrl; // заменяем ссылку на DataURL
+    } catch (e) {
+      console.error(`Ошибка при обработке изображения ${url}`, e);
+      // Можно оставить оригинальную ссылку или поставить пустую строку
+      product.images[i] = "";
+    }
+  }
+}
+
+async function generateOfferData() {
     const finalSelection = JSON.parse(localStorage.getItem('finalSelection')) || {};
     const uniqueProducts = {};
     const offerData = [];
 
-    // Группируем товары по name (или по уникальному ключу)
-    Object.entries(finalSelection).forEach(([name, product]) => {
+    // Вспомогательная функция для загрузки и конвертации изображения
+    async function fetchImageAsDataURL(url) {
+        const response = await fetch(url);
+        const blob = await response.blob();
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onloadend = () => resolve(reader.result);
+            reader.onerror = reject;
+            reader.readAsDataURL(blob);
+        });
+    }
+
+    // Обрабатываем каждый продукт
+    for (const [name, product] of Object.entries(finalSelection)) {
         if (!uniqueProducts[name]) {
-            // Загружаем фото из localStorage
+            // Инициализация images
             if (!product.images) {
                 product.images = [];
             }
+
+            // await convertImagesToDataURLs(product);
+
+            // Обрабатываем 4 изображения
             for (let i = 0; i < 4; i++) {
                 const imageKey = `image_${name}_${i}`;
-                const cachedImage = localStorage.getItem(imageKey);
+                let cachedImage = localStorage.getItem(imageKey);
+
                 if (cachedImage) {
                     product.images[i] = cachedImage;
-                } else if (!product.images[i]) {
-                    product.images[i] = "";
+                } else {
+                    // Если в localStorage нет, скачиваем и сохраняем
+                    const imageUrl = product.images[i] || ""; // предполагается, что есть ссылка
+                    if (imageUrl) {
+                        try {
+                            const dataUrl = await fetchImageAsDataURL(imageUrl);
+                            localStorage.setItem(imageKey, dataUrl);
+                            product.images[i] = dataUrl;
+                        } catch (e) {
+                            console.error(`Ошибка при загрузке изображения ${imageUrl}`, e);
+                            product.images[i] = "";
+                        }
+                    } else {
+                        product.images[i] = "";
+                    }
                 }
             }
+
             uniqueProducts[name] = { ...product, name: name };
         } else {
             // Объединяем данные, если есть дубликат
             if (product.images && product.images.length > 0) {
                 uniqueProducts[name].images = product.images;
             }
-            // Объединяем количество
             if (product.count) {
                 uniqueProducts[name].count = (uniqueProducts[name].count || 0) + product.count;
             }
         }
-    });
+    }
 
     // Формируем offerData
     Object.values(uniqueProducts).forEach(product => {

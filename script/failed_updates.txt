@@ -4,3 +4,329 @@ C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal.js
 C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel.json: 'list' object has no attribute 'get'
 C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar.json: 'list' object has no attribute 'get'
 C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors.json: 'list' object has no attribute 'get'
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc киото м-250.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc кофу м-231.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc мориока м-242.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc номи м-317 с подголовником.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc номи м-317.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc осака м-201.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Utfc санда м-207.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Альт м-811 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Астон м-711 с подголовником белый пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Астон м-711 с подголовником черный пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Аэро м-808 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Вальтер б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Вальтер рондо пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Вальтер т-01 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Гарвард сн-500 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Гарвард сн-500 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Директ лайт мс-040 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Директ лайт мс-040 н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Директ лайт мс-040 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Директ люкс мс-040 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Дэли ch-503 white ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Дэли ch-503 белый пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Дэли ch-503 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Изи сн-599 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Йота м-805 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Йота м-805 gray ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Йота м-805 white ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Квадро м-807 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Квадро м-807 white ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Кембридж ch-502 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Кембридж сн-502 н_п.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Кембридж сн-502 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Микс сн-696 н_п bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Микс сн-696 н_п ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Микс сн-696 пластик tg.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Микс сн-696 пластик пиастра.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Микс сн-696 хром tg.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Оптима м-901 с подголовником черный пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Оптима м-901 черный пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Профи м-900 black ppl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Профи м-900 grey pch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Рекорд м-878 белый пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Рекорд м-878 чёрный пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Стэнфорд сн-501 т-01 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Тесла сн-709 белый пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Тесла сн-709 чёрный пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Ультра нептун в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Ультра нептун н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Ультра рондо н пластик pl660.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Ультра рондо н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Ультра т-01 н пластик pl660.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Хэнди м-806 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Хэнди м-806 gray ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энжел сн-800 белый н_п нео сн.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энжел сн-800 белый пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энжел сн-800 белый хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энжел сн-800 чёрный н_п нео bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энжел сн-800 чёрный.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энтер комби сн-320 гольф пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энтер сн-320 нептун хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_comfort\Энтер сн-320 т-01 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik a-112-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik a-130-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik a-155-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik a-177-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik a-181-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik e-201-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik e-212-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik e-222-mb.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik k-400-ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik k-430-ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik p-521-sb.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik p-700.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik а-001-mb.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik а-007-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_epik\Epik а-011-g.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Kid's с-01.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек eg б_п.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек eg гольф.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек eg самба.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек гольф пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек пвм б_п.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Астек самба пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Бэрри м-902 tg пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Бэрри м-902 tg хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Изо_жтс +.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Изо_жтс со столиком.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Изо_жтс.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Клио с-101 нептун пвм хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Кремона пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Кремона хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Манго с-109 нептун люкс хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин гольф пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин люкс нептун хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин люкс т-01 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин рондо пвм пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин рондо пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин самба пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Мартин т-01 пвм пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро гольф пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро люкс нептун хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро люкс т-01 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро рондо пвм пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро рондо пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро самба пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Метро т-01 пвм пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж б_п овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж гольф овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж гольф пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж нептун овалина хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж самба овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж самба пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж соната овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Престиж соната пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Пронто сн-211 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба gtp tg.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба gtp пиастра.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба люкс gtp tg столик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба люкс gtp tg.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба люкс gtp пиастра столик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Самба люкс gtp пиастра.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Ситро м-804 black pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Ситро м-804 gray ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Ситро м-804 white ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Стар б_п овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Стул кассира l б_п со спинкой.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Стул кассира l б_п.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Стул кассира б_п eg со спинкой.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Честер gtp tg хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Честер gtp пиастра хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Честер gts tg хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Честер gts пиастра хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Шелл gts с-21 белый.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Шелл gts с-21 софт хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Шелл gts с-21 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Шелл gts с-21 черный.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\Эрго б_п овалина пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Комфорт б_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Логика tg пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Престиж cpt.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Престиж люкс.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Престиж пвм.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Сириус с-102 нептун хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Сириус с-102 рондо пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Сириус с-102 самба пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Фигаро gts к13 tg хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_personal\escape\Фигаро gts к13 пиастра хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Utfc бремен м-123 алюминий.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Utfc канзас м-111 пластик хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Utfc онтарио м-105 пластик хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Utfc онтарио м-405 н_п пластик хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Айкью сн-710 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Альтаир в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Артекс в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в_п пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Атлант в_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Борн c-44 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Борн с-44 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Бостон ch-277 пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Бостон сн-277 хром топ-ган люкс.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Бостон сн-277 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Бостон хэви дьюти мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Бруно ch-707.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Вермонт ch-151 в хром хдп.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Вермонт сн-151 в хром хдп мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 в дерево мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 н_п дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Верона к-10 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Веста м-703 dark grey pl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра бюджет в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра н_п дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Идра н_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 в bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 н bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 н_п bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман ch-300 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман в топ-ган lux.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман комфорт ch-301 в bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман комфорт ch-301 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман комфорт ch-301 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман комфорт ch-301 н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман комфорт ch-301 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман трио ch-303 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман трио ch-303 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман трио ch-303 н хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Кайман трио ch-303 н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо бюджет в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо н_п дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо н_п пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо н_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Комо н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Куба сн-701.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орегон сн-686 в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орегон сн-686 в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион н_п дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион н_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Орион н_п хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот н пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот н пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот н_п пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Пилот н_п пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Премьер в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Премьер в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Рикс сн-577.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Ровер хэви дьюти сн-708.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Ройс м-704.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Сн-710 айкью н пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Сн-710 айкью н_п bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Сн-710 айкью н_п.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Соло max сн-601 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Соло max сн-601 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Соло сн-601 пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Соло сн-601 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Софт м-903 tg пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Софт м-903 tg хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Софт м-903 люкс хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Фест к-11 н пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Эльф в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\Эльф н пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Аляска ch-153 в хром хдп мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Аризона ch-400 в хром хдп.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Аризона сн-400 бюджет в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Гелакси к-49 в хром мб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Гелакси к-49 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Гермес в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Гермес в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Дакота ch-251 в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Дакота ch-251 в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Калифорния ch-438 в бюджет пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Калифорния в cн-438 хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Кендо k-41 в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Кендо к-41 в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Кендо к-41 в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Надир в дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Надир в пластик-люкс 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Надир в пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Надир в хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\armchair_rukovoditel\escape\Эфир с-30 в пластик 727.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Бистро м.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Бистро.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Ванесса.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Венус ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Венус м bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Венус м gr.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Венус м.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Венус.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Версаль.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Марко.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Нерон.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет кр bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет кр ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет кр.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет пр bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет пр ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_cafe_and_bar\Табурет пр.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Cильвия арм хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Cильвия хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Асти 4к.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Афродита люкс со столиком хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Афродита люкс хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Джуно дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Джуно люкс дерево.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо +.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо gr.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо пластик.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо со столиком.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо-2.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо-3.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Изо.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Компакт 4н складной.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Компакт люкс 4н складной.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Компакт люкс складной.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Компакт складной.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Кора ch.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Кора чёрный.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Кремона 4к.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Лайм хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Неон bl.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Неон.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Парма 4к.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Самба со столиком.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Самба.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Сиена 4к.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\София со столиком.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\София.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Стандарт gr.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Стандарт.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Форум.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Честер 4l хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Честер хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Чико 4l хром.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Шелл с-07.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\Шелл софт.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\escape\Клуб 4l.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\escape\Клуб 4к.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\escape\Клуб gts.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\escape\Клуб.json: name 'excel_model' is not defined
+C:\Users\UTFC\Documents\БалтМебель\to222\products\chair_visitors\escape\Фигаро к13 н_п хром.json: name 'excel_model' is not defined

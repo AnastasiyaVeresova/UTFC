@@ -1,404 +1,404 @@
 {
-    "namefile": [
-        "Метро рондо пвм пластик"
-    ],
-    "name_all": [
-        "Метро",
-        "Метро ПВМ",
-        "Метро Люкс",
-        "Метро Люкс хром"
-    ],
-    "name": [
-        "Метро ПВМ"
-    ],
-    "unique_name": [
-        "Метро рондо ПВМ пластик"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло для персонала"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- комплектация подлокотниками: Гольф, Самба, Рондо, Соната, Нептун, Т-01, без подлокотников<br>\n- материал облицовки спинки и сиденья кресла: ткань (С, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R), термопечать<br>\n- цвет материала (по каталогу)"
-            ],
-            "components": [
-                "спинки, сиденья, подлокотников, пиастры, механизма ПВМ, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Спинка</strong> состоит из основания пластикового, вкладыша пенополиуретанового (жесткость - 30, плотность 20 кг/м<sup>3</sup>), чехла пластикового и обивочного материала",
-                "<strong>Сиденье</strong> состоит из основания фанерного (фанера гнуто-клееная 5-слойная), вкладыша пенополиуретанового (жесткость - 30, плотность 20 кг/м<sup>3</sup>), чехла пластикового и обивочного элемента",
-                "<strong>Облицовка спинки и сиденья:</strong> ткань (С, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R), термопечать",
-                "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья с помощью винтов М6",
-                "<strong>Пиастра</strong> крепится к основанию сиденья с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
-                "<strong>Механизм ПВМ</strong> обеспечивает постоянный контакт спины со спинкой кресла и позволяет регулировать жесткость отклонения спинки",
-                "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом. По желанию заказчика на газ-лифт можно установить кольцо для ног, которое крепится на любой, удобной высоте и служит как опора для ног. Допустимая нагрузка на кольцо для ног 40 кг",
-                "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> черные d=50 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 584,
-                    "depth": 262,
-                    "height": 584
-                },
-                "box_size": "584х262х584",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "7,80",
-            "volume": "0,09"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_personal/metro_rondo_pvm_e105k_01.png",
-            "chair_view": "img/armchair_personal/metro_rondo_pvm_e105k_02.png",
-            "dimensions": "img/armchair_personal/dimensions/metro_rondo_pvm_e105k_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/resize_cache/iblock/f40/140_140_0/i2d3412fdyuqcqp46dck7j2qfwto8rr8.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/79f/79ff27e4bd67153ea262c73380c7a92f.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4f/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f40/i2d3412fdyuqcqp46dck7j2qfwto8rr8.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f39/lb1s3wbjmuimmxhp462pe6ug97i20zao.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/d4f/140_140_0/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b5/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f39/140_140_0/lb1s3wbjmuimmxhp462pe6ug97i20zao.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc8/1p2j0tprqi9zcolg0jo32795prwlf6z1.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/46b/140_140_0/xawqsbwtkies0nu9z7phlpuoai0gatia.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46b/xawqsbwtkies0nu9z7phlpuoai0gatia.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/9b5/140_140_0/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c7a/hmk5wbcj0om5pmah7gdmxtoz2s1wl84x.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ac3/ac3def63d35a0fb08cd9a2a9f1c67b01.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/61e/61eee9360f562822e04d02ce736b5f6f.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db2/jxp02rwa2amxftrut0a3lvulz4u195ud.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/c6c/140_140_0/phv0c6a97pksd3704ummehjzc0tjk25e.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d9b/d9b5f07ff364a64940532230bdc25057.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/ad0/140_140_0/s00vrsnvpdvadvw0g01l75yqyhkac9mu.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ad0/s00vrsnvpdvadvw0g01l75yqyhkac9mu.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9e9/j0ed0qrvqq7cpvnyw2b1gxrv03ivrj8r.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1b1/uygmhxcexip3zgp47vlp334p4gyml9r6.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/80b/dmedvztpxdc4mron4p9sm8n646674l5l.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/9e9/140_140_0/j0ed0qrvqq7cpvnyw2b1gxrv03ivrj8r.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fc4/ao0ax9yfkgmn259892f1a7526g5vfz64.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/21c/m39hqpc5ihac44lbamet7nvhc79ljp7u.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c6c/phv0c6a97pksd3704ummehjzc0tjk25e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/21c/140_140_0/m39hqpc5ihac44lbamet7nvhc79ljp7u.png",
-                "https://utfc.ru/upload/resize_cache/iblock/80b/140_140_0/dmedvztpxdc4mron4p9sm8n646674l5l.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "910,00",
-                "max": "1050,00"
-            },
-            "headrest_height": {
-                "min": null,
-                "max": null
-            },
-            "seat_to_floor_height": {
-                "min": "440,00",
-                "max": "580,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "230,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "570,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "480,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "490,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "450",
-                "max": "490"
-            },
-            "seat_width_with_armrests": {
-                "min": "600,00",
-                "max": "630,00"
-            },
-            "seat_width": {
-                "max": "470,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "580,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "440",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "580",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "390,00",
-                "max": "530,00"
-            },
-            "armrest_height_from_floor": {
-                "min": "265,00"
-            },
-            "armrest_width_support": {
-                "max": "45,00"
-            },
-            "armrest_length_support": {
-                "max": "320,00"
-            },
-            "seat_depth_km": {
-                "max": "450,00"
-            },
-            "backrest_height_external": {
-                "max": "410,00"
-            },
-            "backrest_width_narrow": {
-                "max": "320,00"
-            },
-            "backrest_width_wide": {
-                "max": "440,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "немонолитный",
-            "minpromtorg": "+",
-            "netto": "7,80",
-            "brutto": "7,8",
-            "package_width": "584,00",
-            "package_depth": "262,00",
-            "package_height": "584,00",
-            "volume": "0,09",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "немонолитный"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1100",
-        "IE_NAME": "Метро Рондо ПВМ",
-        "IE_PREVIEW_TEXT": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
-        "IE_DETAIL_TEXT": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
-        "IP_PROP2": 600,
-        "IP_PROP3": "910-1050",
-        "IP_PROP4": 570,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c7a/hmk5wbcj0om5pmah7gdmxtoz2s1wl84x.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc8/1p2j0tprqi9zcolg0jo32795prwlf6z1.webp",
-        "IP_PROP5": 574,
-        "IP_PROP26": 574,
-        "IP_PROP27": 252,
-        "IP_PROP28": "",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,13",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "metro_rondo_pvm",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/35b/bq1o7gq0a4rzc111dawx9oxlma857sft.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_580_pl",
-        "IP_PROP42": "pl_rondo",
-        "IP_PROP43": "gl_290",
-        "IP_PROP44": "m_pvm",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_50_o",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла для персонала",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 3580,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 3688,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 3580,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50315,
-            "IE_NAME": "Кресло Метро Рондо ПВМ Е105-к (оранжевый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d94/tm4x5a50kynrcmz4699aj8lsk6ogvhgb.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/66c/izg66hf1oge0cfdcc5byippq8slkdzqv.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12414,
-            "IP_PROP34": "a_1100",
-            "IP_PROP35": "ОК-00576",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f40/i2d3412fdyuqcqp46dck7j2qfwto8rr8.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46b/xawqsbwtkies0nu9z7phlpuoai0gatia.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4f/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f39/lb1s3wbjmuimmxhp462pe6ug97i20zao.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b5/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.webp"
-            ],
-            "IP_PROP37": "m_08",
-            "IP_PROP38": "e_105_k",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 3580,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 3688,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 3580,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Кресло оператора для работы в офисе и дома Метро Рондо ПВМ производства компании UTFC",
-    "base_name": "Кресло Метро Рондо ПВМ",
-    "article_number": "ОК-00576",
-    "full_describe": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
-    "Link_arm": "https://utfc.ru/catalog/staff_chairs/metro_rondo_pvm/",
-    "Основание": "Пятилучье пластиковое d=580 мм",
-    "Подлокотники": "Подлокотник Рондо пластиковый",
-    "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
-    "Механизм": "ПВМ — пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
-    "finish_type": [
-        "Ткань Сетка Е",
-        "-",
-        "Ткань Moderno"
-    ],
-    "color": [
-        "Ткань Сетка Е105-к (оранжевый)",
-        "Ткань Сетка Е53-к (темно-синий)"
-    ],
-    "variant_name": [
-        "Кресло Метро Рондо ПВМ (Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
-        "Кресло Метро Рондо ПВМ (-, Ткань Сетка Е105-к (оранжевый))",
-        "Кресло Метро Рондо (Ткань Сетка Е, Ткань Сетка Е53-к (темно-синий))",
-        "Кресло Метро Рондо (Ткань Moderno, Ткань Сетка Е53-к (темно-синий))",
-        "Кресло Метро Рондо (-, Ткань Сетка Е53-к (темно-синий))",
-        "Кресло Метро Рондо ПВМ (Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый),, )",
-        "Кресло Метро Рондо ПВМ (-, Ткань Сетка Е105-к (оранжевый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Метро рондо пвм пластик"
+  ],
+  "name_all": [
+    "Метро",
+    "Метро ПВМ",
+    "Метро Люкс",
+    "Метро Люкс хром"
+  ],
+  "name": [
+    "Метро ПВМ"
+  ],
+  "unique_name": [
+    "Метро рондо ПВМ пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- комплектация подлокотниками: Гольф, Самба, Рондо, Соната, Нептун, Т-01, без подлокотников<br>\n- материал облицовки спинки и сиденья кресла: ткань (С, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R), термопечать<br>\n- цвет материала (по каталогу)"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, пиастры, механизма ПВМ, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из основания пластикового, вкладыша пенополиуретанового (жесткость - 30, плотность 20 кг/м<sup>3</sup>), чехла пластикового и обивочного материала",
+        "<strong>Сиденье</strong> состоит из основания фанерного (фанера гнуто-клееная 5-слойная), вкладыша пенополиуретанового (жесткость - 30, плотность 20 кг/м<sup>3</sup>), чехла пластикового и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья:</strong> ткань (С, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R), термопечать",
+        "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья с помощью винтов М6",
+        "<strong>Пиастра</strong> крепится к основанию сиденья с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
+        "<strong>Механизм ПВМ</strong> обеспечивает постоянный контакт спины со спинкой кресла и позволяет регулировать жесткость отклонения спинки",
+        "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом. По желанию заказчика на газ-лифт можно установить кольцо для ног, которое крепится на любой, удобной высоте и служит как опора для ног. Допустимая нагрузка на кольцо для ног 40 кг",
+        "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют имеют открытый пластиковый чехол. По желанию заказчика пластиковые ролики могут быть заменены на ролики с полиуретановым покрытием (Ср) или глайдеры (G)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 584,
+          "depth": 262,
+          "height": 584
+        },
+        "box_size": "584х262х584",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8,00",
+      "volume": "0,09"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/metro_rondo_pvm_e105k_01.png",
+      "chair_view": "img/armchair_personal/metro_rondo_pvm_e105k_02.png",
+      "dimensions": "img/armchair_personal/dimensions/metro_rondo_pvm_e105k_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/f40/140_140_0/i2d3412fdyuqcqp46dck7j2qfwto8rr8.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/79f/79ff27e4bd67153ea262c73380c7a92f.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9dd/400_400_0/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4f/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc2/bc2166b704579feb802cd10858a30bba.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f40/i2d3412fdyuqcqp46dck7j2qfwto8rr8.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f39/lb1s3wbjmuimmxhp462pe6ug97i20zao.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/d4f/140_140_0/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b5/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f39/140_140_0/lb1s3wbjmuimmxhp462pe6ug97i20zao.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc8/1p2j0tprqi9zcolg0jo32795prwlf6z1.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/46b/140_140_0/xawqsbwtkies0nu9z7phlpuoai0gatia.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46b/xawqsbwtkies0nu9z7phlpuoai0gatia.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9b5/140_140_0/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c7a/hmk5wbcj0om5pmah7gdmxtoz2s1wl84x.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ac3/ac3def63d35a0fb08cd9a2a9f1c67b01.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a4e/a4e07d55ea695cea656285f8dcf3e9a8.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/61e/61eee9360f562822e04d02ce736b5f6f.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db2/jxp02rwa2amxftrut0a3lvulz4u195ud.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/c6c/140_140_0/phv0c6a97pksd3704ummehjzc0tjk25e.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d9b/d9b5f07ff364a64940532230bdc25057.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/ad0/140_140_0/s00vrsnvpdvadvw0g01l75yqyhkac9mu.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ad0/s00vrsnvpdvadvw0g01l75yqyhkac9mu.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9e9/j0ed0qrvqq7cpvnyw2b1gxrv03ivrj8r.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1b1/uygmhxcexip3zgp47vlp334p4gyml9r6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/80b/dmedvztpxdc4mron4p9sm8n646674l5l.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9e9/140_140_0/j0ed0qrvqq7cpvnyw2b1gxrv03ivrj8r.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/fc4/ao0ax9yfkgmn259892f1a7526g5vfz64.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/21c/m39hqpc5ihac44lbamet7nvhc79ljp7u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c6c/phv0c6a97pksd3704ummehjzc0tjk25e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/21c/140_140_0/m39hqpc5ihac44lbamet7nvhc79ljp7u.png",
+        "https://utfc.ru/upload/resize_cache/iblock/80b/140_140_0/dmedvztpxdc4mron4p9sm8n646674l5l.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "910",
+        "max": "1050"
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "440",
+        "max": "580"
+      },
+      "armrest_height_from_seat": {
+        "min": "230",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "570",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "480",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "490",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "450",
+        "max": "490"
+      },
+      "seat_width_with_armrests": {
+        "min": "600",
+        "max": "630"
+      },
+      "seat_width": {
+        "max": "470",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "580",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "440",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "580",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "390",
+        "max": "530"
+      },
+      "armrest_height_from_floor": {
+        "min": "265"
+      },
+      "armrest_width_support": {
+        "max": "45"
+      },
+      "armrest_length_support": {
+        "max": "320"
+      },
+      "seat_depth_km": {
+        "max": "450"
+      },
+      "backrest_height_external": {
+        "max": "410"
+      },
+      "backrest_width_narrow": {
+        "max": "320"
+      },
+      "backrest_width_wide": {
+        "max": "440"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "8",
+      "brutto": "7,8",
+      "package_width": "584",
+      "package_depth": "262",
+      "package_height": "584",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "немонолитный"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1100",
+    "IE_NAME": "Метро Рондо ПВМ",
+    "IE_PREVIEW_TEXT": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
+    "IE_DETAIL_TEXT": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
+    "IP_PROP2": 600,
+    "IP_PROP3": "910-1050",
+    "IP_PROP4": 570,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c7a/hmk5wbcj0om5pmah7gdmxtoz2s1wl84x.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bc8/1p2j0tprqi9zcolg0jo32795prwlf6z1.webp",
+    "IP_PROP5": 574,
+    "IP_PROP26": 574,
+    "IP_PROP27": 252,
+    "IP_PROP28": "",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,13",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "metro_rondo_pvm",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/35b/bq1o7gq0a4rzc111dawx9oxlma857sft.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_580_pl",
+    "IP_PROP42": "pl_rondo",
+    "IP_PROP43": "gl_290",
+    "IP_PROP44": "m_pvm",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_o",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 3580,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 3688,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 3580,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50315,
+      "IE_NAME": "Кресло Метро Рондо ПВМ Е105-к (оранжевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d94/tm4x5a50kynrcmz4699aj8lsk6ogvhgb.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/66c/izg66hf1oge0cfdcc5byippq8slkdzqv.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12414,
+      "IP_PROP34": "a_1100",
+      "IP_PROP35": "ОК-00576",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f40/i2d3412fdyuqcqp46dck7j2qfwto8rr8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/46b/xawqsbwtkies0nu9z7phlpuoai0gatia.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4f/1qd196mz3fk8psgzpz1r0ccy5h4q38hi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f39/lb1s3wbjmuimmxhp462pe6ug97i20zao.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b5/ows7gawb3ipzclfmpfmc01o1ydp6hlt5.webp"
+      ],
+      "IP_PROP37": "m_08",
+      "IP_PROP38": "e_105_k",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3580,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3688,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 3580,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло оператора для работы в офисе и дома Метро Рондо ПВМ производства компании UTFC",
+  "base_name": "Кресло Метро Рондо ПВМ",
+  "article_number": "ОК-00576",
+  "full_describe": "Операторское кресло можно подстроить по высоте к любому столу, также оно отлично подойдет для небольших офисов. Подлокотники “Рондо” обеспечат поддержку рук. Пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/metro_rondo_pvm/",
+  "Основание": "Пятилучье пластиковое d=580 мм",
+  "Подлокотники": "Подлокотник Рондо пластиковый",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+  "Механизм": "ПВМ — пружинно-винтовой механизм позволяет регулировать уровень жесткости отклонения спинки кресла и обеспечивает постоянный контакт спины пользователя со спинкой кресла",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США)",
+  "finish_type": [
+    "Ткань Сетка Е",
+    "-",
+    "Ткань Moderno"
+  ],
+  "color": [
+    "Ткань Сетка Е105-к (оранжевый)",
+    "Ткань Сетка Е53-к (темно-синий)"
+  ],
+  "variant_name": [
+    "Кресло Метро Рондо ПВМ (Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло Метро Рондо ПВМ (-, Ткань Сетка Е105-к (оранжевый))",
+    "Кресло Метро Рондо (Ткань Сетка Е, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло Метро Рондо (Ткань Moderno, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло Метро Рондо (-, Ткань Сетка Е53-к (темно-синий))",
+    "Кресло Метро Рондо ПВМ (Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый),, )",
+    "Кресло Метро Рондо ПВМ (-, Ткань Сетка Е105-к (оранжевый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

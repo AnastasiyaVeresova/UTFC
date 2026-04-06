@@ -1,547 +1,547 @@
 {
-    "namefile": [
-        "Атлант в/п хром"
-    ],
-    "name_all": [
-        "Атлант В/п пластик",
-        "Атлант В/п пластик-люкс 727",
-        "Атлант В/п хром"
-    ],
-    "name": [
-        "Атлант В/п хром"
-    ],
-    "unique_name": [
-        "Атлант В_п хром"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "кресло руководителя"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем»"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки-сиденья и накладок подлокотников кресла: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлических полозьев, спинки-сиденья, подлокотников, пластиковых заглушек, опор и крепежных элементов",
-                "<strong>Полозья</strong> кресла сварные металлические с защитно-декоративным покрытием. Каркас полозьев изготовлен из стальной трубы круглого сечения Ф32х2 мм, связи — из стального листа толщиной 3 мм. Покрытие полозьев: хромовое блестящее",
-                "На торцевые поверхности каркаса полозьев устанавливаются заглушки (2 шт.). На опорную поверхность каркаса полозьев устанавливаются опоры (4 шт.)",
-                "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность — 25 кг/м<sup>3</sup>) и облицовки",
-                "<strong>Материал</strong> облицовки спинки-сиденья и накладок подлокотников: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
-                "<strong>Подлокотники</strong> металлические «Айрон-хром» с мягкими накладками, крепятся к основанию спинки-сиденья с помощью винтов. Накладки состоят из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность — 22 кг/м<sup>3</sup>) и облицовки"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "1100",
-                    "depth": "490",
-                    "height": "676"
-                },
-                "box_size": "1100х490х676",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером "
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "",
-            "volume": "0,36"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_rukovoditel/atlant_vp_ch_01.png",
-            "chair_view": "img/armchair_rukovoditel/atlant_vp_ch_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/atlant_vp_ch_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/resize_cache/iblock/6ac/140_140_0/6ac00ec2db298542a0d7349dca092a00.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/723/140_140_0/7232e152779cd2822206ad5e7a8d58a4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/df9/1971ilsxvotcmr5wlcu1aqcpy7ck2kt7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ee/1yf83xiqon6wqqisu17d5s5xgsrtzxly.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ac/6ac00ec2db298542a0d7349dca092a00.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c02/c0234fe65f3fd3518f0179cfb6fd89bd.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b52/b52ca345f088b159cdf62d9f3dce27f5.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea2/0l218juqhocw9tvjan1kx131aqhlhen5.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f5d/f5d357703a1ee7e99ea04f12bcc36065.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/723/7232e152779cd2822206ad5e7a8d58a4.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/b52/140_140_0/b52ca345f088b159cdf62d9f3dce27f5.png",
-                "https://utfc.ru/upload/resize_cache/iblock/b68/140_140_0/b689403f90e2f3c6499f991af4b96d9e.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d9/8d92fbd325f9a2e2167242de10bc4bad.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b68/b689403f90e2f3c6499f991af4b96d9e.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f5d/140_140_0/f5d357703a1ee7e99ea04f12bcc36065.png",
-                "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1170,00",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": null,
-                "max": null
-            },
-            "seat_to_floor_height": {
-                "min": "540,00",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "175,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "760,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "530,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "690,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "560",
-                "max": "690"
-            },
-            "seat_width_with_armrests": {
-                "min": "605,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "520,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "520",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "540,00",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "580,00",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "540"
-            },
-            "armrest_height_from_floor": {
-                "min": "280,00"
-            },
-            "armrest_width_support": {
-                "max": "60,00"
-            },
-            "armrest_length_support": {
-                "max": "290,00"
-            },
-            "seat_depth_km": {
-                "max": "560,00"
-            },
-            "backrest_height_external": {},
-            "backrest_width_narrow": {
-                "max": "520,00"
-            },
-            "backrest_width_wide": {
-                "max": "525,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "монолитный",
-            "minpromtorg": "+",
-            "netto": "+",
-            "brutto": {},
-            "package_width": "1100,00",
-            "package_depth": "490,00",
-            "package_height": "676,00",
-            "volume": "0,36",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "монолитный"
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5119",
-        "IE_NAME": "Атлант В/п хром",
-        "IE_PREVIEW_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
-        "IE_DETAIL_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
-        "IP_PROP2": 605,
-        "IP_PROP3": 1170,
-        "IP_PROP4": 760,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea2/0l218juqhocw9tvjan1kx131aqhlhen5.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ee/1yf83xiqon6wqqisu17d5s5xgsrtzxly.webp",
-        "IP_PROP5": 1100,
-        "IP_PROP26": 676,
-        "IP_PROP27": 490,
-        "IP_PROP28": "21,7",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,364",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "atlant_vp_ch",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/f5d/f5d357703a1ee7e99ea04f12bcc36065.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pol_ch",
-        "IP_PROP42": "pl_iron_ch",
-        "IP_PROP43": "",
-        "IP_PROP44": "",
-        "IP_PROP45": "",
-        "IP_PROP46": "",
-        "IP_PROP47": "",
-        "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла для руководителя",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 10156,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 10461,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 10156,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 28011,
-            "IE_NAME": "Кресло Атлант В/п хром Moderno 02 (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 9437,
-            "IP_PROP34": "p_5119",
-            "IP_PROP35": "ДКАтлант2507",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_28",
-            "IP_PROP38": "moderno_02",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 10156,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 10461,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 10156,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 26746,
-            "IE_NAME": "Кресло Атлант В/п хром S-0401 (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/41b/41b439a474fdc514853613afdbe04376.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/5de/5de238e964b6f0023cd28a78246bbe96.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 9438,
-            "IP_PROP34": "p_5119",
-            "IP_PROP35": "ДКАтлант2505",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/iblock/686/68620564564156a89386785db2299b78.png",
-                "https://utfc.ru/upload/iblock/afd/afd7f209dac9c151b9db3e48cd7e0598.png",
-                "https://utfc.ru/upload/iblock/057/0579c5cbb3cf787eb6f41d1e14d7aa0d.png",
-                "https://utfc.ru/upload/iblock/b48/b48633b612c6f6e3f6683c46d2ab4028.png",
-                "https://utfc.ru/upload/iblock/3c3/3c34ff9a7e950c29725eda375fd6df2d.png"
-            ],
-            "IP_PROP37": "m_11",
-            "IP_PROP38": "s_0401",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": 1,
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 10986,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 11316,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 10986,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 26667,
-            "IE_NAME": "Кресло Атлант В/п хром К01 (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 9439,
-            "IP_PROP34": "p_5119",
-            "IP_PROP35": "ДК-00247",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_01",
-            "IP_PROP38": "k_01",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 13642,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 14052,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 13642,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 24518,
-            "IE_NAME": "Кресло Атлант В/п хром К21 (бежевый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 9440,
-            "IP_PROP34": "p_5119",
-            "IP_PROP35": "ДК-00618",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_01",
-            "IP_PROP38": "k_21",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 18125,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 18669,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 18125,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Кресло для переговорной и в кабинет руководителя Атлант В/п хром производства компании UTFC",
-    "base_name": "Кресло Атлант В/п хром",
-    "article_number": "ДКАтлант2507",
-    "full_describe": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
-    "Link_arm": "https://utfc.ru/catalog/boss_chairs/atlant_vp_ch/",
-    "Основание": "Металлические, защитно-декоративное покрытие никель-хром (CH)",
-    "Подлокотники": "Подлокотники «Айрон-хром» с декоративными мягкими накладками",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "finish_type": [
-        "Натуральная кожа К",
-        "Экокожа Santorini",
-        "Ткань Moderno",
-        "-"
-    ],
-    "color": [
-        "Ткань Moderno 02 (серый)"
-    ],
-    "variant_name": [
-        "Кресло Атлант В/п хром (Натуральная кожа К, Ткань Moderno 02 (серый))",
-        "Кресло Атлант В/п хром (Экокожа Santorini, Ткань Moderno 02 (серый))",
-        "Кресло Атлант В/п хром (Ткань Moderno, Ткань Moderno 02 (серый))",
-        "Кресло Атлант В/п хром (-, Ткань Moderno 02 (серый))",
-        "Кресло Атлант В/п хром (Натуральная кожа К, Ткань Moderno 02 (серый),, )",
-        "Кресло Атлант В/п хром (Экокожа Santorini, Ткань Moderno 02 (серый),, )",
-        "Кресло Атлант В/п хром (Ткань Moderno, Ткань Moderno 02 (серый),, )",
-        "Кресло Атлант В/п хром (-, Ткань Moderno 02 (серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Атлант в/п хром"
+  ],
+  "name_all": [
+    "Атлант В/п пластик",
+    "Атлант В/п пластик-люкс 727",
+    "Атлант В/п хром"
+  ],
+  "name": [
+    "Атлант В/п хром"
+  ],
+  "unique_name": [
+    "Атлант В_п хром"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем»"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки-сиденья и накладок подлокотников кресла: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлических полозьев, спинки-сиденья, подлокотников, пластиковых заглушек, опор и крепежных элементов",
+        "<strong>Полозья</strong> кресла сварные металлические с защитно-декоративным покрытием. Каркас полозьев изготовлен из стальной трубы круглого сечения Ф32х2 мм, связи — из стального листа толщиной 3 мм. Покрытие полозьев: хромовое блестящее",
+        "На торцевые поверхности каркаса полозьев устанавливаются заглушки (2 шт.). На опорную поверхность каркаса полозьев устанавливаются опоры (4 шт.)",
+        "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность — 25 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Материал</strong> облицовки спинки-сиденья и накладок подлокотников: ткань (С, Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
+        "<strong>Подлокотники</strong> металлические «Айрон-хром» с мягкими накладками, крепятся к основанию спинки-сиденья с помощью винтов. Накладки состоят из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность — 22 кг/м<sup>3</sup>) и облицовки"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "1100",
+          "depth": "490",
+          "height": "676"
+        },
+        "box_size": "1100х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером "
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,36"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/atlant_vp_ch_01.png",
+      "chair_view": "img/armchair_rukovoditel/atlant_vp_ch_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/atlant_vp_ch_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/6ac/140_140_0/6ac00ec2db298542a0d7349dca092a00.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/723/140_140_0/7232e152779cd2822206ad5e7a8d58a4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/df9/1971ilsxvotcmr5wlcu1aqcpy7ck2kt7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ee/1yf83xiqon6wqqisu17d5s5xgsrtzxly.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ac/6ac00ec2db298542a0d7349dca092a00.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c02/c0234fe65f3fd3518f0179cfb6fd89bd.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b52/b52ca345f088b159cdf62d9f3dce27f5.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea2/0l218juqhocw9tvjan1kx131aqhlhen5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f5d/f5d357703a1ee7e99ea04f12bcc36065.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/723/7232e152779cd2822206ad5e7a8d58a4.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/b52/140_140_0/b52ca345f088b159cdf62d9f3dce27f5.png",
+        "https://utfc.ru/upload/resize_cache/iblock/b68/140_140_0/b689403f90e2f3c6499f991af4b96d9e.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d9/8d92fbd325f9a2e2167242de10bc4bad.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b68/b689403f90e2f3c6499f991af4b96d9e.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f5d/140_140_0/f5d357703a1ee7e99ea04f12bcc36065.png",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1170",
+        "max": ""
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "540",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "175",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "760",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "530",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "690",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "560",
+        "max": "690"
+      },
+      "seat_width_with_armrests": {
+        "min": "605",
+        "max": null
+      },
+      "seat_width": {
+        "max": "520",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "520",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "540",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "580",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "540"
+      },
+      "armrest_height_from_floor": {
+        "min": "280"
+      },
+      "armrest_width_support": {
+        "max": "60"
+      },
+      "armrest_length_support": {
+        "max": "290"
+      },
+      "seat_depth_km": {
+        "max": "560"
+      },
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "520"
+      },
+      "backrest_width_wide": {
+        "max": "525"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "+",
+      "brutto": {},
+      "package_width": "1100",
+      "package_depth": "490",
+      "package_height": "676",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5119",
+    "IE_NAME": "Атлант В/п хром",
+    "IE_PREVIEW_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
+    "IE_DETAIL_TEXT": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
+    "IP_PROP2": 605,
+    "IP_PROP3": 1170,
+    "IP_PROP4": 760,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ea2/0l218juqhocw9tvjan1kx131aqhlhen5.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ee/1yf83xiqon6wqqisu17d5s5xgsrtzxly.webp",
+    "IP_PROP5": 1100,
+    "IP_PROP26": 676,
+    "IP_PROP27": 490,
+    "IP_PROP28": "21,7",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,364",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "atlant_vp_ch",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/f5d/f5d357703a1ee7e99ea04f12bcc36065.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pol_ch",
+    "IP_PROP42": "pl_iron_ch",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 10156,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 10461,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 10156,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 28011,
+      "IE_NAME": "Кресло Атлант В/п хром Moderno 02 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9437,
+      "IP_PROP34": "p_5119",
+      "IP_PROP35": "ДКАтлант2507",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 10156,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 10461,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 10156,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 26746,
+      "IE_NAME": "Кресло Атлант В/п хром S-0401 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/41b/41b439a474fdc514853613afdbe04376.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/5de/5de238e964b6f0023cd28a78246bbe96.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9438,
+      "IP_PROP34": "p_5119",
+      "IP_PROP35": "ДКАтлант2505",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/686/68620564564156a89386785db2299b78.png",
+        "https://utfc.ru/upload/iblock/afd/afd7f209dac9c151b9db3e48cd7e0598.png",
+        "https://utfc.ru/upload/iblock/057/0579c5cbb3cf787eb6f41d1e14d7aa0d.png",
+        "https://utfc.ru/upload/iblock/b48/b48633b612c6f6e3f6683c46d2ab4028.png",
+        "https://utfc.ru/upload/iblock/3c3/3c34ff9a7e950c29725eda375fd6df2d.png"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0401",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 10986,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 11316,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 10986,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 26667,
+      "IE_NAME": "Кресло Атлант В/п хром К01 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9439,
+      "IP_PROP34": "p_5119",
+      "IP_PROP35": "ДК-00247",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_01",
+      "IP_PROP38": "k_01",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 13642,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 14052,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 13642,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 24518,
+      "IE_NAME": "Кресло Атлант В/п хром К21 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 9440,
+      "IP_PROP34": "p_5119",
+      "IP_PROP35": "ДК-00618",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_01",
+      "IP_PROP38": "k_21",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 18125,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 18669,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 18125,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло для переговорной и в кабинет руководителя Атлант В/п хром производства компании UTFC",
+  "base_name": "Кресло Атлант В/п хром",
+  "article_number": "ДКАтлант2507",
+  "full_describe": "Удобное кресло руководителя с необычным дизайном. Широкая спинка имеет множество горизонтальных прострочек и ярко выраженный подголовник. Множество вариантов обивки и комплектаций кресла. Максимальная нагрузка до 120 кг.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/atlant_vp_ch/",
+  "Основание": "Металлические, защитно-декоративное покрытие никель-хром (CH)",
+  "Подлокотники": "Подлокотники «Айрон-хром» с декоративными мягкими накладками",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Натуральная кожа К",
+    "Экокожа Santorini",
+    "Ткань Moderno",
+    "-"
+  ],
+  "color": [
+    "Ткань Moderno 02 (серый)"
+  ],
+  "variant_name": [
+    "Кресло Атлант В/п хром (Натуральная кожа К, Ткань Moderno 02 (серый))",
+    "Кресло Атлант В/п хром (Экокожа Santorini, Ткань Moderno 02 (серый))",
+    "Кресло Атлант В/п хром (Ткань Moderno, Ткань Moderno 02 (серый))",
+    "Кресло Атлант В/п хром (-, Ткань Moderno 02 (серый))",
+    "Кресло Атлант В/п хром (Натуральная кожа К, Ткань Moderno 02 (серый),, )",
+    "Кресло Атлант В/п хром (Экокожа Santorini, Ткань Moderno 02 (серый),, )",
+    "Кресло Атлант В/п хром (Ткань Moderno, Ткань Moderno 02 (серый),, )",
+    "Кресло Атлант В/п хром (-, Ткань Moderno 02 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

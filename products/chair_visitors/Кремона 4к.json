@@ -1,639 +1,639 @@
 {
-    "namefile": [
-        "Кремона 4к"
-    ],
-    "name_all": [
-        "Кремона"
-    ],
-    "name": [
-        "Кремона"
-    ],
-    "unique_name": [
-        "Кремона 4К"
-    ],
-    "vid": [
-        "стул"
-    ],
-    "category": [
-        "стул"
-    ],
-    "destiny": [
-        "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки-сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Стул должен соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
-                "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
-                "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный",
-                "На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
-                "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
-                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
-                "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)."
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 570,
-                    "depth": 510,
-                    "height": 610
-                },
-                "box_size": "570х510х610",
-                "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой<br>Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "8,15",
-            "volume": "0,00"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/chair_visitors/kremona_4k_v02_01.png",
-            "chair_view": "img/chair_visitors/kremona_4k_v02_02.png",
-            "dimensions": "img/chair_visitors/dimensions/kremona_4k_v02_01.png",
-            "box": "img/box_UTFC_2x.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d21/ejakctbd5uac2tpawagoj486ki475zyr.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/3ba/140_140_0/naq3gks0v4qr5fdqjzxitopql7sws609.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/ce1/140_140_0/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.png",
-                "https://utfc.ru/upload/resize_cache/iblock/a9a/140_140_0/wv4oakqn21aya6lhdhcskwy95kuna3ui.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce1/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ba/naq3gks0v4qr5fdqjzxitopql7sws609.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/b62/140_140_0/4g6ew7q3ishlreywemjr70lspky91e59.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f37/3q1ohav4mrz2f102tvlys86d0nuxyyra.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b62/4g6ew7q3ishlreywemjr70lspky91e59.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/005/gq9dncaopgc6zza80ar3qu5yb1dq7az3.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/resize_cache/iblock/a9e/140_140_0/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cb1/th2r9a8a4dc4w87zerng51hbjt9062ai.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/365/jz72k44xuf7njrx7r16y8g4a6insl333.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5a3/z8o53ka33paj2pun9ldfz6m8aby0lmjr.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94b/291cco6tzr1fr12bcx6ytknw6pm4plyo.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9e/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9a/wv4oakqn21aya6lhdhcskwy95kuna3ui.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4d2/2w9lv6lzabzu5flqzju00oytou3d2oag.webp"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "810,00",
-                "max": 810
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "480,00",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "165,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "600,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "470,00",
-                "max": ""
-            },
-            "backrest_height": {
-                "max": "340,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "470",
-                "max": "340"
-            },
-            "seat_width_with_armrests": {
-                "min": "540,00",
-                "max": ""
-            },
-            "seat_width": {
-                "max": "450,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "370",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "460,00",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "440,00",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "410,00"
-            },
-            "armrest_height_from_floor": {
-                "min": "230,00"
-            },
-            "armrest_width_support": {
-                "max": "40,00"
-            },
-            "armrest_length_support": {
-                "max": "240,00"
-            },
-            "seat_depth_km": {
-                "max": "470,00"
-            },
-            "backrest_height_external": {},
-            "backrest_width_narrow": {
-                "max": "370,00"
-            },
-            "backrest_width_wide": {
-                "max": "470,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "монолитный",
-            "minpromtorg": "120",
-            "netto": "8,15",
-            "brutto": "8,15",
-            "package_width": {},
-            "package_depth": {},
-            "package_height": {},
-            "volume": "0,00",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "монолитный"
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1065",
-        "IE_NAME": "Стул Кремона 4К BL",
-        "IE_PREVIEW_TEXT": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.\nОсобенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
-        "IE_DETAIL_TEXT": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.\nОсобенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
-        "IP_PROP2": 540,
-        "IP_PROP3": 810,
-        "IP_PROP4": 600,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d21/ejakctbd5uac2tpawagoj486ki475zyr.webp",
-        "IP_PROP31": "https://utfc.ru/upload/iblock/4d2/2w9lv6lzabzu5flqzju00oytou3d2oag.png",
-        "IP_PROP5": 570,
-        "IP_PROP26": 610,
-        "IP_PROP27": 510,
-        "IP_PROP28": "8,9",
-        "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
-        "IP_PROP30": "0,114",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "kremona_4k",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/e8c/3dpferzhh8selykaf2pah8evfiyqzyq1.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "op_4k_bl",
-        "IP_PROP42": "",
-        "IP_PROP43": "",
-        "IP_PROP44": "",
-        "IP_PROP45": "",
-        "IP_PROP46": "",
-        "IP_PROP47": "",
-        "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Стулья",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 5187,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 5343,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 5187,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50233,
-            "IE_NAME": "Стул Кремона 4К BL Velutto 03 (бежевый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d1/qebb5l0q3c9ovvonspz5qtj17qfyucxw.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/31e/1b7ni35m4bxwg26fhe49nfaw1b8081cp.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12276,
-            "IP_PROP34": "a_1065",
-            "IP_PROP35": "НКС-00021",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9a/wv4oakqn21aya6lhdhcskwy95kuna3ui.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b62/4g6ew7q3ishlreywemjr70lspky91e59.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9e/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ba/naq3gks0v4qr5fdqjzxitopql7sws609.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce1/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.webp"
-            ],
-            "IP_PROP37": "m_72",
-            "IP_PROP38": "velutto_03",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 5187,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 5343,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 5187,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50234,
-            "IE_NAME": "Стул Кремона 4К BL Velutto 20 (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/053/66k1hm6stc5yiubcu962j2eohtv36bnr.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0a6/6xw0wvhzxcmy0t3rqp980rna7fhtfy4d.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12277,
-            "IP_PROP34": "a_1065",
-            "IP_PROP35": "ГС-00452",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/afe/xz3is924vl9bj36zso3rb8jxv0edqixx.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1e7/5k2n1zirete7wwk3zl0mgp2vuubvtfsq.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f9/9u493hvsgnbu1h1rejlkwplfrcrv4af4.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/849/j0iv2g39gkngkv79btkkp983x07gjwry.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e56/6w6cq4vavzyn5fz5g3rlxowg0752vi3o.webp"
-            ],
-            "IP_PROP37": "m_72",
-            "IP_PROP38": "velutto_20",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 5187,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 5343,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 5187,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50235,
-            "IE_NAME": "Стул Кремона 4К BL Velutto 18 (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ee/oxnibcc4kta571osz9sv2vy46ic0ygn2.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c76/iplctvaa9iwwqvt1hytvqep96d0w55il.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12278,
-            "IP_PROP34": "a_1065",
-            "IP_PROP35": "ГС-00451",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1ed/mo7w9fm2eon1cjk74kqmkld9qoo49gsa.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aa0/d95dzv2tuvwgsad8axh4cib5v8y7knlq.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/afd/g8qx9la3vphk2kme0otve9k48jb7vrpa.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/317/jwpnq34qvnzsi79it44k55ze5vwvr0rw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e1a/q7yt3aae8l0pg61upgxyvrndz85l1695.webp"
-            ],
-            "IP_PROP37": "m_72",
-            "IP_PROP38": "velutto_18",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 5187,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 5343,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 5187,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50236,
-            "IE_NAME": "Стул Кремона 4К BL Velutto 06 (коричневый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ee3/0rxwbvp2z4sopqzohojaqlg7bqezncai.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/09c/l3kgqm6yg9bdxx6tq6eg1uhkfm8wi035.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12279,
-            "IP_PROP34": "a_1065",
-            "IP_PROP35": "ГС-00450",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1f1/4sg7xntrwrliwi33eh4ppkb23gu9pgfm.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e20/myvhp1r4qw8its0m6a1r2tyonfllkudy.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/89d/0dtmy9lh026ayso5c7b25cqhjf298vv9.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ee/hq3b6nqpq1qe010kr7u81mcs7hsmx2wr.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b15/josxofar664m45s5pfwbi7ayfg3ve6r8.webp"
-            ],
-            "IP_PROP37": "m_72",
-            "IP_PROP38": "velutto_06",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 5187,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 5343,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 5187,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50237,
-            "IE_NAME": "Стул Кремона 4К BL Velutto 02 (светло-бежевый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e6f/y7tpx71ssssjzlbcjo4vkksrjjthaf3e.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/141/2ezef37k9mlm8ye63mzfo0b1a2emzecb.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12280,
-            "IP_PROP34": "a_1065",
-            "IP_PROP35": "ГС-00449",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f1b/f1kmk3izprewuiq2490qx485m9xgn068.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0eb/ju1sqqqcaaa1jnqijcdsvls34pc1m1oz.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/24e/7nwti5rgb7srqf2fpuwshmwkuklf8859.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fb/zbfgkd8zxviltvx8tms6rwj7nl69vfow.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/189/stkhgjg54ylik2licaf4q1g3o7gi6x33.webp"
-            ],
-            "IP_PROP37": "m_72",
-            "IP_PROP38": "velutto_02",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 5187,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 5343,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 5187,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Новинка: Стул Кремона 4К BL Ткань Velutto производства компании UTFC",
-    "base_name": "Стул Кремона 4К BL",
-    "article_number": "НКС-00021",
-    "full_describe": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.Особенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
-    "Link_arm": "https://utfc.ru/catalog/pos_chair/kremona_4k/",
-    "Основание": "Металлические опоры, защитно-декоративное порошковое покрытие черного цвета (BL)",
-    "Подлокотники": "",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "finish_type": [
-        "Ткань Velutto",
-        "-"
-    ],
-    "color": [
-        "Велюр 02 (светло-бежевый)",
-        "Велюр 03 (бежевый)",
-        "Велюр 06 (коричневый)",
-        "Велюр 20 (черный)",
-        "Велюр 18 (серый)"
-    ],
-    "variant_name": [
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый))",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 03 (бежевый))",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 06 (коричневый))",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 20 (черный))",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 18 (серый))",
-        "Стул Кремона 4К BL (-, Велюр 02 (светло-бежевый))",
-        "Стул Кремона 4К BL (-, Велюр 03 (бежевый))",
-        "Стул Кремона 4К BL (-, Велюр 06 (коричневый))",
-        "Стул Кремона 4К BL (-, Велюр 20 (черный))",
-        "Стул Кремона 4К BL (-, Велюр 18 (серый))",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый),, )",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 03 (бежевый),, )",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 06 (коричневый),, )",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 20 (черный),, )",
-        "Стул Кремона 4К BL (Ткань Velutto, Велюр 18 (серый),, )",
-        "Стул Кремона 4К BL (-, Велюр 02 (светло-бежевый),, )",
-        "Стул Кремона 4К BL (-, Велюр 03 (бежевый),, )",
-        "Стул Кремона 4К BL (-, Велюр 06 (коричневый),, )",
-        "Стул Кремона 4К BL (-, Велюр 20 (черный),, )",
-        "Стул Кремона 4К BL (-, Велюр 18 (серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Кремона 4к"
+  ],
+  "name_all": [
+    "Кремона"
+  ],
+  "name": [
+    "Кремона"
+  ],
+  "unique_name": [
+    "Кремона 4К"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки-сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья стула:<br>велюр (Velutto)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Ножки изготовлены из стальной трубы круглого сечения Ф30х1,2 мм, планки изготовлены из стальной трубы прямоугольного сечения 30х15х1,2 мм, связи - из стального листа толщиной 1,5 мм",
+        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска, цвет - черный",
+        "На опорную поверхность ножек каркаса устанавливаются заглушки (4 шт.)",
+        "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью саморезов",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
+        "<strong>Материал</strong> облицовки спинки и сиденья: велюр (Velutto)."
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 570,
+          "depth": 510,
+          "height": 610
+        },
+        "box_size": "570х510х610",
+        "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде<br>Каркасы пакуются отдельно на поддон по 60 шт., оборачиваются стрейч-пленкой<br>Упаковка мягких частей по 2 шт. в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "8,00",
+      "volume": "0,00"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/kremona_4k_v02_01.png",
+      "chair_view": "img/chair_visitors/kremona_4k_v02_02.png",
+      "dimensions": "img/chair_visitors/dimensions/kremona_4k_v02_01.png",
+      "box": "img/box_UTFC_2x.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d21/ejakctbd5uac2tpawagoj486ki475zyr.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3ba/140_140_0/naq3gks0v4qr5fdqjzxitopql7sws609.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/ce1/140_140_0/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a9a/140_140_0/wv4oakqn21aya6lhdhcskwy95kuna3ui.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce1/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ba/naq3gks0v4qr5fdqjzxitopql7sws609.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/b62/140_140_0/4g6ew7q3ishlreywemjr70lspky91e59.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f37/3q1ohav4mrz2f102tvlys86d0nuxyyra.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b62/4g6ew7q3ishlreywemjr70lspky91e59.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/005/gq9dncaopgc6zza80ar3qu5yb1dq7az3.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a9e/140_140_0/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/cb1/th2r9a8a4dc4w87zerng51hbjt9062ai.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/365/jz72k44xuf7njrx7r16y8g4a6insl333.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5a3/z8o53ka33paj2pun9ldfz6m8aby0lmjr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94b/291cco6tzr1fr12bcx6ytknw6pm4plyo.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9e/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9a/wv4oakqn21aya6lhdhcskwy95kuna3ui.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4d2/2w9lv6lzabzu5flqzju00oytou3d2oag.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "810",
+        "max": 810
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "165",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "600",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "470",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "340",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "470",
+        "max": "340"
+      },
+      "seat_width_with_armrests": {
+        "min": "540",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "450",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "370",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "440",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "410"
+      },
+      "armrest_height_from_floor": {
+        "min": "230"
+      },
+      "armrest_width_support": {
+        "max": "40"
+      },
+      "armrest_length_support": {
+        "max": "240"
+      },
+      "seat_depth_km": {
+        "max": "470"
+      },
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "370"
+      },
+      "backrest_width_wide": {
+        "max": "470"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "120",
+      "netto": "8",
+      "brutto": "8,15",
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1065",
+    "IE_NAME": "Стул Кремона 4К BL",
+    "IE_PREVIEW_TEXT": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.\nОсобенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
+    "IE_DETAIL_TEXT": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.\nОсобенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
+    "IP_PROP2": 540,
+    "IP_PROP3": 810,
+    "IP_PROP4": 600,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d21/ejakctbd5uac2tpawagoj486ki475zyr.webp",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/4d2/2w9lv6lzabzu5flqzju00oytou3d2oag.png",
+    "IP_PROP5": 570,
+    "IP_PROP26": 610,
+    "IP_PROP27": 510,
+    "IP_PROP28": "8,9",
+    "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
+    "IP_PROP30": "0,114",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "kremona_4k",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/e8c/3dpferzhh8selykaf2pah8evfiyqzyq1.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_4k_bl",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 5187,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 5343,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 5187,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50233,
+      "IE_NAME": "Стул Кремона 4К BL Velutto 03 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7d1/qebb5l0q3c9ovvonspz5qtj17qfyucxw.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/31e/1b7ni35m4bxwg26fhe49nfaw1b8081cp.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12276,
+      "IP_PROP34": "a_1065",
+      "IP_PROP35": "НКС-00021",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9a/wv4oakqn21aya6lhdhcskwy95kuna3ui.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b62/4g6ew7q3ishlreywemjr70lspky91e59.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a9e/vnb26cdcoyf8551ecjsfjgrqm6oywb8o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ba/naq3gks0v4qr5fdqjzxitopql7sws609.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ce1/23bt3aip9k4bh7wgcmpwzir1b4yaonf3.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_03",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50234,
+      "IE_NAME": "Стул Кремона 4К BL Velutto 20 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/053/66k1hm6stc5yiubcu962j2eohtv36bnr.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0a6/6xw0wvhzxcmy0t3rqp980rna7fhtfy4d.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12277,
+      "IP_PROP34": "a_1065",
+      "IP_PROP35": "ГС-00452",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/afe/xz3is924vl9bj36zso3rb8jxv0edqixx.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1e7/5k2n1zirete7wwk3zl0mgp2vuubvtfsq.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2f9/9u493hvsgnbu1h1rejlkwplfrcrv4af4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/849/j0iv2g39gkngkv79btkkp983x07gjwry.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e56/6w6cq4vavzyn5fz5g3rlxowg0752vi3o.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_20",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50235,
+      "IE_NAME": "Стул Кремона 4К BL Velutto 18 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3ee/oxnibcc4kta571osz9sv2vy46ic0ygn2.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c76/iplctvaa9iwwqvt1hytvqep96d0w55il.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12278,
+      "IP_PROP34": "a_1065",
+      "IP_PROP35": "ГС-00451",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1ed/mo7w9fm2eon1cjk74kqmkld9qoo49gsa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/aa0/d95dzv2tuvwgsad8axh4cib5v8y7knlq.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/afd/g8qx9la3vphk2kme0otve9k48jb7vrpa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/317/jwpnq34qvnzsi79it44k55ze5vwvr0rw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e1a/q7yt3aae8l0pg61upgxyvrndz85l1695.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_18",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50236,
+      "IE_NAME": "Стул Кремона 4К BL Velutto 06 (коричневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ee3/0rxwbvp2z4sopqzohojaqlg7bqezncai.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/09c/l3kgqm6yg9bdxx6tq6eg1uhkfm8wi035.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12279,
+      "IP_PROP34": "a_1065",
+      "IP_PROP35": "ГС-00450",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/1f1/4sg7xntrwrliwi33eh4ppkb23gu9pgfm.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e20/myvhp1r4qw8its0m6a1r2tyonfllkudy.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/89d/0dtmy9lh026ayso5c7b25cqhjf298vv9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ee/hq3b6nqpq1qe010kr7u81mcs7hsmx2wr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b15/josxofar664m45s5pfwbi7ayfg3ve6r8.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_06",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50237,
+      "IE_NAME": "Стул Кремона 4К BL Velutto 02 (светло-бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e6f/y7tpx71ssssjzlbcjo4vkksrjjthaf3e.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/141/2ezef37k9mlm8ye63mzfo0b1a2emzecb.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12280,
+      "IP_PROP34": "a_1065",
+      "IP_PROP35": "ГС-00449",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f1b/f1kmk3izprewuiq2490qx485m9xgn068.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0eb/ju1sqqqcaaa1jnqijcdsvls34pc1m1oz.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/24e/7nwti5rgb7srqf2fpuwshmwkuklf8859.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fb/zbfgkd8zxviltvx8tms6rwj7nl69vfow.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/189/stkhgjg54ylik2licaf4q1g3o7gi6x33.webp"
+      ],
+      "IP_PROP37": "m_72",
+      "IP_PROP38": "velutto_02",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 5187,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 5343,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 5187,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Новинка: Стул Кремона 4К BL Ткань Velutto производства компании UTFC",
+  "base_name": "Стул Кремона 4К BL",
+  "article_number": "НКС-00021",
+  "full_describe": "Название стула Кремона отсылает к одному из самых изысканных итальянских пригородов, где сочетаются традиции и современность.Особенностью стула является его универсальность — он одинаково уместен как в минималистичном, так и в классическом интерьере. Благодаря нейтральным и благородным оттенкам велюра, стул легко вписывается в любую палитру и становится гармоничным акцентом в любом пространстве.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/kremona_4k/",
+  "Основание": "Металлические опоры, защитно-декоративное порошковое покрытие черного цвета (BL)",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань Velutto",
+    "-"
+  ],
+  "color": [
+    "Велюр 02 (светло-бежевый)",
+    "Велюр 03 (бежевый)",
+    "Велюр 06 (коричневый)",
+    "Велюр 20 (черный)",
+    "Велюр 18 (серый)"
+  ],
+  "variant_name": [
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый))",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 03 (бежевый))",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 06 (коричневый))",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 20 (черный))",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 18 (серый))",
+    "Стул Кремона 4К BL (-, Велюр 02 (светло-бежевый))",
+    "Стул Кремона 4К BL (-, Велюр 03 (бежевый))",
+    "Стул Кремона 4К BL (-, Велюр 06 (коричневый))",
+    "Стул Кремона 4К BL (-, Велюр 20 (черный))",
+    "Стул Кремона 4К BL (-, Велюр 18 (серый))",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 02 (светло-бежевый),, )",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 03 (бежевый),, )",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 06 (коричневый),, )",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 20 (черный),, )",
+    "Стул Кремона 4К BL (Ткань Velutto, Велюр 18 (серый),, )",
+    "Стул Кремона 4К BL (-, Велюр 02 (светло-бежевый),, )",
+    "Стул Кремона 4К BL (-, Велюр 03 (бежевый),, )",
+    "Стул Кремона 4К BL (-, Велюр 06 (коричневый),, )",
+    "Стул Кремона 4К BL (-, Велюр 20 (черный),, )",
+    "Стул Кремона 4К BL (-, Велюр 18 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

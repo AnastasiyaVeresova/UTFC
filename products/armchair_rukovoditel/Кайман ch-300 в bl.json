@@ -1,613 +1,613 @@
 {
-    "namefile": [
-        "Кайман ch-300 в bl"
-    ],
-    "name_all": [
-        "Кайман В",
-        "Кайман Н",
-        "Кайман Комфорт В",
-        "Кайман Комфорт Н",
-        "Кайман Трио В",
-        "Кайман Трио Н",
-        "Кайман В Топ-ган LUX"
-    ],
-    "name": [
-        "Кайман В"
-    ],
-    "unique_name": [
-        "Кайман CH-300 В BL"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло для руководителя"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях <br><br>Изготавливается с мягким элементом спинки-сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- тип покрытия каркаса кресла: CH, BL<br>где CH - хромовое блестящее, BL - окрашенный, цвет черный<br>- комплектация подлокотников чехлами: soft, soft2 или без чехлов<br>soft - один чехол на подлокотнике, soft2 - два чехла на подлокотнике<br>- материал облицовки спинки-сиденья и чехлов подлокотников кресла:\nткань (Moderno), сетка (CK, TF), экокожа (S,R)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлического каркаса, мягкого элемента, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Каркас</strong> кресла металлический, сборный с защитно-декоративным покрытием. Опоры и перемычки изготовлены из стальной трубы овального сечения 30х15х1,4 мм",
-                "<strong>Подлокотники</strong> металлические с защитно-декоративным покрытием. Крепятся к каркасу с помощью винтов. По желанию заказчика на подлокотники устанавливаются чехлы soft или soft2. Чехлы крепятся к подлокотнику с помощью липучки (Moderno, S, R) или молнии (CK, TF)",
-                "<strong>Покрытие</strong> каркаса кресла и подлокотников: термореактивная порошковая краска черного цвета или хромовое блестящее",
-                "<strong>Мягкий элемент</strong> состоит из облицовки и пенополиуретанового вкладыша (жесткость - 25, плотность - 16 кг/м<sup>3</sup>). Мягкий элемент натянут между опор каркаса. Облицовка сеткой идет без пенополиуретанового вкладыша",
-                "<strong>Материал</strong> облицовки спинки-сиденья и чехлов подлокотников кресла: ткань (Moderno), экокожа (S,R)",
-                "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок» или «Топ-ган LUX»",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-                "<strong>Пятилучье</strong> хромированное d=700 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 910,
-                    "depth": 400,
-                    "height": 680
-                },
-                "box_size": "910х400х680",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "17,1",
-            "netto": "13,8",
-            "volume": "0,25"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_rukovoditel/kayman_v_bl_s0422_01.png",
-            "chair_view": "img/armchair_rukovoditel/kayman_v_bl_s0422_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/kayman_v_bl_s0422_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/791/791b522e509c64b45e53cb02e39f010e.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db2/jxp02rwa2amxftrut0a3lvulz4u195ud.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c77/8g7iww9yzl447s8c0pmx3k1bx2a1cl8o.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6c6/qvu5zix46zs4x4u8grh7dk8x4zvfxx7w.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a56/a569ed7da653191844645055717515c7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42e/42e6c4481d6e1825f4a2de223be6e640.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/124/12488cc5e7825b6c33ec205fee2cf98d.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b23/5bo6mqew85blwgqs65v2e9n5cg1qw2j2.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/848/140_140_0/jo77dfc04586k901ss5o5x3kzn0s4qfo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/703/7036dfcc67e0632951197450d24f2bbe.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4d0/4d07ae3ab9bb81b2fdb4b0d71068d266.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/696/6963a667c41be4394af74f5313779a53.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/848/jo77dfc04586k901ss5o5x3kzn0s4qfo.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6cf/6cf68c954851516c739ec910226d78f3.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/849/84997c70cfeb45fe1384573dd2278390.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e0b/e0b1c6172c25afc86a9119dfbea01959.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/751/cv3ctzl51iliee15dwk7lzx9kef27gn7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/be2/zc5kdhv2kk1ghy5djjbse4nremhspu38.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/982/6vmdlt722gzqiua0hogkro978xwzkl3u.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bbf/bbf7536c36d45261ea7b5b770b13c25d.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ff/n77lts7di3e1szwb0p7dtj381sex46s9.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/751/140_140_0/cv3ctzl51iliee15dwk7lzx9kef27gn7.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/dbb/140_140_0/062m10pfecnvagghmfvyhy6v4uftmcgx.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a8e/tv2fnrye4q433yl339rs7rc4693ff59c.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/be2/140_140_0/zc5kdhv2kk1ghy5djjbse4nremhspu38.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c00/m59bvvregb6o0p4a2odgmh8s0df9vijp.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/982/140_140_0/6vmdlt722gzqiua0hogkro978xwzkl3u.png",
-                "https://utfc.ru/upload/resize_cache/iblock/7ff/140_140_0/n77lts7di3e1szwb0p7dtj381sex46s9.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dbb/062m10pfecnvagghmfvyhy6v4uftmcgx.webp",
-                "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1090",
-                "max": "1190"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "480",
-                "max": "580"
-            },
-            "armrest_height_from_seat": {
-                "min": "200",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "630",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "480",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "620",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": null,
-                "max": null
-            },
-            "seat_width_with_armrests": {
-                "min": "560",
-                "max": null
-            },
-            "seat_width": {
-                "max": "490",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "700",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "480",
-                "max": "580"
-            },
-            "armrest_height_from_floor": {
-                "min": "230"
-            },
-            "armrest_width_support": {
-                "max": "40"
-            },
-            "armrest_length_support": {},
-            "seat_depth_km": {},
-            "backrest_height_external": {},
-            "backrest_width_narrow": {
-                "max": "450"
-            },
-            "backrest_width_wide": {
-                "max": "470"
-            },
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "монолитный",
-            "minpromtorg": "+",
-            "netto": "13,8",
-            "brutto": {},
-            "package_width": {},
-            "package_depth": {},
-            "package_height": {},
-            "volume": {},
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": {
-                "min": "",
-                "max": ""
-            }
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "lost": [
-        {
-            "clean": false,
-            "limit": false,
-            "del": true
-        }
-    ],
-    "parent": {
-        "IE_XML_ID": "a_1039",
-        "IE_NAME": "СН-300 Кайман В BL",
-        "IE_PREVIEW_TEXT": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
-        "IE_DETAIL_TEXT": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
-        "IP_PROP2": 560,
-        "IP_PROP3": "1090-1190",
-        "IP_PROP4": 630,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a8e/tv2fnrye4q433yl339rs7rc4693ff59c.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c00/m59bvvregb6o0p4a2odgmh8s0df9vijp.webp",
-        "IP_PROP5": 900,
-        "IP_PROP26": 670,
-        "IP_PROP27": 390,
-        "IP_PROP28": "17,1",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,25",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "kayman_v_bl",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/315/uj319n5a29kwpxi8z5hgiq9qxb7gjxh9.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_660_arkt_pl",
-        "IP_PROP42": "pl_kayman_ch",
-        "IP_PROP43": "gl_230_2",
-        "IP_PROP44": "m_tg_cay",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_60_o_pu",
-        "IP_PROP47": "",
-        "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла для руководителя",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 9326,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 9606,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 9326,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50137,
-            "IE_NAME": "Кресло СН-300 Кайман В BL Ср Moderno 11 (мокко)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/14a/fgbpohmqxavf40bmfsyjdpkck573tf7u.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/a26/1boml1bhqj34x1j8vy7qvs1qsse0fvo9.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12168,
-            "IP_PROP34": "a_1039",
-            "IP_PROP35": "КК-00564",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/iblock/982/6vmdlt722gzqiua0hogkro978xwzkl3u.png",
-                "https://utfc.ru/upload/iblock/be2/zc5kdhv2kk1ghy5djjbse4nremhspu38.png",
-                "https://utfc.ru/upload/iblock/751/cv3ctzl51iliee15dwk7lzx9kef27gn7.png",
-                "https://utfc.ru/upload/iblock/7ff/n77lts7di3e1szwb0p7dtj381sex46s9.png",
-                "https://utfc.ru/upload/iblock/dbb/062m10pfecnvagghmfvyhy6v4uftmcgx.png"
-            ],
-            "IP_PROP37": "m_28",
-            "IP_PROP38": "moderno_11",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 9326,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 9606,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 9326,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50717,
-            "IE_NAME": "Кресло СН-300 Кайман В BL Ср TF72 (темно-серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/dd5/00x2qovqh4kqhsou7f26qb25tylajpe9.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/c56/gzb0632hinridixfkdwqh1l4qkbe9ksw.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12840,
-            "IP_PROP34": "a_1039",
-            "IP_PROP35": "КК-00857",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/iblock/520/0783g8qcw8bb3jp5rwvj51ffp32192fj.png",
-                "https://utfc.ru/upload/iblock/28a/2bxq7ve6kz68dbh6l5qzz5h5fyug66qe.png",
-                "https://utfc.ru/upload/iblock/46f/sxugy695hf9yneasp4s8m22zu3st4ghi.png",
-                "https://utfc.ru/upload/iblock/2b3/bqw305tl2852covxm53bv4112mzgvlmv.png",
-                "https://utfc.ru/upload/iblock/87a/33vsdk5lcy5b4bwtlpbjy64d3duwv9z1.png"
-            ],
-            "IP_PROP37": "m_07",
-            "IP_PROP38": "tf_72",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 9613,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 9902,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 9613,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50733,
-            "IE_NAME": "Кресло СН-300 Кайман В BL Ср СК11 (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ba/2exvqyx86x9ux3vbwd99jntwvj8rgrdv.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3e4/5g87dez19f2vtgbt2nt02wchm9qmms7y.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12857,
-            "IP_PROP34": "a_1039",
-            "IP_PROP35": "КК-00890",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dc8/pzqb91hef6h6v67x5hsgw7z8nfv81uii.webp",
-                "https://utfc.ru/upload/iblock/e2b/t69gem256djy4lsg49hq18sd0n2cao5r.png",
-                "https://utfc.ru/upload/iblock/dc6/mpmwm6p6s4c5o9rqyc7x9lhxqjqvcrqr.png",
-                "https://utfc.ru/upload/iblock/faf/az9ihafhaw9y1xbcj9hs1x9ycn0wvpq9.png",
-                "https://utfc.ru/upload/iblock/4a5/ozqxxzcouygch57hoy8ekp85d3awa7cr.png"
-            ],
-            "IP_PROP37": "m_07",
-            "IP_PROP38": "ck_11",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 9613,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 9902,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 9613,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 50734,
-            "IE_NAME": "Кресло СН-300 Кайман В BL Ср TF21 (бежевый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/c5b/kfn331515k9paao5j1nwagkzy3ka7af7.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/362/qynskxe68dgrkmkdt96k2x3vg02nx2lw.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12858,
-            "IP_PROP34": "a_1039",
-            "IP_PROP35": "КК-00891",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/iblock/db6/78tv7plozj3dhpd7q14kufsv6y9mqhzt.png",
-                "https://utfc.ru/upload/iblock/a59/3qzpivixe1r7j3o87rx93ynk6yc2mfsg.png",
-                "https://utfc.ru/upload/iblock/e83/rbw610kozpp2w49fplas9yggh2kacni2.png",
-                "https://utfc.ru/upload/iblock/fbd/wqdiuixlqldb5qdp59e4j9aevz5hljfj.png",
-                "https://utfc.ru/upload/iblock/4b5/bkbkhayhs4e3eys9d6p7inrekh3qx75t.png"
-            ],
-            "IP_PROP37": "m_07",
-            "IP_PROP38": "tf_21",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 9613,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 9902,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 9613,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Кресло для домашнего рабочего пространства и офиса СН-300 Кайман В BL производства компании UTFC",
-    "base_name": "Кресло СН-300 Кайман В BL",
-    "article_number": "КК-00564",
-    "full_describe": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
-    "Link_arm": "https://utfc.ru/catalog/boss_chairs/kayman_v_bl/",
-    "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
-    "Подлокотники": "Подлокотники для кресел \"Кайман\", нерегулируемые, хромированные",
-    "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
-    "Механизм": "Топ-Ган Cayman — однопозиционный механизм качания Кайман позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию кресла в вертикальном положении",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Сетка TF, СК",
-        "Экокожа Santorini",
-        "Ткань Moderno",
-        "-"
-    ],
-    "color": [
-        "Сетка TF 21",
-        "Сетка TF 72",
-        "Сетка СК 11",
-        "Ткань Moderno 11 (мокко)"
-    ],
-    "variant_name": [
-        "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка TF 21)",
-        "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка TF 72)",
-        "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка СК 11)",
-        "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка TF 21)",
-        "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка TF 72)",
-        "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка СК 11)",
-        "Кресло СН-300 Кайман В (Ткань Moderno, Сетка TF 21)",
-        "Кресло СН-300 Кайман В (Ткань Moderno, Сетка TF 72)",
-        "Кресло СН-300 Кайман В (Ткань Moderno, Сетка СК 11)",
-        "Кресло СН-300 Кайман В (-, Сетка TF 21)",
-        "Кресло СН-300 Кайман В (-, Сетка TF 72)",
-        "Кресло СН-300 Кайман В (-, Сетка СК 11)",
-        "Кресло СН-300 Кайман В BL (Сетка TF, СК, Ткань Moderno 11 (мокко))",
-        "Кресло СН-300 Кайман В BL (Ткань Moderno, Ткань Moderno 11 (мокко))",
-        "Кресло СН-300 Кайман В BL (-, Ткань Moderno 11 (мокко))",
-        "Кресло СН-300 Кайман В BL (Сетка TF, СК, Ткань Moderno 11 (мокко),, )",
-        "Кресло СН-300 Кайман В BL (Ткань Moderno, Ткань Moderno 11 (мокко),, )",
-        "Кресло СН-300 Кайман В BL (-, Ткань Moderno 11 (мокко),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Кайман ch-300 в bl"
+  ],
+  "name_all": [
+    "Кайман В",
+    "Кайман Н",
+    "Кайман Комфорт В",
+    "Кайман Комфорт Н",
+    "Кайман Трио В",
+    "Кайман Трио Н",
+    "Кайман В Топ-ган LUX"
+  ],
+  "name": [
+    "Кайман В"
+  ],
+  "unique_name": [
+    "Кайман CH-300 В BL"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях <br><br>Изготавливается с мягким элементом спинки-сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- тип покрытия каркаса кресла: CH, BL<br>где CH - хромовое блестящее, BL - окрашенный, цвет черный<br>- комплектация подлокотников чехлами: soft, soft2 или без чехлов<br>soft - один чехол на подлокотнике, soft2 - два чехла на подлокотнике<br>- материал облицовки спинки-сиденья и чехлов подлокотников кресла:\nткань (Moderno), сетка (CK, TF), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, мягкого элемента, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Каркас</strong> кресла металлический, сборный с защитно-декоративным покрытием. Опоры и перемычки изготовлены из стальной трубы овального сечения 30х15х1,4 мм",
+        "<strong>Подлокотники</strong> металлические с защитно-декоративным покрытием. Крепятся к каркасу с помощью винтов. По желанию заказчика на подлокотники устанавливаются чехлы soft или soft2. Чехлы крепятся к подлокотнику с помощью липучки (Moderno, S, R) или молнии (CK, TF)",
+        "<strong>Покрытие</strong> каркаса кресла и подлокотников: термореактивная порошковая краска черного цвета или хромовое блестящее",
+        "<strong>Мягкий элемент</strong> состоит из облицовки и пенополиуретанового вкладыша (жесткость - 25, плотность - 16 кг/м<sup>3</sup>). Мягкий элемент натянут между опор каркаса. Облицовка сеткой идет без пенополиуретанового вкладыша",
+        "<strong>Материал</strong> облицовки спинки-сиденья и чехлов подлокотников кресла: ткань (Moderno), экокожа (S,R)",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок» или «Топ-ган LUX»",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+        "<strong>Пятилучье</strong> хромированное d=700 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 910,
+          "depth": 400,
+          "height": 680
+        },
+        "box_size": "910х400х680",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "17,1",
+      "netto": "13,8",
+      "volume": "0,25"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/kayman_v_bl_s0422_01.png",
+      "chair_view": "img/armchair_rukovoditel/kayman_v_bl_s0422_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/kayman_v_bl_s0422_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/791/791b522e509c64b45e53cb02e39f010e.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/db2/jxp02rwa2amxftrut0a3lvulz4u195ud.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c77/8g7iww9yzl447s8c0pmx3k1bx2a1cl8o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6c6/qvu5zix46zs4x4u8grh7dk8x4zvfxx7w.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a56/a569ed7da653191844645055717515c7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/785/78599280ecd367086205dacabe880579.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42e/42e6c4481d6e1825f4a2de223be6e640.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/124/12488cc5e7825b6c33ec205fee2cf98d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/b23/5bo6mqew85blwgqs65v2e9n5cg1qw2j2.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/848/140_140_0/jo77dfc04586k901ss5o5x3kzn0s4qfo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/703/7036dfcc67e0632951197450d24f2bbe.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4d0/4d07ae3ab9bb81b2fdb4b0d71068d266.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/10c5a4d662d70084372d923fe7bec314.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/696/6963a667c41be4394af74f5313779a53.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/848/jo77dfc04586k901ss5o5x3kzn0s4qfo.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6cf/6cf68c954851516c739ec910226d78f3.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/0bd/0bdb46b69b016449943ecc987b42e113.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/849/84997c70cfeb45fe1384573dd2278390.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e0b/e0b1c6172c25afc86a9119dfbea01959.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/751/cv3ctzl51iliee15dwk7lzx9kef27gn7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/be2/zc5kdhv2kk1ghy5djjbse4nremhspu38.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/982/6vmdlt722gzqiua0hogkro978xwzkl3u.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bbf/bbf7536c36d45261ea7b5b770b13c25d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ff/n77lts7di3e1szwb0p7dtj381sex46s9.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/751/140_140_0/cv3ctzl51iliee15dwk7lzx9kef27gn7.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/dbb/140_140_0/062m10pfecnvagghmfvyhy6v4uftmcgx.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a8e/tv2fnrye4q433yl339rs7rc4693ff59c.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/be2/140_140_0/zc5kdhv2kk1ghy5djjbse4nremhspu38.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c00/m59bvvregb6o0p4a2odgmh8s0df9vijp.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/982/140_140_0/6vmdlt722gzqiua0hogkro978xwzkl3u.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7ff/140_140_0/n77lts7di3e1szwb0p7dtj381sex46s9.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dbb/062m10pfecnvagghmfvyhy6v4uftmcgx.webp",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1090",
+        "max": "1190"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": "580"
+      },
+      "armrest_height_from_seat": {
+        "min": "200",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "630",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "480",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "620",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_width_with_armrests": {
+        "min": "560",
+        "max": null
+      },
+      "seat_width": {
+        "max": "490",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "700",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "480",
+        "max": "580"
+      },
+      "armrest_height_from_floor": {
+        "min": "230"
+      },
+      "armrest_width_support": {
+        "max": "40"
+      },
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "450"
+      },
+      "backrest_width_wide": {
+        "max": "470"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "13,8",
+      "brutto": {},
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": {},
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": {
+        "min": "",
+        "max": ""
+      }
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "lost": [
+    {
+      "clean": false,
+      "limit": false,
+      "del": true
+    }
+  ],
+  "parent": {
+    "IE_XML_ID": "a_1039",
+    "IE_NAME": "СН-300 Кайман В BL",
+    "IE_PREVIEW_TEXT": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
+    "IE_DETAIL_TEXT": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
+    "IP_PROP2": 560,
+    "IP_PROP3": "1090-1190",
+    "IP_PROP4": 630,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a8e/tv2fnrye4q433yl339rs7rc4693ff59c.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c00/m59bvvregb6o0p4a2odgmh8s0df9vijp.webp",
+    "IP_PROP5": 900,
+    "IP_PROP26": 670,
+    "IP_PROP27": 390,
+    "IP_PROP28": "17,1",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,25",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "kayman_v_bl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/315/uj319n5a29kwpxi8z5hgiq9qxb7gjxh9.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_arkt_pl",
+    "IP_PROP42": "pl_kayman_ch",
+    "IP_PROP43": "gl_230_2",
+    "IP_PROP44": "m_tg_cay",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 9326,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 9606,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 9326,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50137,
+      "IE_NAME": "Кресло СН-300 Кайман В BL Ср Moderno 11 (мокко)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/14a/fgbpohmqxavf40bmfsyjdpkck573tf7u.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/a26/1boml1bhqj34x1j8vy7qvs1qsse0fvo9.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12168,
+      "IP_PROP34": "a_1039",
+      "IP_PROP35": "КК-00564",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/982/6vmdlt722gzqiua0hogkro978xwzkl3u.png",
+        "https://utfc.ru/upload/iblock/be2/zc5kdhv2kk1ghy5djjbse4nremhspu38.png",
+        "https://utfc.ru/upload/iblock/751/cv3ctzl51iliee15dwk7lzx9kef27gn7.png",
+        "https://utfc.ru/upload/iblock/7ff/n77lts7di3e1szwb0p7dtj381sex46s9.png",
+        "https://utfc.ru/upload/iblock/dbb/062m10pfecnvagghmfvyhy6v4uftmcgx.png"
+      ],
+      "IP_PROP37": "m_28",
+      "IP_PROP38": "moderno_11",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 9326,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9606,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 9326,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50717,
+      "IE_NAME": "Кресло СН-300 Кайман В BL Ср TF72 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/dd5/00x2qovqh4kqhsou7f26qb25tylajpe9.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/c56/gzb0632hinridixfkdwqh1l4qkbe9ksw.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12840,
+      "IP_PROP34": "a_1039",
+      "IP_PROP35": "КК-00857",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/520/0783g8qcw8bb3jp5rwvj51ffp32192fj.png",
+        "https://utfc.ru/upload/iblock/28a/2bxq7ve6kz68dbh6l5qzz5h5fyug66qe.png",
+        "https://utfc.ru/upload/iblock/46f/sxugy695hf9yneasp4s8m22zu3st4ghi.png",
+        "https://utfc.ru/upload/iblock/2b3/bqw305tl2852covxm53bv4112mzgvlmv.png",
+        "https://utfc.ru/upload/iblock/87a/33vsdk5lcy5b4bwtlpbjy64d3duwv9z1.png"
+      ],
+      "IP_PROP37": "m_07",
+      "IP_PROP38": "tf_72",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 9613,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9902,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 9613,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50733,
+      "IE_NAME": "Кресло СН-300 Кайман В BL Ср СК11 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6ba/2exvqyx86x9ux3vbwd99jntwvj8rgrdv.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3e4/5g87dez19f2vtgbt2nt02wchm9qmms7y.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12857,
+      "IP_PROP34": "a_1039",
+      "IP_PROP35": "КК-00890",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/dc8/pzqb91hef6h6v67x5hsgw7z8nfv81uii.webp",
+        "https://utfc.ru/upload/iblock/e2b/t69gem256djy4lsg49hq18sd0n2cao5r.png",
+        "https://utfc.ru/upload/iblock/dc6/mpmwm6p6s4c5o9rqyc7x9lhxqjqvcrqr.png",
+        "https://utfc.ru/upload/iblock/faf/az9ihafhaw9y1xbcj9hs1x9ycn0wvpq9.png",
+        "https://utfc.ru/upload/iblock/4a5/ozqxxzcouygch57hoy8ekp85d3awa7cr.png"
+      ],
+      "IP_PROP37": "m_07",
+      "IP_PROP38": "ck_11",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 9613,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9902,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 9613,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 50734,
+      "IE_NAME": "Кресло СН-300 Кайман В BL Ср TF21 (бежевый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/iblock/c5b/kfn331515k9paao5j1nwagkzy3ka7af7.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/iblock/362/qynskxe68dgrkmkdt96k2x3vg02nx2lw.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12858,
+      "IP_PROP34": "a_1039",
+      "IP_PROP35": "КК-00891",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/iblock/db6/78tv7plozj3dhpd7q14kufsv6y9mqhzt.png",
+        "https://utfc.ru/upload/iblock/a59/3qzpivixe1r7j3o87rx93ynk6yc2mfsg.png",
+        "https://utfc.ru/upload/iblock/e83/rbw610kozpp2w49fplas9yggh2kacni2.png",
+        "https://utfc.ru/upload/iblock/fbd/wqdiuixlqldb5qdp59e4j9aevz5hljfj.png",
+        "https://utfc.ru/upload/iblock/4b5/bkbkhayhs4e3eys9d6p7inrekh3qx75t.png"
+      ],
+      "IP_PROP37": "m_07",
+      "IP_PROP38": "tf_21",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 9613,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 9902,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 9613,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло для домашнего рабочего пространства и офиса СН-300 Кайман В BL производства компании UTFC",
+  "base_name": "Кресло СН-300 Кайман В BL",
+  "article_number": "КК-00564",
+  "full_describe": "Кресло имеет современный вид благодаря облегченному эргономичному каркасу, обтянутому экокожей, тканью или сеткой. Металлический чёрный каркас кресла прочный и надежный.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/kayman_v_bl/",
+  "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
+  "Подлокотники": "Подлокотники для кресел \"Кайман\", нерегулируемые, хромированные",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Топ-Ган Cayman — однопозиционный механизм качания Кайман позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию кресла в вертикальном положении",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Сетка TF, СК",
+    "Экокожа Santorini",
+    "Ткань Moderno",
+    "-"
+  ],
+  "color": [
+    "Сетка TF 21",
+    "Сетка TF 72",
+    "Сетка СК 11",
+    "Ткань Moderno 11 (мокко)"
+  ],
+  "variant_name": [
+    "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка TF 21)",
+    "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка TF 72)",
+    "Кресло СН-300 Кайман В (Сетка TF, СК, Сетка СК 11)",
+    "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка TF 21)",
+    "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка TF 72)",
+    "Кресло СН-300 Кайман В (Экокожа Santorini, Сетка СК 11)",
+    "Кресло СН-300 Кайман В (Ткань Moderno, Сетка TF 21)",
+    "Кресло СН-300 Кайман В (Ткань Moderno, Сетка TF 72)",
+    "Кресло СН-300 Кайман В (Ткань Moderno, Сетка СК 11)",
+    "Кресло СН-300 Кайман В (-, Сетка TF 21)",
+    "Кресло СН-300 Кайман В (-, Сетка TF 72)",
+    "Кресло СН-300 Кайман В (-, Сетка СК 11)",
+    "Кресло СН-300 Кайман В BL (Сетка TF, СК, Ткань Moderno 11 (мокко))",
+    "Кресло СН-300 Кайман В BL (Ткань Moderno, Ткань Moderno 11 (мокко))",
+    "Кресло СН-300 Кайман В BL (-, Ткань Moderno 11 (мокко))",
+    "Кресло СН-300 Кайман В BL (Сетка TF, СК, Ткань Moderno 11 (мокко),, )",
+    "Кресло СН-300 Кайман В BL (Ткань Moderno, Ткань Moderno 11 (мокко),, )",
+    "Кресло СН-300 Кайман В BL (-, Ткань Moderno 11 (мокко),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

@@ -1,370 +1,370 @@
 {
-    "namefile": [
-        "Афродита люкс хром"
-    ],
-    "name_all": [
-        "Афродита Люкс",
-        "Афродита Люкс со столиком"
-    ],
-    "name": [
-        "Афродита Люкс"
-    ],
-    "unique_name": [
-        "Афродита Люкс хром"
-    ],
-    "vid": [
-        "стул"
-    ],
-    "category": [
-        "стул"
-    ],
-    "destiny": [
-        "работы и кратковременного отдыха сидя<br>Используется в общественных помещениях различного назначения (в том числе в административных и т. д.)<br>Изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани, и пластиковыми подлокотниками"
-    ],
-    "technical_requirements": [
-        [
-            "Стул должен соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки стула:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья стула: ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлического каркаса, сиденья, подлокотников, пластиковых заглушек и крепежных элементов. Нерегулируемый",
-                "<strong>Каркас</strong> стула сварной металлический, с защитно-декоративным покрытием, состоит из ножек, спинки и планок",
-                "<strong>Ножки и спинка</strong> изготовлены из трубы круглого сечения Ф22х1,2 мм, <strong>планки</strong> - из стального листа толщиной 3 мм",
-                "<strong>Покрытие каркаса</strong>: хромовое блестящее",
-                "<strong>Спинка каркаса</strong> обтянула чехлом из сетчатой ткани (TW)",
-                "<strong>Сиденье</strong> мягкое, состоят из основания фанерного (фанера гнуто-клееная 6-слойная), вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицовки",
-                "На основаниях сиденья установлены гайки мебельные М6 для соединения сиденья с каркасом винтами М6",
-                "<strong>Облицовка сиденья:</strong> ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R). Материал канта сиденья: ткань-сетка (Е)",
-                "<strong>Подлокотники</strong> пластиковые устанавливаются на передние ножки каркаса и крепятся к спинке каркаса винтами М6",
-                "<strong>Заглушки</strong> устанавливаются на опорную поверхность ножек каркаса и в крепежные отверстия подлокотников"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "670",
-                    "depth": "630",
-                    "height": "970"
-                },
-                "box_size": "670х630х970",
-                "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "",
-            "volume": "0,41"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/chair_visitors/afrodita_lux_wt_01.png",
-            "chair_view": "img/chair_visitors/afrodita_lux_wt_02.png",
-            "dimensions": "img/chair_visitors/dimensions/afrodita_lux_wt_01.png",
-            "box": "img/box_UTFC_2x.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/b0f/140_140_0/d0wgt4f1r0j18o88h468fpwkzri2r9hy.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78c/e1us8ykol8d1svjskzvyqhgz2mggu5r7.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/9f2/140_140_0/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/resize_cache/iblock/431/140_140_0/16ac9bhyteolef4u7g0x9glhu9pdjlki.png",
-                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/431/16ac9bhyteolef4u7g0x9glhu9pdjlki.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0f/d0wgt4f1r0j18o88h468fpwkzri2r9hy.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/277/140_140_0/7msq9rr5dn996fgzipsjta3tnxg7drl0.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/c51/140_140_0/pb4dugnb3y0ud4n1chngury1dgte0l7o.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9f2/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/277/7msq9rr5dn996fgzipsjta3tnxg7drl0.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.webp"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "850,00",
-                "max": 850
-            },
-            "headrest_height": {
-                "min": null,
-                "max": null
-            },
-            "seat_to_floor_height": {
-                "min": "485,00",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "145,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "565,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "440,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "380,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "",
-                "max": "380"
-            },
-            "seat_width_with_armrests": {
-                "min": "540,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "465,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "440",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "520,00",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "490,00",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "485"
-            },
-            "armrest_height_from_floor": {
-                "min": "225,00"
-            },
-            "armrest_width_support": {},
-            "armrest_length_support": {},
-            "seat_depth_km": {},
-            "backrest_height_external": {},
-            "backrest_width_narrow": {
-                "max": "440,00"
-            },
-            "backrest_width_wide": {
-                "max": "450,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "немонолитный",
-            "minpromtorg": "+",
-            "netto": "+",
-            "brutto": {},
-            "package_width": "670,00",
-            "package_depth": "630,00",
-            "package_height": "970,00",
-            "volume": "0,41",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "немонолитный"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5093",
-        "IE_NAME": "Стул Афродита Люкс СН",
-        "IE_PREVIEW_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
-        "IE_DETAIL_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
-        "IP_PROP2": 540,
-        "IP_PROP3": 850,
-        "IP_PROP4": 565,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78c/e1us8ykol8d1svjskzvyqhgz2mggu5r7.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.webp",
-        "IP_PROP5": 660,
-        "IP_PROP26": 960,
-        "IP_PROP27": 620,
-        "IP_PROP28": "5,2",
-        "IP_PROP29": "Гофрокартон (2шт/уп)",
-        "IP_PROP30": "0,4",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "afrodita_lux_ch",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0fc/0fc9be845bd0bf195759f6d78a32bb63.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "op_afrodita_ch",
-        "IP_PROP42": "pl_afro",
-        "IP_PROP43": "",
-        "IP_PROP44": "",
-        "IP_PROP45": "",
-        "IP_PROP46": "",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Стулья",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 3330,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 3430,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 3330,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50685,
-            "IE_NAME": "Стул Афродита Люкс СН TW-01/Е105-к/Е11-к (черный/оранжевый/черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ecc/25aln5fqijcf92bv53biphml2we1wiw5.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ebb/9s6lca3lzsx7hrzbvnh881ru6gll6lw6.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12808,
-            "IP_PROP34": "p_5093",
-            "IP_PROP35": "ДКАфродитаЛЮКС38",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9f2/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0f/d0wgt4f1r0j18o88h468fpwkzri2r9hy.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/431/16ac9bhyteolef4u7g0x9glhu9pdjlki.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/277/7msq9rr5dn996fgzipsjta3tnxg7drl0.webp"
-            ],
-            "IP_PROP37": "m_09",
-            "IP_PROP38": "tw_01",
-            "IP_PROP39": "m_08",
-            "IP_PROP40": "e_105_k",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 3330,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 3430,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 3330,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Стул Афродита Люкс СН для посетителей с мягким сиденьем производства компании UTFC",
-    "base_name": "Стул Афродита Люкс СН",
-    "article_number": "ДКАфродитаЛЮКС38",
-    "full_describe": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
-    "Link_arm": "https://utfc.ru/catalog/pos_chair/afrodita_lux_ch/",
-    "Основание": "Металлические опоры стула Афродита, защитно-декоративное покрытие никель-хром (СН)",
-    "Подлокотники": "Подлокотник пластиковый Афродита для стула Афродита и Афродита Люкс",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "finish_type": [
-        "Сетка TW",
-        "-"
-    ],
-    "color": [
-        "Сетка TW-01 (черный)"
-    ],
-    "variant_name": [
-        "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный))",
-        "Стул Афродита Люкс СН (-, Сетка TW-01 (черный))",
-        "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
-        "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))",
-        "Стул Афродита Люкс СН (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
-        "Стул Афродита Люкс СН (-, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))"
-    ],
-    "finish_type_seat": [
-        "Ткань Сетка Е",
-        "-"
-    ],
-    "color_seat": [
-        "Ткань Сетка Е105-к (оранжевый)"
+  "namefile": [
+    "Афродита люкс хром"
+  ],
+  "name_all": [
+    "Афродита Люкс",
+    "Афродита Люкс со столиком"
+  ],
+  "name": [
+    "Афродита Люкс"
+  ],
+  "unique_name": [
+    "Афродита Люкс хром"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Используется в общественных помещениях различного назначения (в том числе в административных и т. д.)<br>Изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани, и пластиковыми подлокотниками"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки стула:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья стула: ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, сиденья, подлокотников, пластиковых заглушек и крепежных элементов. Нерегулируемый",
+        "<strong>Каркас</strong> стула сварной металлический, с защитно-декоративным покрытием, состоит из ножек, спинки и планок",
+        "<strong>Ножки и спинка</strong> изготовлены из трубы круглого сечения Ф22х1,2 мм, <strong>планки</strong> - из стального листа толщиной 3 мм",
+        "<strong>Покрытие каркаса</strong>: хромовое блестящее",
+        "<strong>Спинка каркаса</strong> обтянула чехлом из сетчатой ткани (TW)",
+        "<strong>Сиденье</strong> мягкое, состоят из основания фанерного (фанера гнуто-клееная 6-слойная), вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицовки",
+        "На основаниях сиденья установлены гайки мебельные М6 для соединения сиденья с каркасом винтами М6",
+        "<strong>Облицовка сиденья:</strong> ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R). Материал канта сиденья: ткань-сетка (Е)",
+        "<strong>Подлокотники</strong> пластиковые устанавливаются на передние ножки каркаса и крепятся к спинке каркаса винтами М6",
+        "<strong>Заглушки</strong> устанавливаются на опорную поверхность ножек каркаса и в крепежные отверстия подлокотников"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "670",
+          "depth": "630",
+          "height": "970"
+        },
+        "box_size": "670х630х970",
+        "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,41"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/afrodita_lux_wt_01.png",
+      "chair_view": "img/chair_visitors/afrodita_lux_wt_02.png",
+      "dimensions": "img/chair_visitors/dimensions/afrodita_lux_wt_01.png",
+      "box": "img/box_UTFC_2x.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/b0f/140_140_0/d0wgt4f1r0j18o88h468fpwkzri2r9hy.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78c/e1us8ykol8d1svjskzvyqhgz2mggu5r7.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9f2/140_140_0/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/431/140_140_0/16ac9bhyteolef4u7g0x9glhu9pdjlki.png",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/431/16ac9bhyteolef4u7g0x9glhu9pdjlki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0f/d0wgt4f1r0j18o88h468fpwkzri2r9hy.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/277/140_140_0/7msq9rr5dn996fgzipsjta3tnxg7drl0.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/c51/140_140_0/pb4dugnb3y0ud4n1chngury1dgte0l7o.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9f2/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/277/7msq9rr5dn996fgzipsjta3tnxg7drl0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "850",
+        "max": 850
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "485",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "145",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "565",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "440",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "380",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": "380"
+      },
+      "seat_width_with_armrests": {
+        "min": "540",
+        "max": null
+      },
+      "seat_width": {
+        "max": "465",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "440",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "520",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "490",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "485"
+      },
+      "armrest_height_from_floor": {
+        "min": "225"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "440"
+      },
+      "backrest_width_wide": {
+        "max": "450"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "+",
+      "brutto": {},
+      "package_width": "670",
+      "package_depth": "630",
+      "package_height": "970",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "немонолитный"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5093",
+    "IE_NAME": "Стул Афродита Люкс СН",
+    "IE_PREVIEW_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
+    "IE_DETAIL_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
+    "IP_PROP2": 540,
+    "IP_PROP3": 850,
+    "IP_PROP4": 565,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78c/e1us8ykol8d1svjskzvyqhgz2mggu5r7.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d83/j79hqc2m64ddkdq3ui8tdshy3dmxjju2.webp",
+    "IP_PROP5": 660,
+    "IP_PROP26": 960,
+    "IP_PROP27": 620,
+    "IP_PROP28": "5,2",
+    "IP_PROP29": "Гофрокартон (2шт/уп)",
+    "IP_PROP30": "0,4",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "afrodita_lux_ch",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0fc/0fc9be845bd0bf195759f6d78a32bb63.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_afrodita_ch",
+    "IP_PROP42": "pl_afro",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 3330,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 3430,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 3330,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50685,
+      "IE_NAME": "Стул Афродита Люкс СН TW-01/Е105-к/Е11-к (черный/оранжевый/черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ecc/25aln5fqijcf92bv53biphml2we1wiw5.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ebb/9s6lca3lzsx7hrzbvnh881ru6gll6lw6.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12808,
+      "IP_PROP34": "p_5093",
+      "IP_PROP35": "ДКАфродитаЛЮКС38",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9f2/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0f/d0wgt4f1r0j18o88h468fpwkzri2r9hy.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/431/16ac9bhyteolef4u7g0x9glhu9pdjlki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/277/7msq9rr5dn996fgzipsjta3tnxg7drl0.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_105_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3330,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3430,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 3330,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Стул Афродита Люкс СН для посетителей с мягким сиденьем производства компании UTFC",
+  "base_name": "Стул Афродита Люкс СН",
+  "article_number": "ДКАфродитаЛЮКС38",
+  "full_describe": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. Максимальная нагрузка 120 кг.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/afrodita_lux_ch/",
+  "Основание": "Металлические опоры стула Афродита, защитно-декоративное покрытие никель-хром (СН)",
+  "Подлокотники": "Подлокотник пластиковый Афродита для стула Афродита и Афродита Люкс",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Сетка TW",
+    "-"
+  ],
+  "color": [
+    "Сетка TW-01 (черный)"
+  ],
+  "variant_name": [
+    "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный))",
+    "Стул Афродита Люкс СН (-, Сетка TW-01 (черный))",
+    "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
+    "Стул Афродита Люкс СН (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))",
+    "Стул Афродита Люкс СН (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е105-к (оранжевый))",
+    "Стул Афродита Люкс СН (-, Сетка TW-01 (черный), -, Ткань Сетка Е105-к (оранжевый))"
+  ],
+  "finish_type_seat": [
+    "Ткань Сетка Е",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань Сетка Е105-к (оранжевый)"
+  ]
 }

@@ -1,382 +1,382 @@
 {
-    "namefile": [
-        "Профи м-900 grey pch"
-    ],
-    "name_all": [
-        "Профи BLACK PPL",
-        "Профи GREY PCH"
-    ],
-    "name": [
-        "Профи GREY PCH"
-    ],
-    "unique_name": [
-        "Профи М-900 grey pch"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки и сиденья:<br>ткань-сетка (LF)<br>\n- цвет материала и пластика - по каталогу"
-            ],
-            "components": [
-                "подголовника, спинки, сиденья, подлокотников, механизма, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Подголовник</strong> - пластиковый с мягкой накладкой из ППУ, регулируется по высоте. Крепится к каркасу спинки 2-мя винтами",
-                "<strong>Спинка</strong> состоит из пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка пластиковая, регулируется по высоте",
-                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан), чехла пластикового и обивочного элемента",
-                "<strong>Облицовка спинки и сиденья</strong>: ткань-сетка (LF)",
-                "<strong>Подлокотники</strong> - пластиковые с мягкой накладкой из ППУ, регулируются по высоте, ширине и выдвигаются вперед. Крепятся к основанию сиденья с помощью винтов. Механизм слайдер с возвратом на пружине позволяет регулировать высоту и глубину сиденья с фиксацией в 7-ми положениях, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в 5-ти положениях",
-                "<strong>Газ-лифт</strong> с высотой подъема 120 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-                "<strong>Пятилучье</strong> пластиковое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> пластиковые d=60 мм с полиуретановым покрытием имеют узкий шток"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 730,
-                    "depth": 320,
-                    "height": 640
-                },
-                "box_size": "730х320х640",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "18,80",
-            "volume": "0,00"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/profi_m_900_ch_p_grey_01.png",
-            "chair_view": "img/armchair_comfort/profi_m_900_ch_p_grey_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/profi_m_900_ch_p_grey_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/94d/94db06a063bdd0b9eb5ef1b55ba4a153.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/611/140_140_0/61170bd3e5b6bef54298ae8688d24297.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6e0/6e0113b0abd9fee5d2f3828e3468628d.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/412/412effd463286cca36b4bbcf38aa2997.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b31/b31a520933ffde9a36cdc57ecfeedb13.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f6b/140_140_0/f6bf6c5f095a959ee72a528a90a5c4d7.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6b/f6bf6c5f095a959ee72a528a90a5c4d7.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/resize_cache/iblock/e12/140_140_0/e122124f1f1c6c59edee4481b99fa7fa.png",
-                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94f/94f1b18a374f22f320699e10cd53b516.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/328/328e7208a375d233b21a78c36b345814.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/302/0ud3m26obuhhzm7jx5a0656lv2ubysma.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f35/f3515d176bda7abff8558ec9c3997543.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e12/e122124f1f1c6c59edee4481b99fa7fa.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fa/qdf97ge5dvy3s8ps9ss0mvfg9nw10ffe.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/b31/140_140_0/b31a520933ffde9a36cdc57ecfeedb13.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/611/61170bd3e5b6bef54298ae8688d24297.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/57b/57b9a32beb688e80cc7ab5e2da63c3e8.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/94d/140_140_0/94db06a063bdd0b9eb5ef1b55ba4a153.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1165,00",
-                "max": "1345,00"
-            },
-            "headrest_height": {
-                "min": "180,00",
-                "max": "240,00"
-            },
-            "seat_to_floor_height": {
-                "min": "460,00",
-                "max": "580,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "170,00",
-                "max": "240,00"
-            },
-            "chair_depth": {
-                "min": "670,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "470,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "580,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "460",
-                "max": "580"
-            },
-            "seat_width_with_armrests": {
-                "min": "650,00",
-                "max": "720,00"
-            },
-            "seat_width": {
-                "max": "490,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "700,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "460",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "700",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "350,00",
-                "max": "470,00"
-            },
-            "armrest_height_from_floor": {
-                "min": "290,00",
-                "max": "360,00"
-            },
-            "armrest_width_support": {
-                "max": "90,00"
-            },
-            "armrest_length_support": {
-                "max": "230,00"
-            },
-            "seat_depth_km": {
-                "max": "460,00"
-            },
-            "backrest_height_external": {
-                "max": "630,00"
-            },
-            "backrest_width_narrow": {
-                "max": "390,00"
-            },
-            "backrest_width_wide": {
-                "max": "460,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "немонолитный",
-            "minpromtorg": "120",
-            "netto": "18,80",
-            "brutto": "18,8",
-            "package_width": {},
-            "package_depth": {},
-            "package_height": {},
-            "volume": "0,00",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "немонолитный"
-        }
-    ],
-    "lost": [
-        {
-            "clean": true,
-            "limit": false
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5005",
-        "IE_NAME": "UTFC Профи М-900 с подголовником серый пластик",
-        "IE_PREVIEW_TEXT": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
-        "IE_DETAIL_TEXT": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
-        "IP_PROP2": 650,
-        "IP_PROP3": "1165-1345",
-        "IP_PROP4": 670,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fa/qdf97ge5dvy3s8ps9ss0mvfg9nw10ffe.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/302/0ud3m26obuhhzm7jx5a0656lv2ubysma.webp",
-        "IP_PROP5": 730,
-        "IP_PROP26": 640,
-        "IP_PROP27": 320,
-        "IP_PROP28": 21,
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,15",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "profi_grey",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6b/f6bf6c5f095a959ee72a528a90a5c4d7.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_700_al",
-        "IP_PROP42": "pl_3d_grey",
-        "IP_PROP43": "gl_260_4_bl",
-        "IP_PROP44": "m_epron",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_60_o_pu",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 18666,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 19226,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 18666,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 27372,
-            "IE_NAME": "Кресло UTFC Профи М-900 с подголовником серый пластик (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 8418,
-            "IP_PROP34": "p_5005",
-            "IP_PROP35": "КИПрофи02",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_23",
-            "IP_PROP38": "lf_604_12",
-            "IP_PROP39": "m_24",
-            "IP_PROP40": "lf_2029_12",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 197,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": 1,
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 18666,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 19226,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 18666,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Современное кресло-трансформер для работы за компьютером UTFC Профи М-900 с подголовником серый пластик производства компании UTFC",
-    "base_name": "Кресло UTFC Профи М-900 с подголовником серый пластик",
-    "article_number": "КИПрофи02",
-    "full_describe": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/profi_grey/",
-    "Основание": "Пятилучье алюминиевое с узкими лучами d=700 мм",
-    "Подлокотники": "3D-подлокотник с полиуретановой накладкой регулируется по высоте и ширине, накладка  регулируется по расположению относительно сидения.",
-    "Газлифт": "Газ-лифт 4 категории по стандарту Germany DIN 4550, h=260 мм, длина штока 120 мм., черный",
-    "Механизм": "Синхронный механизм Epron обеспечивает регулировку наклона и фиксации спинки в 5 положениях,  регулировку сидения по глубине в 7 положениях, регулировку кресла по  высоте.",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Сетка LF",
-        "-"
-    ],
-    "color": [
-        "Сетка LF 604-12 (серый)"
-    ],
-    "variant_name": [
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый))",
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый))",
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый), Ткань LF, Ткань LF 2029-12 (темно-серый))",
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый), -, Ткань LF 2029-12 (темно-серый))",
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый), Ткань LF, Ткань LF 2029-12 (темно-серый))",
-        "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый), -, Ткань LF 2029-12 (темно-серый))"
-    ],
-    "finish_type_seat": [
-        "Ткань LF",
-        "-"
-    ],
-    "color_seat": [
-        "Ткань LF 2029-12 (темно-серый)"
+  "namefile": [
+    "Профи м-900 grey pch"
+  ],
+  "name_all": [
+    "Профи BLACK PPL",
+    "Профи GREY PCH"
+  ],
+  "name": [
+    "Профи GREY PCH"
+  ],
+  "unique_name": [
+    "Профи М-900 grey pch"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья:<br>ткань-сетка (LF)<br>\n- цвет материала и пластика - по каталогу"
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Подголовник</strong> - пластиковый с мягкой накладкой из ППУ, регулируется по высоте. Крепится к каркасу спинки 2-мя винтами",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка пластиковая, регулируется по высоте",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан), чехла пластикового и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: ткань-сетка (LF)",
+        "<strong>Подлокотники</strong> - пластиковые с мягкой накладкой из ППУ, регулируются по высоте, ширине и выдвигаются вперед. Крепятся к основанию сиденья с помощью винтов. Механизм слайдер с возвратом на пружине позволяет регулировать высоту и глубину сиденья с фиксацией в 7-ми положениях, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в 5-ти положениях",
+        "<strong>Газ-лифт</strong> с высотой подъема 120 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+        "<strong>Пятилучье</strong> пластиковое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> пластиковые d=60 мм с полиуретановым покрытием имеют узкий шток"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 730,
+          "depth": 320,
+          "height": 640
+        },
+        "box_size": "730х320х640",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "19,00",
+      "volume": "0,00"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/profi_m_900_ch_p_grey_01.png",
+      "chair_view": "img/armchair_comfort/profi_m_900_ch_p_grey_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/profi_m_900_ch_p_grey_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/94d/94db06a063bdd0b9eb5ef1b55ba4a153.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/611/140_140_0/61170bd3e5b6bef54298ae8688d24297.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6e0/6e0113b0abd9fee5d2f3828e3468628d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/412/412effd463286cca36b4bbcf38aa2997.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b31/b31a520933ffde9a36cdc57ecfeedb13.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f6b/140_140_0/f6bf6c5f095a959ee72a528a90a5c4d7.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6b/f6bf6c5f095a959ee72a528a90a5c4d7.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/e12/140_140_0/e122124f1f1c6c59edee4481b99fa7fa.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/94f/94f1b18a374f22f320699e10cd53b516.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/328/328e7208a375d233b21a78c36b345814.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/302/0ud3m26obuhhzm7jx5a0656lv2ubysma.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/f35/f3515d176bda7abff8558ec9c3997543.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e12/e122124f1f1c6c59edee4481b99fa7fa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fa/qdf97ge5dvy3s8ps9ss0mvfg9nw10ffe.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/b31/140_140_0/b31a520933ffde9a36cdc57ecfeedb13.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/611/61170bd3e5b6bef54298ae8688d24297.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/57b/57b9a32beb688e80cc7ab5e2da63c3e8.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/94d/140_140_0/94db06a063bdd0b9eb5ef1b55ba4a153.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1165",
+        "max": "1345"
+      },
+      "headrest_height": {
+        "min": "180",
+        "max": "240"
+      },
+      "seat_to_floor_height": {
+        "min": "460",
+        "max": "580"
+      },
+      "armrest_height_from_seat": {
+        "min": "170",
+        "max": "240"
+      },
+      "chair_depth": {
+        "min": "670",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "470",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "580",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "460",
+        "max": "580"
+      },
+      "seat_width_with_armrests": {
+        "min": "650",
+        "max": "720"
+      },
+      "seat_width": {
+        "max": "490",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "700",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "700",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "350",
+        "max": "470"
+      },
+      "armrest_height_from_floor": {
+        "min": "290",
+        "max": "360"
+      },
+      "armrest_width_support": {
+        "max": "90"
+      },
+      "armrest_length_support": {
+        "max": "230"
+      },
+      "seat_depth_km": {
+        "max": "460"
+      },
+      "backrest_height_external": {
+        "max": "630"
+      },
+      "backrest_width_narrow": {
+        "max": "390"
+      },
+      "backrest_width_wide": {
+        "max": "460"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "120",
+      "netto": "19",
+      "brutto": "18,8",
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "немонолитный"
+    }
+  ],
+  "lost": [
+    {
+      "clean": true,
+      "limit": false
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5005",
+    "IE_NAME": "UTFC Профи М-900 с подголовником серый пластик",
+    "IE_PREVIEW_TEXT": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
+    "IE_DETAIL_TEXT": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
+    "IP_PROP2": 650,
+    "IP_PROP3": "1165-1345",
+    "IP_PROP4": 670,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5fa/qdf97ge5dvy3s8ps9ss0mvfg9nw10ffe.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/302/0ud3m26obuhhzm7jx5a0656lv2ubysma.webp",
+    "IP_PROP5": 730,
+    "IP_PROP26": 640,
+    "IP_PROP27": 320,
+    "IP_PROP28": 21,
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,15",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "profi_grey",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f6b/f6bf6c5f095a959ee72a528a90a5c4d7.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_700_al",
+    "IP_PROP42": "pl_3d_grey",
+    "IP_PROP43": "gl_260_4_bl",
+    "IP_PROP44": "m_epron",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 18666,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 19226,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 18666,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 27372,
+      "IE_NAME": "Кресло UTFC Профи М-900 с подголовником серый пластик (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 8418,
+      "IP_PROP34": "p_5005",
+      "IP_PROP35": "КИПрофи02",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_23",
+      "IP_PROP38": "lf_604_12",
+      "IP_PROP39": "m_24",
+      "IP_PROP40": "lf_2029_12",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 197,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 18666,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 19226,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 18666,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Современное кресло-трансформер для работы за компьютером UTFC Профи М-900 с подголовником серый пластик производства компании UTFC",
+  "base_name": "Кресло UTFC Профи М-900 с подголовником серый пластик",
+  "article_number": "КИПрофи02",
+  "full_describe": "Основная особенность кресла - регулируемая пластиковая поясничная поддержка и регулируемые по высоте и ширине подлокотники. Спинка обтянута прочной корейской сеткой, сиденье обито нейлоновой тканью, пенополиуретан высокой плотности. Подголовник обеспечивает удобное положение головы. Сиденье регулируется по глубине.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/profi_grey/",
+  "Основание": "Пятилучье алюминиевое с узкими лучами d=700 мм",
+  "Подлокотники": "3D-подлокотник с полиуретановой накладкой регулируется по высоте и ширине, накладка  регулируется по расположению относительно сидения.",
+  "Газлифт": "Газ-лифт 4 категории по стандарту Germany DIN 4550, h=260 мм, длина штока 120 мм., черный",
+  "Механизм": "Синхронный механизм Epron обеспечивает регулировку наклона и фиксации спинки в 5 положениях,  регулировку сидения по глубине в 7 положениях, регулировку кресла по  высоте.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Сетка LF",
+    "-"
+  ],
+  "color": [
+    "Сетка LF 604-12 (серый)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый))",
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый))",
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый), Ткань LF, Ткань LF 2029-12 (темно-серый))",
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (Сетка LF, Сетка LF 604-12 (серый), -, Ткань LF 2029-12 (темно-серый))",
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый), Ткань LF, Ткань LF 2029-12 (темно-серый))",
+    "Кресло UTFC Профи М-900 с подголовником серый пластик (-, Сетка LF 604-12 (серый), -, Ткань LF 2029-12 (темно-серый))"
+  ],
+  "finish_type_seat": [
+    "Ткань LF",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань LF 2029-12 (темно-серый)"
+  ]
 }

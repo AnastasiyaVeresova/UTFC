@@ -1,370 +1,370 @@
 {
-    "namefile": [
-        "Epik к-430-ch"
-    ],
-    "name_all": [
-        "EPIK K-430"
-    ],
-    "name": [
-        "EPIK K-430"
-    ],
-    "unique_name": [
-        "EPIK K-430-CH"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "конференц-кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "-  материал  облицовки  спинки,  сиденья  и  накладок  подлокотников:<br>\nэкокожа<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "спинки, сиденья, 2-х накладок подлокотников, металлического каркаса и 4-х пластиковых опор",
-                "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
-                "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
-                "<strong>Облицовка спинки и сиденья</strong>: экокожа",
-                "<strong>Накладки подлокотников</strong> состоят из основания и обивочного элемента",
-                "<strong>Каркас</strong> металлический, хромированный. На опорную поверхность каркаса устанавливаются опоры (4 шт.)",
-                "<strong>Опоры</strong> - пластиковые из материалов согласно технологии поставщика комплектующих"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "700",
-                    "depth": "710",
-                    "height": "660"
-                },
-                "box_size": "700х710х660",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "20,70",
-            "netto": "16,70",
-            "volume": "0,33"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_epik/epik_k_430_ch_169_01.png",
-            "chair_view": "img/armchair_epik/epik_k_430_ch_169_02.png",
-            "dimensions": "img/armchair_epik/dimensions/epik_k_430_ch_169_01.png",
-            "box": "img/box_epik.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/147/tvyiqdf63wwfka1uytmfco7y1hf0vbmu.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8df/xb4ln36thk88vb34u6bzfmxm45gn7qu0.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7f0/4kxcf5amrhguxcdl1l0e396s72idwagt.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c73/ro90rllsoz19mmj0t61e8wgbui6ypbhw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f42/0v19whpqbssllnhi0933aqg5sahsx1gp.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d59/3llie872o66divhhp21gw5bm062g0ntz.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
-                "https://utfc.ru/upload/resize_cache/iblock/99a/140_140_0/8z32w98dri2zj2vnd2flyc5ogreguou2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/8df/140_140_0/xb4ln36thk88vb34u6bzfmxm45gn7qu0.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f42/140_140_0/0v19whpqbssllnhi0933aqg5sahsx1gp.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99a/8z32w98dri2zj2vnd2flyc5ogreguou2.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/87f/liyrp7gr04pb2pb7ysljz2ru0l8kf9wp.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/7f0/140_140_0/4kxcf5amrhguxcdl1l0e396s72idwagt.png",
-                "https://utfc.ru/upload/resize_cache/iblock/c73/140_140_0/ro90rllsoz19mmj0t61e8wgbui6ypbhw.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/7qmg5nbklek3yeugxm6hvwgj3nveq0u3.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1070,00",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "480,00",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "200,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "660,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "480,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "615,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "500",
-                "max": "615"
-            },
-            "seat_width_with_armrests": {
-                "min": "590,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "510,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "475",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "590,00",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "600,00",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "480"
-            },
-            "armrest_height_from_floor": {
-                "min": "270,00"
-            },
-            "armrest_width_support": {
-                "max": "45,00"
-            },
-            "armrest_length_support": {
-                "max": "270,00"
-            },
-            "seat_depth_km": {
-                "max": "500,00"
-            },
-            "backrest_height_external": {
-                "max": "680,00"
-            },
-            "backrest_width_narrow": {
-                "max": "475,00"
-            },
-            "backrest_width_wide": {
-                "max": "500,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "монолитный",
-            "minpromtorg": "120",
-            "netto": "16,70",
-            "brutto": "20,70",
-            "package_width": "700,00",
-            "package_depth": "710,00",
-            "package_height": "660,00",
-            "volume": "0,33",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "монолитный"
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1017",
-        "IE_NAME": "EPIK К-430-СН",
-        "IE_PREVIEW_TEXT": "Кресло EPIK К430 — воплощение стиля и качества. Обивка из экокожи премиум-класса обеспечивает невероятную мягкость, а хромированные подлокотники со вставками из экокожи придают современный вид. Благодаря поддержке спины и оригинальному дизайну кресло обеспечивает комфорт. EPIK К430 станет прекрасным дополнением к линейке офисных кресел EPIK А155 и А130.",
-        "IE_DETAIL_TEXT": "",
-        "IP_PROP2": 590,
-        "IP_PROP3": 1070,
-        "IP_PROP4": 660,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d59/3llie872o66divhhp21gw5bm062g0ntz.webp",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/147/tvyiqdf63wwfka1uytmfco7y1hf0vbmu.webp",
-        "IP_PROP5": 700,
-        "IP_PROP26": 660,
-        "IP_PROP27": 710,
-        "IP_PROP28": "20,7",
-        "IP_PROP29": "Гофрокартон (1шт/уп или 2шт/уп)",
-        "IP_PROP30": "0,33",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "EPIK_K430CH",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/0be/kj51t6cm9gfzl7gc2hcojfznf9uf81ob.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pol_k430ch",
-        "IP_PROP42": "",
-        "IP_PROP43": "",
-        "IP_PROP44": "",
-        "IP_PROP45": "",
-        "IP_PROP46": "",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "ЭПИК",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 14450,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 14884,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 14450,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50098,
-            "IE_NAME": "Кресло EPIK К-430-CH (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/799/0wjc2s5n5gl4x0xsix4b2k7erwhwwjp4.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/166/05d4e7f4zu3bkdfnox4lezqzheuxwbo4.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12040,
-            "IP_PROP34": "a_1017",
-            "IP_PROP35": "ТК-00034",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7f0/4kxcf5amrhguxcdl1l0e396s72idwagt.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c73/ro90rllsoz19mmj0t61e8wgbui6ypbhw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8df/xb4ln36thk88vb34u6bzfmxm45gn7qu0.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f42/0v19whpqbssllnhi0933aqg5sahsx1gp.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99a/8z32w98dri2zj2vnd2flyc5ogreguou2.webp"
-            ],
-            "IP_PROP37": "m_46",
-            "IP_PROP38": "k400_169",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 64,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 14450,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 14884,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 14450,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Новинка: офисное кресло EPIK К-430-СН производства компании UTFC",
-    "base_name": "Кресло EPIK К-430-СН",
-    "article_number": "ТК-00034",
-    "full_describe": "Кресло EPIK К430 — воплощение стиля и качества. Обивка из экокожи премиум-класса обеспечивает невероятную мягкость, а хромированные подлокотники со вставками из экокожи придают современный вид. Благодаря поддержке спины и оригинальному дизайну кресло обеспечивает комфорт. EPIK К430 станет прекрасным дополнением к линейке офисных кресел EPIK А155 и А130.",
-    "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_k430ch/",
-    "Основание": "Полозья хромированные К-430-СН с накладками из экокожи",
-    "Подлокотники": "",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "finish_type": [
-        "Экокожа К-400",
-        "-"
-    ],
-    "color": [
-        "Экокожа К-400 (черный)"
-    ],
-    "variant_name": [
-        "Кресло EPIK К-430-СН (Экокожа К-400, Экокожа К-400 (черный))",
-        "Кресло EPIK К-430-СН (-, Экокожа К-400 (черный))",
-        "Кресло EPIK К-430-СН (Экокожа К-400, Экокожа К-400 (черный),, )",
-        "Кресло EPIK К-430-СН (-, Экокожа К-400 (черный),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Epik к-430-ch"
+  ],
+  "name_all": [
+    "EPIK K-430"
+  ],
+  "name": [
+    "EPIK K-430"
+  ],
+  "unique_name": [
+    "EPIK K-430-CH"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "конференц-кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "-  материал  облицовки  спинки,  сиденья  и  накладок  подлокотников:<br>\nэкокожа<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, 2-х накладок подлокотников, металлического каркаса и 4-х пластиковых опор",
+        "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+        "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+        "<strong>Накладки подлокотников</strong> состоят из основания и обивочного элемента",
+        "<strong>Каркас</strong> металлический, хромированный. На опорную поверхность каркаса устанавливаются опоры (4 шт.)",
+        "<strong>Опоры</strong> - пластиковые из материалов согласно технологии поставщика комплектующих"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "700",
+          "depth": "710",
+          "height": "660"
+        },
+        "box_size": "700х710х660",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде<br>Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "21,00",
+      "netto": "17,00",
+      "volume": "0,33"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_epik/epik_k_430_ch_169_01.png",
+      "chair_view": "img/armchair_epik/epik_k_430_ch_169_02.png",
+      "dimensions": "img/armchair_epik/dimensions/epik_k_430_ch_169_01.png",
+      "box": "img/box_epik.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/147/tvyiqdf63wwfka1uytmfco7y1hf0vbmu.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8df/xb4ln36thk88vb34u6bzfmxm45gn7qu0.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7f0/4kxcf5amrhguxcdl1l0e396s72idwagt.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c73/ro90rllsoz19mmj0t61e8wgbui6ypbhw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f42/0v19whpqbssllnhi0933aqg5sahsx1gp.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d59/3llie872o66divhhp21gw5bm062g0ntz.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/05a/400_400_0/at6f3rz3x9fsif60n9sz86x9oyt6plij.png",
+        "https://utfc.ru/upload/resize_cache/iblock/99a/140_140_0/8z32w98dri2zj2vnd2flyc5ogreguou2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/8df/140_140_0/xb4ln36thk88vb34u6bzfmxm45gn7qu0.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f42/140_140_0/0v19whpqbssllnhi0933aqg5sahsx1gp.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99a/8z32w98dri2zj2vnd2flyc5ogreguou2.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/87f/liyrp7gr04pb2pb7ysljz2ru0l8kf9wp.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/c84/400_400_0/5j7pb7jy9h2po3oszcjzqqhu2n5al249.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7f0/140_140_0/4kxcf5amrhguxcdl1l0e396s72idwagt.png",
+        "https://utfc.ru/upload/resize_cache/iblock/c73/140_140_0/ro90rllsoz19mmj0t61e8wgbui6ypbhw.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/7qmg5nbklek3yeugxm6hvwgj3nveq0u3.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/resize_cache/iblock/627/400_400_0/zk31mg1n7mb6i9gifc2n9zyfs001tqam.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1070",
+        "max": ""
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "200",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "660",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "480",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "615",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "500",
+        "max": "615"
+      },
+      "seat_width_with_armrests": {
+        "min": "590",
+        "max": null
+      },
+      "seat_width": {
+        "max": "510",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "475",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "590",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "600",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "480"
+      },
+      "armrest_height_from_floor": {
+        "min": "270"
+      },
+      "armrest_width_support": {
+        "max": "45"
+      },
+      "armrest_length_support": {
+        "max": "270"
+      },
+      "seat_depth_km": {
+        "max": "500"
+      },
+      "backrest_height_external": {
+        "max": "680"
+      },
+      "backrest_width_narrow": {
+        "max": "475"
+      },
+      "backrest_width_wide": {
+        "max": "500"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "120",
+      "netto": "17",
+      "brutto": "21",
+      "package_width": "700",
+      "package_depth": "710",
+      "package_height": "660",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1017",
+    "IE_NAME": "EPIK К-430-СН",
+    "IE_PREVIEW_TEXT": "Кресло EPIK К430 — воплощение стиля и качества. Обивка из экокожи премиум-класса обеспечивает невероятную мягкость, а хромированные подлокотники со вставками из экокожи придают современный вид. Благодаря поддержке спины и оригинальному дизайну кресло обеспечивает комфорт. EPIK К430 станет прекрасным дополнением к линейке офисных кресел EPIK А155 и А130.",
+    "IE_DETAIL_TEXT": "",
+    "IP_PROP2": 590,
+    "IP_PROP3": 1070,
+    "IP_PROP4": 660,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d59/3llie872o66divhhp21gw5bm062g0ntz.webp",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/147/tvyiqdf63wwfka1uytmfco7y1hf0vbmu.webp",
+    "IP_PROP5": 700,
+    "IP_PROP26": 660,
+    "IP_PROP27": 710,
+    "IP_PROP28": "20,7",
+    "IP_PROP29": "Гофрокартон (1шт/уп или 2шт/уп)",
+    "IP_PROP30": "0,33",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "EPIK_K430CH",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/0be/kj51t6cm9gfzl7gc2hcojfznf9uf81ob.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pol_k430ch",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "ЭПИК",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 14450,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 14884,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 14450,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50098,
+      "IE_NAME": "Кресло EPIK К-430-CH (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/799/0wjc2s5n5gl4x0xsix4b2k7erwhwwjp4.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/166/05d4e7f4zu3bkdfnox4lezqzheuxwbo4.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12040,
+      "IP_PROP34": "a_1017",
+      "IP_PROP35": "ТК-00034",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7f0/4kxcf5amrhguxcdl1l0e396s72idwagt.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c73/ro90rllsoz19mmj0t61e8wgbui6ypbhw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8df/xb4ln36thk88vb34u6bzfmxm45gn7qu0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f42/0v19whpqbssllnhi0933aqg5sahsx1gp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99a/8z32w98dri2zj2vnd2flyc5ogreguou2.webp"
+      ],
+      "IP_PROP37": "m_46",
+      "IP_PROP38": "k400_169",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 64,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 14450,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 14884,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 14450,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Новинка: офисное кресло EPIK К-430-СН производства компании UTFC",
+  "base_name": "Кресло EPIK К-430-СН",
+  "article_number": "ТК-00034",
+  "full_describe": "Кресло EPIK К430 — воплощение стиля и качества. Обивка из экокожи премиум-класса обеспечивает невероятную мягкость, а хромированные подлокотники со вставками из экокожи придают современный вид. Благодаря поддержке спины и оригинальному дизайну кресло обеспечивает комфорт. EPIK К430 станет прекрасным дополнением к линейке офисных кресел EPIK А155 и А130.",
+  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_k430ch/",
+  "Основание": "Полозья хромированные К-430-СН с накладками из экокожи",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Экокожа К-400",
+    "-"
+  ],
+  "color": [
+    "Экокожа К-400 (черный)"
+  ],
+  "variant_name": [
+    "Кресло EPIK К-430-СН (Экокожа К-400, Экокожа К-400 (черный))",
+    "Кресло EPIK К-430-СН (-, Экокожа К-400 (черный))",
+    "Кресло EPIK К-430-СН (Экокожа К-400, Экокожа К-400 (черный),, )",
+    "Кресло EPIK К-430-СН (-, Экокожа К-400 (черный),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

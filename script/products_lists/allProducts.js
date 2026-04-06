@@ -710,6 +710,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Кора ch",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Кремона 4к",
     "category": "chair_visitors",
     "is_archive": false

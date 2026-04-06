@@ -1,432 +1,432 @@
 {
-    "namefile": [
-        "Рекорд м-878 чёрный пластик"
-    ],
-    "name": [
-        "Рекорд черный пластик"
-    ],
-    "unique_name": [
-        "Рекорд М-878 чёрный пластик"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях<br>\nБлагодаря спинке, выполненной из сетчатой ткани, кресло имеет оригинальный современный вид<br>Возможность индивидуальной адаптации кресла под конкретного человека обеспечивает комфортное положение во время работы<br>Кресло имеет мягкое сиденье, оснащено механизмом качания Топ-Ган"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [],
-            "components": [
-                "спинки, сиденья, механизма качания Топ-Ган, газ-лифта, пятилучья, 5-ти роликов и 2-х подлокотников",
-                "<strong>Спинка</strong> состоит из пластикового каркаса черного цвета и обивочного элемента. Облицовка - ткань-сетка черного цвета. Спинка крепится к основанию сиденья с помощью подлокотников",
-                "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента. Основание изготовлено из гнуто-клееной фанеры. На основании крепятся гайки мебельные для установки спинки, механизма качания и подлокотников. Вкладыш сиденья - пенополиуретановый, жесткость - 40, плотность - 22 кг/м<sup>3</sup>. Облицовка сиденья — ткань черного цвета",
-                "<strong>Подлокотники</strong> черные пластиковые крепятся к основанию сиденья с помощью 4-х винтов и к каркасу спинки 2-мя винтами. На подлокотниках имеются мягкие тканевые накладки",
-                "Каркас спинки, подлокотники, пятилучье - пластиковые из материалов согласно технологии поставщика комплектующих",
-                "<strong>Механизм качания</strong> Топ-ган позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении. Механизм качания крепится к основанию сиденья 4-мя винтами",
-                "<strong>Газ-лифт</strong> черный пластик с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> пластиковое d=640 мм с узкими лучами черного цвета с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> d=50 мм пластиковые с черным полиуретановым покрытием, имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 740,
-                    "depth": 280,
-                    "height": 600
-                },
-                "box_size": "740х280х600",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "11,80",
-            "volume": "0,00"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/rekord_m_878_pl_bl_01.png",
-            "chair_view": "img/armchair_comfort/rekord_m_878_pl_bl_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/rekord_m_878_pl_bl_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d68/z2j72evu4xxwvaqiaoq4f7jz1aosvpzr.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/d10/140_140_0/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.png",
-                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ffd/0l9pdzue4gubhy84vec0ha77ks3t33qx.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fc9/8labenyfdtoinnddpt8e7j3b39w6coaa.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d10/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a2d/c9x9ifflos2nn19xp11pd664idg34noq.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/d68/140_140_0/z2j72evu4xxwvaqiaoq4f7jz1aosvpzr.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eff/98j2278fm6fz2pm5ei1d8y5msbazmw1g.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://utfc.ru/upload/resize_cache/iblock/02b/140_140_0/9tqnz9c7dhsy0b15ocv845meirp4pmwa.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d4b/evxs8y05pzzz165c5lywv0h71126h4a0.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4f0/i9wtgzt61yyfk9u72k7tt6eczcp263pw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/14b/8osq9wpxvxviy1zlok7ocawn2rv09vxj.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/02b/9tqnz9c7dhsy0b15ocv845meirp4pmwa.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5c8/4ehhjzi5uvu37nwy4gk1p5rmtw2qlhfm.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/2b6/qtqp40bgaoo8up78rjsx7bdvy2gn6bs9.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7e2/nlthodbvw6x4wxwj05xvqyfc6t2vjt6c.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/eff/140_140_0/98j2278fm6fz2pm5ei1d8y5msbazmw1g.png",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a85/9wxedtzcv5ad21g7znf8wfybxvwwfewh.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/4f0/140_140_0/i9wtgzt61yyfk9u72k7tt6eczcp263pw.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1140,00",
-                "max": "1240,00"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "450,00",
-                "max": "550,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "210,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "650,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "450,00",
-                "max": ""
-            },
-            "backrest_height": {
-                "max": "710,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "",
-                "max": "710"
-            },
-            "seat_width_with_armrests": {
-                "min": "590,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "500,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "640,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "465",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "640",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "360,00",
-                "max": "460,00"
-            },
-            "armrest_height_from_floor": {
-                "min": "290,00"
-            },
-            "armrest_width_support": {},
-            "armrest_length_support": {},
-            "seat_depth_km": {},
-            "backrest_height_external": {},
-            "backrest_width_narrow": {
-                "max": "450,00"
-            },
-            "backrest_width_wide": {
-                "max": "465,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "немонолитный",
-            "minpromtorg": "120",
-            "netto": "11,80",
-            "brutto": "11,8",
-            "package_width": {},
-            "package_depth": {},
-            "package_height": {},
-            "volume": "0,00",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "немонолитный"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5221",
-        "IE_NAME": "UTFC Рекорд М-878 черный пластик",
-        "IE_PREVIEW_TEXT": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сиденью. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя, так и для персонала.",
-        "IE_DETAIL_TEXT": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сидению. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя так и для персонала.",
-        "IP_PROP2": 590,
-        "IP_PROP3": "1140-1240",
-        "IP_PROP4": 650,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ffd/0l9pdzue4gubhy84vec0ha77ks3t33qx.webp",
-        "IP_PROP31": "https://utfc.ru/upload/iblock/a85/9wxedtzcv5ad21g7znf8wfybxvwwfewh.png",
-        "IP_PROP5": 740,
-        "IP_PROP26": 600,
-        "IP_PROP27": 280,
-        "IP_PROP28": "13,3",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,133",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "rekord_bl",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d10/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_640_ul_pl",
-        "IP_PROP42": "pl_rekord_bl",
-        "IP_PROP43": "gl_230",
-        "IP_PROP44": "m_tg",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_60_o_pu_bl",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 7350,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 7571,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 7350,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 30612,
-            "IE_NAME": "Кресло UTFC Рекорд М-878 черный пластик (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 11351,
-            "IP_PROP34": "p_5221",
-            "IP_PROP35": "ИКРекорд03",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_40",
-            "IP_PROP38": "ym99_21",
-            "IP_PROP39": "m_41",
-            "IP_PROP40": "os_300",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 456,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7350,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 7571,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 7350,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 30611,
-            "IE_NAME": "Кресло UTFC Рекорд М-878 черный пластик (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/06a/hfq3ri2qu0xy8hoen3euhzgznnjb4unx.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ed8/ssx9rg75ywkcxujj4osmenwdiet9akbr.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 11352,
-            "IP_PROP34": "p_5221",
-            "IP_PROP35": "ИКРекорд02",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/584/a2aknas34di470r299drz5j4b0aqqj9b.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/52c/bxf20w4nnomrygdo7m35kw4jsicz8pgh.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de2/8o3q25eefhl4brqj19lcw14mr35tvhqi.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/190/ytvxfwtnepl72x1ug8vn551jwt274thn.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/004/60wglvx7t20d1g7i869igrahwb63cjg6.webp"
-            ],
-            "IP_PROP37": "m_40",
-            "IP_PROP38": "ym99_20",
-            "IP_PROP39": "m_41",
-            "IP_PROP40": "os_309",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 124,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7350,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 7571,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 7350,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Компьютерное дизайнерское кресло с поддержкой поясницы UTFC Рекорд М-878 черный пластик производства компании UTFC",
-    "base_name": "Кресло UTFC Рекорд М-878 черный пластик",
-    "article_number": "ИКРекорд03",
-    "full_describe": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сиденью. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя, так и для персонала.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/rekord_bl/",
-    "Основание": "Пятилучье пластиковое с узкими лучами, d=640 мм",
-    "Подлокотники": "Нерегулируемые черные пластиковые подлокотники с мягкими накладками для кресла Рекорд",
-    "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
-    "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с черным полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Сетка YM99",
-        "-"
-    ],
-    "color": [
-        "Сетка YM99-20 (серый)",
-        "Сетка YM99-21 (черный)"
-    ],
-    "variant_name": [
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый))",
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый), Ткань OS, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый), -, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный), Ткань OS, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный), -, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый), Ткань OS, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый), -, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный), Ткань OS, Ткань OS-300 (черный))",
-        "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный), -, Ткань OS-300 (черный))"
-    ],
-    "finish_type_seat": [
-        "Ткань OS",
-        "-"
-    ],
-    "color_seat": [
-        "Ткань OS-300 (черный)"
+  "namefile": [
+    "Рекорд м-878 чёрный пластик"
+  ],
+  "name": [
+    "Рекорд черный пластик"
+  ],
+  "unique_name": [
+    "Рекорд М-878 чёрный пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях<br>\nБлагодаря спинке, выполненной из сетчатой ткани, кресло имеет оригинальный современный вид<br>Возможность индивидуальной адаптации кресла под конкретного человека обеспечивает комфортное положение во время работы<br>Кресло имеет мягкое сиденье, оснащено механизмом качания Топ-Ган"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [],
+      "components": [
+        "спинки, сиденья, механизма качания Топ-Ган, газ-лифта, пятилучья, 5-ти роликов и 2-х подлокотников",
+        "<strong>Спинка</strong> состоит из пластикового каркаса черного цвета и обивочного элемента. Облицовка - ткань-сетка черного цвета. Спинка крепится к основанию сиденья с помощью подлокотников",
+        "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента. Основание изготовлено из гнуто-клееной фанеры. На основании крепятся гайки мебельные для установки спинки, механизма качания и подлокотников. Вкладыш сиденья - пенополиуретановый, жесткость - 40, плотность - 22 кг/м<sup>3</sup>. Облицовка сиденья — ткань черного цвета",
+        "<strong>Подлокотники</strong> черные пластиковые крепятся к основанию сиденья с помощью 4-х винтов и к каркасу спинки 2-мя винтами. На подлокотниках имеются мягкие тканевые накладки",
+        "Каркас спинки, подлокотники, пятилучье - пластиковые из материалов согласно технологии поставщика комплектующих",
+        "<strong>Механизм качания</strong> Топ-ган позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении. Механизм качания крепится к основанию сиденья 4-мя винтами",
+        "<strong>Газ-лифт</strong> черный пластик с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=640 мм с узкими лучами черного цвета с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=50 мм пластиковые с черным полиуретановым покрытием, имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 740,
+          "depth": 280,
+          "height": 600
+        },
+        "box_size": "740х280х600",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "12,00",
+      "volume": "0,00"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/rekord_m_878_pl_bl_01.png",
+      "chair_view": "img/armchair_comfort/rekord_m_878_pl_bl_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/rekord_m_878_pl_bl_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d68/z2j72evu4xxwvaqiaoq4f7jz1aosvpzr.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/d10/140_140_0/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.png",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ffd/0l9pdzue4gubhy84vec0ha77ks3t33qx.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/fc9/8labenyfdtoinnddpt8e7j3b39w6coaa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d10/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a2d/c9x9ifflos2nn19xp11pd664idg34noq.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/d68/140_140_0/z2j72evu4xxwvaqiaoq4f7jz1aosvpzr.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/eff/98j2278fm6fz2pm5ei1d8y5msbazmw1g.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/02b/140_140_0/9tqnz9c7dhsy0b15ocv845meirp4pmwa.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/d4b/evxs8y05pzzz165c5lywv0h71126h4a0.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/4f0/i9wtgzt61yyfk9u72k7tt6eczcp263pw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/14b/8osq9wpxvxviy1zlok7ocawn2rv09vxj.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/02b/9tqnz9c7dhsy0b15ocv845meirp4pmwa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/5c8/4ehhjzi5uvu37nwy4gk1p5rmtw2qlhfm.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/2b6/qtqp40bgaoo8up78rjsx7bdvy2gn6bs9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/7e2/nlthodbvw6x4wxwj05xvqyfc6t2vjt6c.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/eff/140_140_0/98j2278fm6fz2pm5ei1d8y5msbazmw1g.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a85/9wxedtzcv5ad21g7znf8wfybxvwwfewh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4f0/140_140_0/i9wtgzt61yyfk9u72k7tt6eczcp263pw.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1140",
+        "max": "1240"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "450",
+        "max": "550"
+      },
+      "armrest_height_from_seat": {
+        "min": "210",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "650",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "450",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "710",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": "710"
+      },
+      "seat_width_with_armrests": {
+        "min": "590",
+        "max": null
+      },
+      "seat_width": {
+        "max": "500",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "640",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "465",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "640",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "360",
+        "max": "460"
+      },
+      "armrest_height_from_floor": {
+        "min": "290"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "450"
+      },
+      "backrest_width_wide": {
+        "max": "465"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "minpromtorg": "120",
+      "netto": "12",
+      "brutto": "11,8",
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "немонолитный"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5221",
+    "IE_NAME": "UTFC Рекорд М-878 черный пластик",
+    "IE_PREVIEW_TEXT": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сиденью. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя, так и для персонала.",
+    "IE_DETAIL_TEXT": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сидению. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя так и для персонала.",
+    "IP_PROP2": 590,
+    "IP_PROP3": "1140-1240",
+    "IP_PROP4": 650,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ffd/0l9pdzue4gubhy84vec0ha77ks3t33qx.webp",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/a85/9wxedtzcv5ad21g7znf8wfybxvwwfewh.png",
+    "IP_PROP5": 740,
+    "IP_PROP26": 600,
+    "IP_PROP27": 280,
+    "IP_PROP28": "13,3",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,133",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "rekord_bl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d10/r7jvp5vjp60qyv9wuqlrp0rkdkmq1fuc.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_640_ul_pl",
+    "IP_PROP42": "pl_rekord_bl",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tg",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu_bl",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 7350,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 7571,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 7350,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 30612,
+      "IE_NAME": "Кресло UTFC Рекорд М-878 черный пластик (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11351,
+      "IP_PROP34": "p_5221",
+      "IP_PROP35": "ИКРекорд03",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_40",
+      "IP_PROP38": "ym99_21",
+      "IP_PROP39": "m_41",
+      "IP_PROP40": "os_300",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 456,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7350,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 7571,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7350,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30611,
+      "IE_NAME": "Кресло UTFC Рекорд М-878 черный пластик (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/06a/hfq3ri2qu0xy8hoen3euhzgznnjb4unx.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ed8/ssx9rg75ywkcxujj4osmenwdiet9akbr.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11352,
+      "IP_PROP34": "p_5221",
+      "IP_PROP35": "ИКРекорд02",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/584/a2aknas34di470r299drz5j4b0aqqj9b.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/52c/bxf20w4nnomrygdo7m35kw4jsicz8pgh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de2/8o3q25eefhl4brqj19lcw14mr35tvhqi.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/190/ytvxfwtnepl72x1ug8vn551jwt274thn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/004/60wglvx7t20d1g7i869igrahwb63cjg6.webp"
+      ],
+      "IP_PROP37": "m_40",
+      "IP_PROP38": "ym99_20",
+      "IP_PROP39": "m_41",
+      "IP_PROP40": "os_309",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 124,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7350,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 7571,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7350,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Компьютерное дизайнерское кресло с поддержкой поясницы UTFC Рекорд М-878 черный пластик производства компании UTFC",
+  "base_name": "Кресло UTFC Рекорд М-878 черный пластик",
+  "article_number": "ИКРекорд03",
+  "full_describe": "Универсальное кресло обеспечивает максимальный комфорт благодаря высокой спинке, эргономика которой полностью повторяет изгиб тела, поясничной поддержке и глубокому сиденью. Широкие подлокотники являются частью каркаса. Кресло в стиле hi-tech отлично дополнит современный кабинет или коворкинг. Подходит как для руководителя, так и для персонала.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/rekord_bl/",
+  "Основание": "Пятилучье пластиковое с узкими лучами, d=640 мм",
+  "Подлокотники": "Нерегулируемые черные пластиковые подлокотники с мягкими накладками для кресла Рекорд",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Однопозиционный механизм качания Топ-Ган регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с черным полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Сетка YM99",
+    "-"
+  ],
+  "color": [
+    "Сетка YM99-20 (серый)",
+    "Сетка YM99-21 (черный)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый))",
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый), Ткань OS, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-20 (серый), -, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный), Ткань OS, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (Сетка YM99, Сетка YM99-21 (черный), -, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый), Ткань OS, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-20 (серый), -, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный), Ткань OS, Ткань OS-300 (черный))",
+    "Кресло UTFC Рекорд М-878 черный пластик (-, Сетка YM99-21 (черный), -, Ткань OS-300 (черный))"
+  ],
+  "finish_type_seat": [
+    "Ткань OS",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань OS-300 (черный)"
+  ]
 }

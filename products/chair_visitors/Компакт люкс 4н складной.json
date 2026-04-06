@@ -1,383 +1,383 @@
 {
-    "namefile": [
-        "Компакт люкс 4н складной"
-    ],
-    "name_all": [
-        "Компакт",
-        "Компакт Люкс",
-        "Компакт 4Н",
-        "Компакт Люкс 4Н"
-    ],
-    "name": [
-        "Компакт Люкс 4Н"
-    ],
-    "unique_name": [
-        "Компакт люкс 4н складной"
-    ],
-    "vid": [
-        "стул"
-    ],
-    "category": [
-        "стул складной"
-    ],
-    "destiny": [
-        "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягкими элементом спинки и сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Стул должен соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- тип покрытия каркаса стула:<br>\nBL, GR, где BL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "каркаса, спинки, сиденья, заглушек и крепежных элементов. Складной, нерегулируемый",
-                "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Состоит из спинки, опор, перекладины (стальная труба Ф22х1,1 мм) и пластин (лист толщиной 2 мм)",
-                "<strong>Покрытие каркаса</strong> - термореактивная порошковая краска, черного или серого цвета",
-                "<strong>Спинка</strong> - двойная: передняя состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки, задняя - из ДВП, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Соединение передней и задней спинки осуществляется 2-мя соединениями клипс",
-                "<strong>Сиденье</strong> состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу саморезами",
-                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)",
-                "Заглушки устанавливаются на ножки (4 шт.) и на торцы задних ножек (2 шт.)"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "гофрокороб",
-                "size": {
-                    "width": 1045,
-                    "depth": 290,
-                    "height": 500
-                },
-                "box_size": "1045х290х500",
-                "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1015х475х95 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "packaging_type": [
-                {
-                    "type": "individual",
-                    "brutto": "5,61",
-                    "netto": "",
-                    "volume": "0,046"
-                },
-                {
-                    "type": "box4",
-                    "brutto": "5,46",
-                    "netto": "4,94",
-                    "volume": "0,038"
-                }
-            ],
-            "volume": "0,05"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120,00",
-            "recommended_load": "90,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/chair_visitors/kompakt_lux_4h_bl_s0401_01.png",
-            "chair_view": "img/chair_visitors/kompakt_lux_4h_bl_s0401_02.png",
-            "dimensions": "img/chair_visitors/dimensions/kompakt_lux_4h_bl_s0401_01.png",
-            "box": "img/box_UTFC_4x.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a2/9megnzlanzzd0k8xco7oy85o7s95z9xv.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/346/3hlgogygdj6pynmxtskpm7wpobtvt571.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/7a2/140_140_0/9megnzlanzzd0k8xco7oy85o7s95z9xv.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ca6/afta383yr7jh4umkdo9rp4y43hko3oey.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
-                "https://utfc.ru/upload/resize_cache/iblock/7ab/140_140_0/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a11/kz1o18iqwa2pghqvyesk8woze8bjz250.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b0/ux3ihknygsgnrlzqygund0on58hlb51t.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/b19/140_140_0/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/766/766c72d058e3535b67624ec955aaa19d.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ab/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/8b0/140_140_0/ux3ihknygsgnrlzqygund0on58hlb51t.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b19/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/a05/140_140_0/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.png",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a05/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3a5/3a5d425d6688006b1768d11061e38317.webp"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "820,00",
-                "max": null
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "480,00",
-                "max": null
-            },
-            "armrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "500,00"
-            },
-            "seat_depth": {
-                "min": "390,00",
-                "max": null
-            },
-            "backrest_height": {
-                "min": "",
-                "max": "360,00"
-            },
-            "height_backrest_seat": {
-                "min": "",
-                "max": 370
-            },
-            "seat_width_with_armrests": {
-                "min": "145",
-                "max": ""
-            },
-            "seat_width": {
-                "max": "405,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "410",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "450,00",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "460,00",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "400,00"
-            },
-            "armrest_height_from_floor": {},
-            "armrest_height_from_seat": {},
-            "armrest_width_support": {},
-            "armrest_length_support": {},
-            "seat_depth_km": {
-                "max": "405,00"
-            },
-            "backrest_to_seat_height": {
-                "min": "405",
-                "max": "360"
-            },
-            "backrest_height_external": {
-                "max": "145,00"
-            },
-            "backrest_width_narrow": {
-                "max": "410,00"
-            },
-            "backrest_width_wide": {
-                "max": "410,00"
-            },
-            "recommended_load": "90,00",
-            "max_load": "120,00",
-            "skeleton": "складной",
-            "minpromtorg": "+",
-            "netto": "4,94",
-            "brutto": "5,46",
-            "package_width": "1015,00",
-            "package_depth": "475,00",
-            "package_height": "95,00",
-            "volume": "0,05",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "складной"
-        }
-    ],
-    "skeleton": "складной",
-    "minpromtorg": "+",
-    "addition": "",
-    "title": "Стул складной Компакт Люкс 4Н BL производства компании UTFC",
-    "base_name": "Стул складной Компакт Люкс 4Н BL",
-    "article_number": "НКС-00037",
-    "full_describe": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-    "Link_arm": "https://utfc.ru/catalog/pos_chair/kompakt_lux_4n_bl/",
-    "Основание": "Металлические опоры складного стула Компакт, защитно-декоративное порошковое покрытие черного цвета (BL)",
-    "Подлокотники": "Без подлокотников",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "finish_type": [
-        "Кожзаменитель Z",
-        "-"
-    ],
-    "color": [
-        "Кожзаменитель Z71 (серый)"
-    ],
-    "variant_name": [
-        "Стул складной Компакт Люкс 4Н BL (Кожзаменитель Z, Кожзаменитель Z71 (серый))",
-        "Стул складной Компакт Люкс 4Н BL (-, Кожзаменитель Z71 (серый))",
-        "Стул складной Компакт Люкс 4Н BL (Кожзаменитель Z, Кожзаменитель Z71 (серый),, )",
-        "Стул складной Компакт Люкс 4Н BL (-, Кожзаменитель Z71 (серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
-    ],
-    "parent": {
-        "IE_XML_ID": 13100,
-        "IE_NAME": "Стул складной Компакт Люкс 4Н BL",
-        "IE_PREVIEW_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-        "IE_DETAIL_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-        "IP_PROP2": 405,
-        "IP_PROP3": 820,
-        "IP_PROP4": 500,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/iblock/ca6/afta383yr7jh4umkdo9rp4y43hko3oey.png",
-        "IP_PROP31": "https://utfc.ru/upload/iblock/346/3hlgogygdj6pynmxtskpm7wpobtvt571.png",
-        "IP_PROP5": 1045,
-        "IP_PROP26": 500,
-        "IP_PROP27": 290,
-        "IP_PROP28": "5,46",
-        "IP_PROP29": "Гофрокартон (1шт/уп или 4шт/уп)",
-        "IP_PROP30": "",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "kompakt_lux_4n_bl",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/b34/63zwm21xzeq6e8k2rol81tujt8k834eb.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "op_compact_bl",
-        "IP_PROP42": "wo",
-        "IP_PROP43": "",
-        "IP_PROP44": "",
-        "IP_PROP45": "",
-        "IP_PROP46": "",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Стулья",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 1963,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 2022,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 1963,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 13103,
-            "IE_NAME": "Стул складной Компакт Люкс 4Н BL Z71 (серый) BOX4",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bd1/82umr45pzlnd1t20d3y6thwhwgl5cr6d.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5cc/austv6um6bh632ngd5inby1m3rynr7k7.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 13103,
-            "IP_PROP34": 13100,
-            "IP_PROP35": "НКС-00037",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a05/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b0/ux3ihknygsgnrlzqygund0on58hlb51t.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a2/9megnzlanzzd0k8xco7oy85o7s95z9xv.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b19/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ab/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.webp"
-            ],
-            "IP_PROP37": "m_02",
-            "IP_PROP38": "z_71",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "N",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 1963,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 2022,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 1963,
-            "CV_CURRENCY_3": "RUB"
-        }
+  "namefile": [
+    "Компакт люкс 4н складной"
+  ],
+  "name_all": [
+    "Компакт",
+    "Компакт Люкс",
+    "Компакт 4Н",
+    "Компакт Люкс 4Н"
+  ],
+  "name": [
+    "Компакт Люкс 4Н"
+  ],
+  "unique_name": [
+    "Компакт люкс 4н складной"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул складной"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягкими элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- тип покрытия каркаса стула:<br>\nBL, GR, где BL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "каркаса, спинки, сиденья, заглушек и крепежных элементов. Складной, нерегулируемый",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Состоит из спинки, опор, перекладины (стальная труба Ф22х1,1 мм) и пластин (лист толщиной 2 мм)",
+        "<strong>Покрытие каркаса</strong> - термореактивная порошковая краска, черного или серого цвета",
+        "<strong>Спинка</strong> - двойная: передняя состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки, задняя - из ДВП, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Соединение передней и задней спинки осуществляется 2-мя соединениями клипс",
+        "<strong>Сиденье</strong> состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу саморезами",
+        "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)",
+        "Заглушки устанавливаются на ножки (4 шт.) и на торцы задних ножек (2 шт.)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "гофрокороб",
+        "size": {
+          "width": 1045,
+          "depth": 290,
+          "height": 500
+        },
+        "box_size": "1045х290х500",
+        "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1015х475х95 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "packaging_type": [
+        {
+          "type": "individual",
+          "brutto": "5,61",
+          "netto": "",
+          "volume": "0,046"
+        },
+        {
+          "type": "box4",
+          "brutto": "5,46",
+          "netto": "4,94",
+          "volume": "0,038"
+        }
+      ],
+      "volume": "0,05"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/kompakt_lux_4h_bl_s0401_01.png",
+      "chair_view": "img/chair_visitors/kompakt_lux_4h_bl_s0401_02.png",
+      "dimensions": "img/chair_visitors/dimensions/kompakt_lux_4h_bl_s0401_01.png",
+      "box": "img/box_UTFC_4x.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a2/9megnzlanzzd0k8xco7oy85o7s95z9xv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/346/3hlgogygdj6pynmxtskpm7wpobtvt571.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7a2/140_140_0/9megnzlanzzd0k8xco7oy85o7s95z9xv.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ca6/afta383yr7jh4umkdo9rp4y43hko3oey.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7ab/140_140_0/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a11/kz1o18iqwa2pghqvyesk8woze8bjz250.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b0/ux3ihknygsgnrlzqygund0on58hlb51t.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/b19/140_140_0/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/766/766c72d058e3535b67624ec955aaa19d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ab/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/8b0/140_140_0/ux3ihknygsgnrlzqygund0on58hlb51t.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b19/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/a05/140_140_0/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a05/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3a5/3a5d425d6688006b1768d11061e38317.webp"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "820",
+        "max": null
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "480",
+        "max": null
+      },
+      "armrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "500"
+      },
+      "seat_depth": {
+        "min": "390",
+        "max": null
+      },
+      "backrest_height": {
+        "min": "",
+        "max": "360"
+      },
+      "height_backrest_seat": {
+        "min": "",
+        "max": 370
+      },
+      "seat_width_with_armrests": {
+        "min": "145",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "405",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "410",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "450",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "460",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "400"
+      },
+      "armrest_height_from_floor": {},
+      "armrest_height_from_seat": {},
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {
+        "max": "405"
+      },
+      "backrest_to_seat_height": {
+        "min": "405",
+        "max": "360"
+      },
+      "backrest_height_external": {
+        "max": "145"
+      },
+      "backrest_width_narrow": {
+        "max": "410"
+      },
+      "backrest_width_wide": {
+        "max": "410"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "складной",
+      "minpromtorg": "+",
+      "netto": "5",
+      "brutto": "5",
+      "package_width": "1015",
+      "package_depth": "475",
+      "package_height": "95",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "складной"
+    }
+  ],
+  "skeleton": "складной",
+  "minpromtorg": "+",
+  "addition": "",
+  "title": "Стул складной Компакт Люкс 4Н BL производства компании UTFC",
+  "base_name": "Стул складной Компакт Люкс 4Н BL",
+  "article_number": "НКС-00037",
+  "full_describe": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/kompakt_lux_4n_bl/",
+  "Основание": "Металлические опоры складного стула Компакт, защитно-декоративное порошковое покрытие черного цвета (BL)",
+  "Подлокотники": "Без подлокотников",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Кожзаменитель Z",
+    "-"
+  ],
+  "color": [
+    "Кожзаменитель Z71 (серый)"
+  ],
+  "variant_name": [
+    "Стул складной Компакт Люкс 4Н BL (Кожзаменитель Z, Кожзаменитель Z71 (серый))",
+    "Стул складной Компакт Люкс 4Н BL (-, Кожзаменитель Z71 (серый))",
+    "Стул складной Компакт Люкс 4Н BL (Кожзаменитель Z, Кожзаменитель Z71 (серый),, )",
+    "Стул складной Компакт Люкс 4Н BL (-, Кожзаменитель Z71 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "parent": {
+    "IE_XML_ID": 13100,
+    "IE_NAME": "Стул складной Компакт Люкс 4Н BL",
+    "IE_PREVIEW_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+    "IE_DETAIL_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+    "IP_PROP2": 405,
+    "IP_PROP3": 820,
+    "IP_PROP4": 500,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/ca6/afta383yr7jh4umkdo9rp4y43hko3oey.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/346/3hlgogygdj6pynmxtskpm7wpobtvt571.png",
+    "IP_PROP5": 1045,
+    "IP_PROP26": 500,
+    "IP_PROP27": 290,
+    "IP_PROP28": "5,46",
+    "IP_PROP29": "Гофрокартон (1шт/уп или 4шт/уп)",
+    "IP_PROP30": "",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "kompakt_lux_4n_bl",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/b34/63zwm21xzeq6e8k2rol81tujt8k834eb.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_compact_bl",
+    "IP_PROP42": "wo",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 1963,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 2022,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 1963,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 13103,
+      "IE_NAME": "Стул складной Компакт Люкс 4Н BL Z71 (серый) BOX4",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/bd1/82umr45pzlnd1t20d3y6thwhwgl5cr6d.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5cc/austv6um6bh632ngd5inby1m3rynr7k7.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13103,
+      "IP_PROP34": 13100,
+      "IP_PROP35": "НКС-00037",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a05/m1xgjw5qocg4q6bh8ka90gq7dhi2g8sw.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8b0/ux3ihknygsgnrlzqygund0on58hlb51t.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7a2/9megnzlanzzd0k8xco7oy85o7s95z9xv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b19/sqgjfoqpgqb04jzc8fq18akf56ugxvnl.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7ab/b3zkhknpod0y95mc3u6w0dk1ajrttg2q.webp"
+      ],
+      "IP_PROP37": "m_02",
+      "IP_PROP38": "z_71",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "N",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 1963,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 2022,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 1963,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ]
 }

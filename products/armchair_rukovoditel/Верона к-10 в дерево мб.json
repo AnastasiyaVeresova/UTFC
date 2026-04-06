@@ -1,398 +1,398 @@
 {
-    "namefile": [
-        "Верона к-10 в дерево мб"
-    ],
-    "name_all": [
-        "Верона В хром",
-        "Верона В дерево"
-    ],
-    "name": [
-        "Верона В дерево"
-    ],
-    "unique_name": [
-        "Верона К-10 В дерево МБ"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло руководителя"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки-сиденья и накладок подлокотников кресла:\nткань (Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "спинки-сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность - 25 кг/м<sup>3</sup>) и облицовки",
-                "<strong>Подлокотники</strong> - деревянные, крепятся к основанию спинки-сиденья с помощью винтов",
-                "<strong>Материал</strong> облицовки спинки-сиденья: ткань (Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
-                "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок»",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
-                "<strong>Пятилучье</strong> металлическое с деревянными накладками d=720 мм и 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> черные d=50 мм имеют открытый пластиковый чехол",
-                "Подлокотники и накладки на пятилучье изготовлены из массива натурального дерева, покрытого полиуретановым лаком"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "1100",
-                    "depth": "490",
-                    "height": "676"
-                },
-                "box_size": "1100х490х676",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "18,40",
-            "volume": "0,36"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "180,00",
-            "recommended_load": "150,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_rukovoditel/verona_v_mb_d8_s0422_01.png",
-            "chair_view": "img/armchair_rukovoditel/verona_v_mb_d8_s0422_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/verona_v_mb_d8_s0422_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/85d/85d77607d8ed74990babd8b4655559a7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e0b/e0b38c3c679d5641d8888de0226ae99c.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e8d/tyj30ol2z7odus7pa3cbbnejpryz2yz5.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/31c/140_140_0/31cf1d79dd4b0ee91fdbb680f402d6dd.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/887/887f848797a9b4515fd73fb395f253e6.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9d5/fee9hlv3vd1uqj59b28s3veav6g4e2w7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/resize_cache/iblock/a1a/140_140_0/a1af1f806207441e5c164365a1e585a6.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/84c/84cda0c6fa6d811aff30145b67862fe7.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/p38pdc6kyx25t23p8y3qgryp1iq6rvjn.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a1a/a1af1f806207441e5c164365a1e585a6.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/2ea/140_140_0/2ea7764ea8425b746205ca5e7ee5eee0.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a9a/a9a599b49fe68a354d10b77e0133c21d.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ea/2ea7764ea8425b746205ca5e7ee5eee0.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/e0b/140_140_0/e0b38c3c679d5641d8888de0226ae99c.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/887/140_140_0/887f848797a9b4515fd73fb395f253e6.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/31c/31cf1d79dd4b0ee91fdbb680f402d6dd.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e1f/1pyn3wt25fpwvzyubq4zdufrrj022p4n.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c4f/c4f448f96e2c6e1c3554574d8a9ce549.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/889/esy8p0widszgjogajtw5fs6uscxjmg33.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/135/anvcunpst4d4pqf3784c38bpsj1dbm6y.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/6e2/140_140_0/6390lct1oupxmrzo1je2v449l1dopwa8.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6e2/6390lct1oupxmrzo1je2v449l1dopwa8.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99d/0dbaa21qq616htyib65wcbro455qpmkg.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/99d/140_140_0/0dbaa21qq616htyib65wcbro455qpmkg.png",
-                "https://utfc.ru/upload/resize_cache/iblock/7bb/140_140_0/xowlb9yahnw1bhd35me81ycgu2j1wk3h.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/50a/50a9235dd5ed7aad0d31268fe4fefa0a.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/889/140_140_0/esy8p0widszgjogajtw5fs6uscxjmg33.png",
-                "https://utfc.ru/upload/resize_cache/iblock/135/140_140_0/anvcunpst4d4pqf3784c38bpsj1dbm6y.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b20/wr879w86g8hm2d55j87znsf4os0ixzsp.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7bb/xowlb9yahnw1bhd35me81ycgu2j1wk3h.webp",
-                "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1200,00",
-                "max": "1260,00"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "510,00",
-                "max": "570,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "205,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "700,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "545,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "700,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "530",
-                "max": "700"
-            },
-            "seat_width_with_armrests": {
-                "min": "625,00",
-                "max": ""
-            },
-            "seat_width": {
-                "max": "530,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "720,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "530",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "720",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "360",
-                "max": "460"
-            },
-            "armrest_height_from_floor": {
-                "min": "290,00"
-            },
-            "armrest_width_support": {
-                "max": "60,00"
-            },
-            "armrest_length_support": {
-                "max": "320,00"
-            },
-            "seat_depth_km": {
-                "max": "530,00"
-            },
-            "backrest_height_external": {
-                "max": "770,00"
-            },
-            "backrest_width_narrow": {
-                "max": "505,00"
-            },
-            "backrest_width_wide": {
-                "max": "530,00"
-            },
-            "recommended_load": "150,00",
-            "max_load": "180,00",
-            "skeleton": "монолитный",
-            "minpromtorg": "+",
-            "netto": "18,40",
-            "brutto": "18,4",
-            "package_width": "1100,00",
-            "package_depth": "490,00",
-            "package_height": "676,00",
-            "volume": "0,36",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "монолитный"
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1051",
-        "IE_NAME": "К-10 Верона В дерево МБ",
-        "IE_PREVIEW_TEXT": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
-        "IE_DETAIL_TEXT": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
-        "IP_PROP2": 625,
-        "IP_PROP3": "1200-1260",
-        "IP_PROP4": 700,
-        "IP_PROP6": "",
-        "IP_PROP19": 180,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://utfc.ru/upload/iblock/b20/wr879w86g8hm2d55j87znsf4os0ixzsp.png",
-        "IP_PROP31": "https://utfc.ru/upload/iblock/e1f/1pyn3wt25fpwvzyubq4zdufrrj022p4n.png",
-        "IP_PROP5": 1100,
-        "IP_PROP26": 676,
-        "IP_PROP27": 490,
-        "IP_PROP28": "22,9",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,364",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "verona_v_derevo_mb",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/281/1iuq4xvipin3mgzy273cdzs4b50u1n5e.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_720_d",
-        "IP_PROP42": "pl_derevo",
-        "IP_PROP43": "gl_sh_bl",
-        "IP_PROP44": "m_mul",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_50_c",
-        "IP_PROP47": "",
-        "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла для руководителя",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 17069,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 17582,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 17069,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50160,
-            "IE_NAME": "Кресло К-10 Верона В дерево D8 (темный орех) МБ S-0422 (темно-серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/48c/ivfopvpqoqflioazpirv4s1lgn1kt93k.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c69/mylasz1f5c4tkdemv36wsifs5tie20q0.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12191,
-            "IP_PROP34": "a_1051",
-            "IP_PROP35": "ДК-00443",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6e2/6390lct1oupxmrzo1je2v449l1dopwa8.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7bb/xowlb9yahnw1bhd35me81ycgu2j1wk3h.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99d/0dbaa21qq616htyib65wcbro455qpmkg.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/135/anvcunpst4d4pqf3784c38bpsj1dbm6y.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/889/esy8p0widszgjogajtw5fs6uscxjmg33.webp"
-            ],
-            "IP_PROP37": "m_11",
-            "IP_PROP38": "s_0422",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "d8",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 17069,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 17582,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 17069,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Качественное кресло руководителя К-10 Верона В дерево МБ производства компании UTFC",
-    "base_name": "Кресло К-10 Верона В дерево МБ",
-    "article_number": "ДК-00443",
-    "full_describe": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
-    "Link_arm": "https://utfc.ru/catalog/boss_chairs/verona_v_derevo_mb/",
-    "Основание": "Пятилучье с деревянными накладками d=720 мм",
-    "Подлокотники": "Подлокотники деревянные используются на все ДК в исполнении Дерево",
-    "Газлифт": "Газ-лифт суперкороткий черный",
-    "Механизм": "МБ — мультиблок — механизм качания с регулировкой под вес пользователя и фиксацией в вертикальном положении спинки и отклонении ее назад в 5 положениях. Жесткость хода свободного отклонения спинки назад регулируется пружинным блоком",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики, закрытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Натуральная кожа К",
-        "-",
-        "Экокожа Santorini"
-    ],
-    "color": [
-        "Натуральная кожа К01",
-        "Экокожа Santorini S0422 (темно-серый)"
-    ],
-    "variant_name": [
-        "Кресло К-10 Верона В дерево (Натуральная кожа К, Натуральная кожа К01)",
-        "Кресло К-10 Верона В дерево (-, Натуральная кожа К01)",
-        "Кресло К-10 Верона В дерево МБ (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый))",
-        "Кресло К-10 Верона В дерево МБ (-, Экокожа Santorini S0422 (темно-серый))",
-        "Кресло К-10 Верона В дерево МБ (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
-        "Кресло К-10 Верона В дерево МБ (-, Экокожа Santorini S0422 (темно-серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Верона к-10 в дерево мб"
+  ],
+  "name_all": [
+    "Верона В хром",
+    "Верона В дерево"
+  ],
+  "name": [
+    "Верона В дерево"
+  ],
+  "unique_name": [
+    "Верона К-10 В дерево МБ"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки-сиденья и накладок подлокотников кресла:\nткань (Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "спинки-сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка-сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость - 32, плотность - 25 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Подлокотники</strong> - деревянные, крепятся к основанию спинки-сиденья с помощью винтов",
+        "<strong>Материал</strong> облицовки спинки-сиденья: ткань (Moderno), искусственная кожа (Z), экокожа (S,R), кожа (К)",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок»",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> металлическое с деревянными накладками d=720 мм и 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм имеют открытый пластиковый чехол",
+        "Подлокотники и накладки на пятилучье изготовлены из массива натурального дерева, покрытого полиуретановым лаком"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "1100",
+          "depth": "490",
+          "height": "676"
+        },
+        "box_size": "1100х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "18,00",
+      "volume": "0,36"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "180",
+      "recommended_load": "150"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/verona_v_mb_d8_s0422_01.png",
+      "chair_view": "img/armchair_rukovoditel/verona_v_mb_d8_s0422_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/verona_v_mb_d8_s0422_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/85d/85d77607d8ed74990babd8b4655559a7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e0b/e0b38c3c679d5641d8888de0226ae99c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e8d/tyj30ol2z7odus7pa3cbbnejpryz2yz5.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/31c/140_140_0/31cf1d79dd4b0ee91fdbb680f402d6dd.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/887/887f848797a9b4515fd73fb395f253e6.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9d5/fee9hlv3vd1uqj59b28s3veav6g4e2w7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/a1a/140_140_0/a1af1f806207441e5c164365a1e585a6.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/84c/84cda0c6fa6d811aff30145b67862fe7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a52/a52aa5a690d4881fc8805f83289394c6.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/10c/p38pdc6kyx25t23p8y3qgryp1iq6rvjn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a1a/a1af1f806207441e5c164365a1e585a6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/2ea/140_140_0/2ea7764ea8425b746205ca5e7ee5eee0.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a9a/a9a599b49fe68a354d10b77e0133c21d.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2ea/2ea7764ea8425b746205ca5e7ee5eee0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/e0b/140_140_0/e0b38c3c679d5641d8888de0226ae99c.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/887/140_140_0/887f848797a9b4515fd73fb395f253e6.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/31c/31cf1d79dd4b0ee91fdbb680f402d6dd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e1f/1pyn3wt25fpwvzyubq4zdufrrj022p4n.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c4f/c4f448f96e2c6e1c3554574d8a9ce549.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/889/esy8p0widszgjogajtw5fs6uscxjmg33.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/135/anvcunpst4d4pqf3784c38bpsj1dbm6y.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/6e2/140_140_0/6390lct1oupxmrzo1je2v449l1dopwa8.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6e2/6390lct1oupxmrzo1je2v449l1dopwa8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99d/0dbaa21qq616htyib65wcbro455qpmkg.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/99d/140_140_0/0dbaa21qq616htyib65wcbro455qpmkg.png",
+        "https://utfc.ru/upload/resize_cache/iblock/7bb/140_140_0/xowlb9yahnw1bhd35me81ycgu2j1wk3h.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/50a/50a9235dd5ed7aad0d31268fe4fefa0a.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/889/140_140_0/esy8p0widszgjogajtw5fs6uscxjmg33.png",
+        "https://utfc.ru/upload/resize_cache/iblock/135/140_140_0/anvcunpst4d4pqf3784c38bpsj1dbm6y.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b20/wr879w86g8hm2d55j87znsf4os0ixzsp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7bb/xowlb9yahnw1bhd35me81ycgu2j1wk3h.webp",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1200",
+        "max": "1260"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "510",
+        "max": "570"
+      },
+      "armrest_height_from_seat": {
+        "min": "205",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "700",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "545",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "700",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "530",
+        "max": "700"
+      },
+      "seat_width_with_armrests": {
+        "min": "625",
+        "max": ""
+      },
+      "seat_width": {
+        "max": "530",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "720",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "530",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "720",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "360",
+        "max": "460"
+      },
+      "armrest_height_from_floor": {
+        "min": "290"
+      },
+      "armrest_width_support": {
+        "max": "60"
+      },
+      "armrest_length_support": {
+        "max": "320"
+      },
+      "seat_depth_km": {
+        "max": "530"
+      },
+      "backrest_height_external": {
+        "max": "770"
+      },
+      "backrest_width_narrow": {
+        "max": "505"
+      },
+      "backrest_width_wide": {
+        "max": "530"
+      },
+      "recommended_load": "150",
+      "max_load": "180",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "18",
+      "brutto": "18,4",
+      "package_width": "1100",
+      "package_depth": "490",
+      "package_height": "676",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1051",
+    "IE_NAME": "К-10 Верона В дерево МБ",
+    "IE_PREVIEW_TEXT": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
+    "IE_DETAIL_TEXT": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
+    "IP_PROP2": 625,
+    "IP_PROP3": "1200-1260",
+    "IP_PROP4": 700,
+    "IP_PROP6": "",
+    "IP_PROP19": 180,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/b20/wr879w86g8hm2d55j87znsf4os0ixzsp.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/e1f/1pyn3wt25fpwvzyubq4zdufrrj022p4n.png",
+    "IP_PROP5": 1100,
+    "IP_PROP26": 676,
+    "IP_PROP27": 490,
+    "IP_PROP28": "22,9",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,364",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "verona_v_derevo_mb",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/281/1iuq4xvipin3mgzy273cdzs4b50u1n5e.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_720_d",
+    "IP_PROP42": "pl_derevo",
+    "IP_PROP43": "gl_sh_bl",
+    "IP_PROP44": "m_mul",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_50_c",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 17069,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 17582,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 17069,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50160,
+      "IE_NAME": "Кресло К-10 Верона В дерево D8 (темный орех) МБ S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/48c/ivfopvpqoqflioazpirv4s1lgn1kt93k.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c69/mylasz1f5c4tkdemv36wsifs5tie20q0.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12191,
+      "IP_PROP34": "a_1051",
+      "IP_PROP35": "ДК-00443",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6e2/6390lct1oupxmrzo1je2v449l1dopwa8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/7bb/xowlb9yahnw1bhd35me81ycgu2j1wk3h.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/99d/0dbaa21qq616htyib65wcbro455qpmkg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/135/anvcunpst4d4pqf3784c38bpsj1dbm6y.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/889/esy8p0widszgjogajtw5fs6uscxjmg33.webp"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0422",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "d8",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 17069,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 17582,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 17069,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Качественное кресло руководителя К-10 Верона В дерево МБ производства компании UTFC",
+  "base_name": "Кресло К-10 Верона В дерево МБ",
+  "article_number": "ДК-00443",
+  "full_describe": "Это кресло восхищает своим изяществом и одновременно строгостью. Кресло имеет креативную прострочку, которая делит каркас на небольшие квадраты, а также широкий подголовник. Подлокотники и крестовина - натуральное дерево. Механизм качания мультиблок с регулировкой под вес пользователя фиксирует спинку вертикально и позволяет отклонять её назад в 5 положениях. Кресло выдерживает нагрузку до 180 кг.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/verona_v_derevo_mb/",
+  "Основание": "Пятилучье с деревянными накладками d=720 мм",
+  "Подлокотники": "Подлокотники деревянные используются на все ДК в исполнении Дерево",
+  "Газлифт": "Газ-лифт суперкороткий черный",
+  "Механизм": "МБ — мультиблок — механизм качания с регулировкой под вес пользователя и фиксацией в вертикальном положении спинки и отклонении ее назад в 5 положениях. Жесткость хода свободного отклонения спинки назад регулируется пружинным блоком",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики, закрытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Натуральная кожа К",
+    "-",
+    "Экокожа Santorini"
+  ],
+  "color": [
+    "Натуральная кожа К01",
+    "Экокожа Santorini S0422 (темно-серый)"
+  ],
+  "variant_name": [
+    "Кресло К-10 Верона В дерево (Натуральная кожа К, Натуральная кожа К01)",
+    "Кресло К-10 Верона В дерево (-, Натуральная кожа К01)",
+    "Кресло К-10 Верона В дерево МБ (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый))",
+    "Кресло К-10 Верона В дерево МБ (-, Экокожа Santorini S0422 (темно-серый))",
+    "Кресло К-10 Верона В дерево МБ (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
+    "Кресло К-10 Верона В дерево МБ (-, Экокожа Santorini S0422 (темно-серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }

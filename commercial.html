@@ -213,6 +213,7 @@
     </div>
 
     <button id="generateOffer">Сформировать PDF</button>
+    
 
     <script>
 // Устанавливаем текущую дату для всех элементов с классом commercial-date
@@ -778,7 +779,32 @@ document.getElementById('generateOffer').addEventListener('click', async functio
 
         // Ждём 1 секунду на случай, если QR-коды ещё грузятся
         await new Promise(resolve => setTimeout(resolve, 1000));
-await replaceExternalImagesWithBase64();
+// await replaceExternalImagesWithBase64();
+const finalSelection = getFinalSelectionData();
+// Получаем массив изображений из finalSelection
+const images = Object.values(finalSelection).flatMap(item => item.images);
+
+// Находим все изображения на странице, которые нужно заменить
+const imgs = document.querySelectorAll('.commercial-product-images img');
+
+images.forEach((url, index) => {
+  if (imgs[index]) {
+    // Загружаем изображение как blob
+    fetch(url)
+      .then(response => response.blob())
+      .then(blob => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          const base64data = reader.result;
+          imgs[index].src = base64data;
+          // Можно дополнительно сохранить в localStorage
+          localStorage.setItem(`imported_image_${index}`, base64data);
+        };
+        reader.readAsDataURL(blob);
+      })
+      .catch(error => console.error('Ошибка загрузки изображения:', url));
+  }
+});
 
         // Генерируем PDF
         await generateCommercialOffer();

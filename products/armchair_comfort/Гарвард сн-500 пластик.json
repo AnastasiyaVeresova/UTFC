@@ -1,503 +1,503 @@
 {
-    "namefile": [
-        "Гарвард сн-500 пластик"
-    ],
-    "name_all": [
-        "Гарвард",
-        "Гарвард хром"
-    ],
-    "name": [
-        "Гарвард"
-    ],
-    "unique_name": [
-        "Гарвард СН-500 пластик"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки: сетка (TW)<br>\n- материал облицовки сиденья и подголовника: ткань (D), ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу."
-            ],
-            "components": [
-                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Подголовник</strong> состоит из пластикового основания, вкладыша пенополиуретанового (жесткость - 40, плотность 22 кг/м<sup>3</sup>) и обивочного элемента. <strong>Материал</strong> облицовки подголовника: ткань (D), ткань-сетка (E). Подголовник крепится к спинке 2-мя винтами",
-                "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента. <strong>Материал</strong> облицовки спинки: сетка (TW). Спинка крепится к механизму качания 3-мя винтами",
-                "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента. <strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (E)",
-                "<strong>Подлокотники</strong> пластиковые, регулируются по высоте, крепятся к основанию сиденья с помощью винтов",
-                "<strong>Механизм качания</strong> «Топ-ган с синхроплатой» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют узкий шток"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "910",
-                    "depth": "270",
-                    "height": "690"
-                },
-                "box_size": "910х270х690",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "12,75",
-            "volume": "0,17"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "150,00",
-            "recommended_load": "120,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/ch_500_garvard_e72_w72_01.png",
-            "chair_view": "img/armchair_comfort/ch_500_garvard_e72_w72_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/ch_500_garvard_e72_w72_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/b99/140_140_0/3pdgjypd7zc7uj9fibpz24xuh81rio7z.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de6/8v51e41r8jyzhej506lv0vtshig803vg.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6b6/6b678dfc8d143b5c162d964c7f66b011.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5c2/6yc3qb7rel3a39g94wk82zbo08fzasuq.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b99/3pdgjypd7zc7uj9fibpz24xuh81rio7z.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f97/y9ozlyubdmo5zb24px2m9e2rj2j5rj8e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c57/c5767311078b5cf78728a5c8f3dd38ba.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/164/1642cc9560c18c50c8c334f8afa14f6b.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-                "https://utfc.ru/upload/resize_cache/iblock/637/140_140_0/cybeldcq38ltampleebnkbggt0fpqgeo.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://utfc.ru/upload/resize_cache/iblock/43a/140_140_0/nwnn8mlfobvacfmf2hi1xdbi6rcgjgp5.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5c2/140_140_0/6yc3qb7rel3a39g94wk82zbo08fzasuq.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/43a/nwnn8mlfobvacfmf2hi1xdbi6rcgjgp5.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/26f/578fyvvyqgmgunbng4ztjkzsu8lzi6fz.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/637/cybeldcq38ltampleebnkbggt0fpqgeo.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/de6/140_140_0/8v51e41r8jyzhej506lv0vtshig803vg.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1200,00",
-                "max": "1300,00"
-            },
-            "headrest_height": {
-                "min": "210,00",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "450,00",
-                "max": "550,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "210,00",
-                "max": "260,00"
-            },
-            "chair_depth": {
-                "min": "540,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "425,00",
-                "max": ""
-            },
-            "backrest_height": {
-                "max": "550,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "525",
-                "max": "550"
-            },
-            "seat_width_with_armrests": {
-                "min": "650,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "490,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "660,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "455",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "660",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "450",
-                "max": "550"
-            },
-            "armrest_height_from_floor": {
-                "min": "285,00",
-                "max": "355,00"
-            },
-            "armrest_width_support": {
-                "max": "80,00"
-            },
-            "armrest_length_support": {
-                "max": "250,00"
-            },
-            "seat_depth_km": {
-                "max": "525,00"
-            },
-            "backrest_height_external": {
-                "max": "670,00"
-            },
-            "backrest_width_narrow": {
-                "max": "455,00"
-            },
-            "backrest_width_wide": {
-                "max": "455,00"
-            },
-            "recommended_load": "120,00",
-            "max_load": "150,00",
-            "skeleton": "немонолитный",
-            "minpromtorg": "+",
-            "netto": "12,75",
-            "brutto": "12,75",
-            "package_width": "910,00",
-            "package_depth": "270,00",
-            "package_height": "690,00",
-            "volume": "0,17",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "немонолитный"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": 7515,
-        "IE_NAME": "СН-500 Гарвард",
-        "IE_PREVIEW_TEXT": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
-        "IE_DETAIL_TEXT": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
-        "IP_PROP2": 650,
-        "IP_PROP3": "1200-1300",
-        "IP_PROP4": 540,
-        "IP_PROP6": "",
-        "IP_PROP19": 150,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://utfc.ru/upload/iblock/f97/y9ozlyubdmo5zb24px2m9e2rj2j5rj8e.png",
-        "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/26f/578fyvvyqgmgunbng4ztjkzsu8lzi6fz.webp",
-        "IP_PROP5": 910,
-        "IP_PROP26": 690,
-        "IP_PROP27": 270,
-        "IP_PROP28": "14,5",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,17",
-        "IP_PROP7": "да",
-        "IP_PROP8": "да",
-        "IP_PROP9": "garvard_ch_500",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de6/8v51e41r8jyzhej506lv0vtshig803vg.webp",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_660_arkt_pl",
-        "IP_PROP42": "pl_500",
-        "IP_PROP43": "gl_230",
-        "IP_PROP44": "m_tgs_500",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_60_o_pu",
-        "IP_PROP47": "",
-        "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 7777,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 8011,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 7777,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 17756,
-            "IE_NAME": "Кресло СН-500 Гарвард Е11-к/TW-01/Е11-к/Е11-к (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 7514,
-            "IP_PROP34": 7515,
-            "IP_PROP35": "СН500Гарвард01",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_09",
-            "IP_PROP38": "tw_01",
-            "IP_PROP39": "m_08",
-            "IP_PROP40": "e_11_k",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": 1,
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7777,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 8011,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 7777,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 30216,
-            "IE_NAME": "Кресло СН-500 Гарвард Е72-к/TW-72/Е72-к/Е72-к (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f57/xa80l2k7740t00865lqfhgb4riyr2sye.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e71/j34vgcxn13b3v7gvhi0fily0qihxr5v2.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 10966,
-            "IP_PROP34": 7515,
-            "IP_PROP35": "СН500Гарвард41",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/86d/njlooasrzh6z4sqcrscfjz25lfy5lfy8.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b9/9pjpvtoems6awemz7n861a11iexo3tmr.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/310/w5olz7r1f2x2eprmz6rs85rfyqzs12hd.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/749/3mym72glulgpj2yx7uxkl8ulzb1eka0l.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a25/i14k13umper41ud6olqzrbz6sd5s8de0.webp"
-            ],
-            "IP_PROP37": "m_09",
-            "IP_PROP38": "tw_72",
-            "IP_PROP39": "m_08",
-            "IP_PROP40": "e_72_k",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 1,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7777,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 8011,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 7777,
-            "CV_CURRENCY_3": "RUB"
-        },
-        {
-            "IE_XML_ID": 30217,
-            "IE_NAME": "Кресло СН-500 Гарвард Е72-к/TW-72/Е11-к/Е11-к (серый/черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 10967,
-            "IP_PROP34": 7515,
-            "IP_PROP35": "СН500Гарвард13",
-            "IP_PROP36": "",
-            "IP_PROP37": "m_09",
-            "IP_PROP38": "tw_72",
-            "IP_PROP39": "m_08",
-            "IP_PROP40": "e_11_k",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7777,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 8011,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 7777,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Эргономичное кресло с уникальным дизайном для офиса и дома СН-500 Гарвард производства компании UTFC",
-    "base_name": "Кресло СН-500 Гарвард",
-    "article_number": "СН500Гарвард01",
-    "full_describe": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/garvard_ch_500/",
-    "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
-    "Подлокотники": "Т-образные регулируемые по высоте пластиковые подлокотники СН-500 левый и правый для Гарварда",
-    "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
-    "Механизм": "Топ-Ган с синхроплатой — механизм качания с синхроплатой обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя и фиксацию спинки в рабочем положении",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Сетка TW",
-        "-"
-    ],
-    "color": [
-        "Сетка TW-01 (черный)",
-        "Сетка TW-72 (серый)"
-    ],
-    "variant_name": [
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный))",
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый))",
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
-        "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))"
-    ],
-    "finish_type_seat": [
-        "Ткань Сетка Е",
-        "-"
-    ],
-    "color_seat": [
-        "Ткань Сетка Е11-к (черный)"
+  "namefile": [
+    "Гарвард сн-500 пластик"
+  ],
+  "name_all": [
+    "Гарвард",
+    "Гарвард хром"
+  ],
+  "name": [
+    "Гарвард"
+  ],
+  "unique_name": [
+    "Гарвард СН-500 пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки: сетка (TW)<br>\n- материал облицовки сиденья и подголовника: ткань (D), ткань-сетка (E)<br>\n- цвет материала и пластика - по каталогу."
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Подголовник</strong> состоит из пластикового основания, вкладыша пенополиуретанового (жесткость - 40, плотность 22 кг/м<sup>3</sup>) и обивочного элемента. <strong>Материал</strong> облицовки подголовника: ткань (D), ткань-сетка (E). Подголовник крепится к спинке 2-мя винтами",
+        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента. <strong>Материал</strong> облицовки спинки: сетка (TW). Спинка крепится к механизму качания 3-мя винтами",
+        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента. <strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (E)",
+        "<strong>Подлокотники</strong> пластиковые, регулируются по высоте, крепятся к основанию сиденья с помощью винтов",
+        "<strong>Механизм качания</strong> «Топ-ган с синхроплатой» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=660 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> с полиуретановым покрытием d=50 мм имеют узкий шток"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "910",
+          "depth": "270",
+          "height": "690"
+        },
+        "box_size": "910х270х690",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "13,00",
+      "volume": "0,17"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/ch_500_garvard_e72_w72_01.png",
+      "chair_view": "img/armchair_comfort/ch_500_garvard_e72_w72_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/ch_500_garvard_e72_w72_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/754/754a02bbebb313b7ef2558e795a28ba6.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/b99/140_140_0/3pdgjypd7zc7uj9fibpz24xuh81rio7z.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de6/8v51e41r8jyzhej506lv0vtshig803vg.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6b6/6b678dfc8d143b5c162d964c7f66b011.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5c2/6yc3qb7rel3a39g94wk82zbo08fzasuq.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b99/3pdgjypd7zc7uj9fibpz24xuh81rio7z.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f97/y9ozlyubdmo5zb24px2m9e2rj2j5rj8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e6f/e6fd18f4cb67c8f9c12adb9204886749.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/c57/c5767311078b5cf78728a5c8f3dd38ba.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/164/1642cc9560c18c50c8c334f8afa14f6b.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/resize_cache/iblock/637/140_140_0/cybeldcq38ltampleebnkbggt0fpqgeo.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/43a/140_140_0/nwnn8mlfobvacfmf2hi1xdbi6rcgjgp5.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5c2/140_140_0/6yc3qb7rel3a39g94wk82zbo08fzasuq.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/43a/nwnn8mlfobvacfmf2hi1xdbi6rcgjgp5.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/237/237ed762aaa92da554c421c0eb2f307a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/26f/578fyvvyqgmgunbng4ztjkzsu8lzi6fz.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/637/cybeldcq38ltampleebnkbggt0fpqgeo.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ed8/ed809c4302b8f61180ba2401fad216c5.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/de6/140_140_0/8v51e41r8jyzhej506lv0vtshig803vg.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1200",
+        "max": "1300"
+      },
+      "headrest_height": {
+        "min": "210",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "450",
+        "max": "550"
+      },
+      "armrest_height_from_seat": {
+        "min": "210",
+        "max": "260"
+      },
+      "chair_depth": {
+        "min": "540",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "425",
+        "max": ""
+      },
+      "backrest_height": {
+        "max": "550",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "525",
+        "max": "550"
+      },
+      "seat_width_with_armrests": {
+        "min": "650",
+        "max": null
+      },
+      "seat_width": {
+        "max": "490",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "660",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "455",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "660",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "450",
+        "max": "550"
+      },
+      "armrest_height_from_floor": {
+        "min": "285",
+        "max": "355"
+      },
+      "armrest_width_support": {
+        "max": "80"
+      },
+      "armrest_length_support": {
+        "max": "250"
+      },
+      "seat_depth_km": {
+        "max": "525"
+      },
+      "backrest_height_external": {
+        "max": "670"
+      },
+      "backrest_width_narrow": {
+        "max": "455"
+      },
+      "backrest_width_wide": {
+        "max": "455"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "13",
+      "brutto": "12,75",
+      "package_width": "910",
+      "package_depth": "270",
+      "package_height": "690",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "немонолитный"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": 7515,
+    "IE_NAME": "СН-500 Гарвард",
+    "IE_PREVIEW_TEXT": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
+    "IE_DETAIL_TEXT": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
+    "IP_PROP2": 650,
+    "IP_PROP3": "1200-1300",
+    "IP_PROP4": 540,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/f97/y9ozlyubdmo5zb24px2m9e2rj2j5rj8e.png",
+    "IP_PROP31": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/26f/578fyvvyqgmgunbng4ztjkzsu8lzi6fz.webp",
+    "IP_PROP5": 910,
+    "IP_PROP26": 690,
+    "IP_PROP27": 270,
+    "IP_PROP28": "14,5",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,17",
+    "IP_PROP7": "да",
+    "IP_PROP8": "да",
+    "IP_PROP9": "garvard_ch_500",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/de6/8v51e41r8jyzhej506lv0vtshig803vg.webp",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_660_arkt_pl",
+    "IP_PROP42": "pl_500",
+    "IP_PROP43": "gl_230",
+    "IP_PROP44": "m_tgs_500",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 7777,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 8011,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 7777,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 17756,
+      "IE_NAME": "Кресло СН-500 Гарвард Е11-к/TW-01/Е11-к/Е11-к (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 7514,
+      "IP_PROP34": 7515,
+      "IP_PROP35": "СН500Гарвард01",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_01",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_11_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": 1,
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7777,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8011,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7777,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30216,
+      "IE_NAME": "Кресло СН-500 Гарвард Е72-к/TW-72/Е72-к/Е72-к (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f57/xa80l2k7740t00865lqfhgb4riyr2sye.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e71/j34vgcxn13b3v7gvhi0fily0qihxr5v2.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 10966,
+      "IP_PROP34": 7515,
+      "IP_PROP35": "СН500Гарвард41",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/86d/njlooasrzh6z4sqcrscfjz25lfy5lfy8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9b9/9pjpvtoems6awemz7n861a11iexo3tmr.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/310/w5olz7r1f2x2eprmz6rs85rfyqzs12hd.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/749/3mym72glulgpj2yx7uxkl8ulzb1eka0l.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a25/i14k13umper41ud6olqzrbz6sd5s8de0.webp"
+      ],
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_72",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_72_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 1,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7777,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8011,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7777,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 30217,
+      "IE_NAME": "Кресло СН-500 Гарвард Е72-к/TW-72/Е11-к/Е11-к (серый/черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 10967,
+      "IP_PROP34": 7515,
+      "IP_PROP35": "СН500Гарвард13",
+      "IP_PROP36": "",
+      "IP_PROP37": "m_09",
+      "IP_PROP38": "tw_72",
+      "IP_PROP39": "m_08",
+      "IP_PROP40": "e_11_k",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7777,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 8011,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 7777,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Эргономичное кресло с уникальным дизайном для офиса и дома СН-500 Гарвард производства компании UTFC",
+  "base_name": "Кресло СН-500 Гарвард",
+  "article_number": "СН500Гарвард01",
+  "full_describe": "Эргономичное кресло с уникальным дизайном, оснащенное регулируемыми по высоте Т-образными подлокотниками для максимального комфорта. Идеально подходит для тех, кто ценит стиль и функциональность. Максимальная нагрузка до 150 кг.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/garvard_ch_500/",
+  "Основание": "Пятилучье Арктика пластиковое с узкими лучами, d=660 мм",
+  "Подлокотники": "Т-образные регулируемые по высоте пластиковые подлокотники СН-500 левый и правый для Гарварда",
+  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+  "Механизм": "Топ-Ган с синхроплатой — механизм качания с синхроплатой обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя и фиксацию спинки в рабочем положении",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Сетка TW",
+    "-"
+  ],
+  "color": [
+    "Сетка TW-01 (черный)",
+    "Сетка TW-72 (серый)"
+  ],
+  "variant_name": [
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный))",
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый))",
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (Сетка TW, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-01 (черный), -, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань Сетка Е11-к (черный))",
+    "Кресло СН-500 Гарвард (-, Сетка TW-72 (серый), -, Ткань Сетка Е11-к (черный))"
+  ],
+  "finish_type_seat": [
+    "Ткань Сетка Е",
+    "-"
+  ],
+  "color_seat": [
+    "Ткань Сетка Е11-к (черный)"
+  ]
 }

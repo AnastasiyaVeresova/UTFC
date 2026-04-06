@@ -76,8 +76,8 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/standart_gr_c39_01",
-            "chair_view": "img/chair_visitors/standart_gr_c39_02",
+            "vid_main": "img/chair_visitors/standart_gr_c39_01.png",
+            "chair_view": "img/chair_visitors/standart_gr_c39_02.png",
             "dimensions": "img/chair_visitors/dimensions/standart_gr_c39_01.png",
             "box": "img/box_0.png",
             "additional": [

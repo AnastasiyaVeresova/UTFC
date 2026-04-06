@@ -1,382 +1,382 @@
 {
-    "namefile": [
-        "Кайман комфорт сн-301 в хром мб"
-    ],
-    "name_all": [
-        "Кайман В",
-        "Кайман Н",
-        "Кайман Комфорт В",
-        "Кайман Комфорт Н",
-        "Кайман Трио В",
-        "Кайман Трио Н",
-        "Кайман В Топ-ган LUX"
-    ],
-    "name": [
-        "Кайман Комфорт В"
-    ],
-    "unique_name": [
-        "Кайман комфорт CH-301 В хром МБ"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло для руководителя"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях <br><br>Изготавливается с мягким элементом спинки-сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- тип покрытия каркаса кресла: CH, BL<br>где CH - хромовое блестящее, BL - окрашенный, цвет черный<br>- комплектация подлокотников чехлами: soft, soft2 или без чехлов<br>soft - один чехол на подлокотнике, soft2 - два чехла на подлокотнике<br>- материал облицовки спинки-сиденья и чехлов подлокотников кресла:\nткань (Moderno), сетка (CK, TF), экокожа (S,R)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлического каркаса, мягкого элемента, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Каркас</strong> кресла металлический, сборный с защитно-декоративным покрытием. Опоры и перемычки изготовлены из стальной трубы овального сечения 30х15х1,4 мм",
-                "<strong>Подлокотники</strong> металлические с защитно-декоративным покрытием. Крепятся к каркасу с помощью винтов. По желанию заказчика на подлокотники устанавливаются чехлы soft или soft2. Чехлы крепятся к подлокотнику с помощью липучки",
-                "<strong>Покрытие</strong> каркаса кресла и подлокотников: термореактивная порошковая краска черного цвета или хромовое блестящее",
-                "<strong>Мягкий элемент</strong> состоит из облицовки и пенополиуретанового вкладыша (жесткость - 25, плотность - 16 кг/м<sup>3</sup>). Мягкий элемент натянут между опор каркаса",
-                "<strong>Материал</strong> облицовки спинки-сиденья и чехлов подлокотников кресла: ткань (Moderno), сетка (CK, TF), экокожа (S,R)",
-                "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок» или «Топ-ган LUX»",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-                "<strong>Пятилучье</strong> хромированное d=700 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 910,
-                    "depth": 400,
-                    "height": 680
-                },
-                "box_size": "910х400х680",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "",
-            "volume": "0,25"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "150,00",
-            "recommended_load": "120,00"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_rukovoditel/kayman_comfort_v_mb_s0422_01.png",
-            "chair_view": "img/armchair_rukovoditel/kayman_comfort_v_mb_s0422_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/kayman_comfort_v_mb_s0422_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0a6/42p4mti3qq82bj8hov1xopriwikxnjx1.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78f/tfz8udedjwdlkh7djw7hgy02el5seo6s.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/78f/140_140_0/tfz8udedjwdlkh7djw7hgy02el5seo6s.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/323/32352bcb4f669dcd29ab265c1820ecc2.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/0a6/140_140_0/42p4mti3qq82bj8hov1xopriwikxnjx1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0a/b0aff12f8d7481c3226752bf03792dc4.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/687/xq0zljobrt1ph29wdii4qu71lkz7gn5d.webp",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/adb/140_140_0/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/849/84997c70cfeb45fe1384573dd2278390.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f20/w0922ox12rado6dqzmjihjpqjyylbdt9.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e0b/e0b1c6172c25afc86a9119dfbea01959.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/50a/50a9235dd5ed7aad0d31268fe4fefa0a.webp",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/resize_cache/iblock/687/140_140_0/xq0zljobrt1ph29wdii4qu71lkz7gn5d.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/adb/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.webp",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
-                "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
-                "https://utfc.ru/upload/resize_cache/iblock/874/140_140_0/1z3f933nxhlefoutjsffuhqfjeic2hhm.png",
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/874/1z3f933nxhlefoutjsffuhqfjeic2hhm.webp",
-                "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1120,00",
-                "max": "1180,00"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "540,00",
-                "max": "600,00"
-            },
-            "armrest_height_from_seat": {
-                "min": "175,00",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "610,00",
-                "max": null
-            },
-            "seat_depth": {
-                "min": "450,00",
-                "max": null
-            },
-            "backrest_height": {
-                "max": "565,00",
-                "min": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "480",
-                "max": "565"
-            },
-            "seat_width_with_armrests": {
-                "min": "580,00",
-                "max": null
-            },
-            "seat_width": {
-                "max": "490,00",
-                "min": ""
-            },
-            "diameter_cross": {
-                "max": "700,00",
-                "min": ""
-            },
-            "runners_width": {
-                "max": "460",
-                "min": ""
-            },
-            "runners_depth": {
-                "max": "700",
-                "min": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "540",
-                "max": "600"
-            },
-            "armrest_height_from_floor": {
-                "min": "230,00"
-            },
-            "armrest_width_support": {
-                "max": "40,00"
-            },
-            "armrest_length_support": {},
-            "seat_depth_km": {
-                "max": "480,00"
-            },
-            "backrest_height_external": {
-                "max": "580,00"
-            },
-            "backrest_width_narrow": {
-                "max": "450,00"
-            },
-            "backrest_width_wide": {
-                "max": "460,00"
-            },
-            "recommended_load": "120,00",
-            "max_load": "150,00",
-            "skeleton": "монолитный",
-            "minpromtorg": "+",
-            "netto": "+",
-            "brutto": {},
-            "package_width": "910,00",
-            "package_depth": "400,00",
-            "package_height": "680,00",
-            "volume": "0,25",
-            "box_on_pallet": {},
-            "pallet_width": {},
-            "addition": {},
-            "typeofproduct": "монолитный"
-        }
-    ],
-    "skeleton": "монолитный",
-    "minpromtorg": "+",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5181",
-        "IE_NAME": "СН-301 Кайман Комфорт В хром МБ Ср",
-        "IE_PREVIEW_TEXT": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
-        "IE_DETAIL_TEXT": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
-        "IP_PROP2": 580,
-        "IP_PROP3": "1120-1180",
-        "IP_PROP4": 610,
-        "IP_PROP6": "",
-        "IP_PROP19": 150,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://utfc.ru/upload/iblock/f20/w0922ox12rado6dqzmjihjpqjyylbdt9.png",
-        "IP_PROP31": "https://utfc.ru/upload/iblock/b0a/b0aff12f8d7481c3226752bf03792dc4.png",
-        "IP_PROP5": 900,
-        "IP_PROP26": 670,
-        "IP_PROP27": 390,
-        "IP_PROP28": "20,3",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,25",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ch301_kayman_comfort_v_ch_mb",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://utfc.ru/upload/iblock/be1/z202bo1pdigsu3hb74nlu7tbdwkj65in.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "pch_700_ch_new",
-        "IP_PROP42": "pl_kayman_ch",
-        "IP_PROP43": "gl_sh_ch",
-        "IP_PROP44": "m_mul",
-        "IP_PROP45": "",
-        "IP_PROP46": "r_60_o_pu",
-        "IP_PROP47": "",
-        "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP54": "utfc",
-        "IP_PROP59": "Нет",
-        "IC_GROUP0": "Кресла для руководителя",
-        "IC_GROUP1": "",
-        "IC_GROUP2": "",
-        "CP_QUANTITY": 0,
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 13376,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 13778,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 13376,
-        "CV_CURRENCY_3": "RUB"
-    },
-    "children": [
-        {
-            "IE_XML_ID": 30275,
-            "IE_NAME": "Кресло СН-301 Кайман Комфорт В хром МБ Ср S-0422 (темно-серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c66/nk1xxqff5tjc5wmgwcuy8bqlguwk8z0k.webp",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/87b/j6ycorzbagmk30xro4w5triu5t1uax4l.webp",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 10810,
-            "IP_PROP34": "p_5181",
-            "IP_PROP35": "КК-00525",
-            "IP_PROP36": [
-                "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/874/1z3f933nxhlefoutjsffuhqfjeic2hhm.webp",
-                "https://utfc.ru/upload/iblock/687/xq0zljobrt1ph29wdii4qu71lkz7gn5d.png",
-                "https://utfc.ru/upload/iblock/78f/tfz8udedjwdlkh7djw7hgy02el5seo6s.png",
-                "https://utfc.ru/upload/iblock/adb/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.png",
-                "https://utfc.ru/upload/iblock/0a6/42p4mti3qq82bj8hov1xopriwikxnjx1.png"
-            ],
-            "IP_PROP37": "m_11",
-            "IP_PROP38": "s_0422",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP55": "&nbsp;",
-            "IP_PROP61": "",
-            "IC_GROUP0": "",
-            "IP_PROP121": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_GROUP2": "",
-            "CP_QUANTITY": 1,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 13376,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 13778,
-            "CV_CURRENCY_2": "RUB",
-            "CV_PRICE_3": 13376,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Кресло для домашнего рабочего пространства и офиса СН-301 Кайман Комфорт В хром МБ Ср производства компании UTFC",
-    "base_name": "Кресло СН-301 Кайман Комфорт В хром МБ Ср",
-    "article_number": "КК-00525",
-    "full_describe": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
-    "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch301_kayman_comfort_v_ch_mb/",
-    "Основание": "Пятилучье хромированное d=700 мм",
-    "Подлокотники": "Подлокотники для кресел \"Кайман\", нерегулируемые, хромированные",
-    "Газлифт": "Газ-лифт суперкороткий хром",
-    "Механизм": "МБ — мультиблок — механизм качания с регулировкой под вес пользователя и фиксацией в вертикальном положении спинки и отклонении ее назад в 5 положениях. Жесткость хода свободного отклонения спинки назад регулируется пружинным блоком",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "finish_type": [
-        "Экокожа Santorini",
-        "-"
-    ],
-    "color": [
-        "Экокожа Santorini S0422 (темно-серый)"
-    ],
-    "variant_name": [
-        "Кресло СН-301 Кайман Комфорт В хром МБ Ср (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый))",
-        "Кресло СН-301 Кайман Комфорт В хром МБ Ср (-, Экокожа Santorini S0422 (темно-серый))",
-        "Кресло СН-301 Кайман Комфорт В хром МБ Ср (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
-        "Кресло СН-301 Кайман Комфорт В хром МБ Ср (-, Экокожа Santorini S0422 (темно-серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
+  "namefile": [
+    "Кайман комфорт сн-301 в хром мб"
+  ],
+  "name_all": [
+    "Кайман В",
+    "Кайман Н",
+    "Кайман Комфорт В",
+    "Кайман Комфорт Н",
+    "Кайман Трио В",
+    "Кайман Трио Н",
+    "Кайман В Топ-ган LUX"
+  ],
+  "name": [
+    "Кайман Комфорт В"
+  ],
+  "unique_name": [
+    "Кайман комфорт CH-301 В хром МБ"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях <br><br>Изготавливается с мягким элементом спинки-сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- тип покрытия каркаса кресла: CH, BL<br>где CH - хромовое блестящее, BL - окрашенный, цвет черный<br>- комплектация подлокотников чехлами: soft, soft2 или без чехлов<br>soft - один чехол на подлокотнике, soft2 - два чехла на подлокотнике<br>- материал облицовки спинки-сиденья и чехлов подлокотников кресла:\nткань (Moderno), сетка (CK, TF), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, мягкого элемента, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Каркас</strong> кресла металлический, сборный с защитно-декоративным покрытием. Опоры и перемычки изготовлены из стальной трубы овального сечения 30х15х1,4 мм",
+        "<strong>Подлокотники</strong> металлические с защитно-декоративным покрытием. Крепятся к каркасу с помощью винтов. По желанию заказчика на подлокотники устанавливаются чехлы soft или soft2. Чехлы крепятся к подлокотнику с помощью липучки",
+        "<strong>Покрытие</strong> каркаса кресла и подлокотников: термореактивная порошковая краска черного цвета или хромовое блестящее",
+        "<strong>Мягкий элемент</strong> состоит из облицовки и пенополиуретанового вкладыша (жесткость - 25, плотность - 16 кг/м<sup>3</sup>). Мягкий элемент натянут между опор каркаса",
+        "<strong>Материал</strong> облицовки спинки-сиденья и чехлов подлокотников кресла: ткань (Moderno), сетка (CK, TF), экокожа (S,R)",
+        "<strong>Механизм качания</strong> «Топ-ган» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении. По желанию заказчика механизм качания «Топ-ган» может быть заменен на «Мультиблок» или «Топ-ган LUX»",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+        "<strong>Пятилучье</strong> хромированное d=700 мм или пластиковое d=660 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 910,
+          "depth": 400,
+          "height": 680
+        },
+        "box_size": "910х400х680",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "",
+      "volume": "0,25"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/kayman_comfort_v_mb_s0422_01.png",
+      "chair_view": "img/armchair_rukovoditel/kayman_comfort_v_mb_s0422_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/kayman_comfort_v_mb_s0422_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0a6/42p4mti3qq82bj8hov1xopriwikxnjx1.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/bae/bae6ba79562f7a48c6e01810637328ed.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/78f/tfz8udedjwdlkh7djw7hgy02el5seo6s.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/78f/140_140_0/tfz8udedjwdlkh7djw7hgy02el5seo6s.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/323/32352bcb4f669dcd29ab265c1820ecc2.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/0a6/140_140_0/42p4mti3qq82bj8hov1xopriwikxnjx1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/b0a/b0aff12f8d7481c3226752bf03792dc4.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/687/xq0zljobrt1ph29wdii4qu71lkz7gn5d.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/adb/140_140_0/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/849/84997c70cfeb45fe1384573dd2278390.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/38f/5jms1040axgbk1sx1wf6ordhocau25ok.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f20/w0922ox12rado6dqzmjihjpqjyylbdt9.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e0b/e0b1c6172c25afc86a9119dfbea01959.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/50a/50a9235dd5ed7aad0d31268fe4fefa0a.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/687/140_140_0/xq0zljobrt1ph29wdii4qu71lkz7gn5d.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/adb/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/874/140_140_0/1z3f933nxhlefoutjsffuhqfjeic2hhm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/874/1z3f933nxhlefoutjsffuhqfjeic2hhm.webp",
+        "https://utfc.ru/upload/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1120",
+        "max": "1180"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "540",
+        "max": "600"
+      },
+      "armrest_height_from_seat": {
+        "min": "175",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "610",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "450",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "565",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "480",
+        "max": "565"
+      },
+      "seat_width_with_armrests": {
+        "min": "580",
+        "max": null
+      },
+      "seat_width": {
+        "max": "490",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "700",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "460",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "700",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "540",
+        "max": "600"
+      },
+      "armrest_height_from_floor": {
+        "min": "230"
+      },
+      "armrest_width_support": {
+        "max": "40"
+      },
+      "armrest_length_support": {},
+      "seat_depth_km": {
+        "max": "480"
+      },
+      "backrest_height_external": {
+        "max": "580"
+      },
+      "backrest_width_narrow": {
+        "max": "450"
+      },
+      "backrest_width_wide": {
+        "max": "460"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "+",
+      "brutto": {},
+      "package_width": "910",
+      "package_depth": "400",
+      "package_height": "680",
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5181",
+    "IE_NAME": "СН-301 Кайман Комфорт В хром МБ Ср",
+    "IE_PREVIEW_TEXT": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
+    "IE_DETAIL_TEXT": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
+    "IP_PROP2": 580,
+    "IP_PROP3": "1120-1180",
+    "IP_PROP4": 610,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://utfc.ru/upload/iblock/f20/w0922ox12rado6dqzmjihjpqjyylbdt9.png",
+    "IP_PROP31": "https://utfc.ru/upload/iblock/b0a/b0aff12f8d7481c3226752bf03792dc4.png",
+    "IP_PROP5": 900,
+    "IP_PROP26": 670,
+    "IP_PROP27": 390,
+    "IP_PROP28": "20,3",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,25",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ch301_kayman_comfort_v_ch_mb",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/be1/z202bo1pdigsu3hb74nlu7tbdwkj65in.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "pch_700_ch_new",
+    "IP_PROP42": "pl_kayman_ch",
+    "IP_PROP43": "gl_sh_ch",
+    "IP_PROP44": "m_mul",
+    "IP_PROP45": "",
+    "IP_PROP46": "r_60_o_pu",
+    "IP_PROP47": "",
+    "IP_PROP48": "fe5e0356bb238a2df15bb088a0b5adfd",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": 0,
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 13376,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 13778,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 13376,
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": 30275,
+      "IE_NAME": "Кресло СН-301 Кайман Комфорт В хром МБ Ср S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c66/nk1xxqff5tjc5wmgwcuy8bqlguwk8z0k.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/87b/j6ycorzbagmk30xro4w5triu5t1uax4l.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 10810,
+      "IP_PROP34": "p_5181",
+      "IP_PROP35": "КК-00525",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/874/1z3f933nxhlefoutjsffuhqfjeic2hhm.webp",
+        "https://utfc.ru/upload/iblock/687/xq0zljobrt1ph29wdii4qu71lkz7gn5d.png",
+        "https://utfc.ru/upload/iblock/78f/tfz8udedjwdlkh7djw7hgy02el5seo6s.png",
+        "https://utfc.ru/upload/iblock/adb/hhvh3xyqc3b59tzvwx2etgxrc2cm2p58.png",
+        "https://utfc.ru/upload/iblock/0a6/42p4mti3qq82bj8hov1xopriwikxnjx1.png"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0422",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": 1,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 13376,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 13778,
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": 13376,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Кресло для домашнего рабочего пространства и офиса СН-301 Кайман Комфорт В хром МБ Ср производства компании UTFC",
+  "base_name": "Кресло СН-301 Кайман Комфорт В хром МБ Ср",
+  "article_number": "КК-00525",
+  "full_describe": "Лучший выбор современного руководителя. Работайте с удовольствием, вдохновляйтесь, принимайте важные решения! Проводить время в этом кресле - одно удовольствие. Ощущение комфорта благодаря мягким элементам подголовника, спинки и сиденья, зеркальный хромированный каркас, механизм качания мультиблок и узкая крестовина задают современный стиль креслу. Популярное в мире и часто встречающееся в эпизодах, не только в зарубежных, но и в российских фильмах.",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch301_kayman_comfort_v_ch_mb/",
+  "Основание": "Пятилучье хромированное d=700 мм",
+  "Подлокотники": "Подлокотники для кресел \"Кайман\", нерегулируемые, хромированные",
+  "Газлифт": "Газ-лифт суперкороткий хром",
+  "Механизм": "МБ — мультиблок — механизм качания с регулировкой под вес пользователя и фиксацией в вертикальном положении спинки и отклонении ее назад в 5 положениях. Жесткость хода свободного отклонения спинки назад регулируется пружинным блоком",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "finish_type": [
+    "Экокожа Santorini",
+    "-"
+  ],
+  "color": [
+    "Экокожа Santorini S0422 (темно-серый)"
+  ],
+  "variant_name": [
+    "Кресло СН-301 Кайман Комфорт В хром МБ Ср (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый))",
+    "Кресло СН-301 Кайман Комфорт В хром МБ Ср (-, Экокожа Santorini S0422 (темно-серый))",
+    "Кресло СН-301 Кайман Комфорт В хром МБ Ср (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
+    "Кресло СН-301 Кайман Комфорт В хром МБ Ср (-, Экокожа Santorini S0422 (темно-серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
 }
