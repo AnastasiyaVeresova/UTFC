@@ -156,14 +156,14 @@
 </div> -->
 
 <div class="fax" style="position: relative;">
-  <img id="fax-image" src="img/fax.png" alt="Фоновое изображение" style="position: absolute; bottom: -700px; left:-30px; width: 200px; height: auto; cursor: move;">
+  <img id="fax-image" src="img/fax.png" alt="Фоновое изображение" style="display: none; height: auto; cursor: move;">
   <input type="file" id="file-input" accept="image/*" style="display: none;">
   
   <!-- Контейнер с ручкой и кнопкой удаления -->
   <div style="
     position: absolute; 
-    bottom: -680px; 
-    left: 650px; 
+    bottom: -690px; 
+    right: -150px; 
     display: flex; 
     align-items: center; 
     gap: 8px;"> <!-- Расстояние между иконками -->
@@ -196,11 +196,15 @@
     </div>
   </div>
 </div>
+
+
         <div class="commercial-signature" contenteditable="true" id="custom-signature">
             <p>Поставщик: ООО «ФЕСТ»</p>           
         </div>
                 <div class="dir" contenteditable="true" id="custom-dir">
             <p>Генеральный директор</p>
+        </div>
+         <div class="fax" id="custom-fax">
         </div>
         <div class="name_dir" contenteditable="true" id="custom-name_dir">
             <p>Коротков А.Е.</p>
@@ -214,6 +218,12 @@
 
     <button id="generateOffer">Сформировать PDF</button>
     
+
+<div id="signature-buttons" style="display: flex; gap: 10px;">
+  <button data-signature="first" style="background-color: #3D4555; color: #fff;">ООО Фест</button>
+  <button data-signature="second" style="background-color: #96C22B; color: #fff;">Поставщик 2</button>
+  <button data-signature="third" style="background-color: #555; color: #fff;">Поставщик 3</button>
+</div>
 
     <script>
 // Устанавливаем текущую дату для всех элементов с классом commercial-date
@@ -230,6 +240,40 @@ document.getElementById('delete-icon-blocks').addEventListener('click', () => {
     // Удаляем все элементы с классом 'commercial-titul-site'
     document.querySelectorAll('.commercial-logo').forEach(elem => elem.remove());
   });
+
+  const signatures = {
+  first: {
+    signature: 'Поставщик: ООО «ФЕСТ»',
+    dir: 'Генеральный директор',
+    name_dir: 'Коротков А.Е.',
+    stamp: 'img/fax.png' // путь к изображению печати
+  },
+  second: {
+    signature: 'Поставщик: ООО «Поставщик 2»',
+    dir: 'Поставщик 2',
+    name_dir: 'Иванов И.И.',
+    stamp: 'img/fax2.png'
+  },
+  third: {
+    signature: 'Поставщик: ООО «Поставщик 3»',
+    dir: 'Поставщик 3',
+    name_dir: 'Петров П.П.',
+    stamp: 'img/fax3.png'
+  }
+};
+
+document.querySelectorAll('#signature-buttons button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const key = btn.getAttribute('data-signature');
+    const data = signatures[key];
+
+    // Вставляем подпись
+    document.getElementById('custom-signature').innerHTML = `<p>${data.signature}</p>`;
+    document.getElementById('custom-fax').innerHTML = `<img src="${data.stamp}" style="max-width: 200px;">`;
+    document.getElementById('custom-dir').innerHTML = `<p>${data.dir}</p>`;
+    document.getElementById('custom-name_dir').innerHTML = `<p>${data.name_dir}</p>`;
+  });
+});
 
 // document.getElementById('change-fax-image').addEventListener('click', () => {
 //   document.getElementById('file-input').click();
@@ -335,6 +379,17 @@ document.getElementById('file-input').addEventListener('change', (event) => {
     }
     handleContainer.style.display = 'none';
   });
+
+  // Функция для вставки данных первой компании по умолчанию
+function setDefaultSignature() {
+  const defaultData = signatures['first'];
+  document.getElementById('custom-signature').innerHTML = `<p>${defaultData.signature}</p>`;
+  document.getElementById('custom-fax').innerHTML = `<img src="${defaultData.stamp}" style="max-width: 200px; position: absolute; bottom: 35px; left: 9px;">`;
+  document.getElementById('custom-dir').innerHTML = `<p>${defaultData.dir}</p>`;
+  document.getElementById('custom-name_dir').innerHTML = `<p>${defaultData.name_dir}</p>`;
+}
+
+
 
         // Функция для получения данных из localStorage
 function getFinalSelectionData() {
@@ -593,8 +648,10 @@ async function replaceExternalImagesWithBase64() {
     }
 }
 
+
   // Функция для генерации PDF
 async function generateCommercialOffer() {
+    
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF({
         orientation: 'landscape',
@@ -814,7 +871,10 @@ images.forEach((url, index) => {
     }
 });
         // Загружаем и отображаем товары при загрузке страницы
-        window.onload = loadAndDisplayProducts;
+       window.onload = () => {
+  loadAndDisplayProducts();
+  setDefaultSignature(); // Устанавливаем первую подпись по умолчанию
+};
     </script>
 </body>
 </html>

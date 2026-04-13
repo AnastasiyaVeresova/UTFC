@@ -140,6 +140,7 @@ h3 {
   position: absolute;
   bottom: 45px;
   left: 300px;
+  z-index: 100;
 }
 
 .name_dir {
@@ -147,6 +148,7 @@ h3 {
   position: absolute;
   bottom: 45px;
   left: 820px;
+  z-index: 100;
 }
 
 .commercial-product {

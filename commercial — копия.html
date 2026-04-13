@@ -1,0 +1,820 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Коммерческое предложение</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <link rel="stylesheet" href="css/commercial.css">
+
+</head>
+<body>
+    <div class="a4-container">
+        <!-- Титульный лист -->
+        <div class="commercial-header">
+                 <div style="display: flex; align-items: flex-start;">
+   <!-- Иконка удаления -->
+  <div id="delete-icon-logo" style="
+  position: absolute; 
+  top: 700px;
+  left: 1150px;
+      width: 24px; 
+      height: 24px; 
+      cursor: pointer; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center; 
+      margin-right: 10px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-bag-x" viewBox="0 0 16 16">
+      <path fill-rule="evenodd" d="M6.146 8.146a.5.5 0 0 1 .708 0L8 9.293l1.146-1.147a.5.5 0 1 1 .708.708L8.707 10l1.147 1.146a.5.5 0 0 1-.708.708L8 10.707l-1.146 1.147a.5.5 0 0 1-.708-.708L7.293 10 6.146 8.854a.5.5 0 0 1 0-.708z"/>
+      <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z"/>
+    </svg>
+  </div>
+            <div class="commercial-logo">
+                <img src="img/logo_color.png" alt="Логотип UTFC">
+            </div></div>
+            <div class="commercial-title" contenteditable="true" id="custom-title">
+                КОММЕРЧЕСКОЕ<br>ПРЕДЛОЖЕНИЕ
+            </div>
+            <div class="commercial-date" contenteditable="true">
+                <span id="current-date"></span>
+            </div>
+        </div>
+        <div style="display: flex; align-items: flex-start;">
+   <!-- Иконка удаления -->
+  <div id="delete-icon-blocks" style="
+  position: absolute; 
+  top: 30px;
+  left: -50px;
+      width: 24px; 
+      height: 24px; 
+      cursor: pointer; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center; 
+      margin-right: 10px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-bag-x" viewBox="0 0 16 16">
+      <path fill-rule="evenodd" d="M6.146 8.146a.5.5 0 0 1 .708 0L8 9.293l1.146-1.147a.5.5 0 1 1 .708.708L8.707 10l1.147 1.146a.5.5 0 0 1-.708.708L8 10.707l-1.146 1.147a.5.5 0 0 1-.708-.708L7.293 10 6.146 8.854a.5.5 0 0 1 0-.708z"/>
+      <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z"/>
+    </svg>
+  </div>
+  
+  <div class="commercial-titul-site">
+        <img src="img/titul_commercial_site.png" alt="Фоновое изображение">
+    </div></div>
+        <div class="commercial-company" contenteditable="true" id="custom-company">
+            <!-- <p>UTFC.RU / 8 800 350 1234</p> -->
+            <p>ООО «ФЕСТ»</p>
+            <p>ЯРОСЛАВЛЬ, УЛИЦА РЕВОЛЮЦИОННАЯ, ДОМ 30, ОФИС 1</p>
+            <p>8 800 350 12 34</p>
+            <p>sale@utfc.ru</p>
+        </div>
+
+   
+        <div class="commercial-titul-logo">
+        <img src="img/titul_commercial_1.png" alt="Фоновое изображение">
+    </div> 
+
+
+    </div>
+
+    <!-- <div class="a4-container">
+       Таблица товаров -->
+
+       
+        <div class="commercial-table-container">
+
+
+            <div class="commercial-titul-site">
+        <img src="img/titul_commercial_site.png" alt="Фоновое изображение">
+    </div>
+          <div class="commercial-company" contenteditable="true" id="custom-company">
+            <!-- <p>UTFC.RU / 8 800 350 1234</p> -->
+            <p>ООО «ФЕСТ»</p>
+            <p>ЯРОСЛАВЛЬ, УЛИЦА РЕВОЛЮЦИОННАЯ, ДОМ 30, ОФИС 1</p>
+            <p>8 800 350 12 34</p>
+            <p>sale@utfc.ru</p>
+        </div>
+            <table class="commercial-table">
+                <thead>
+                    <tr>
+                        <th>N</th>
+                        <th>Наименование</th>
+                        <th>Кол-во</th>
+                        <th>Цена с НДС 22%</th>
+                        <th>Сумма с НДС 22%</th>
+                    </tr>
+                </thead>
+                <tbody id="commercial-table-body"></tbody>
+            </table>
+        </div>
+
+    </div> 
+
+    <!-- Блоки товаров -->
+    <div id="commercial-products"></div>
+
+    <div class="a4-container">
+        <!-- Завершающая страница -->
+
+          <div class="commercial-date" contenteditable="true">
+                <span id="current-date"></span>
+            </div>
+        <div class="commercial-conditions">
+             <div class="commercial-titul-site">
+        <img src="img/titul_commercial_site.png" alt="Фоновое изображение">
+    </div>
+
+      <div class="commercial-company" contenteditable="true" id="custom-company">
+            <!-- <p>UTFC.RU / 8 800 350 1234</p> -->
+            <p>ООО «ФЕСТ»</p>
+            <p>ЯРОСЛАВЛЬ, УЛИЦА РЕВОЛЮЦИОННАЯ, ДОМ 30, ОФИС 1</p>
+            <p>8 800 350 12 34</p>
+            <p>sale@utfc.ru</p>
+        </div>
+        
+<div class="conditions" contenteditable="true" id="custom-conditions">
+            <p>- Доставка, сборка, погрузо-разгрузочные работы, вывоз мусора включены в стоимость изделия.</p>
+            <p>- Вся мебель новая, не бывшая в употреблении.</p>
+            <p>- Гарантия 12 месяцев.</p>
+            <p>- Срок действия коммерческого предложения: в течение 30 рабочих дней с момента согласования.</p>
+            <p>- Условия оплаты: в безналичной форме, в российских рублях на основании счета.</p>
+            <p>- Срок доставки товара: в течение 3-х рабочих дней с момента оплаты счета.</p>
+</div>
+
+                   
+        </div>
+<!-- <div class="fax" style="position: relative;">
+  <img id="fax-image" src="img/fax.png" alt="Фоновое изображение" style="position: absolute; bottom: -700px; left:-30px; width: 200px; height: auto; cursor: move;">
+  <button id="change-fax-image" style="position: absolute; bottom: -600px; left:100px;">Заменить изображение</button>
+  <input type="file" id="file-input" accept="image/*" style="display: none;">
+  Для масштабирования добавим "ручку" -->
+  <!-- <div id="resize-handle" style="width: 20px; height: 20px; background: #333; position: absolute; right: 0; bottom: 0; cursor: se-resize;"></div>
+</div> -->
+
+<div class="fax" style="position: relative;">
+  <img id="fax-image" src="img/fax.png" alt="Фоновое изображение" style="position: absolute; bottom: -700px; left:-30px; width: 200px; height: auto; cursor: move;">
+  <input type="file" id="file-input" accept="image/*" style="display: none;">
+  
+  <!-- Контейнер с ручкой и кнопкой удаления -->
+  <div style="
+    position: absolute; 
+    bottom: -680px; 
+    left: 650px; 
+    display: flex; 
+    align-items: center; 
+    gap: 8px;"> <!-- Расстояние между иконками -->
+
+    <!-- Иконка изменения размера -->
+    <div id="resize-handle" style="
+      width: 24px; 
+      height: 24px; 
+      cursor: se-resize; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center;">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrows-fullscreen" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/>
+</svg>
+    </div>
+
+    <!-- Иконка удаления -->
+    <div id="delete-icon" style="
+      width: 24px; 
+      height: 24px; 
+      cursor: pointer; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center;">
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-bag-x" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M6.146 8.146a.5.5 0 0 1 .708 0L8 9.293l1.146-1.147a.5.5 0 1 1 .708.708L8.707 10l1.147 1.146a.5.5 0 0 1-.708.708L8 10.707l-1.146 1.147a.5.5 0 0 1-.708-.708L7.293 10 6.146 8.854a.5.5 0 0 1 0-.708z"/>
+  <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z"/>
+</svg>
+    </div>
+  </div>
+</div>
+        <div class="commercial-signature" contenteditable="true" id="custom-signature">
+            <p>Поставщик: ООО «ФЕСТ»</p>           
+        </div>
+                <div class="dir" contenteditable="true" id="custom-dir">
+            <p>Генеральный директор</p>
+        </div>
+        <div class="name_dir" contenteditable="true" id="custom-name_dir">
+            <p>Коротков А.Е.</p>
+        </div>
+
+        <div class="footer">
+            <p><span class="page-number"></span></p>
+        </div>
+
+    </div>
+
+    <button id="generateOffer">Сформировать PDF</button>
+    
+
+    <script>
+// Устанавливаем текущую дату для всех элементов с классом commercial-date
+document.querySelectorAll('.commercial-date span').forEach(el => {
+    el.textContent = new Date().toLocaleDateString('ru-RU');
+});
+
+document.getElementById('delete-icon-blocks').addEventListener('click', () => {
+    // Удаляем все элементы с классом 'commercial-titul-site'
+    document.querySelectorAll('.commercial-titul-site').forEach(elem => elem.remove());
+  });
+
+  document.getElementById('delete-icon-logo').addEventListener('click', () => {
+    // Удаляем все элементы с классом 'commercial-titul-site'
+    document.querySelectorAll('.commercial-logo').forEach(elem => elem.remove());
+  });
+
+// document.getElementById('change-fax-image').addEventListener('click', () => {
+//   document.getElementById('file-input').click();
+// });
+
+// const img = document.getElementById('fax-image');
+
+const img = document.getElementById('fax-image');
+const fileInput = document.getElementById('file-input');
+
+// При клике на изображение вызываем скрытый input
+img.addEventListener('click', () => {
+  fileInput.click();
+});
+
+// Обработка выбора файла
+fileInput.addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (file && file.type.startsWith('image/')) {
+    const reader = new FileReader();
+    reader.onload = () => {
+      img.src = reader.result;
+    };
+    reader.readAsDataURL(file);
+  }
+});
+const container = document.querySelector('.fax');
+const resizeHandle = document.getElementById('resize-handle');
+
+let isDragging = false;
+let isResizing = false;
+let startX, startY, startWidth, startHeight, startLeft, startTop;
+
+// Перемещение
+img.addEventListener('mousedown', (e) => {
+  isDragging = true;
+  startX = e.clientX;
+  startY = e.clientY;
+  startLeft = parseInt(window.getComputedStyle(img).left);
+  startTop = parseInt(window.getComputedStyle(img).top);
+});
+
+document.addEventListener('mouseup', () => {
+  isDragging = false;
+});
+
+document.addEventListener('mousemove', (e) => {
+  if (isDragging) {
+    const dx = e.clientX - startX;
+    const dy = e.clientY - startY;
+    img.style.left = startLeft + dx + 'px';
+    img.style.top = startTop + dy + 'px';
+  }
+});
+
+// Масштабирование
+resizeHandle.addEventListener('mousedown', (e) => {
+  isResizing = true;
+  startX = e.clientX;
+  startY = e.clientY;
+  startWidth = parseInt(window.getComputedStyle(img).width);
+  startHeight = parseInt(window.getComputedStyle(img).height);
+  e.stopPropagation(); // чтобы не запускался drag
+});
+
+document.addEventListener('mouseup', () => {
+  isResizing = false;
+});
+
+document.addEventListener('mousemove', (e) => {
+  if (isResizing) {
+    const dx = e.clientX - startX;
+    const dy = e.clientY - startY;
+    // Можно масштабировать пропорционально или отдельно по ширине/высоте
+    const newWidth = startWidth + dx;
+    const newHeight = startHeight + dy;
+    if (newWidth > 50 && newHeight > 50) { // минимальный размер
+      img.style.width = newWidth + 'px';
+      img.style.height = 'auto'; // или задать фиксированную высоту
+    }
+  }
+});
+
+document.getElementById('file-input').addEventListener('change', (event) => {
+  const file = event.target.files[0];
+  if (file && file.type.startsWith('image/')) {
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      document.getElementById('fax-image').src = e.target.result;
+    };
+    reader.readAsDataURL(file);
+  }
+});
+
+ // Обработчик для удаления изображения
+  document.getElementById('delete-icon').addEventListener('click', function() {
+    const img = document.getElementById('fax-image');
+    const handleContainer = this.parentElement; // контейнер с иконками
+
+    // Можно скрыть изображение и убрать иконки
+    if (img) {
+      img.style.display = 'none';
+    }
+    handleContainer.style.display = 'none';
+  });
+
+        // Функция для получения данных из localStorage
+function getFinalSelectionData() {
+    const finalSelection = JSON.parse(localStorage.getItem('finalSelection')) || {};
+    const result = [];
+
+    Object.entries(finalSelection).forEach(([name, data]) => {
+        // Загружаем изображения из localStorage
+        if (!data.images) {
+            data.images = [];
+        }
+        for (let i = 0; i < 4; i++) {
+            const imageKey = `image_${name}_${i}`;
+            const cachedImage = localStorage.getItem(imageKey);
+            if (cachedImage) {
+                data.images[i] = cachedImage;
+            }
+        }
+
+        result.push({
+            name: name,
+            article_number: data.article_number || '—',
+            finish_type: data.finish_type || '—',
+            finish_type_seat: data.finish_type_seat || '—',
+            Подлокотники: data.Подлокотники || '—',
+            skeleton: data.skeleton || '—',
+            max_load: data.max_load || '—',
+            recommended_load: data.recommended_load || '—',
+            Основание: data.Основание || '—',
+            Газлифт: data.Газлифт || '—',
+            Механизм: data.Механизм || '—',
+            Особенности: data.Особенности || '—',
+            Ролики: data.Ролики || '—',
+            images: data.images || [],
+            count: data.count || 1,
+            CV_PRICE_1: data.CV_PRICE_1 || '—',
+            CV_PRICE_2: data.CV_PRICE_2 || '—',
+            CV_PRICE_3: data.CV_PRICE_3 || '—',
+            Link_arm: data.Link_arm || '#',
+        });
+    });
+
+    return result;
+}
+
+        // Функция для создания строки таблицы
+        function createTableRow(product, index) {
+            const row = document.createElement('tr');
+            const totalPrice = (parseFloat(product.CV_PRICE_1) * product.count).toFixed(2);
+            row.innerHTML = `
+                <td>${index + 1}</td>
+                <td>${product.name}</td>
+                <td>${product.count}</td>
+                <td>${product.CV_PRICE_1} ${product.CV_CURRENCY_1 || 'RUB'}</td>
+                <td>${totalPrice} ${product.CV_CURRENCY_1 || 'RUB'}</td>
+            `;
+            return row;
+        }
+
+        // Функция для генерации QR-кода
+        function generateQRCode(url, elementId) {
+            const qrContainer = document.getElementById(elementId);
+            if (!qrContainer) {
+                console.error(`Элемент с id="${elementId}" не найден!`);
+                return;
+            }
+            qrContainer.innerHTML = '';
+            if (!url || url === '#') {
+                const placeholder = document.createElement('img');
+                placeholder.src = 'img/utfc.svg';
+                placeholder.alt = 'Нет ссылки';
+                placeholder.style.width = '60px';
+                placeholder.style.height = '60px';
+                placeholder.style.backgroundColor = '#f0f0f0';
+                placeholder.style.display = 'block';
+                placeholder.style.cursor = 'pointer';
+                qrContainer.appendChild(placeholder);
+                return;
+            }
+            try {
+                new QRCode(qrContainer, {
+                    text: url,
+                    width: 90,
+                    height: 90,
+                    colorDark: '#000000',
+                    colorLight: '#ffffff',
+                });
+                const qrImage = qrContainer.querySelector('img');
+                if (qrImage) {
+                    qrImage.style.cursor = 'pointer';
+                    qrImage.addEventListener('click', () => {
+                        window.open(url, '_blank');
+                    });
+                }
+            } catch (error) {
+                console.error('Ошибка генерации QR-кода:', error);
+                const placeholder = document.createElement('img');
+                placeholder.src = 'img/utfc.svg';
+                placeholder.alt = 'Ошибка генерации QR';
+                placeholder.style.width = '60px';
+                placeholder.style.height = '60px';
+                placeholder.style.backgroundColor = '#f0f0f0';
+                placeholder.style.display = 'block';
+                placeholder.style.cursor = 'pointer';
+                qrContainer.appendChild(placeholder);
+            }
+        }
+
+        // Функция для создания блока товара (только с непустыми полями)
+async function createCommercialProduct(product, index) {
+    const productDiv = document.createElement('div');
+    productDiv.className = 'commercial-product a4-container';
+
+    const qrId = `qr-${index}-${Math.random().toString(36).substr(2, 9)}`;
+    let imagesHTML = '';
+
+  try {
+    // Фильтруем массив изображений: удаляем пустые и дубликаты
+    let uniqueImages = [];
+    if (product.images && product.images.length > 0) {
+        uniqueImages = product.images
+            .filter(img => img && img.trim() !== "") // Удаляем пустые
+            .filter((img, i, arr) => arr.indexOf(img) === i); // Удаляем дубликаты
+    }
+
+    // Формируем HTML только для уникальных изображений
+    for (let i = 0; i < 3; i++) {
+        let imgUrl;
+        const imgIndex = i === 2 ? 3 : i;
+        const imageKey = `image_${product.name}_${imgIndex}`;
+        const cachedImage = localStorage.getItem(imageKey);
+
+        console.log(`Пробуем загрузить изображение из localStorage по ключу: ${imageKey}, результат: ${cachedImage ? 'найдено' : 'не найдено'}`);
+
+        // Если есть сохранённое изображение в localStorage — используем его
+        if (cachedImage) {
+            imgUrl = cachedImage;
+            // Обновляем объект product, чтобы изображения были в PDF
+            if (!product.images) product.images = [];
+            product.images[imgIndex] = imgUrl;
+        }
+        // Если нет — берём из product.images (если есть)
+        else if (uniqueImages[imgIndex]) {
+            imgUrl = uniqueImages[imgIndex];
+        }
+        // Если нет ни там, ни там — ставим заглушку
+        else {
+            imgUrl = "img/no-photo.png";
+        }
+
+        // Добавляем только если imgUrl не пустой и не заглушка (если уже была)
+        if (imgUrl && imgUrl !== "img/no-photo.png") {
+            imagesHTML += `<img src="${imgUrl}" alt="Изображение ${i + 1}" style="max-width: 280px; max-height: 280px;">`;
+        }
+    }
+
+    // Если не добавилось ни одного изображения — добавляем заглушку
+    if (imagesHTML === '') {
+        imagesHTML = '<img src="img/no-photo.png" alt="Нет фото" style="max-width: 280px; max-height: 280px;">';
+    }
+} catch (e) {
+    console.error("Ошибка при формировании изображений:", e);
+    imagesHTML = '<img src="img/no-photo.png" alt="Ошибка" style="max-width: 280px; max-height: 280px;">';
+}
+
+    const fields = [
+        { label: 'Артикул', value: product.article_number },
+        { label: 'Описание', value: product.full_describe },
+        { label: 'Тип отделки', value: product.finish_type },
+        { label: 'Тип отделки сиденья', value: product.finish_type_seat },
+        { label: 'Подлокотники', value: product.Подлокотники },
+        { label: 'Каркас', value: product.skeleton },
+        { label: 'Нагрузка (рекомендуемая)', value: product.recommended_load ? `${product.recommended_load} кг` : null },
+        { label: 'Нагрузка (максимальная)', value: product.max_load ? `${product.max_load} кг` : null },
+        { label: 'Основание', value: product.Основание },
+        { label: 'Газлифт', value: product.Газлифт },
+        { label: 'Механизм', value: product.Механизм },
+        { label: 'Особенности', value: product.Особенности },
+        { label: 'Ролики', value: product.Ролики },
+    ];
+
+    let detailsHTML = `
+     <div class="commercial-titul-site">
+        <img src="img/titul_commercial_site.png" alt="Фоновое изображение">
+    </div>
+        <h3>${index + 1}. ${product.name}</h3>
+        <div class="commercial-product-images">
+            <div>${imagesHTML}</div>
+            <div id="${qrId}" class="qr-code-container"></div>
+        </div>
+        <div class="commercial-product-details">
+            <p><strong>Количество:</strong> ${product.count}</p>
+            <p><strong>Цена:</strong> ${product.CV_PRICE_1} ${product.CV_CURRENCY_1 || 'RUB'}</p>
+            <p><strong>Сумма:</strong> ${(parseFloat(product.CV_PRICE_1) * product.count).toFixed(2)} ${product.CV_CURRENCY_1 || 'RUB'}</p>
+    `;
+
+    fields.forEach(field => {
+        if (field.value && field.value !== '—' && field.value !== null) {
+            detailsHTML += `<p><strong>${field.label}:</strong> ${field.value}</p>`;
+        }
+    });
+
+    detailsHTML += `</div>`;
+    productDiv.innerHTML = detailsHTML;
+
+    setTimeout(() => {
+        generateQRCode(product.Link_arm, qrId);
+    }, 100);
+
+    return productDiv;
+}
+// Функция для конвертации URL в base64 (с обработкой ошибок)
+async function urlToBase64(url) {
+    try {
+        if (url.startsWith('data:')) {
+            return url; // Уже в формате base64
+        }
+        if (url.startsWith('img/')) {
+            return null; // Локальные изображения не нуждаются в конвертации
+        }
+        const response = await fetch(url, { mode: 'no-cors' });
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        const blob = await response.blob();
+        return new Promise((resolve) => {
+            const reader = new FileReader();
+            reader.onload = () => resolve(reader.result);
+            reader.onerror = () => resolve(null);
+            reader.readAsDataURL(blob);
+        });
+    } catch (e) {
+        console.error("Ошибка загрузки изображения:", url, e);
+        return null;
+    }
+}
+
+// Замена всех изображений с utfc.ru на base64 или локальную заглушку
+async function replaceImagesWithBase64() {
+    const images = document.querySelectorAll('.commercial-product-images img[src^="https://utfc.ru"]');
+    const placeholderUrl = 'img/no-photo.png'; // Локальная заглушка
+
+    for (const img of images) {
+        const base64 = await urlToBase64(img.src);
+        img.src = base64 || placeholderUrl; // Используем base64 или заглушку
+    }
+}
+
+async function replaceExternalImagesWithBase64() {
+    const images = document.querySelectorAll('img[src^="https://"], img[src^="http://"]');
+    for (const img of images) {
+        const base64 = await urlToBase64(img.src);
+        if (base64) {
+            img.src = base64;
+        } else {
+            img.src = 'img/no-photo.png';
+        }
+    }
+}
+
+  // Функция для генерации PDF
+async function generateCommercialOffer() {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF({
+        orientation: 'landscape',
+        unit: 'mm',
+        format: 'a4',
+    });
+
+    // 1. Титульный лист (первый статический контейнер)
+    const titlePage = document.querySelector('.a4-container:first-of-type');
+    const titleCanvas = await html2canvas(titlePage, { scale: 2, useCORS: true, allowTaint: true });
+    const titleImgData = titleCanvas.toDataURL('image/jpeg', 1.0);
+    doc.addImage(titleImgData, 'JPEG', 0, 0, 297, 210);
+
+    // 2. Таблицы товаров (все динамически созданные контейнеры с таблицами)
+    const tablePages = document.querySelectorAll('.commercial-table-container .a4-container');
+    for (const tablePage of tablePages) {
+        doc.addPage();
+        const tableCanvas = await html2canvas(tablePage, { scale: 2, useCORS: true, allowTaint: true });
+        const tableImgData = tableCanvas.toDataURL('image/jpeg', 1.0);
+        doc.addImage(tableImgData, 'JPEG', 0, 0, 297, 210);
+    }
+
+    // 3. Детальные страницы товаров
+    const productPages = document.querySelectorAll('#commercial-products .a4-container');
+    for (const productPage of productPages) {
+        doc.addPage();
+        const productCanvas = await html2canvas(productPage, { scale: 2, useCORS: true, allowTaint: true });
+        const productImgData = productCanvas.toDataURL('image/jpeg', 1.0);
+        doc.addImage(productImgData, 'JPEG', 0, 0, 297, 210);
+    }
+
+    // 4. Завершающая страница (последний статический контейнер)
+    const allPages = document.querySelectorAll('.a4-container');
+    const footerPage = allPages[allPages.length - 1];
+    const footerCanvas = await html2canvas(footerPage, { scale: 2, useCORS: true, allowTaint: true });
+    const footerImgData = footerCanvas.toDataURL('image/jpeg', 1.0);
+    doc.addPage();
+    doc.addImage(footerImgData, 'JPEG', 0, 0, 297, 210);
+
+    
+
+    // Нумерация страниц
+    // for (let i = 2; i <= doc.internal.getNumberOfPages(); i++) {
+    //     doc.setPage(i);
+    //     doc.setFontSize(12);
+    //     doc.setTextColor(255, 255, 255);
+    //     doc.setFillColor(150, 194, 43);
+    //     doc.rect(277, 195, 20, 10, 'F');
+    //     doc.text((i - 1).toString(), 282, 202, { align: 'center' });
+    // }
+    doc.save(`Коммерческое_предложение_${new Date().toISOString().slice(0, 10)}.pdf`);
+}
+
+function updatePageNumbers() {
+    // Удаляем все существующие номера страниц
+    document.querySelectorAll('.page-number-box').forEach(el => el.remove());
+
+    const allPages = document.querySelectorAll('.a4-container');
+    allPages.forEach((page, index) => {
+        if (index === 0) return; // Пропускаем титульный лист
+        const pageNumberBox = document.createElement('div');
+        pageNumberBox.className = 'page-number-box';
+        pageNumberBox.innerHTML = `<span class="page-number-text">${index}</span>`;
+        page.appendChild(pageNumberBox);
+    });
+}
+// Загружаем данные из localStorage и отображаем их на странице
+async function loadAndDisplayProducts() {
+    const data = getFinalSelectionData();
+    const tableBody = document.getElementById('commercial-table-body');
+    const productsContainer = document.getElementById('commercial-products');
+
+    if (data.length === 0) {
+        productsContainer.innerHTML = '<p>Нет выбранных товаров.</p>';
+        return;
+    }
+
+    // Очищаем контейнер для таблиц
+    const tablePagesContainer = document.querySelector('.commercial-table-container');
+    tablePagesContainer.innerHTML = '';
+
+    // Разбиваем данные на страницы по 5 строк
+    const rowsPerPage = 5;
+    for (let i = 0; i < data.length; i += rowsPerPage) {
+        const pageData = data.slice(i, i + rowsPerPage);
+
+        // Создаём новый контейнер для страницы
+        const pageContainer = document.createElement('div');
+        pageContainer.className = 'a4-container';
+
+        // Копируем заголовок и логотип на каждую страницу
+        pageContainer.innerHTML = `
+            <div class="commercial-titul-site">
+                <img src="img/titul_commercial_site.png" alt="Фоновое изображение">
+            </div>
+            <div class="commercial-company" contenteditable="true">
+                <p>ООО «ФЕСТ»</p>
+                <p>ЯРОСЛАВЛЬ, УЛИЦА РЕВОЛЮЦИОННАЯ, ДОМ 30, ОФИС 1</p>
+                <p>8 800 350 12 34</p>
+                <p>sale@utfc.ru</p>
+            </div>
+        `;
+
+        // Создаём таблицу для текущей страницы
+        const table = document.createElement('table');
+        table.className = 'commercial-table';
+        table.innerHTML = `
+            <thead>
+                <tr>
+                    <th>N</th>
+                    <th>Наименование</th>
+                    <th>Кол-во</th>
+                    <th>Цена с НДС 22%</th>
+                    <th>Сумма с НДС 22%</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        `;
+
+        // Заполняем таблицу строками
+        const tbody = table.querySelector('tbody');
+        pageData.forEach((product, index) => {
+            const row = createTableRow(product, i + index + 1);
+            tbody.appendChild(row);
+        });
+
+        pageContainer.appendChild(table);
+        tablePagesContainer.appendChild(pageContainer);
+    }
+
+    // Заполняем детальные блоки товаров
+    await Promise.all(data.map(async (product, index) => {
+        const productDiv = await createCommercialProduct(product, index);
+        productsContainer.appendChild(productDiv);
+    })).then(() => {
+        updatePageNumbers(); // <-- вызываем после добавления всех страниц
+    });
+}
+// Привязываем функцию к кнопке
+document.getElementById('generateOffer').addEventListener('click', async function() {
+    try {
+        const data = getFinalSelectionData();
+        if (data.length === 0) {
+            alert("Нет товаров для формирования PDF!");
+            return;
+        }
+
+        const productsContainer = document.getElementById('commercial-products');
+        productsContainer.innerHTML = '';
+
+        // Создаём блоки товаров и ждём загрузки изображений
+        const productPromises = data.map(async (product, index) => {
+            const productDiv = await createCommercialProduct(product, index);
+            productsContainer.appendChild(productDiv);
+
+            // Ждём загрузки всех изображений в productDiv
+            await new Promise((resolve) => {
+                const images = productDiv.querySelectorAll('img');
+                let loaded = 0;
+                images.forEach(img => {
+                    if (img.complete) {
+                        loaded++;
+                    } else {
+                        img.addEventListener('load', () => {
+                            loaded++;
+                            if (loaded === images.length) resolve();
+                        });
+                        img.addEventListener('error', () => {
+                            loaded++;
+                            if (loaded === images.length) resolve();
+                        });
+                    }
+                });
+                if (loaded === images.length) resolve();
+            });
+        });
+
+        await Promise.all(productPromises);
+
+         // Обновляем нумерацию страниц в HTML
+        updatePageNumbers();
+
+        // Ждём 1 секунду на случай, если QR-коды ещё грузятся
+        await new Promise(resolve => setTimeout(resolve, 1000));
+// await replaceExternalImagesWithBase64();
+const finalSelection = getFinalSelectionData();
+// Получаем массив изображений из finalSelection
+const images = Object.values(finalSelection).flatMap(item => item.images);
+
+// Находим все изображения на странице, которые нужно заменить
+const imgs = document.querySelectorAll('.commercial-product-images img');
+
+images.forEach((url, index) => {
+  if (imgs[index]) {
+    // Загружаем изображение как blob
+    fetch(url)
+      .then(response => response.blob())
+      .then(blob => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          const base64data = reader.result;
+          imgs[index].src = base64data;
+          // Можно дополнительно сохранить в localStorage
+          localStorage.setItem(`imported_image_${index}`, base64data);
+        };
+        reader.readAsDataURL(blob);
+      })
+      .catch(error => console.error('Ошибка загрузки изображения:', url));
+  }
+});
+
+        // Генерируем PDF
+        await generateCommercialOffer();
+    } catch (error) {
+        console.error("Ошибка при генерации PDF:", error);
+        alert("Не удалось сформировать PDF. Проверьте консоль для деталей.");
+    }
+});
+        // Загружаем и отображаем товары при загрузке страницы
+        window.onload = loadAndDisplayProducts;
+    </script>
+</body>
+</html>

@@ -129,6 +129,7 @@
                position: absolute;
     bottom: 45px;
     left: 300px;
+    z-index: 100;
         }
 
         .name_dir {
@@ -136,6 +137,7 @@
                position: absolute;
     bottom: 45px;
     left: 820px;
+    z-index: 100;
         }
         .commercial-product {
             page-break-inside: avoid;
@@ -217,13 +219,12 @@
            border-radius: 5px;
            z-index: 1000;
 }
-// .fax {
-//     position: absolute;
-//     bottom: -15px;
-//     left:500px;
-
-
-// }
+.fax {
+    position: absolute;
+    bottom: -15px;
+    left:500px;
+    // z-index: 1;
+}
         .no-photo-icon {
   width: 280px;
   height: 280px;

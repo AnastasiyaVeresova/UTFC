@@ -11,3 +11,4 @@
 2026-03-30 16:15:04,314 - ERROR - Ошибка загрузки файла export_file_offer.json: [Errno 2] No such file or directory: 'export_file_offer.json'
 2026-03-30 16:15:04,314 - ERROR - Не удалось загрузить родителей или детей
 2026-03-30 16:19:59,475 - INFO - Файл merged_result.json успешно сохранён
+2026-04-13 10:50:22,845 - INFO - Файл merged_result.json успешно сохранён
