@@ -145,6 +145,26 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Бистро м bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Бистро м gr",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Бистро bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Бистро gr",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
     "name": "Борн с-44 в хром",
     "category": "armchair_rukovoditel",
     "is_archive": false
@@ -210,6 +230,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Ванесса bl",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
     "name": "Венус",
     "category": "chair_cafe_and_bar",
     "is_archive": false
@@ -231,6 +256,11 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Венус ch",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Венус gr",
     "category": "chair_cafe_and_bar",
     "is_archive": false
   },
@@ -276,6 +306,11 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Версаль",
+    "category": "chair_cafe_and_bar",
+    "is_archive": false
+  },
+  {
+    "name": "Версаль ch",
     "category": "chair_cafe_and_bar",
     "is_archive": false
   },
@@ -420,7 +455,17 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Изо пластик bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Изо со столиком",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Изо со столиком bl",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -695,7 +740,17 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Компакт люкс складной gr",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Компакт складной",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Компакт складной gr",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -886,6 +941,11 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Неон bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Неон gr",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -1120,6 +1180,26 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Самба со столиком bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Самба со столиком soft bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Самба bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Самба gr",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Самба gtp пиастра",
     "category": "armchair_personal",
     "is_archive": false
@@ -1206,6 +1286,16 @@ const knownProductsAllFiles = [
   },
   {
     "name": "София со столиком",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "София со столиком bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "София bl",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -1350,6 +1440,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Форум bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Хэнди м-806 black pl",
     "category": "armchair_comfort",
     "is_archive": false
@@ -1361,6 +1456,11 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Честер 4l хром",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Честер 4l bl",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -1395,7 +1495,22 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Чико 4l bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Шелл с-07",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Шелл с-07 bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Шелл с-07 gr",
     "category": "chair_visitors",
     "is_archive": false
   },
