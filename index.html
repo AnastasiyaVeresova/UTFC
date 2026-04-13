@@ -919,40 +919,80 @@ function getFinalSelectionData() {
             return isNaN(numValue) ? null : numValue;
         }
 
-        function normalizeSearchTerm(term) {
-            if (term == null) return '__NOT_SPECIFIED__';
-            term = String(term).toLowerCase().trim();
-            term = term
-                .replace(/люкс|lux|LUX|Lyuks|Lyux|Liuks|Liux|люкc|ЛЮКС/gi, 'люкс')
-                .replace(/полозья|Н_п|Нп|полоз/gi, 'полозья')
-                .replace(/велюр|велютто|velu|velur/gi, 'велюр')
-                .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
-                .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
 
-            if (term.includes('высота не указана') || term.includes('h не указана')) {
-                return '__NOT_SPECIFIED_H__';
-            }
-            if (term.includes('ширина не указана') || term.includes('w не указана')) {
-                return '__NOT_SPECIFIED_W__';
-            }
-            if (term.includes('ширина с подлокотниками не указана') || term.includes('w+ не указана')) {
-                return '__NOT_SPECIFIED_W_PLUS__';
-            }
-            if (term.includes('глубина не указана') || term.includes('d не указана')) {
-                return '__NOT_SPECIFIED_D__';
-            }
-            if (term === 'не указана' || term === 'не указано' || term === 'не указан') {
-                return '__NOT_SPECIFIED__';
-            }
 
-            return term;
-        }
+ function normalizeSearchTerm(term) {
+    if (term == null) return '__NOT_SPECIFIED__';
+
+    // Приводим к строке, делаем нижний регистр и удаляем знаки препинания
+    term = String(term).toLowerCase().trim();
+    term = term.replace(/[.,!?;:"'()\-]/g, ' '); // заменяем знаки препинания на пробелы
+    term = term.replace(/\s+/g, ' '); // убираем лишние пробелы
+
+    // Заменяем вариации слов на стандартные термины
+    term = term
+        .replace(/люкс|lux|LUX|Lyuks|Lyux|Liuks|Liux|люкc|ЛЮКС/gi, 'люкс')
+        .replace(/полозья|Н_п|Нп|полоз/gi, 'полозья')
+        .replace(/велюр|велютто|velu|velur/gi, 'велюр')
+        .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
+        .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
+
+    // Проверки на специальные фразы
+    if (term.includes('высота не указана') || term.includes('h не указана')) {
+        return '__NOT_SPECIFIED_H__';
+    }
+    if (term.includes('ширина не указана') || term.includes('w не указана')) {
+        return '__NOT_SPECIFIED_W__';
+    }
+    if (term.includes('ширина с подлокотниками не указана') || term.includes('w+ не указана')) {
+        return '__NOT_SPECIFIED_W_PLUS__';
+    }
+    if (term.includes('глубина не указана') || term.includes('d не указана')) {
+        return '__NOT_SPECIFIED_D__';
+    }
+    if (term === 'не указана' || term === 'не указано' || term === 'не указан') {
+        return '__NOT_SPECIFIED__';
+    }
+
+    return term;
+}
+
+        // function normalizeSearchTerm(term) {
+        //     if (term == null) return '__NOT_SPECIFIED__';
+        //     term = String(term).toLowerCase().trim();
+        //     term = term
+        //         .replace(/люкс|lux|LUX|Lyuks|Lyux|Liuks|Liux|люкc|ЛЮКС/gi, 'люкс')
+        //         .replace(/полозья|Н_п|Нп|полоз/gi, 'полозья')
+        //         .replace(/велюр|велютто|velu|velur/gi, 'велюр')
+        //         .replace(/модерно|mod|moderno|модерн/gi, 'модерно')
+        //         .replace(/мультиб|мультиблок|МВ|MB/gi, 'мультиблок');
+
+        //     if (term.includes('высота не указана') || term.includes('h не указана')) {
+        //         return '__NOT_SPECIFIED_H__';
+        //     }
+        //     if (term.includes('ширина не указана') || term.includes('w не указана')) {
+        //         return '__NOT_SPECIFIED_W__';
+        //     }
+        //     if (term.includes('ширина с подлокотниками не указана') || term.includes('w+ не указана')) {
+        //         return '__NOT_SPECIFIED_W_PLUS__';
+        //     }
+        //     if (term.includes('глубина не указана') || term.includes('d не указана')) {
+        //         return '__NOT_SPECIFIED_D__';
+        //     }
+        //     if (term === 'не указана' || term === 'не указано' || term === 'не указан') {
+        //         return '__NOT_SPECIFIED__';
+        //     }
+
+        //     return term;
+        // }
 
   // Функция для проверки наличия противоположных слов
 function containsOppositeTerms(str, searchTerm) {
     const oppositesMap = {
-        'регулируемый': ['нерегулируемый', 'фиксированный', 'нерегулируемый'],
-        // добавьте другие пары слов по необходимости
+        'регулируемый': ['нерегулируемый'],
+        'регулируемые': ['нерегулируемые'],
+        'регулируются': ['нерегулируются'],
+        
     };
 
     const key = searchTerm.toLowerCase();
