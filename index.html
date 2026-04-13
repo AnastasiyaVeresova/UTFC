@@ -2272,16 +2272,38 @@ function containsSequence(sourceWords, targetWords) {
 
 
 
-            document.querySelectorAll('.open-card-modal').forEach(button => {
-                button.addEventListener('click', function () {
-                    const category = this.getAttribute('data-category');
-                    const name = this.getAttribute('data-name');
-                    let uniqueName = this.getAttribute('data-unique-name');
-                    uniqueName = uniqueName.charAt(0).toUpperCase() + uniqueName.slice(1).toLowerCase();
-                    const url = `card.html?category=${encodeURIComponent(category)}&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
-                    window.open(url, '_blank');
-                });
-            });
+document.querySelectorAll('.open-card-modal').forEach(button => {
+    button.addEventListener('click', async function () {
+        const category = this.getAttribute('data-category');
+        const name = this.getAttribute('data-name');
+        let uniqueName = this.getAttribute('data-unique-name');
+        uniqueName = uniqueName.charAt(0).toUpperCase() + uniqueName.slice(1).toLowerCase();
+
+        const mainPath = `card.html?category=${encodeURIComponent(category)}&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
+        const archivePath = `card.html?category=${encodeURIComponent(category)}/escape&name=${encodeURIComponent(name)}&unique_name=${encodeURIComponent(uniqueName)}`;
+
+        // Проверка существования архивных файлов
+        let urlToOpen = mainPath;
+        try {
+            const response = await fetch(`products/${category}/${uniqueName}.json`, { method: 'HEAD' });
+            if (!response.ok) {
+                // Проверка в архиве
+                const archiveResponse = await fetch(`products/${category}/escape/${uniqueName}.json`, { method: 'HEAD' });
+                if (archiveResponse.ok) {
+                    urlToOpen = archivePath; // открываем архивную страницу
+                } else {
+                    alert('Файл не найден в основном месте и в архиве');
+                    return;
+                }
+            }
+        } catch (error) {
+            alert('Ошибка при проверке файла');
+            return;
+        }
+
+        window.open(urlToOpen, '_blank');
+    });
+});
         }
 
         

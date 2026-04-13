@@ -1,0 +1,522 @@
+{
+  "namefile": [
+    "Неон gr"
+  ],
+  "name_all": [
+    "Неон"
+  ],
+  "name": [
+    "Неон"
+  ],
+  "unique_name": [
+    "Неон GR"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягким элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- тип покрытия каркаса стула:<br>CH, BL, GR<br>где CH - хромовое блестящее<br>\nBL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>\n- материал облицовки вставки спинки и сиденья стула:<br>ткань (C, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, пластиковых заглушек и крепежных элементов",
+        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Состоит из спинки, ножки-сиденья, двух полос и двух пластин",
+        "<strong>Спинка и ножка-сиденье</strong> изготовлены из стальной трубы круглого сечения Ф20х1,2 мм, полоса - из листового проката или из формованной в полосу трубы Ф16х1,2 мм, пластина - из листового проката",
+        "<strong>Покрытие каркаса</strong>: термореактивная порошковая краска черного или серого цвета, хромовое блестящее. На опорную поверхность ножек каркаса устанавливаются заглушки",
+        "<strong>Спинка</strong> стула состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 25, плотность - 16 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу на 4 самореза",
+        "<strong>Сиденье</strong> состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 25, плотность - 16 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу на 4 самореза",
+        "<strong>Материал</strong> облицовки спинки и сиденья: ткань (C, D, Moderno), ткань-сетка (Е), кожзаменитель (Z), экокожа (S,R)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "",
+          "depth": "",
+          "height": ""
+        },
+        "box_size": "",
+        "transportation": "удобства транспортировки и хранения стул поставляется в собранном виде<br>Упаковка производится по 15 шт. в стопку, которая оборачивается стрейч-пленкой; по 2 стопки на поддоне"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "",
+      "netto": "4,00",
+      "volume": "0,00"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/neon_gr_s0422_01.png",
+      "chair_view": "img/chair_visitors/neon_gr_s0422_02.png",
+      "dimensions": "img/chair_visitors/dimensions/neon_ch_z11_01.png",
+      "box": "img/box_0.png",
+      "additional": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/1d4/1d4602fd80132442365aa96095e71e91.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/791/791b522e509c64b45e53cb02e39f010e.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/9be/140_140_0/4n5e2tdn4t0rzijqtxi8pys2cpvh1f02.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f88/140_140_0/tlproxng6b2640bu4c572benhw7u5tqo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/a56/a569ed7da653191844645055717515c7.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f98/6qbxt48kvwkicgndhfu7q73ncpta5h5p.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/e5d/e5ddd9f27b9a4ebb6ca13665fb9ca042.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42e/42e6c4481d6e1825f4a2de223be6e640.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/124/12488cc5e7825b6c33ec205fee2cf98d.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/d78/140_140_0/3ba7wvg2gzqiy9r0ysvb4teofvkmtp1a.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d78/3ba7wvg2gzqiy9r0ysvb4teofvkmtp1a.webp",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/513/czvvjdqoviwig270vq4cway0pplanznp.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/407/4079580dba1dd4125a68ade982118f69.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/ec8/foo53i69kqejs8ssnd986s6w4asviwhv.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a92/gvois6q8qd90r57fuuqa63luakrj565t.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/8fe/8fe971ab8f219e93061b10b7c0d8208c.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/12e/12eac4cbc8e29ff91e60f48774f510e1.webp",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/766/766c72d058e3535b67624ec955aaa19d.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/6ad/6addfe40dbd34774b5944c4138bca1e4.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/42b/cinoo4yb5qfal1hamdt6wvovctm6jnzh.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9be/4n5e2tdn4t0rzijqtxi8pys2cpvh1f02.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.webp",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/513/140_140_0/czvvjdqoviwig270vq4cway0pplanznp.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ccb/ccb62e3bc40a804259f1514d3bc58182.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/a92/140_140_0/gvois6q8qd90r57fuuqa63luakrj565t.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/2ea/msnd45im44gflyt7inqzxsml12k2opip.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/ac8/ac8e664b9a3470d65f500fc3c38f80ba.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/bfd/70_70_0/izlaee0zqynesrqk3km3oq2xc0hw4dmm.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/f88/tlproxng6b2640bu4c572benhw7u5tqo.webp",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/42c/70_70_0/jz925pmg5qbrojdnbqfj3tl7twxxjiq4.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/017/0170d0f775c6624be53668116b9d9805.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3a5/3a5d425d6688006b1768d11061e38317.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/c95/140_140_0/wc69o0laifkxbgijv72k0voh7mg7pqo8.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/0e7/g9pgdr3ezyx8lllon613x5jd075o2bbs.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c95/wc69o0laifkxbgijv72k0voh7mg7pqo8.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/d82/qfezdo5tvq7f0vk84plfosq0v15pbzw0.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/0e7/140_140_0/g9pgdr3ezyx8lllon613x5jd075o2bbs.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/cff/7ap09d0acqmidkd7x1zc6poqol8jl9hj.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/874/s0crn0h3rauo66tjuarhu5kfl3spau55.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/874/140_140_0/s0crn0h3rauo66tjuarhu5kfl3spau55.png",
+        "https://utfc.ru/upload/resize_cache/iblock/d82/140_140_0/qfezdo5tvq7f0vk84plfosq0v15pbzw0.png",
+        "https://utfc.ru/upload/resize_cache/iblock/cff/140_140_0/7ap09d0acqmidkd7x1zc6poqol8jl9hj.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/194/stj7jy4tgs9fxwl3kzqzzqiitemvavaz.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/194/140_140_0/stj7jy4tgs9fxwl3kzqzzqiitemvavaz.png",
+        "https://utfc.ru/upload/resize_cache/iblock/9e6/140_140_0/m286inpmo819hmeiasujnnp3h60jdmys.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e4a/lqd2p6uhoyo8jkp9ne7tl7optnw99ju0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9e6/m286inpmo819hmeiasujnnp3h60jdmys.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/uf/3b4/bftwvkfw612u3ka4cjieck2yuxk7em5a.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/30c/w1vz37qu3x0tkr82vu4xki8wkdumr5oc.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/551/140_140_0/7lxovp99amakj58n60bxge9xlxlddzqt.png",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/551/7lxovp99amakj58n60bxge9xlxlddzqt.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5ed/xyh4oqnhvmbv8mtv7uoeh30a4h0emmfh.webp",
+        "https://utfc.ru/upload/resize_cache/iblock/30c/140_140_0/w1vz37qu3x0tkr82vu4xki8wkdumr5oc.png",
+        "https://utfc.ru/upload/resize_cache/iblock/e4a/140_140_0/lqd2p6uhoyo8jkp9ne7tl7optnw99ju0.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "810",
+        "max": 810
+      },
+      "headrest_height": {
+        "min": null,
+        "max": null
+      },
+      "seat_to_floor_height": {
+        "min": "490",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "490",
+        "max": null
+      },
+      "seat_depth": {
+        "min": "410",
+        "max": null
+      },
+      "backrest_height": {
+        "max": "330",
+        "min": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": "330"
+      },
+      "seat_width_with_armrests": {
+        "min": "",
+        "max": null
+      },
+      "seat_width": {
+        "max": "370",
+        "min": ""
+      },
+      "diameter_cross": {
+        "max": "445",
+        "min": ""
+      },
+      "runners_width": {
+        "max": "440",
+        "min": ""
+      },
+      "runners_depth": {
+        "max": "430",
+        "min": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "450"
+      },
+      "armrest_height_from_floor": {},
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "seat_depth_km": {},
+      "backrest_height_external": {},
+      "backrest_width_narrow": {
+        "max": "445"
+      },
+      "backrest_width_wide": {
+        "max": "445"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "4",
+      "brutto": "4,3",
+      "package_width": {},
+      "package_depth": {},
+      "package_height": {},
+      "volume": "0",
+      "box_on_pallet": {},
+      "pallet_width": {},
+      "addition": {},
+      "typeofproduct": "монолитный"
+    }
+  ],
+  "skeleton": "монолитный",
+  "minpromtorg": "+",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1148",
+    "IE_NAME": "Стул Неон GR",
+    "IE_PREVIEW_TEXT": "Стул предназначен для баров и кафе, учебных заведений, а также других помещений для ожидания, работы и отдыха. Оснащен широким сиденьем и спинкой. Максимальная нагрузка - 120 кг. ",
+    "IE_DETAIL_TEXT": "Стул предназначен для баров и кафе, учебных заведений, а также других помещений для ожидания, работы и отдыха. Оснащен широким сиденьем и спинкой. Максимальная нагрузка - 120 кг. ",
+    "IP_PROP2": "440",
+    "IP_PROP3": "810",
+    "IP_PROP4": "490",
+    "IP_PROP6": "",
+    "IP_PROP19": "120",
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/5ed/xyh4oqnhvmbv8mtv7uoeh30a4h0emmfh.webp",
+    "IP_PROP31": "",
+    "IP_PROP5": "",
+    "IP_PROP26": "",
+    "IP_PROP27": "",
+    "IP_PROP28": "4,3",
+    "IP_PROP29": "Стрейч-пленка (каркас)",
+    "IP_PROP30": "0,05",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "neon_gr",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://utfc.ru/upload/iblock/f6b/ytjup0w3fu435e8iv9je6cg845dp0ukz.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "op_neon_gr",
+    "IP_PROP42": "wo",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "5060793906ac14749248e1f5b64e4f39",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP54": "utfc",
+    "IP_PROP59": "Нет",
+    "IC_GROUP0": "Стулья",
+    "IC_GROUP1": "",
+    "IC_GROUP2": "",
+    "CP_QUANTITY": "0",
+    "CP_WEIGHT": "0",
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": "1769.00",
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": "1823.00",
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": "1769.00",
+    "CV_CURRENCY_3": "RUB"
+  },
+  "children": [
+    {
+      "IE_XML_ID": "50779",
+      "IE_NAME": "Стул Неон GR S-0401 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": "500",
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/77f/9ci4sbzyubv36sqjo0a7mo9owgoolgwx.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a1e/32q1ht9uhpk8v9gwl3sf554v1cnkekz8.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": "12934",
+      "IP_PROP34": "a_1148",
+      "IP_PROP35": "ГС-00714",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/551/7lxovp99amakj58n60bxge9xlxlddzqt.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e4a/lqd2p6uhoyo8jkp9ne7tl7optnw99ju0.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/194/stj7jy4tgs9fxwl3kzqzzqiitemvavaz.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/30c/w1vz37qu3x0tkr82vu4xki8wkdumr5oc.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/9e6/m286inpmo819hmeiasujnnp3h60jdmys.webp"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0401",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "utfc",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": "0",
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": "0",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": "5",
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": "1769.00",
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": "1823.00",
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": "1769.00",
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": "50780",
+      "IE_NAME": "Стул Неон GR S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": "500",
+      "IE_PREVIEW_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/6b9/lewxw45p554k5w6gpmyy49y2c2zoak5e.webp",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/e59/er04dhn2ujpm2479r3ffjt45sboz9mo4.webp",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": "12935",
+      "IP_PROP34": "a_1148",
+      "IP_PROP35": "ГС-00713",
+      "IP_PROP36": [
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/8fa/tjkvnk6yquiyo778ile4sy16a0hceiaa.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/070/s8k49f8187072olb9v75fvw1q1px9wfn.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/3fe/io4wjbr47df9qm3aj6wwez423gbz50uf.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/c32/oozu3irrugf5bjdfwcmwezbxoziw9x2k.webp",
+        "https://utfc.ru/upload/dev2fun.imagecompress/webp/iblock/a4e/nlhwkhk3l6d9bnvzfqj95ie5p7874jj6.webp"
+      ],
+      "IP_PROP37": "m_11",
+      "IP_PROP38": "s_0422",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP55": "&nbsp;",
+      "IP_PROP61": "",
+      "IC_GROUP0": "",
+      "IP_PROP121": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_GROUP2": "",
+      "CP_QUANTITY": "0",
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": "0",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": "5",
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": "1769.00",
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": "1823.00",
+      "CV_CURRENCY_2": "RUB",
+      "CV_PRICE_3": "1769.00",
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Стул Неон GR производства компании UTFC",
+  "base_name": "Стул Неон GR",
+  "article_number": "ГС-00714",
+  "full_describe": "Стул предназначен для баров и кафе, учебных заведений, а также других помещений для ожидания, работы и отдыха. Оснащен широким сиденьем и спинкой. Максимальная нагрузка - 120 кг.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/neon_gr/",
+  "Основание": "Металлические опоры стула Неон, защитно-декоративное порошковое покрытие серого цвета (BL)",
+  "Подлокотники": "Без подлокотников",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "finish_type": [
+    "Ткань С",
+    "Кожзаменитель Z",
+    "Экокожа Santorini",
+    "-"
+  ],
+  "color": [
+    "Экокожа Santorini S0401 (черный)",
+    "Экокожа Santorini S0402 (белый)",
+    "Экокожа Santorini S0413 (кофейный)",
+    "Экокожа Santorini S0419 (темно-синий)",
+    "Экокожа Santorini S0422 (темно-серый)",
+    "Экокожа Santorini S0427 (слоновая кость)",
+    "Экокожа Santorini S0428 (бежевый)"
+  ],
+  "variant_name": [
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0401 (черный))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0402 (белый))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0413 (кофейный))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0419 (темно-синий))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0422 (темно-серый))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0427 (слоновая кость))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0428 (бежевый))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0401 (черный))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0402 (белый))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0413 (кофейный))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0419 (темно-синий))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0422 (темно-серый))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0427 (слоновая кость))",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0428 (бежевый))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0401 (черный))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0402 (белый))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0413 (кофейный))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0419 (темно-синий))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0427 (слоновая кость))",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0428 (бежевый))",
+    "Стул Неон СН (-, Экокожа Santorini S0401 (черный))",
+    "Стул Неон СН (-, Экокожа Santorini S0402 (белый))",
+    "Стул Неон СН (-, Экокожа Santorini S0413 (кофейный))",
+    "Стул Неон СН (-, Экокожа Santorini S0419 (темно-синий))",
+    "Стул Неон СН (-, Экокожа Santorini S0422 (темно-серый))",
+    "Стул Неон СН (-, Экокожа Santorini S0427 (слоновая кость))",
+    "Стул Неон СН (-, Экокожа Santorini S0428 (бежевый))",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0402 (белый),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0413 (кофейный),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0419 (темно-синий),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0422 (темно-серый),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Стул Неон СН (Ткань С, Экокожа Santorini S0428 (бежевый),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0402 (белый),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0413 (кофейный),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0419 (темно-синий),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0422 (темно-серый),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Стул Неон СН (Кожзаменитель Z, Экокожа Santorini S0428 (бежевый),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0402 (белый),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0413 (кофейный),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0419 (темно-синий),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Стул Неон СН (Экокожа Santorini, Экокожа Santorini S0428 (бежевый),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0402 (белый),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0413 (кофейный),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0419 (темно-синий),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0422 (темно-серый),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0427 (слоновая кость),, )",
+    "Стул Неон СН (-, Экокожа Santorini S0428 (бежевый),, )",
+    "Стул Неон GR (Экокожа Santorini, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон GR (Экокожа Santorini, Экокожа Santorini S0422 (темно-серый),, )",
+    "Стул Неон GR (-, Экокожа Santorini S0401 (черный),, )",
+    "Стул Неон GR (-, Экокожа Santorini S0422 (темно-серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ]
+}
