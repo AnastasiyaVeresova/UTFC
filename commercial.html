@@ -220,9 +220,10 @@
     
 
 <div id="signature-buttons" style="display: flex; gap: 10px;">
-  <button data-signature="first" style="background-color: #3D4555; color: #fff;">ООО Фест</button>
-  <button data-signature="second" style="background-color: #96C22B; color: #fff;">Поставщик 2</button>
+  <button data-signature="first" style="background-color: #555; color: #fff;">ООО Фест</button>
+  <button data-signature="second" style="background-color: #555; color: #fff;">Поставщик 2</button>
   <button data-signature="third" style="background-color: #555; color: #fff;">Поставщик 3</button>
+  <button data-signature="fourth" style="background-color: #555; color: #fff;">Отсутствует</button>
 </div>
 
     <script>
@@ -259,6 +260,12 @@ document.getElementById('delete-icon-blocks').addEventListener('click', () => {
     dir: 'Поставщик 3',
     name_dir: 'Петров П.П.',
     stamp: 'img/fax3.png'
+  },
+  fourth: {
+    signature: '',
+    dir: '',
+    name_dir: '',
+    stamp: ''
   }
 };
 
