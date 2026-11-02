@@ -129,7 +129,8 @@
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -276,7 +277,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/ac4/ac46c2dd760a746e3468b6c96a7b3fdd.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/412/412351869decfb0e0d02b58571d62996.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -543,10 +544,10 @@
       "IP_PROP34": 9409,
       "IP_PROP35": "ЦБ-00022587",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/18e/18e0e71fa5d30bca8ff5146c0c2400f3/883139ff136371f55ce87b268d33e87b.png",
         "https://cdn.utfc.ru/iblock/9d0/9d030d416d416c6718ece7b3d40a8563/186569a563b6fba0e1efe70d162c609d.png",
         "https://cdn.utfc.ru/iblock/b61/b61e930a0491b4b32fcf14cc1cb0aee5/4bd1f2aaafb9e9491db28897f54a464a.png",
         "https://cdn.utfc.ru/iblock/7e5/7e5fc90300c3f321d15d608317622350/5a4f8d084e52fdfea6e4ecd1970d2b24.png",
+        "https://cdn.utfc.ru/iblock/18e/18e0e71fa5d30bca8ff5146c0c2400f3/883139ff136371f55ce87b268d33e87b.png",
         "https://cdn.utfc.ru/iblock/58a/58aa9e8e7ad1606783a92ef822964df5/0c925257c54db0d294c75059b2e006bb.png"
       ],
       "IP_PROP37": "Кожа К01",
@@ -801,10 +802,10 @@
       "IP_PROP34": 9409,
       "IP_PROP35": "ЦБ-00007781",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/7da/7da997ac4698bbea2d5898476432d4d7.png",
         "https://cdn.utfc.ru/iblock/473/4733118d3fc360618aa299d7c6c5906e.png",
         "https://cdn.utfc.ru/iblock/b6f/b6ff48e089b5eea708db7bc17b54e05b.png",
         "https://cdn.utfc.ru/iblock/1a2/1a20b78cdd42dc0f0a88a9c21ce24ce7.png",
+        "https://cdn.utfc.ru/iblock/7da/7da997ac4698bbea2d5898476432d4d7.png",
         "https://cdn.utfc.ru/iblock/1c7/1c7beb02e98638395e800ecdd799961b.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -998,7 +999,7 @@
     "Кресло Комо В дерево (-, Экокожа S-0413 (кофейный),, )",
     "Кресло Комо В дерево (-, Экокожа S-0427 (слоновая кость),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "610",
     "Высота:": "1060-1160",

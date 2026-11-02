@@ -161,7 +161,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -272,7 +273,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/26a/us6txqukrrqk7tds2q3e78alcq5wn1nw.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/7a5/ws5e8py0jgm3me7oecyl9vzgwzca22rm.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -371,10 +372,10 @@
       "IP_PROP34": 11663,
       "IP_PROP35": "ПУ-00030837",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/03a/saa5y6j4c6a9scj9iyb0prgi7ytobsid.png",
         "https://cdn.utfc.ru/iblock/878/tjprhxyfpg237nm9xxieajrhn02qmla1.png",
         "https://cdn.utfc.ru/iblock/3cf/cterfdt4atf3y5wit4qwpd2tn1negnfm.png",
         "https://cdn.utfc.ru/iblock/f4d/3qk8f0gl3chccwl09unk0j1wxr3hjyfz.png",
+        "https://cdn.utfc.ru/iblock/03a/saa5y6j4c6a9scj9iyb0prgi7ytobsid.png",
         "https://cdn.utfc.ru/iblock/65f/ux9jkubulzf97x1x93j2y4tubgdsr90x.png"
       ],
       "IP_PROP37": "Ткань-сетка Е-222",
@@ -413,7 +414,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 18,
+      "CP_QUANTITY": 15,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -438,7 +439,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 44187,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 4,
+      "STORE_AMOUNT_4": 1,
       "CV_PRICE_3": 42900,
       "CV_CURRENCY_3": "RUB"
     }

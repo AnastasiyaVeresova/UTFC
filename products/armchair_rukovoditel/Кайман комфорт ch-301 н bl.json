@@ -204,7 +204,8 @@
         "https://cdn.utfc.ru/iblock/243/2438b48b1687f2da6d7db983bed18704/35194a54ddf6c1a597356936b3e41a05.png",
         "https://cdn.utfc.ru/iblock/a67/a67d613ac8d188d02535f5fb6f50e2a6/2396a1d0e3c226db5fcc97b300c2011d.png",
         "https://cdn.utfc.ru/iblock/309/309b2437520ff03b40c5c5b4f1f1bc4a/0420243b6dd3eb6721663c7d555784aa.png",
-        "https://cdn.utfc.ru/iblock/ac8/ac8d48fe3491c9f708df7994a07191e8/005452ee848894ca8db5ea0bf2b4a4e5.png"
+        "https://cdn.utfc.ru/iblock/ac8/ac8d48fe3491c9f708df7994a07191e8/005452ee848894ca8db5ea0bf2b4a4e5.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -351,7 +352,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/718/7188a0190d1e8cf71da1a8d2aac63905/adbdc4db96a4b0079b0547e6abb42aa2.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/6c0/6c00360108777a29cf3fcaa7c4990dbc/eef8481a253ff00312db01c5a1d92aeb.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -422,11 +423,11 @@
     "STORE_AMOUNT_3": "",
     "CV_QUANTITY_FROM": "",
     "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 0,
+    "CV_PRICE_1": 11150,
     "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 0,
+    "CV_PRICE_2": 11485,
     "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 0,
+    "CV_PRICE_3": 11150,
     "CV_CURRENCY_3": "RUB",
     "STORE_AMOUNT_4": ""
   },
@@ -450,10 +451,10 @@
       "IP_PROP34": 13866,
       "IP_PROP35": "ПУ-00045952",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/046/046dbb6a8499f966786749ed0b1530db/1ffd6559c242a74c1a8fadebd1c88062.png",
         "https://cdn.utfc.ru/iblock/a67/a67d613ac8d188d02535f5fb6f50e2a6/2396a1d0e3c226db5fcc97b300c2011d.png",
         "https://cdn.utfc.ru/iblock/309/309b2437520ff03b40c5c5b4f1f1bc4a/0420243b6dd3eb6721663c7d555784aa.png",
         "https://cdn.utfc.ru/iblock/243/2438b48b1687f2da6d7db983bed18704/35194a54ddf6c1a597356936b3e41a05.png",
+        "https://cdn.utfc.ru/iblock/046/046dbb6a8499f966786749ed0b1530db/1ffd6559c242a74c1a8fadebd1c88062.png",
         "https://cdn.utfc.ru/iblock/28f/28f892c55cc5e84a20e0d8d7f2121b5c/a059b77d032971a986d8f1ad9bd3bbd5.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -513,12 +514,12 @@
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 0,
+      "CV_PRICE_1": 11150,
       "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 0,
+      "CV_PRICE_2": 11485,
       "CV_CURRENCY_2": "RUB",
       "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 0,
+      "CV_PRICE_3": 11150,
       "CV_CURRENCY_3": "RUB"
     },
     {
@@ -540,10 +541,10 @@
       "IP_PROP34": 13866,
       "IP_PROP35": "ПУ-00045953",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/750/75095954646a6eedd9cbbededab14e61/5fbe3567b8b11988024eacbc551d5fa3.png",
         "https://cdn.utfc.ru/iblock/623/6239e979bfc47f0347f81277a22f5191/3021dfe192a88d5626c172977669a59a.png",
         "https://cdn.utfc.ru/iblock/7bc/7bcb312bb4b967f801dee4e733a7ab25/fda6af5edff608941dc03db8e4a7db1d.png",
         "https://cdn.utfc.ru/iblock/82d/82d98e8c6dc8a36a2078ae34c62c8163/d098bb534cad37cef9dbdafd4d1482f3.png",
+        "https://cdn.utfc.ru/iblock/750/75095954646a6eedd9cbbededab14e61/5fbe3567b8b11988024eacbc551d5fa3.png",
         "https://cdn.utfc.ru/iblock/714/7141c41d3dd417008da22bf6c81fbc02/55facb625cf6edadbaa38e95a1611f3e.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -603,12 +604,12 @@
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 0,
+      "CV_PRICE_1": 11150,
       "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 0,
+      "CV_PRICE_2": 11485,
       "CV_CURRENCY_2": "RUB",
       "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 0,
+      "CV_PRICE_3": 11150,
       "CV_CURRENCY_3": "RUB"
     }
   ],
@@ -665,7 +666,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

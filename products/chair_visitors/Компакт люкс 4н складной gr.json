@@ -148,7 +148,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/a51/a5111b3e4f6ed5c2e2cd64a9fb89b57f/9fd1f8ae25cc510c05b381faaf3d44bc.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -281,7 +282,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,
@@ -325,7 +326,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/06b/06b7c366c38ea5671b75aa20c6729ec5/84a5f6e13d5f0b984deb7d5e59b6a0f0.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/2ab/2ab0c7e44aaba0236c6d1f2218de573f/450e48bfdb6afa4c13f06291cf5b9453.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -424,10 +425,10 @@
       "IP_PROP34": 13526,
       "IP_PROP35": "ПУ-00043344",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/028/02885f36a1b443cbf23697946fe54ef2/7e41588d66276ac9520d91704cf8997b.png",
         "https://cdn.utfc.ru/iblock/ebe/ebee52b01abce79a72d66418413a8368/09aae05ffd075435d1e0edb7d774c055.png",
         "https://cdn.utfc.ru/iblock/ebf/ebf5edfa4aa9f9e1c46be532919f12a4/091ddb1a36f30bdec89ad5c00a0ec472.png",
         "https://cdn.utfc.ru/iblock/44a/44ab6a3e4aba0e5d2e6588b7161a2f3e/c2b6969c8a96c47837e8a9b8eda43451.png",
+        "https://cdn.utfc.ru/iblock/028/02885f36a1b443cbf23697946fe54ef2/7e41588d66276ac9520d91704cf8997b.png",
         "https://cdn.utfc.ru/iblock/660/660cbde27175e3cc3aa724c63c78ce49/30af2aa5b9329ab3cedde0a4cec6e16c.png"
       ],
       "IP_PROP37": "Ткань Velutto",

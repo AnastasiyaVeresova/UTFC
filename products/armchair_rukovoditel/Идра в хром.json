@@ -138,7 +138,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -285,7 +286,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/ed1/ed10b8b6c6af2e5ca9535707705dea8c/ee30274ad50aaa031dc6961390604ade.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/b93/b93cdfff1eb03fbb67f81f20a2e8b17a/09847a9d9b1bfd0ecaef5e413ae207cc.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -384,10 +385,10 @@
       "IP_PROP34": 7840,
       "IP_PROP35": "ЦБ-00007605",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/4fa/4fa6be89ad65d1e714d8d0ec1cff3cc9/05c32d31a2d460e8ea416a2cec21cbde.png",
         "https://cdn.utfc.ru/iblock/b12/b12daf496b1cdac74ebdcc57c998629e/b3b8ad8dbd247bd7a85d8f42e23719ee.png",
         "https://cdn.utfc.ru/iblock/34d/34dfcbfc8061d058ea9bee60819df40f/5ac35168485649f488190c9251b5f947.png",
         "https://cdn.utfc.ru/iblock/231/2312d3934520e910c0179d508c96b969/5ce50a69c80f2da0ad0ee0ff09d8d5f7.png",
+        "https://cdn.utfc.ru/iblock/4fa/4fa6be89ad65d1e714d8d0ec1cff3cc9/05c32d31a2d460e8ea416a2cec21cbde.png",
         "https://cdn.utfc.ru/iblock/b67/b67633f44b3302e7d7288a43e2b479d8/28a8a1b2118cdcbca0d59594f3abe547.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -1585,7 +1586,7 @@
     "Кресло Идра В хром (Ткань Moderno, Кожзаменитель Z21 (бежевый),, )",
     "Кресло Идра В хром (-, Кожзаменитель Z11 (черный),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "650",
     "Высота:": "1185-1285",

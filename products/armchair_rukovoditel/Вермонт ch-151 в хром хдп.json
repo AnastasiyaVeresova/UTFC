@@ -184,7 +184,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -328,7 +329,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/ddb/b229hl8c0tivrsnr1e8js62gk5fwoo04.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/e84/2qyxcc7ojpaelr81aowst01r4ubf1bgy.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -427,10 +428,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ЦБ-00006990",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/d56/d4b9pbb1muynuu1i5lrfvaqtuk5z12m0.png",
         "https://cdn.utfc.ru/iblock/8a9/f82wjtq37fr4ma3i8d1g5wmxc3tg11y3.png",
         "https://cdn.utfc.ru/iblock/c89/dmqoyqzdb1bhcja4mngsygiyxcs5h3q6.png",
         "https://cdn.utfc.ru/iblock/310/e7hgeprf3uiydarfho7oo1ruj471rhm5.png",
+        "https://cdn.utfc.ru/iblock/d56/d4b9pbb1muynuu1i5lrfvaqtuk5z12m0.png",
         "https://cdn.utfc.ru/iblock/2fd/oykr0stv8d1vlamvqxeuu5o1jcywg75g.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -469,7 +470,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 1,
+      "CP_QUANTITY": 0,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -487,7 +488,7 @@
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
       "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 1,
+      "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 13803,
@@ -517,10 +518,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ЦБ-00006994",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/3bc/4sxkkk8xeea2brjc5hxw4b7it2ma3if7.png",
         "https://cdn.utfc.ru/iblock/7ab/f0nztuter6gt5gm2615nywkqvkkecmr8.png",
         "https://cdn.utfc.ru/iblock/47b/ejptic7xeb09g7g4y50ewv516d1sqxgt.png",
         "https://cdn.utfc.ru/iblock/654/r830bkpap3d4jfukq2kehexg39sef120.png",
+        "https://cdn.utfc.ru/iblock/3bc/4sxkkk8xeea2brjc5hxw4b7it2ma3if7.png",
         "https://cdn.utfc.ru/iblock/d92/340se2h4w6xtayzyuorlmjjopd6xk2xi.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -607,10 +608,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ЦБ-00006995",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/d08/2lh4c4i3rb6cei2lzz16s5kla3ie14u1.png",
         "https://cdn.utfc.ru/iblock/284/5xcruqhjl2mrrd7ek71a00692cv5aa26.png",
         "https://cdn.utfc.ru/iblock/787/k4ynn2904y7d028h11sudxwylfe1n7ka.png",
         "https://cdn.utfc.ru/iblock/a63/3x0zwrs5gf314n2a0gc6b3hn5u9buqis.png",
+        "https://cdn.utfc.ru/iblock/d08/2lh4c4i3rb6cei2lzz16s5kla3ie14u1.png",
         "https://cdn.utfc.ru/iblock/fbd/af0rxkrhl8ufs660vr7qb7rp8xktdkqx.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -697,10 +698,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ЦБ-00006996",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/806/zoc3bdlm9bab4v16tjgb1594kksrapi3.png",
         "https://cdn.utfc.ru/iblock/a25/vzlz7jgcce98p7apgqecf88w7ilm960c.png",
         "https://cdn.utfc.ru/iblock/723/guhfdwb4e2vkqbq5zbx1hnl720dgz0ly.png",
         "https://cdn.utfc.ru/iblock/69d/43ev2s8y5f5bw4a1o2nps69jxv6b4w83.png",
+        "https://cdn.utfc.ru/iblock/806/zoc3bdlm9bab4v16tjgb1594kksrapi3.png",
         "https://cdn.utfc.ru/iblock/15a/n5bymq6rp4ekgtg3y1eroj89g2aox2rt.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -787,10 +788,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ЦБ-00006997",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/276/6u9pnc4n0aczftdxmo38b5ajltk6d9h7.png",
         "https://cdn.utfc.ru/iblock/415/8ypndxn3sh4fpmalbo94ga441oayas2f.png",
         "https://cdn.utfc.ru/iblock/2e9/5vskupecy8vbozc4kmb0j9k1rzjuhwq7.png",
         "https://cdn.utfc.ru/iblock/ef2/oofntgay2yx40izttjmyxnpyvy0l73jm.png",
+        "https://cdn.utfc.ru/iblock/276/6u9pnc4n0aczftdxmo38b5ajltk6d9h7.png",
         "https://cdn.utfc.ru/iblock/01a/9d3lrfhg3yqgvmhz205qoywum298wy4c.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -877,10 +878,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ПУ-00030345",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/a33/ac8w2u6veza1ab7bjwznvya2lgy9uyj3.png",
         "https://cdn.utfc.ru/iblock/5e6/63l9mkdlevnnma8wap2u095x9n19gqp6.png",
         "https://cdn.utfc.ru/iblock/f67/e0m9c2zrnfyglzaras6ah1umipmzc8fl.png",
         "https://cdn.utfc.ru/iblock/929/72hrh5dz8o4jenauy3byidcboetlwkcs.png",
+        "https://cdn.utfc.ru/iblock/a33/ac8w2u6veza1ab7bjwznvya2lgy9uyj3.png",
         "https://cdn.utfc.ru/iblock/b06/71ktk9iqj8122hkwy47sdshsgwetfr13.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -967,10 +968,10 @@
       "IP_PROP34": 13168,
       "IP_PROP35": "ПУ-00031987",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/479/r0v1k6qawswhar8vs8k4crrj2s48hh20.png",
         "https://cdn.utfc.ru/iblock/632/s1ho7i028oq1gosckj2ht8tnwo2k5zgs.png",
         "https://cdn.utfc.ru/iblock/637/2cnwufd6v1v70oaa8mo8fnjt2bk78pc7.png",
         "https://cdn.utfc.ru/iblock/b57/fucje6tzmahlul8z563fw1a3d2cgpmvd.png",
+        "https://cdn.utfc.ru/iblock/479/r0v1k6qawswhar8vs8k4crrj2s48hh20.png",
         "https://cdn.utfc.ru/iblock/608/vzcwrzih0mu41h8526dw32yyx9mxd2u8.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -1085,7 +1086,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "670",
     "Высота:": "1145-1245",

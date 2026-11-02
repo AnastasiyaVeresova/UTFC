@@ -122,7 +122,9 @@
         "https://cdn.utfc.ru/uf/ffe/ffe4e8514edda537f8ad3544275020ae/ad4ae8a22b553ea0e6abd7b1503d6f9b.png",
         "https://cdn.utfc.ru/iblock/1ee/1eebf86dfc0347238ac12f1405f51019/626dbafafb8c5ab672f78fbdc136cf22.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/914/9142fd5c8eb910f7964366af3e24b0f3/a4643a2ffe7c74a61af8732af9477649.png"
+        "https://cdn.utfc.ru/iblock/914/9142fd5c8eb910f7964366af3e24b0f3/a4643a2ffe7c74a61af8732af9477649.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -201,7 +203,7 @@
   "full_describe": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в светло-сером цвете, включая подлокотники и крестовину.",
   "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m825_kato_gr/?offers=13813",
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "Основание": "Пятилучье пластиковое М-825 PL, диаметр 660 мм, (серый)",
   "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-825 Като (серый)",
   "Газлифт": "",
@@ -289,7 +291,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/d15/d156531d9819872d35f74edaf40ff681/56bfd2d5c3baf13d12cc2a212c985dde.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/f14/f140dcf52c671e0761dc42c1fbab9e48/d01cac5ce6f566f3a38e69d923e7101b.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -388,10 +390,10 @@
       "IP_PROP34": 13806,
       "IP_PROP35": "ПУ-00039961",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/bb9/bb9f943c04288cee74b07b521e395b99/beb8b01cd05b515a48c855bc91f4928a.png",
         "https://cdn.utfc.ru/iblock/d0a/d0ad0aebce17cb1c4d5828d01d895e5f/9d31638a2b095befb5627ee36deef7e4.png",
         "https://cdn.utfc.ru/iblock/8c5/8c55cde5574c677e8932f4860e34da6a/999b259d8cd121331a6e3b10080a2016.png",
         "https://cdn.utfc.ru/iblock/7f2/7f2726e5f70bb2b269880208eac0e0f4/af9122bd3e1ff883758c4e2b72cb3d1b.png",
+        "https://cdn.utfc.ru/iblock/bb9/bb9f943c04288cee74b07b521e395b99/beb8b01cd05b515a48c855bc91f4928a.png",
         "https://cdn.utfc.ru/iblock/fbd/fbd27365838ebcd153ee247d964e236b/2d3d571a250532df906698478e651a07.png"
       ],
       "IP_PROP37": "Сетка М-825",
@@ -430,7 +432,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 85,
+      "CP_QUANTITY": 84,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -455,7 +457,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 5562,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 85,
+      "STORE_AMOUNT_4": 84,
       "CV_PRICE_3": 5400,
       "CV_CURRENCY_3": "RUB"
     }

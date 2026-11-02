@@ -113,7 +113,9 @@
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
         "https://cdn.utfc.ru/iblock/7ae/7ae0752828a46f09a7c9e9da810bfbc0/9019e293b7ce8e4eac9e03113b6e880a.png",
         "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-        "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png"
+        "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -192,7 +194,7 @@
   "full_describe": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
   "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m825_kato_bl/?offers=13770",
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "Основание": "Пятилучье пластиковое М-825 PL, диаметр 660 мм, (черный)",
   "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-825 Като (черный)",
   "Газлифт": "",
@@ -274,7 +276,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/16d/16d720bb566cbedffa4dc2bdb1aee117/4ba71f01fd47882e432b8fddaee2e45e.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/c51/c5157ba5efa6e65d17cb43d110d5c174/30d56acfaca3e48b07497fdc5735ee0a.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -373,10 +375,10 @@
       "IP_PROP34": 13769,
       "IP_PROP35": "ПУ-00039959",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
         "https://cdn.utfc.ru/iblock/a7f/a7fb3f857983d9393ac0c53d911615fd/70b3e310b35cea8bb8dcc8ae4b9c29c0.png",
         "https://cdn.utfc.ru/iblock/9f5/9f59d22c15f55e8c12d512cf78b5f85a/cfc8c0b9d8e62ea8882b08241afe0d52.png",
         "https://cdn.utfc.ru/iblock/928/9282d9bc3ca5f47cf5b402d4b6d8b626/aae21556287a298dc8fedea2dc7e3f0a.png",
+        "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
         "https://cdn.utfc.ru/iblock/993/993b3c91577834c9c8abb298dc7df405/9f61506a205cb7e3ddd6ef7144377c55.png"
       ],
       "IP_PROP37": "Сетка М-825",

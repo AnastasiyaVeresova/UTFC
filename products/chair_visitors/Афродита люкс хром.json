@@ -160,7 +160,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/uf/f1f/f1f5da610fb7fd8c67b417d21d8195bb/7e19de63ba4541cf5298fe7971d287eb.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -310,7 +311,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/0fc/0fc9be845bd0bf195759f6d78a32bb63.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/186/1863c094f1842458064e5af835c2953b.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -409,10 +410,10 @@
       "IP_PROP34": 9212,
       "IP_PROP35": "ЦБ-00008817",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.png",
         "https://cdn.utfc.ru/iblock/9f2/mva6z9joa5cv0n6cyb28vdt0nz3x98nt.png",
         "https://cdn.utfc.ru/iblock/b0f/d0wgt4f1r0j18o88h468fpwkzri2r9hy.png",
         "https://cdn.utfc.ru/iblock/431/16ac9bhyteolef4u7g0x9glhu9pdjlki.png",
+        "https://cdn.utfc.ru/iblock/c51/pb4dugnb3y0ud4n1chngury1dgte0l7o.png",
         "https://cdn.utfc.ru/iblock/277/7msq9rr5dn996fgzipsjta3tnxg7drl0.png"
       ],
       "IP_PROP37": "Сетка TW",
@@ -610,7 +611,7 @@
   "color_seat": [
     "Ткань-сетка Е105-к (оранжевый)"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "540",
     "Высота:": "850",

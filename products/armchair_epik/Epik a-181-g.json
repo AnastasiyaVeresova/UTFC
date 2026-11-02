@@ -172,7 +172,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -316,7 +317,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/291/b1z135e6a7lbxvjdau0iguzwl1egue5i.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/dc9/ebsrm0rhk7mezw1pm0v4mz3pu45vgkx9.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -415,10 +416,10 @@
       "IP_PROP34": 12355,
       "IP_PROP35": "ПУ-00030427",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/cda/cdadca22dc3844d46c7502e84ae62855/83ca16c1a95ef29cfbe26869573ae6b3.png",
         "https://cdn.utfc.ru/iblock/d56/d5617bf86401daece52afcc13577a2b2/d5c03d145480cc59fb00505b0ef0c91a.png",
         "https://cdn.utfc.ru/iblock/624/624f81c72a8fb22d44bfe568279d2a4c/82efdaebdd058c037b03622c43203cb6.png",
         "https://cdn.utfc.ru/iblock/07e/07e141161edf350fe6aaa32d106c02fe/894a16697d5237c4152780c64314ba4b.png",
+        "https://cdn.utfc.ru/iblock/cda/cdadca22dc3844d46c7502e84ae62855/83ca16c1a95ef29cfbe26869573ae6b3.png",
         "https://cdn.utfc.ru/iblock/9e1/9e1420ee79cacc4ffc41bf53925ea82b/e8f80d76a0470c01e301a8acdc302363.png"
       ],
       "IP_PROP37": "Кожа натуральная А-181",
@@ -457,7 +458,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 67,
+      "CP_QUANTITY": 45,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -482,7 +483,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 39604,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 58,
+      "STORE_AMOUNT_4": 36,
       "CV_PRICE_3": 38450,
       "CV_CURRENCY_3": "RUB"
     }

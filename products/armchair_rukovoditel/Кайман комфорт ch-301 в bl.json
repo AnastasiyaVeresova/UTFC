@@ -204,7 +204,8 @@
         "https://cdn.utfc.ru/iblock/4df/4df36c6d3e32d8ed791b7d403039f2cc/8a33060488d6b223cc73fd0a8ac9e4fe.png",
         "https://cdn.utfc.ru/iblock/3b3/3b37b23b5ffde4e0487c501dc3319e3b/9b287ee5c25207ae8aae5a107fe8673d.png",
         "https://cdn.utfc.ru/iblock/721/7216b9b980d2b8c0d7979d1dc5abeea0/78e938139fba8c0f162acabccbf0cc79.png",
-        "https://cdn.utfc.ru/iblock/181/1811727657f4bc703d175ca9f877bd37/ce47263129a018726b35249169232cc6.png"
+        "https://cdn.utfc.ru/iblock/181/1811727657f4bc703d175ca9f877bd37/ce47263129a018726b35249169232cc6.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -348,7 +349,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/211/211b094edd3f44b8ee72d23c235c6b17/504ece629ee4fd523af1f37ed82e9f8c.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/8be/8befff80d2cbe03dbbb03e44b3e0ea9f/4b1dde54cf7825dcc5a491af0a63e465.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -419,11 +420,11 @@
     "STORE_AMOUNT_3": "",
     "CV_QUANTITY_FROM": "",
     "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 0,
+    "CV_PRICE_1": 11919,
     "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 0,
+    "CV_PRICE_2": 12277,
     "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 0,
+    "CV_PRICE_3": 11919,
     "CV_CURRENCY_3": "RUB",
     "STORE_AMOUNT_4": ""
   },
@@ -447,10 +448,10 @@
       "IP_PROP34": 13864,
       "IP_PROP35": "ПУ-00044250",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/3b3/3b37b23b5ffde4e0487c501dc3319e3b/9b287ee5c25207ae8aae5a107fe8673d.png",
         "https://cdn.utfc.ru/iblock/721/7216b9b980d2b8c0d7979d1dc5abeea0/78e938139fba8c0f162acabccbf0cc79.png",
         "https://cdn.utfc.ru/iblock/fdc/fdc4a3773ec4048ba77a7a8d881660ed/ac285dc7897a4346e7bc598d0166e0e6.png",
         "https://cdn.utfc.ru/iblock/181/1811727657f4bc703d175ca9f877bd37/ce47263129a018726b35249169232cc6.png",
+        "https://cdn.utfc.ru/iblock/3b3/3b37b23b5ffde4e0487c501dc3319e3b/9b287ee5c25207ae8aae5a107fe8673d.png",
         "https://cdn.utfc.ru/iblock/4df/4df36c6d3e32d8ed791b7d403039f2cc/8a33060488d6b223cc73fd0a8ac9e4fe.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -537,10 +538,10 @@
       "IP_PROP34": 13864,
       "IP_PROP35": "ПУ-00045950",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ad2/ad2203b39d902949ffbafb61a4395941/f120d46933ab50d1a4b88a9bfa0911c4.png",
         "https://cdn.utfc.ru/iblock/0f1/0f1f3fa6ba02943958c83546316ffe90/9db4e8a9d88d4ec3438e9cea016eadb9.png",
         "https://cdn.utfc.ru/iblock/e6e/e6e48c46de77a34bb2f3be7eed8ec089/134b9717bf7e665ae0592fb40e172cc5.png",
         "https://cdn.utfc.ru/iblock/8ec/8ecfaf19637d2b0eec9ff3d99100c6f2/60fbd19c26303ebaf1c032817b53ac0b.png",
+        "https://cdn.utfc.ru/iblock/ad2/ad2203b39d902949ffbafb61a4395941/f120d46933ab50d1a4b88a9bfa0911c4.png",
         "https://cdn.utfc.ru/iblock/0f8/0f8fa560661402e914cdd2e747fcd7a6/d609117f3f9b02431b698edeb9394c25.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -600,12 +601,12 @@
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 0,
+      "CV_PRICE_1": 11919,
       "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 0,
+      "CV_PRICE_2": 12277,
       "CV_CURRENCY_2": "RUB",
       "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 0,
+      "CV_PRICE_3": 11919,
       "CV_CURRENCY_3": "RUB"
     }
   ],
@@ -662,7 +663,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

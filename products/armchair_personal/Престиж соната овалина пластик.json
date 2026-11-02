@@ -174,7 +174,8 @@
         "https://cdn.utfc.ru/iblock/d99/d99fe0a36f075ee9beb55dd20fe5d8f5/e72fe2c09c1cf7bc5755eda88e56057a.png",
         "https://cdn.utfc.ru/iblock/615/6153ed2e1513c79b2f086923af8bfe60/1ef3ebc90005d8f24fb09fc367966c3d.png",
         "https://cdn.utfc.ru/iblock/bd0/bd03e0372123a7d6d6d9c70bd0ed7295/2ad92e94e5d236ffd5f5ad11f0ad0500.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -321,7 +322,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/e8e/e8e1b4be8262c0f18f529a85a938682c/52595afda9796e15798b87388ea2bf31.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/fef/fef4a8926b9739ead3a03a3d77c55c67/0f58598a3984acbdaaea274d8cc6584c.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -420,10 +421,10 @@
       "IP_PROP34": 12403,
       "IP_PROP35": "ПУ-00039105",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/be4/be434751045ba353839b6ba0ed007960/08d2fd2b4ba4a797410c4fc7e0d52fbe.png",
         "https://cdn.utfc.ru/iblock/bd0/bd03e0372123a7d6d6d9c70bd0ed7295/2ad92e94e5d236ffd5f5ad11f0ad0500.png",
         "https://cdn.utfc.ru/iblock/cf6/cf624f834270f33ca1710663c7092b1e/32a76002a24fa5a600494056cf8457eb.png",
         "https://cdn.utfc.ru/iblock/d99/d99fe0a36f075ee9beb55dd20fe5d8f5/e72fe2c09c1cf7bc5755eda88e56057a.png",
+        "https://cdn.utfc.ru/iblock/be4/be434751045ba353839b6ba0ed007960/08d2fd2b4ba4a797410c4fc7e0d52fbe.png",
         "https://cdn.utfc.ru/iblock/615/6153ed2e1513c79b2f086923af8bfe60/1ef3ebc90005d8f24fb09fc367966c3d.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -606,7 +607,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "560",
     "Высота:": "930-1070",

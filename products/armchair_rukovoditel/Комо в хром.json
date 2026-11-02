@@ -130,7 +130,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -277,7 +278,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/194/194ccf1aa13d0c7278a1dd18cf1851a1.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/37c/37c4dbdd2a0be1df9db3610d091cdeef.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -460,10 +461,10 @@
       "IP_PROP34": 9412,
       "IP_PROP35": "ЦБ-00007831",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/001/001cfe0ea47b4e5f8fffc561a4574267.png",
         "https://cdn.utfc.ru/iblock/c48/c4887471791bfd21d4b3d3f5d1260f3d.png",
         "https://cdn.utfc.ru/iblock/3ca/3cada8f0662acd8ab0c46b4c60167cc1.png",
         "https://cdn.utfc.ru/iblock/cf4/cf4f93c3f34525ca7f92bef52ec5cfe4.png",
+        "https://cdn.utfc.ru/iblock/001/001cfe0ea47b4e5f8fffc561a4574267.png",
         "https://cdn.utfc.ru/iblock/ad2/ad21f2bd3b96af10d5ec0c252419820b.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -886,10 +887,10 @@
       "IP_PROP34": 9412,
       "IP_PROP35": "ЦБ-00007842",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/417/417e078c4df4a7081bc230ac4ace4f26/8dd6745517be5b2309b6d90a16412895.png",
         "https://cdn.utfc.ru/iblock/d47/d47b4f8e847cd05a3ed5426f063f6b84/62defa6b773bb100569cf8e3c589a702.png",
         "https://cdn.utfc.ru/iblock/7ee/7eeb5376f244b63d6f6a181186df4049/c7f205c27ebf901d3240713740afd76d.png",
         "https://cdn.utfc.ru/iblock/2de/2defcb57caeb6bbb3c22164fd83b885e/dd3cb599d21ddd744624ec4f3728223c.png",
+        "https://cdn.utfc.ru/iblock/417/417e078c4df4a7081bc230ac4ace4f26/8dd6745517be5b2309b6d90a16412895.png",
         "https://cdn.utfc.ru/iblock/8a4/8a4fe61ee28c33175a0d7d92b1388eb0/4f002e85663435e00bd7ac0b07be9611.png"
       ],
       "IP_PROP37": "Кожа К01",
@@ -1247,7 +1248,7 @@
     "Кресло Комо В хром (Ткань Moderno, Натуральная кожа KLux11 (черный),, )",
     "Кресло Комо В хром (-, Натуральная кожа К21 (бежевый),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "600",
     "Высота:": "1090-1190",

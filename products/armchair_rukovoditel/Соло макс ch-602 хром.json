@@ -192,7 +192,9 @@
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/95e/95e1636a92dc4de9eb870bbae97ab930/7590a2496937121545514954e55bfd44.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -342,7 +344,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/bef/befad67bacd86cc7aa4378abd00983c0/a8ba0fb9fcd04ba09007378c684b84ae.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/1d8/1d88735cb7a46e8e9d358a913f09159e/871ba4c38f8cef28d3b797bee054e963.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -441,10 +443,10 @@
       "IP_PROP34": 13098,
       "IP_PROP35": "ПУ-00042845",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/168/168bef2c789087405b384e3943580b34/ef720752cdf98a9bc7b556a319305a53.png",
         "https://cdn.utfc.ru/iblock/f3f/f3ffe0af8fbae645fc380cc6f029f83e/859f636ad60a4c3fece008f6d8ab756f.png",
         "https://cdn.utfc.ru/iblock/b5c/b5cbc1135bec68019708b8cbc9d4b28a/5efad4a4a1eb28338020d669e15ac401.png",
         "https://cdn.utfc.ru/iblock/b73/b730724208824dc18b566ece64440944/f095366f876c69149a5f166cab70c9b2.png",
+        "https://cdn.utfc.ru/iblock/168/168bef2c789087405b384e3943580b34/ef720752cdf98a9bc7b556a319305a53.png",
         "https://cdn.utfc.ru/iblock/c39/c399d468a5fdfb24c70a4c353e8fcbae/4f4764d7f110d9935b187369c6085d84.png"
       ],
       "IP_PROP37": "Комбинированный S/TW",
@@ -483,7 +485,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
+      "CP_QUANTITY": 2,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -500,7 +502,7 @@
       "CP_VAT_ID": "",
       "CP_VAT_INCLUDED": "N",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_2": 2,
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -531,10 +533,10 @@
       "IP_PROP34": 13098,
       "IP_PROP35": "ПУ-00043553",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/265/265281899fd0080efb4db3bb69392056/eec296855c0da622c7468f3bf498a315.png",
         "https://cdn.utfc.ru/iblock/e32/e32b20ec670cf180f32d9feac046436c/cb74a4e38221a25db6d1e0d715b5695c.png",
         "https://cdn.utfc.ru/iblock/598/598f070365aeb1f7f3f714801c5db627/f21fa2271f297431f426506240b74fba.png",
         "https://cdn.utfc.ru/iblock/238/238dcf6b141ee1e632a0ce19ecd7a941/4ac2021b78f0121007c3c63af9c7b192.png",
+        "https://cdn.utfc.ru/iblock/265/265281899fd0080efb4db3bb69392056/eec296855c0da622c7468f3bf498a315.png",
         "https://cdn.utfc.ru/iblock/ba5/ba584f7acc24d354b9b6328e08262a45/17dc18a929c9fa9a36c759d5aecd05e7.png"
       ],
       "IP_PROP37": "Комбинированный S/TW",
@@ -603,7 +605,7 @@
       "CV_CURRENCY_3": "RUB"
     }
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

@@ -2045,6 +2045,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Utfc онтарио сн-105 в 3d хром Ср",
+    "category": "armchair_rukovoditel",
+    "is_archive": false
+  },
+  {
     "name": "Utfc онтарио сн-105 в пластик хром",
     "category": "armchair_rukovoditel",
     "is_archive": false

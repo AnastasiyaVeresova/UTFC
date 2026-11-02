@@ -179,7 +179,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -351,7 +352,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/f6b/f6b096b32e98408fe92a0b34c2fb85ea/38c4c7212f66dd91443f407b5024fdab.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/595/595fe0ec28b7e83d8f9869386876254b/a9629b766db2ef64edbdd9f1e1e9b16f.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -450,10 +451,10 @@
       "IP_PROP34": 7494,
       "IP_PROP35": "ЦБ-00009992",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
         "https://cdn.utfc.ru/iblock/3a9/3a91ad1effb38f96d5f0c506a82324e0/1adeda9565198f49a2cdb131cecf91ad.png",
         "https://cdn.utfc.ru/iblock/f31/f319dcf6b7d5af2a44855d797b09b467/d7f35f125105930268ab821ff04f18ce.png",
         "https://cdn.utfc.ru/iblock/6c7/6c7f90086b1f903490a4fa906e3481e1/82a66ebfb73f11dedc2d249901b0ab6e.png",
+        "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
         "https://cdn.utfc.ru/iblock/9dc/9dce658160854fc0b72c901f9e296c44/834e0161979c22b7e5700e633653b9ae.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -492,7 +493,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 8,
+      "CP_QUANTITY": 6,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -509,7 +510,7 @@
       "CP_VAT_ID": "",
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 2,
+      "STORE_AMOUNT_2": 0,
       "STORE_AMOUNT_3": 6,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -551,7 +552,7 @@
     ""
   ],
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": true,

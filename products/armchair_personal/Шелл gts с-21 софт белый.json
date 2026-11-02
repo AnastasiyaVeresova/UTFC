@@ -113,7 +113,8 @@
         "https://cdn.utfc.ru/iblock/bc2/bc2166b704579feb802cd10858a30bba.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -224,7 +225,7 @@
   "full_describe": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
   "Link_arm": "https://utfc.ru/catalog/staff_chairs/shell_gts_soft_wh/?offers=13693",
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "Основание": "Пятилучье пластиковое d=580 мм (белый)",
   "Подлокотники": "",
   "Газлифт": "",
@@ -303,7 +304,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/e96/e967bbba0aef91fafc3ee939d8a7a6ec/b0c3d70327601383a1c428bb4ba0ae15.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/0f6/0f6f10fb4c3c09797a3a48af1f00b26b/e07581e5a1762a6bb2829edb2ead7c86.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -402,10 +403,10 @@
       "IP_PROP34": 13690,
       "IP_PROP35": "ПУ-00043831",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/b4a/b4a58a7dfa72223d6df832ee508b942a/818dc42b5d1b807d73014285334ce1a7.png",
         "https://cdn.utfc.ru/iblock/89c/89cdf689c30fc3ee60eca33d978318eb/fda06bd13219e60c9a7b6600eda1dd87.png",
         "https://cdn.utfc.ru/iblock/ef8/ef89e7d846ba818fcddc9a1b6acf9cf9/63369189d803c05b64740d4a2e0bf381.png",
         "https://cdn.utfc.ru/iblock/fae/fae8cf312b6caddd5bb7860edb2e1743/4ed5c9edbad5d6327dbcdf5610a452dd.png",
+        "https://cdn.utfc.ru/iblock/b4a/b4a58a7dfa72223d6df832ee508b942a/818dc42b5d1b807d73014285334ce1a7.png",
         "https://cdn.utfc.ru/iblock/35f/35f18d6ecab3bb20bfd3b4cd0f699d9b/c5997e5e6e7e6e49217687cfa3eee673.png"
       ],
       "IP_PROP37": "Экокожа Santorini",

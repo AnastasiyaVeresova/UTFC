@@ -171,7 +171,8 @@
         "https://cdn.utfc.ru/iblock/93d/93d4f6ab7cd15e75a4ce583ce6cd5ba1/4a52a1298fe719ebd9e7306c8f79cba8.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -315,7 +316,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/143/cni4fi13r2svcthx3e0awkml0ulxjg74.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/030/b7m103kh1ymn4gi2f112bcesrringcac.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -414,10 +415,10 @@
       "IP_PROP34": 12368,
       "IP_PROP35": "ПУ-00033581",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/2d3/2d3f6f725c10733c44d84a7dddb336df/6e14d796eaff0e921413e97edbf25ea5.png",
         "https://cdn.utfc.ru/iblock/eed/eed2c1fbfbe6200428a24d58761ad630/3c0179a8063fe4710e5729b8129d0305.png",
         "https://cdn.utfc.ru/iblock/e81/e810f818db818b7872f741d75f8b27cf/1af289ff2026c9170db0e2b2dcc5465b.png",
         "https://cdn.utfc.ru/iblock/a9c/a9cd0e4ce7b0ae1ff22eedb427b3eda3/d7812b07b82e197e6b10eee5f423f93d.png",
+        "https://cdn.utfc.ru/iblock/2d3/2d3f6f725c10733c44d84a7dddb336df/6e14d796eaff0e921413e97edbf25ea5.png",
         "https://cdn.utfc.ru/iblock/732/7327a787f39bac0dd362297691955390/93cb568232124bb15312cf87d9334567.png"
       ],
       "IP_PROP37": "Экокожа Lux А-155",

@@ -123,7 +123,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -270,7 +271,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/d28/cwfviuo3cqekmcr5wggh9las51u1ug7q.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/3ca/bvxv50l88pu21icmodlsezgxj9p034vh.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -369,10 +370,10 @@
       "IP_PROP34": 8770,
       "IP_PROP35": "ПУ-00038483",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/e86/q8zn4gz9be9slhbjrdii1ttb39bephtr.png",
         "https://cdn.utfc.ru/iblock/6bd/o3nfpo2thlqfiibodfnabn30a8ekgegm.png",
         "https://cdn.utfc.ru/iblock/7a8/gtqb2iap1juewbe5sep1w6725nvi7oqh.png",
         "https://cdn.utfc.ru/iblock/31b/icl4mpuz4jhbsqe64tdw768e1mwbytnr.png",
+        "https://cdn.utfc.ru/iblock/e86/q8zn4gz9be9slhbjrdii1ttb39bephtr.png",
         "https://cdn.utfc.ru/iblock/0ac/nhdcqvkd63spj0cvvys3yzsb29r4h18e.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -459,10 +460,10 @@
       "IP_PROP34": 8770,
       "IP_PROP35": "ПУ-00035587",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/293/poajyq2dpdevjr3h8nu6wvzpjermwa7t.png",
         "https://cdn.utfc.ru/iblock/f20/oylryneczvc2h66w3kifrsobi3a989rh.png",
         "https://cdn.utfc.ru/iblock/eef/ah5fdmni0vt0vax3bnpzu9c0ugp4qay4.png",
         "https://cdn.utfc.ru/iblock/ad1/fjp8s048a3rjauaxixk8m82k7naaaaeq.png",
+        "https://cdn.utfc.ru/iblock/293/poajyq2dpdevjr3h8nu6wvzpjermwa7t.png",
         "https://cdn.utfc.ru/iblock/be0/pxybdhaikyqo0g8kq8vqahuz2t4y0xjn.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -633,10 +634,10 @@
       "IP_PROP34": 8770,
       "IP_PROP35": "ПУ-00037067",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c6f/aprkga1xcbnt2u2u39c9jf394vw6nebe.png",
         "https://cdn.utfc.ru/iblock/cc6/uxmwx1pswgzi2r4jjgbpwkcfs46refeu.png",
         "https://cdn.utfc.ru/iblock/0cb/oxx66lc5rhgp89lbfyl67g3ymfrelc1i.png",
         "https://cdn.utfc.ru/iblock/80f/c5coc0ufdfae2plfds2ntlr92dhuo6p6.png",
+        "https://cdn.utfc.ru/iblock/c6f/aprkga1xcbnt2u2u39c9jf394vw6nebe.png",
         "https://cdn.utfc.ru/iblock/b20/h51epmbwb453rafmwbmyokkxf1260tvy.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -736,7 +737,7 @@
     "Кресло Пилот Н пластик-люкс 727 (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )",
     "Кресло Пилот Н пластик-люкс 727 (-, Экокожа S-0401 (черный),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "635",
     "Высота:": "990-1090",

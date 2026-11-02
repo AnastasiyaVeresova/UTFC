@@ -124,7 +124,8 @@
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/uf/5ff/iydsgd31wz946gqbcpdagffeqc2np4ez.png",
         "https://cdn.utfc.ru/iblock/e54/e54ad5fe3e06b52101cbbde5d3b4494d/707292546664cfff74440e7efeb4c503.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -280,7 +281,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/eb7/eb72c0ce124f91bf0eff8a792ae091ea.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/fad/fadbad9c9020f5ca1843d0848a9ff622.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -1003,7 +1004,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 5,
+      "CP_QUANTITY": 0,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -1021,7 +1022,7 @@
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
       "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 5,
+      "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 4774,
@@ -1135,10 +1136,10 @@
       "IP_PROP34": 7592,
       "IP_PROP35": "ЦБ-00009384",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/a05/tt012j5guk0ojkev9jj36h1cdcyxdbey.png",
         "https://cdn.utfc.ru/iblock/cf8/s8qtpqcpy5rjmjdmq64e35jzl51gb7ka.png",
         "https://cdn.utfc.ru/iblock/93a/hakf62wwyz39us1ql153feeyl085pj0r.png",
         "https://cdn.utfc.ru/iblock/a79/8u1g6nxp0li0nd6by43kvrick4xzr9ws.png",
+        "https://cdn.utfc.ru/iblock/a05/tt012j5guk0ojkev9jj36h1cdcyxdbey.png",
         "https://cdn.utfc.ru/iblock/28b/bwhuarjt9eo015tmhqre8y5y8yyrk66f.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -1393,10 +1394,10 @@
       "IP_PROP34": 7592,
       "IP_PROP35": "ЦБ-00009309",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/662/jjf6m4n5no4ntg1xcmk1sy2iisshn062.png",
         "https://cdn.utfc.ru/iblock/ccb/54lfdedpnh9je7bzsr828kcukw5v1itu.png",
         "https://cdn.utfc.ru/iblock/84f/sq9rc7bw0rho156tiqvbms835h89em3b.png",
         "https://cdn.utfc.ru/iblock/30f/ps3cgnbhbuwkntsoknmsmgaynrjl3dve.png",
+        "https://cdn.utfc.ru/iblock/662/jjf6m4n5no4ntg1xcmk1sy2iisshn062.png",
         "https://cdn.utfc.ru/iblock/2b2/5krwyfd1cg7rmswhwtupra1ngksk9lp3.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -1483,10 +1484,10 @@
       "IP_PROP34": 7592,
       "IP_PROP35": "ПУ-00036916",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/bf6/c05eya2fc2kule44wt32gzq6e2dai8b3.png",
         "https://cdn.utfc.ru/iblock/95f/icwy2v1dyk6q39g9vgduoo1jp32gwks9.png",
         "https://cdn.utfc.ru/iblock/ba0/xbtxekjy29dridzsee1au0mpbx8x1syt.png",
         "https://cdn.utfc.ru/iblock/1b4/hzrkvxbwdjrimj9natf9km7xlb265cuc.png",
+        "https://cdn.utfc.ru/iblock/bf6/c05eya2fc2kule44wt32gzq6e2dai8b3.png",
         "https://cdn.utfc.ru/iblock/8e0/llzllfplg6o42l281dxa0kumn8v39kal.png"
       ],
       "IP_PROP37": "Ткань Moderno",
@@ -1573,10 +1574,10 @@
       "IP_PROP34": 7592,
       "IP_PROP35": "ЦБ-00009353",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/5fa/s7p8ju3jc4vts7y7iwb2k5keo3svvmjd.png",
         "https://cdn.utfc.ru/iblock/95c/qkkorexi4a3epbo5ltk8335i766qtlu8.png",
         "https://cdn.utfc.ru/iblock/033/10j4qz6w2jj74z0bg9myoxjr4nceif5e.png",
         "https://cdn.utfc.ru/iblock/40b/1s49cdknpayi73znjc7lpkueqybud5p8.png",
+        "https://cdn.utfc.ru/iblock/5fa/s7p8ju3jc4vts7y7iwb2k5keo3svvmjd.png",
         "https://cdn.utfc.ru/iblock/b63/hhugh4msnnjjcz21u4778ji5zzsjq1or.png"
       ],
       "IP_PROP37": "Ткань Moderno",
@@ -1793,7 +1794,7 @@
     "Стул Самба СН (-, Кожзаменитель Z21 (бежевый),, )",
     "Стул Самба СН (-, Кожзаменитель Z29 (красный),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "545",
     "Высота:": "870",

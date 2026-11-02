@@ -173,7 +173,8 @@
                 "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
                 "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
                 "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png"
+                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
             ]
         }
     ],
@@ -438,7 +439,7 @@
     "color_seat": [
         "Кожзаменитель Z71 (серый)"
     ],
-    "madeinrf": "Сделано РФ",
+    "madeinrf": "Сделано в РФ",
     "sizes": {
         "Ширина:": "610",
         "Высота:": "910-1010",

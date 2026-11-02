@@ -167,7 +167,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -326,7 +327,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/1d2/1d257e369c3447ffc31fcfe3b5964b87.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/b1a/b1ac2a7949d848d2b7e13e15082aeeaa.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -425,10 +426,10 @@
       "IP_PROP34": 7503,
       "IP_PROP35": "ЦБ-00009978",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/53b/53bda145ba3bbc3c0078bf8d6c2e6f7e.png",
         "https://cdn.utfc.ru/iblock/dec/decff2610ef8160660057636212073d5.png",
         "https://cdn.utfc.ru/iblock/709/709b84c2f9ada1261407156fb09d5001.png",
-        "https://cdn.utfc.ru/iblock/ea6/ea6744f28a0cefabfb9eeb5079d92210.png"
+        "https://cdn.utfc.ru/iblock/ea6/ea6744f28a0cefabfb9eeb5079d92210.png",
+        "https://cdn.utfc.ru/iblock/53b/53bda145ba3bbc3c0078bf8d6c2e6f7e.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
       "IP_PROP38": "Экокожа S-0422 (темно-серый)",
@@ -466,7 +467,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 4,
+      "CP_QUANTITY": 2,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -483,7 +484,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 4,
+      "STORE_AMOUNT_2": 2,
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -524,7 +525,7 @@
     "Кресло М-703 Веста/Vesta dark grey PL (-, Экокожа S-0422 (темно-серый),, )",
     "Кресло М-703 Веста/Vesta dark grey PL (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "800",
     "Высота:": "1140-1240",

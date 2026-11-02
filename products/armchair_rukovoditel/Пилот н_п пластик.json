@@ -176,7 +176,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -323,7 +324,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/0d1/0d1a1d348e377afe3fb2e6ca92aa9ae8.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/7b3/7b3c76c0463f853769cbbc393515682f.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -590,10 +591,10 @@
       "IP_PROP34": 8773,
       "IP_PROP35": "ПУ-00026672",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/103/103d11c3fece426551683d7371289bd2/6779f4755286c9fe8ad4149106024edf.png",
         "https://cdn.utfc.ru/iblock/3e2/3e2ee3ca235d065d87c4922f9bbcae1c/ba190fe27b26bab303e8717c28c6cfaf.png",
         "https://cdn.utfc.ru/iblock/3f4/3f4b38cb19572212622f3640bbb2fe1e/07eec346d5b006ced4145b74a303827b.png",
         "https://cdn.utfc.ru/iblock/102/10254bbc9b613f6ea48e532d52a2f546/77257e58aa36508ba08d86a522fe3be6.png",
+        "https://cdn.utfc.ru/iblock/103/103d11c3fece426551683d7371289bd2/6779f4755286c9fe8ad4149106024edf.png",
         "https://cdn.utfc.ru/iblock/cd1/cd1a2feeea9b5b9200c64d898a843df3/74d3a5fc8f60d7b3f659cfaf3f2eb1fb.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -1114,7 +1115,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "620",
     "Высота:": "1020",

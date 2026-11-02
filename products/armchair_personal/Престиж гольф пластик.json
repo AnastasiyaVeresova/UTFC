@@ -251,7 +251,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -398,7 +399,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/da1/da12a54e9887843b23eb71cb6e3da74f.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/e77/e775bfa672ed38dde804e72720d613a0.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -1589,10 +1590,10 @@
       "IP_PROP34": 7706,
       "IP_PROP35": "ЦБ-00013323",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/8a6/8a641e4e164a35d383c8a99887f93d13.png",
         "https://cdn.utfc.ru/iblock/fe5/fe52aa0328b1e5d7953af6ddd26d920f.png",
         "https://cdn.utfc.ru/iblock/940/940ab7af9741598afed882c1370789bb.png",
         "https://cdn.utfc.ru/iblock/5f6/5f6a5dbb49a686d1443c346f57eadfd4.png",
+        "https://cdn.utfc.ru/iblock/8a6/8a641e4e164a35d383c8a99887f93d13.png",
         "https://cdn.utfc.ru/iblock/990/9900bc57260a04c7f858e00f946c4fd4.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2471,7 +2472,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 21,
+      "CP_QUANTITY": 18,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -2488,7 +2489,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 21,
+      "STORE_AMOUNT_2": 18,
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -3015,7 +3016,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "565",
     "Высота:": "950-1140",

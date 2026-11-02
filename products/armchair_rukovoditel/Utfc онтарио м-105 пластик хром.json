@@ -171,7 +171,8 @@
         "https://cdn.utfc.ru/iblock/ce1/0h20mca74u1wfsyefg3h62dae3qle01o.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -313,7 +314,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/a77/exj4cfh80sd3m7vrdsmn4uesxq4wrp75.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/37e/1zjeuma1j133rgr3byx4yy5votubqxz8.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -412,10 +413,10 @@
       "IP_PROP34": 12063,
       "IP_PROP35": "ПУ-00033566",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ff3/0g488aj90lsh4hl5eycahs1zucdrde42.png",
         "https://cdn.utfc.ru/iblock/3eb/zopuwgmwgz31k5f7k79sg5316gtljdyc.png",
         "https://cdn.utfc.ru/iblock/ce1/0h20mca74u1wfsyefg3h62dae3qle01o.png",
         "https://cdn.utfc.ru/iblock/9c1/zddiqahtb0pjczqdgdgvpzjxny2t20oy.png",
+        "https://cdn.utfc.ru/iblock/ff3/0g488aj90lsh4hl5eycahs1zucdrde42.png",
         "https://cdn.utfc.ru/iblock/f29/tb40r8z3nw2ypmmctyo4d3gwigwb5fct.png"
       ],
       "IP_PROP37": "Искусственная кожа М-105",
@@ -454,7 +455,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 72,
+      "CP_QUANTITY": 36,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -479,7 +480,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 16575,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 62,
+      "STORE_AMOUNT_4": 26,
       "CV_PRICE_3": 16092,
       "CV_CURRENCY_3": "RUB"
     }
@@ -516,7 +517,7 @@
     ""
   ],
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "additional_info": {
     "package_dimensions": {
       "width": "23",

@@ -129,7 +129,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -276,7 +277,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/16a/16a86c0b301c32dfb3d2fa65ec86ee88.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/cd3/cd3bdb78ea8ef85955d3d2a26eee6ab7.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -375,10 +376,10 @@
       "IP_PROP34": 9401,
       "IP_PROP35": "ЦБ-00007572",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/cc3/cc39a5b0c7b49458d92b843848205ba5.png",
         "https://cdn.utfc.ru/iblock/8af/8af4fb184c8e5941ac6d6675b0faa0c0.png",
         "https://cdn.utfc.ru/iblock/99c/99cdaec5515f877e0eedc0d58bf1414e.png",
         "https://cdn.utfc.ru/iblock/170/17043a485a2c95a05e497f3686251848.png",
+        "https://cdn.utfc.ru/iblock/cc3/cc39a5b0c7b49458d92b843848205ba5.png",
         "https://cdn.utfc.ru/iblock/2f1/2f1b57d3dad3b8459d66f2fe190dd5d8.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -801,10 +802,10 @@
       "IP_PROP34": 9401,
       "IP_PROP35": "ЦБ-00007576",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/d40/d4024e63d19bd62800d106e5741f087e/31d469e31ba301aaf0bf871fb48552e4.png",
         "https://cdn.utfc.ru/iblock/499/499f3819fae6e8b310e04532cc0a90ae/7236268c94f9bdbef0849f50946348ce.png",
         "https://cdn.utfc.ru/iblock/0c1/0c18500a33e6885b2fc75b42f72ad828/b7ebb41731743bca4d72622ebefb6dd6.png",
         "https://cdn.utfc.ru/iblock/76f/76f6adf46def2f5f9ca707c222777ce8/6a3a3550e81f723e7d6d7a9d59199e58.png",
+        "https://cdn.utfc.ru/iblock/d40/d4024e63d19bd62800d106e5741f087e/31d469e31ba301aaf0bf871fb48552e4.png",
         "https://cdn.utfc.ru/iblock/21c/21cdace94c7d884200ed6ea8fbe1c2a9/2334debfdc38484e63a0a66a84043c92.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -1255,7 +1256,7 @@
     "Кресло Идра В пластик (-, Кожзаменитель Z19 (темно-синий),, )",
     "Кресло Идра В пластик (-, Кожзаменитель Z21 (бежевый),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "655",
     "Высота:": "1165-1265",

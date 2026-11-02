@@ -124,7 +124,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -271,7 +272,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/8d2/8d2b33a7c11225fdf548d94c0322add3.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/47d/47da8431ec8e6962923b29a0b1cdb60e.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -370,10 +371,10 @@
       "IP_PROP34": 7843,
       "IP_PROP35": "ЦБ-00008117",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/03e/03e2b4cde59c1ad8f93c875e898c728c.png",
         "https://cdn.utfc.ru/iblock/0fd/0fda18cfeaac751f2bb77c8d5f76ce62.png",
         "https://cdn.utfc.ru/iblock/65b/65b0791d94255e675b17fd5c7e791d34.png",
         "https://cdn.utfc.ru/iblock/af7/af76f570f1010869f3a2045c0333317e.png",
+        "https://cdn.utfc.ru/iblock/03e/03e2b4cde59c1ad8f93c875e898c728c.png",
         "https://cdn.utfc.ru/iblock/98f/98f3bf2cc93aa4b86563689f3e761d84.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -902,7 +903,7 @@
     "Кресло Орион В хром (-, Экокожа S-0401 (черный),, )",
     "Кресло Орион В хром (-, Экокожа S-0427 (слоновая кость),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "605",
     "Высота:": "1160-1260",

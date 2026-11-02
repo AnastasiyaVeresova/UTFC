@@ -121,7 +121,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -280,7 +281,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/cf8/cf820c8a22a0322078ccbc336f66c724.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/dc1/dc13e6ec9d5d9e83e02a44c8bafbb86c.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -463,10 +464,10 @@
       "IP_PROP34": 9727,
       "IP_PROP35": "ЦБ-00014101",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/186/1867748fac2f75f747260197cdaafbd5/d54f9385640c624425e5692abcc8eea1.png",
         "https://cdn.utfc.ru/iblock/255/2556b95f69022b20faf10456ed64d8bb/9d275a4a892a4e782804c28ccc570dbc.png",
         "https://cdn.utfc.ru/iblock/954/95403522d37e230b074eb145ba4b6eea/3cbc20f244d154a1a2a834b685e98396.png",
         "https://cdn.utfc.ru/iblock/4e9/4e9b642b626111e37ffa2a7578508c8c/17f898a00f6a26cb4c37b204b0f1d6a9.png",
+        "https://cdn.utfc.ru/iblock/186/1867748fac2f75f747260197cdaafbd5/d54f9385640c624425e5692abcc8eea1.png",
         "https://cdn.utfc.ru/iblock/6e6/6e6501e85d40b801c002801f23a1d072/78dba2a4769d539270efd59872f4dbca.png",
         "https://cdn.utfc.ru/iblock/737/737f1256cc9e0e4fa17e819dd7e2405f/52c95fdfa48186f5a0c8ff1f54cd1973.png",
         "https://cdn.utfc.ru/iblock/526/526f7d9222326752d181076608f19619/0897f7aad60ad05608fb2ba64ae480d0.png",
@@ -711,7 +712,7 @@
   "article_number": "ЦБ-00014095",
   "full_describe": "​​​​​​​Бестселлер в категории \"стулья для посетителей\". Стул для посетителей имеет широкую спинку и сиденье. На каркас стула установлен подлокотник, к которому крепится пластиковый столик. Удобный вариант для проведения семинаров, лекций. Максимальная нагрузка 150 кг.",
   "Link_arm": "https://utfc.ru/catalog/pos_chair/iso_ch_stolik/?offers=9756",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "Основание": "Металлические опоры стула ИЗО, защитно-декоративное покрытие никель-хром (СН),  d = 16 мм",
   "Подлокотники": "Подлокотник ИЗО +16 к столику",
   "Газлифт": "",

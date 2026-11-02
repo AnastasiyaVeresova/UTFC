@@ -166,7 +166,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -308,7 +309,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/ed8/qxfgrl4lm8b91ilonm50ud08m1s4ur9i.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/672/g8g6t0rq6l2c4c66cb9r4agxvvt51xpr.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -407,10 +408,10 @@
       "IP_PROP34": 12061,
       "IP_PROP35": "ПУ-00033576",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/8be/pn3jb03ae7e6gg5j5x8f7y123a96tiyz.png",
         "https://cdn.utfc.ru/iblock/d44/bdjrj6k93jjan05no7g0neldl1aaqo4i.png",
         "https://cdn.utfc.ru/iblock/436/iu5jpfeug6lduoqr1y4r9jf7zm4b4c72.png",
         "https://cdn.utfc.ru/iblock/911/7mu5c4muw3jjv1yq9yv6trcatnoatbir.png",
+        "https://cdn.utfc.ru/iblock/8be/pn3jb03ae7e6gg5j5x8f7y123a96tiyz.png",
         "https://cdn.utfc.ru/iblock/94e/n69xlnvfa966ywuhqs6zxfigzz7lsfqr.png"
       ],
       "IP_PROP37": "Экокожа М-123",
@@ -449,7 +450,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 17,
+      "CP_QUANTITY": 16,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -474,7 +475,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 23806,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 15,
+      "STORE_AMOUNT_4": 14,
       "CV_PRICE_3": 23112,
       "CV_CURRENCY_3": "RUB"
     },
@@ -497,10 +498,10 @@
       "IP_PROP34": 12061,
       "IP_PROP35": "ПУ-00033575",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/f50/plf1muxgsqawd5a34khepoydg9ub1e9n.png",
         "https://cdn.utfc.ru/iblock/e99/h7gohoqqhqp6da743nunsxksi1q078xz.png",
         "https://cdn.utfc.ru/iblock/943/pg8fgf76864hkun64c9v89u1fmrp042d.png",
         "https://cdn.utfc.ru/iblock/b24/1fqf1rjevmspsxo1c0aclnynp8yl0c20.png",
+        "https://cdn.utfc.ru/iblock/f50/plf1muxgsqawd5a34khepoydg9ub1e9n.png",
         "https://cdn.utfc.ru/iblock/e6a/4p18rpmfz2de0a10adgqdo4gwo1crpes.png"
       ],
       "IP_PROP37": "Экокожа М-123",
@@ -601,7 +602,7 @@
     ""
   ],
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "675",
     "Высота:": "1205-1305",

@@ -284,7 +284,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -431,7 +432,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/257/257648d9faff40f99fcf5600e499f38e.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/b13/b13ce1e5f2d451dae733b795adb77167.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -614,10 +615,10 @@
       "IP_PROP34": 8769,
       "IP_PROP35": "ЦБ-00008290",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/edb/edb537196b695cfa7a30db0f1dde2254/e190d0f77f71cec0eed61aa55455b6ad.png",
         "https://cdn.utfc.ru/iblock/1f6/1f6e034253e5607ea3a1966f04a4a420/c0cffb0cb30b04b423a0948aac6b8f3c.png",
         "https://cdn.utfc.ru/iblock/3af/3af67d1b94a24a9732977c303a4c7387/8921dbb38f0a2f396a1707f7d4fbf4bf.png",
         "https://cdn.utfc.ru/iblock/393/3935a098ac27e854003084bb0ecbfa5b/3207170dcb0a7a042b8ec33c566efcfe.png",
+        "https://cdn.utfc.ru/iblock/edb/edb537196b695cfa7a30db0f1dde2254/e190d0f77f71cec0eed61aa55455b6ad.png",
         "https://cdn.utfc.ru/iblock/1ee/1ee723a2979bc7952797de4873fdc610/92c49aa6ad3a5ac821001b2dcaac27c6.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -716,7 +717,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "635",
     "Высота:": "1075-1175",

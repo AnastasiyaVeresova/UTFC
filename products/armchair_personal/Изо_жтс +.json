@@ -184,7 +184,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -331,7 +332,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/20c/20c4070beab8b9d67503f8f95dd06fa5.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/81f/81fd31448d3c98c08f039404403ea703.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -514,10 +515,10 @@
       "IP_PROP34": 9728,
       "IP_PROP35": "ЦБ-00015071",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ac9/ac9b718275dd031848ac0415c15081b3/fb9860d45f32dbc3ecf89d3576eae672.png",
         "https://cdn.utfc.ru/iblock/c5c/c5c66e41d5ac1c563aa8d59723130438/f4e5d804845d6e6224e649c3fcdfa715.png",
         "https://cdn.utfc.ru/iblock/f5d/f5d1e95f41817a5704049fd921c251aa/bfb1b598d24ce0cdb15d40aa3012a32d.png",
         "https://cdn.utfc.ru/iblock/552/552d9c19b79a3a3a791e8a5f6b067e7b/7d9f73aa1dac26a5b9d6fee1b7a414a6.png",
+        "https://cdn.utfc.ru/iblock/ac9/ac9b718275dd031848ac0415c15081b3/fb9860d45f32dbc3ecf89d3576eae672.png",
         "https://cdn.utfc.ru/iblock/903/903e23baf8fdb06f6b9f097c49e1d83a/886010251ae640c62237571876862d6e.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -1040,7 +1041,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "590",
     "Высота:": "795-935",

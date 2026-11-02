@@ -195,7 +195,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -342,7 +343,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/05b/05b0dc7e15d0f56853fe56b76342342e.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/ed7/ed7c8d46263e12a7e2c38d2cc5f6d59a.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -1197,10 +1198,10 @@
       "IP_PROP34": 8110,
       "IP_PROP35": "ЦБ-00013899",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/de0/de0de7775c22c770479f9f3d4293502f/824ff9802d2c8d4d05fd498bc4ff77b7.png",
         "https://cdn.utfc.ru/iblock/28b/28b251a5cb0d5b3fce4a947c0742ac76/b4770b2e33e371f0b8a56e413ea21227.png",
         "https://cdn.utfc.ru/iblock/484/484feef8d7477d8c6ed43b4c1e94a8a3/e4810b2401fcebd8428acc56f41e7fc7.png",
         "https://cdn.utfc.ru/iblock/7f8/7f8ff996d71e8bf364d933788775b7ee/f250355aa187d55324464129592c1332.png",
+        "https://cdn.utfc.ru/iblock/de0/de0de7775c22c770479f9f3d4293502f/824ff9802d2c8d4d05fd498bc4ff77b7.png",
         "https://cdn.utfc.ru/iblock/bc6/bc65113bdbc0656ff4d545e0d8bb2218/836fabc0ce4d36b3bdb3674633c963e2.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -1331,7 +1332,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "370",
     "Высота:": "960-1210",

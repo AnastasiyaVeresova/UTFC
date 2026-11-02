@@ -183,7 +183,8 @@
                 "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
                 "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
                 "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/cc0/cc00c7664eb679e7ec385545d1f4d6ce/18364eaa0b58b6826777a22ff445ec1b.png"
+                "https://cdn.utfc.ru/iblock/cc0/cc00c7664eb679e7ec385545d1f4d6ce/18364eaa0b58b6826777a22ff445ec1b.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
             ]
         }
     ],
@@ -863,7 +864,7 @@
     "color_seat": [
         ""
     ],
-    "madeinrf": "Сделано РФ",
+    "madeinrf": "Сделано в РФ",
     "sizes": {
         "Ширина:": "665",
         "Высота:": "1020-1120",

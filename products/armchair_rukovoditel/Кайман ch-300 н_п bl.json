@@ -192,7 +192,8 @@
         "https://cdn.utfc.ru/iblock/d1a/d1a903b3f9e22ac92b37cd5d9f14040e/fe770d4a68c39a143e2005f8ce99373e.png",
         "https://cdn.utfc.ru/iblock/2d9/2d9c9f3bde35521501d2dfbdb959f383/571a819b6ca7e1a46829ec6051fd9335.png",
         "https://cdn.utfc.ru/iblock/8d8/8d82ea28c900f18aef043e2301961a26/66635600f4af11ddd7b7d76fee77d20d.png",
-        "https://cdn.utfc.ru/iblock/b6b/b6b0e310ef2a91894a12de7a18a41f0b/e24ba2798d96da5b290779e0b2f2e66f.png"
+        "https://cdn.utfc.ru/iblock/b6b/b6b0e310ef2a91894a12de7a18a41f0b/e24ba2798d96da5b290779e0b2f2e66f.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -339,7 +340,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/657/65731e094021cbddb3bb603df59a54d0/50c82d4ad2d02668abfacd039569fe6a.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/37a/37a6cb4d6be0da8342d0e7195737fc92/d6e80953981dd1af78728cff09a0abf7.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -410,11 +411,11 @@
     "STORE_AMOUNT_3": "",
     "CV_QUANTITY_FROM": "",
     "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 0,
+    "CV_PRICE_1": 8535,
     "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 0,
+    "CV_PRICE_2": 8792,
     "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 0,
+    "CV_PRICE_3": 8535,
     "CV_CURRENCY_3": "RUB",
     "STORE_AMOUNT_4": ""
   },
@@ -438,10 +439,10 @@
       "IP_PROP34": 13863,
       "IP_PROP35": "ПУ-00045964",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/792/792ba76f4761786dfbfd5a00ed3a224e/2b673ff583444a631214a5fabe119786.png",
         "https://cdn.utfc.ru/iblock/6a7/6a7dfc7b357750b94221495f5376223b/63bcf4d359959667ebcfaaf76eade4d0.png",
         "https://cdn.utfc.ru/iblock/60f/60f35e38ee17f1c66c4d7ba57c5bf1f6/6b6a13142d5c83110d7a693e718a0f08.png",
         "https://cdn.utfc.ru/iblock/b6b/b6b0e310ef2a91894a12de7a18a41f0b/e24ba2798d96da5b290779e0b2f2e66f.png",
+        "https://cdn.utfc.ru/iblock/792/792ba76f4761786dfbfd5a00ed3a224e/2b673ff583444a631214a5fabe119786.png",
         "https://cdn.utfc.ru/iblock/2d9/2d9c9f3bde35521501d2dfbdb959f383/571a819b6ca7e1a46829ec6051fd9335.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -501,12 +502,12 @@
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 0,
+      "CV_PRICE_1": 8535,
       "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 0,
+      "CV_PRICE_2": 8792,
       "CV_CURRENCY_2": "RUB",
       "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 0,
+      "CV_PRICE_3": 8535,
       "CV_CURRENCY_3": "RUB"
     },
     {
@@ -528,10 +529,10 @@
       "IP_PROP34": 13863,
       "IP_PROP35": "ПУ-00045965",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/238/2386a31abc0d7095fe418eff2b906bad/af662b4a405dc9f972ff170fc4c44245.png",
         "https://cdn.utfc.ru/iblock/618/618ef312f94940ca648447b0f0624d71/716713d6079fac7199d4a61d3e8608ea.png",
         "https://cdn.utfc.ru/iblock/361/3613ee94f5d2b54332a5c2c6ef396adc/8e475809400e8dcca50e64008e1db044.png",
         "https://cdn.utfc.ru/iblock/27e/27e497ec842f21562750b2db8b4e4cc6/221f35733cd6dd2c83791f56897bcfe9.png",
+        "https://cdn.utfc.ru/iblock/238/2386a31abc0d7095fe418eff2b906bad/af662b4a405dc9f972ff170fc4c44245.png",
         "https://cdn.utfc.ru/iblock/d9e/d9e6b3afec9be8d52435d8ead0e0717a/bbfd0ee715f550501f9dafa0cc0b62b8.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -591,12 +592,12 @@
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 0,
+      "CV_PRICE_1": 8535,
       "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 0,
+      "CV_PRICE_2": 8792,
       "CV_CURRENCY_2": "RUB",
       "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 0,
+      "CV_PRICE_3": 8535,
       "CV_CURRENCY_3": "RUB"
     }
   ],
@@ -653,7 +654,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

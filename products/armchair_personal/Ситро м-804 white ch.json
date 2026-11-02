@@ -182,7 +182,8 @@
         "https://cdn.utfc.ru/iblock/622/6221cac704ca325c99602b83912b16cc.png",
         "https://cdn.utfc.ru/iblock/e9c/e9cf0dcd9d925b6b7d1822ba5c9061ad.png",
         "https://cdn.utfc.ru/iblock/d14/d14e43d0127627b3cd0cf8db91611bb3.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -329,7 +330,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/589/589b5b1c715057f1eabf7efa9833ab3b.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/d34/d3424e8e8ceb15608bd5f15e582a01c6.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -428,10 +429,10 @@
       "IP_PROP34": 7618,
       "IP_PROP35": "ЦБ-00010154",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/622/6221cac704ca325c99602b83912b16cc.png",
         "https://cdn.utfc.ru/iblock/94e/94e0f0c2a2f6bdd7c2dc358f65e51a9c.png",
         "https://cdn.utfc.ru/iblock/dc9/dc9445953df40ab677b43a21a16589a7.png",
         "https://cdn.utfc.ru/iblock/d14/d14e43d0127627b3cd0cf8db91611bb3.png",
+        "https://cdn.utfc.ru/iblock/622/6221cac704ca325c99602b83912b16cc.png",
         "https://cdn.utfc.ru/iblock/e9c/e9cf0dcd9d925b6b7d1822ba5c9061ad.png"
       ],
       "IP_PROP37": "Ткань МТ",
@@ -518,10 +519,10 @@
       "IP_PROP34": 7618,
       "IP_PROP35": "ЦБ-00010158",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ea8/ea85db664014c5e03126040472e82774.png",
         "https://cdn.utfc.ru/iblock/6ec/6ec0d0cd60a513eaa53abc07d8988f05.png",
         "https://cdn.utfc.ru/iblock/775/775c7a4778be72a2afa930fd190ebc06.png",
         "https://cdn.utfc.ru/iblock/78a/78a72cd5194911c95a7ecc62f994e79c.png",
+        "https://cdn.utfc.ru/iblock/ea8/ea85db664014c5e03126040472e82774.png",
         "https://cdn.utfc.ru/iblock/80c/80c1485c9f8b5a187ab23c3406b2e0e5.png"
       ],
       "IP_PROP37": "Ткань QH",
@@ -608,10 +609,10 @@
       "IP_PROP34": 7618,
       "IP_PROP35": "ЦБ-00010161",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/4c4/4c493c960def67ea86aabe6b8643998d.png",
         "https://cdn.utfc.ru/iblock/dd0/dd082385e0ddb77dac76dfe50164a66a.png",
         "https://cdn.utfc.ru/iblock/2a0/2a015114e94f927c122b69f73eaf5f2d.png",
         "https://cdn.utfc.ru/iblock/169/1699b84840ea47021931c118e073eff0.png",
+        "https://cdn.utfc.ru/iblock/4c4/4c493c960def67ea86aabe6b8643998d.png",
         "https://cdn.utfc.ru/iblock/193/1935b1f3a488c30bb77a6078c3474474.png"
       ],
       "IP_PROP37": "Ткань QH",
@@ -736,7 +737,7 @@
     "-",
     "Ткань МТ70-13 (оранжевый)"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "610",
     "Высота:": "950-1050",

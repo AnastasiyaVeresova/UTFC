@@ -168,7 +168,8 @@
         "https://cdn.utfc.ru/iblock/d5a/d5a6ec1bd015fcef83609c6b55bd8521/a637c8114c59c0b9adced9fb814cd1ca.png",
         "https://cdn.utfc.ru/iblock/9d1/9d10233f46b8f5e5b38b1ca9124004cd/fb2a4e76ff94aa06f7be81cab2944c6b.png",
         "https://cdn.utfc.ru/iblock/1a0/1a0207be1981b2628052047da71ab3c5/b4c674e68f181b2abfccc6b0670e4e34.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -411,10 +412,10 @@
       "IP_PROP34": 8398,
       "IP_PROP35": "ЦБ-00009937",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ca2/ca27e6f8d2c145e8fa1a6e87fd4e351c.png",
         "https://cdn.utfc.ru/iblock/64c/64c3d8725eb6a632c183ab4156c64bb1.png",
         "https://cdn.utfc.ru/iblock/bc8/bc81f6060d9487b628ae997246bb35ac.png",
         "https://cdn.utfc.ru/iblock/784/784210207dc7f65bf36035e73319357a.png",
+        "https://cdn.utfc.ru/iblock/ca2/ca27e6f8d2c145e8fa1a6e87fd4e351c.png",
         "https://cdn.utfc.ru/iblock/6c4/6c419f08ac648967083a3a6ae9668819.png"
       ],
       "IP_PROP37": "Ткань для Kids",
@@ -501,10 +502,10 @@
       "IP_PROP34": 8398,
       "IP_PROP35": "ЦБ-00009938",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/184/1846de7d6649a294394bf8367934ce2b.png",
         "https://cdn.utfc.ru/iblock/781/7817591994fbfd9e9bd8e0b3e68162e3.png",
         "https://cdn.utfc.ru/iblock/242/242910f336a85be3ddb91653020bf895.png",
         "https://cdn.utfc.ru/iblock/b0e/b0e272c1583e55e37f2385c3f47c45b6.png",
+        "https://cdn.utfc.ru/iblock/184/1846de7d6649a294394bf8367934ce2b.png",
         "https://cdn.utfc.ru/iblock/c9e/c9e98e45b11f1301874d57685959ea0c.png"
       ],
       "IP_PROP37": "Ткань для Kids",
@@ -543,7 +544,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 387,
+      "CP_QUANTITY": 375,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -560,7 +561,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 12,
+      "STORE_AMOUNT_2": 5,
       "STORE_AMOUNT_3": 18,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -568,7 +569,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 2843,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 357,
+      "STORE_AMOUNT_4": 352,
       "CV_PRICE_3": 2760,
       "CV_CURRENCY_3": "RUB"
     },
@@ -591,10 +592,10 @@
       "IP_PROP34": 8398,
       "IP_PROP35": "ЦБ-00009939",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/1ae/1ae01053219480e93abcb33230826221.png",
         "https://cdn.utfc.ru/iblock/38a/38a497dafcbd4485dc2156c0d5baa4b3.png",
         "https://cdn.utfc.ru/iblock/73d/73d34fa26688dbb20ef939658ff2cbea.png",
         "https://cdn.utfc.ru/iblock/7f2/7f2c76cce6f5e42ddf369b50658c47ab.png",
+        "https://cdn.utfc.ru/iblock/1ae/1ae01053219480e93abcb33230826221.png",
         "https://cdn.utfc.ru/iblock/781/781436f05b5ed0642e163f8cf6a8efae.png"
       ],
       "IP_PROP37": "Ткань для Kids",
@@ -633,7 +634,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 365,
+      "CP_QUANTITY": 342,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -651,14 +652,14 @@
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
       "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 64,
+      "STORE_AMOUNT_3": 63,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 2760,
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 2843,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 301,
+      "STORE_AMOUNT_4": 279,
       "CV_PRICE_3": 2760,
       "CV_CURRENCY_3": "RUB"
     }
@@ -697,7 +698,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "400",
     "Высота:": "750-870",

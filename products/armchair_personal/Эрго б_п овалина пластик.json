@@ -245,7 +245,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -392,7 +393,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/f97/mot357v4ir3rsb55ra1j3zwiug1chrde.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/130/c5s0sv1lbruqodr39wn6xiqcf18bxc32.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -743,10 +744,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013763",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/8ec/8ecf08d13f8d3ba9d06fcf14ebff18f8.png",
         "https://cdn.utfc.ru/iblock/d7e/d7e44c10fcb57ef4fd4e9e429ffdf305.png",
         "https://cdn.utfc.ru/iblock/86a/86ad86222dbe010f268dc1381ab6310f.png",
         "https://cdn.utfc.ru/iblock/2c5/2c50dbc2d2be30326cd7103531ca4284.png",
+        "https://cdn.utfc.ru/iblock/8ec/8ecf08d13f8d3ba9d06fcf14ebff18f8.png",
         "https://cdn.utfc.ru/iblock/723/723631138c4f8ab88e7127debdc2da52.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -833,10 +834,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013764",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ee5/ee557b054c8726ec3869876d31608ac9.png",
         "https://cdn.utfc.ru/iblock/d55/d55fb7c4e92695cf50076746ef637ca5.png",
         "https://cdn.utfc.ru/iblock/2cd/2cdf48ed79850da6fa72a89f06a0ab7e.png",
         "https://cdn.utfc.ru/iblock/30e/30eadd1fbbee3a1a91013b50e1c04702.png",
+        "https://cdn.utfc.ru/iblock/ee5/ee557b054c8726ec3869876d31608ac9.png",
         "https://cdn.utfc.ru/iblock/275/2750335641473b374dde51231c02bf44.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -923,10 +924,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013766",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/481/481772c1a553f3f4adf0cb21aab01bc2.png",
         "https://cdn.utfc.ru/iblock/fd7/fd7fe7ae7b3bcdfbc17151b188b01411.png",
         "https://cdn.utfc.ru/iblock/be8/be8c4d6759a669883bc07f8363b7434e.png",
         "https://cdn.utfc.ru/iblock/412/4127306cd9c5de2ea63c72acfd27c6a4.png",
+        "https://cdn.utfc.ru/iblock/481/481772c1a553f3f4adf0cb21aab01bc2.png",
         "https://cdn.utfc.ru/iblock/000/000e5097d5af176db59f59054ddceb2d.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -965,7 +966,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 24,
+      "CP_QUANTITY": 15,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -982,7 +983,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 23,
+      "STORE_AMOUNT_2": 14,
       "STORE_AMOUNT_3": 1,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -1097,10 +1098,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013774",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/d2d/d2d92e51effe6a981685c61d8b3626e1.png",
         "https://cdn.utfc.ru/iblock/173/1731356bb6ff09977feee1cb420eca2c.png",
         "https://cdn.utfc.ru/iblock/a83/a83bc6d32a3ea2ab6d031c43c6c5985c.png",
         "https://cdn.utfc.ru/iblock/9cb/9cb7444e41e1f906a686179a2a87a336.png",
+        "https://cdn.utfc.ru/iblock/d2d/d2d92e51effe6a981685c61d8b3626e1.png",
         "https://cdn.utfc.ru/iblock/37c/37c663cba779bc0066ec73a6e17089b6.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -1355,10 +1356,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013783",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/07f/07f2fafbf22e37982ac13f2ed0de08fe.png",
         "https://cdn.utfc.ru/iblock/805/80591ba56184a3fc1a84f09e1d8811b2.png",
         "https://cdn.utfc.ru/iblock/d9a/d9a06933e935d242f960aeba170deea9.png",
         "https://cdn.utfc.ru/iblock/d7a/d7aef9911187cef8c3a3123faaa0f8ab.png",
+        "https://cdn.utfc.ru/iblock/07f/07f2fafbf22e37982ac13f2ed0de08fe.png",
         "https://cdn.utfc.ru/iblock/1e9/1e94e6b706734ccd834ba16ad0b74742.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2705,10 +2706,10 @@
       "IP_PROP34": 8081,
       "IP_PROP35": "ЦБ-00013780",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/464/464138f1aeb0df2bd18ce237a051a053.png",
         "https://cdn.utfc.ru/iblock/8d9/8d93cb701ad5e497a8e1852ca494c1cf.png",
         "https://cdn.utfc.ru/iblock/64d/64dac68707c64250fad28504e42fd572.png",
         "https://cdn.utfc.ru/iblock/dfe/dfe376020eb6f5ce917cfd95a4da65e6.png",
+        "https://cdn.utfc.ru/iblock/464/464138f1aeb0df2bd18ce237a051a053.png",
         "https://cdn.utfc.ru/iblock/9aa/9aaddc6a5b1e86574785400c7a7619b3.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2747,7 +2748,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 3,
+      "CP_QUANTITY": 0,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -2764,7 +2765,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 3,
+      "STORE_AMOUNT_2": 0,
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -3121,7 +3122,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "400",
     "Высота:": "810-950",

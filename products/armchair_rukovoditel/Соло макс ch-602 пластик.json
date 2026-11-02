@@ -258,7 +258,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -408,7 +409,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/3bd/3bda12cee89d0d57320ad41f83d2911b/0412a1cc36233a131468b757e8db9f27.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/b3b/b3bbd6d566b2247bc1be10cd559d4ac4/6ba40c7f8c2fe088315ea6ca6f26ad73.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -507,10 +508,10 @@
       "IP_PROP34": 13097,
       "IP_PROP35": "ПУ-00043551",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/475/475eee1048e1e4e66595ac99037e6237/1348aed2dbdaf1a10217cb10c69065ce.png",
         "https://cdn.utfc.ru/iblock/6e6/6e68d30f8404f53dc5d8f82dbbd30e66/932fcb87eae37959819cb1817c8b5491.png",
         "https://cdn.utfc.ru/iblock/44e/44e15be21fee9e93968af38eb52e94d1/386bdfeea27fed841dc614ceb25094a9.png",
         "https://cdn.utfc.ru/iblock/dc6/dc696cfcee61d81df0b0d8a055e988d9/8bc1f3defc61bf353d18213aec308756.png",
+        "https://cdn.utfc.ru/iblock/475/475eee1048e1e4e66595ac99037e6237/1348aed2dbdaf1a10217cb10c69065ce.png",
         "https://cdn.utfc.ru/iblock/e98/e98676e3fb704d3e7a883336df03e56b/523e7685f68f72176fbe9716158c40a3.png"
       ],
       "IP_PROP37": "Комбинированный S/TW",
@@ -597,10 +598,10 @@
       "IP_PROP34": 13097,
       "IP_PROP35": "ПУ-00043552",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/6b5/6b507318de949b6027dc975ea5b79788/4c9872617e77ff98836c3ce404dc54a7.png",
         "https://cdn.utfc.ru/iblock/844/844738d6a56c064a18c627feef4e2e95/fbf63d7d9e5f640833d0306343f7f130.png",
         "https://cdn.utfc.ru/iblock/07c/07c18e814e45559793a8f4a74f498507/61440309ba485b9407b7af09bd063e08.png",
         "https://cdn.utfc.ru/iblock/50b/50bb359eb87e092e15163000a354fb57/7142e991bfac780367209ae6c3bb6540.png",
+        "https://cdn.utfc.ru/iblock/6b5/6b507318de949b6027dc975ea5b79788/4c9872617e77ff98836c3ce404dc54a7.png",
         "https://cdn.utfc.ru/iblock/cdd/cdd59b41274d1707682416250116c6cd/6a738007a52f8646aa2ad5fa668b4299.png"
       ],
       "IP_PROP37": "Комбинированный S/TW",
@@ -669,7 +670,7 @@
       "CV_CURRENCY_3": "RUB"
     }
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

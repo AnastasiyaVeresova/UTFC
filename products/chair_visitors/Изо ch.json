@@ -148,7 +148,8 @@
         "https://cdn.utfc.ru/iblock/0f5/0f5cf7839fac3faf79ce13fe98ff6173/fc3f36d4a941aa1cb815599d5345e57b.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/iblock/14b/14b6f998e379875c90562431182bdcf7/a88ca94cf8e1a47ab9b5128a2239513b.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -307,7 +308,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/13e/x15gtkngdqcs2qz16wv2dkbtfq2vod1j.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/d30/i90uybxz1kmgi0gy13laa5r7bi73fg41.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -406,10 +407,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014684",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/8aa/ljtm365nmazz9j5spgllvt009fuiyu43.png",
         "https://cdn.utfc.ru/iblock/291/2519jdk1g5zuyed08f1113rftyjk73kj.png",
         "https://cdn.utfc.ru/iblock/308/qxgig3zbk7gaji15ymoveic2y2tychb6.png",
-        "https://cdn.utfc.ru/iblock/065/y85u7jd7rpdbjt47u3ga8ue5cyv16358.png"
+        "https://cdn.utfc.ru/iblock/065/y85u7jd7rpdbjt47u3ga8ue5cyv16358.png",
+        "https://cdn.utfc.ru/iblock/8aa/ljtm365nmazz9j5spgllvt009fuiyu43.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z01 (белый)",
@@ -579,10 +580,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014691",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/08e/e0279qco8uhapy9qjw830lygbyx4vtti.png",
         "https://cdn.utfc.ru/iblock/da6/qh1a7zn1sfi0gu1i47i7d796xvgb1ih6.png",
         "https://cdn.utfc.ru/iblock/df2/y0qlnfg3279s2tcl1erm4271ygm6cshz.png",
-        "https://cdn.utfc.ru/iblock/bcf/ni24ibhlvx7m3sx0fhyxm86ziv6xemer.png"
+        "https://cdn.utfc.ru/iblock/bcf/ni24ibhlvx7m3sx0fhyxm86ziv6xemer.png",
+        "https://cdn.utfc.ru/iblock/08e/e0279qco8uhapy9qjw830lygbyx4vtti.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z10 (темно-коричневый)",
@@ -668,10 +669,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014692",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/685/0zholfw808necy2o3ziwgwsrhyr48cc6.png",
         "https://cdn.utfc.ru/iblock/2e1/b8b91inxr8y1c9tidwjed390do69z2um.png",
         "https://cdn.utfc.ru/iblock/036/1uc93zuw6l6pzqnmlxum29acvc7le0xk.png",
-        "https://cdn.utfc.ru/iblock/570/g0ng2l6ei0ixjnpfnqmw8mr72mv9smw8.png"
+        "https://cdn.utfc.ru/iblock/570/g0ng2l6ei0ixjnpfnqmw8mr72mv9smw8.png",
+        "https://cdn.utfc.ru/iblock/685/0zholfw808necy2o3ziwgwsrhyr48cc6.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z11 (черный)",
@@ -709,7 +710,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 305,
+      "CP_QUANTITY": 113,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -726,8 +727,8 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 66,
-      "STORE_AMOUNT_3": 239,
+      "STORE_AMOUNT_2": 10,
+      "STORE_AMOUNT_3": 103,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 3003,
@@ -757,10 +758,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014695",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/beb/3nte6iar7kopjrq72pfnsv7mmrm9dx0v.png",
         "https://cdn.utfc.ru/iblock/5d7/vuza700azcvw5zb28rqtakl3ek1febi5.png",
         "https://cdn.utfc.ru/iblock/6a5/9g0z2uc2et5x4d1au2m9mzwh5ldrh242.png",
-        "https://cdn.utfc.ru/iblock/2f1/457na1r4cedt3ztkars6eydif1m259ui.png"
+        "https://cdn.utfc.ru/iblock/2f1/457na1r4cedt3ztkars6eydif1m259ui.png",
+        "https://cdn.utfc.ru/iblock/beb/3nte6iar7kopjrq72pfnsv7mmrm9dx0v.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z19 (темно-синий)",
@@ -846,10 +847,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014697",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/37b/n5jatbaerwxvsq3517u5bzxsgisg7ejj.png",
         "https://cdn.utfc.ru/iblock/5f9/bzqu9lh20qy5j4ixo772lb83t6dlj4bv.png",
         "https://cdn.utfc.ru/iblock/092/g2v23v89o19d8pe9a2faeqhqq7yoxy06.png",
-        "https://cdn.utfc.ru/iblock/c8c/uz3ho3jfo3pezujot5pce0s00rp9kc8a.png"
+        "https://cdn.utfc.ru/iblock/c8c/uz3ho3jfo3pezujot5pce0s00rp9kc8a.png",
+        "https://cdn.utfc.ru/iblock/37b/n5jatbaerwxvsq3517u5bzxsgisg7ejj.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z21 (бежевый)",
@@ -935,10 +936,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014698",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/da1/j9n0t0ys7n6epl0m0vvzj1k4c8amq4xu.png",
         "https://cdn.utfc.ru/iblock/b05/8ndhljclowk82huaxkl7f0xpwrgguav8.png",
         "https://cdn.utfc.ru/iblock/683/ifa8zwhiduetxqs962bwqbkz1cr8v9yl.png",
-        "https://cdn.utfc.ru/iblock/f66/3vz34l0bm69bcusxay70cqt7881fg7j8.png"
+        "https://cdn.utfc.ru/iblock/f66/3vz34l0bm69bcusxay70cqt7881fg7j8.png",
+        "https://cdn.utfc.ru/iblock/da1/j9n0t0ys7n6epl0m0vvzj1k4c8amq4xu.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z29 (красный)",
@@ -1108,10 +1109,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014706",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c8c/6zy93r171v02a7a35nmpmv3h1v3m226x.png",
         "https://cdn.utfc.ru/iblock/753/lxyodyssd7y27i792n18q1syb2j27i7p.png",
         "https://cdn.utfc.ru/iblock/c41/ii5fqn95ftnc4eraqr7nyxcdzq32muxn.png",
-        "https://cdn.utfc.ru/iblock/368/i6oouowe0m2wosmsis3xocxeulxxlcuh.png"
+        "https://cdn.utfc.ru/iblock/368/i6oouowe0m2wosmsis3xocxeulxxlcuh.png",
+        "https://cdn.utfc.ru/iblock/c8c/6zy93r171v02a7a35nmpmv3h1v3m226x.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
       "IP_PROP38": "Кожзаменитель Z71 (серый)",
@@ -1197,10 +1198,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014757",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/5dd/omlci7b7c8ni13p9qjuf9sbgpwu13vjm.png",
         "https://cdn.utfc.ru/iblock/4b8/amhkana5402o6895sc6ehzt369u8xv35.png",
         "https://cdn.utfc.ru/iblock/44a/pyakdsrh31rbdnn0xfi88ncaj8przf0y.png",
         "https://cdn.utfc.ru/iblock/d28/f2dphiijyiouogwlwb023y44cepqepwo.png",
+        "https://cdn.utfc.ru/iblock/5dd/omlci7b7c8ni13p9qjuf9sbgpwu13vjm.png",
         "https://cdn.utfc.ru/iblock/ca0/toqs43r3u9h1jlbh3qfyjj8qdn8u431y.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -1287,10 +1288,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014759",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/5c5/mbtva595nd3byamowuwcpolpzjx2neec.png",
         "https://cdn.utfc.ru/iblock/003/8u3cg5sx0zz96tgg0chfibk0fmz5zaiz.png",
         "https://cdn.utfc.ru/iblock/086/8ji0mtbtxj240b5ff6qjxelok8qsv8ua.png",
         "https://cdn.utfc.ru/iblock/df4/e77f2ipbc0i44xmvdmk2siefr0hlv867.png",
+        "https://cdn.utfc.ru/iblock/5c5/mbtva595nd3byamowuwcpolpzjx2neec.png",
         "https://cdn.utfc.ru/iblock/c8d/c15re2uza3xzungnmk51zypu51xc7228.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -1413,7 +1414,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 100,
+      "CP_QUANTITY": 0,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -1430,7 +1431,7 @@
       "CP_VAT_ID": "",
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 100,
+      "STORE_AMOUNT_2": 0,
       "STORE_AMOUNT_3": 0,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -1461,9 +1462,9 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014761",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/2ce/zsdggemujp5bc1nakuxv29nuhbpxfn6q.png",
         "https://cdn.utfc.ru/iblock/e7b/zg7d1acrmolvydp9fjmf24cahvox5wag.png",
-        "https://cdn.utfc.ru/iblock/866/cfxszjanu1jy4c5hgaqaz9gpxis37dne.png"
+        "https://cdn.utfc.ru/iblock/866/cfxszjanu1jy4c5hgaqaz9gpxis37dne.png",
+        "https://cdn.utfc.ru/iblock/2ce/zsdggemujp5bc1nakuxv29nuhbpxfn6q.png"
       ],
       "IP_PROP37": "Ткань С",
       "IP_PROP38": "Ткань С11 (черный)",
@@ -1501,7 +1502,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 267,
+      "CP_QUANTITY": 93,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -1518,8 +1519,8 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 162,
-      "STORE_AMOUNT_3": 105,
+      "STORE_AMOUNT_2": 16,
+      "STORE_AMOUNT_3": 77,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 2874,
@@ -1885,10 +1886,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014773",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c92/eb2fer4ol31svd4mcrlar0zs7lql25uy.png",
         "https://cdn.utfc.ru/iblock/810/0763suvijt9d0wqz52n1ub8z6puvpo56.png",
         "https://cdn.utfc.ru/iblock/bbe/25hxixneld9azrp78jnpb4jlajjr558c.png",
         "https://cdn.utfc.ru/iblock/04e/nvq7chx7o3qdjp8fryw20tzwk4ihym5y.png",
+        "https://cdn.utfc.ru/iblock/c92/eb2fer4ol31svd4mcrlar0zs7lql25uy.png",
         "https://cdn.utfc.ru/iblock/fda/nfrsimti96aep1q7tm2oztbn1ivhpgu2.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -1975,10 +1976,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014775",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/ac0/uf9t224pwbz434py4ajayjgw6zq0pp0h.png",
         "https://cdn.utfc.ru/iblock/956/3phw1jtthjeclwxugzwl905403vf2tgh.png",
         "https://cdn.utfc.ru/iblock/b8e/50uc138luj1bk9barj3tv4hwofnskd4n.png",
         "https://cdn.utfc.ru/iblock/b4f/s5gex6fsccdd1bkv4mrxcmmoiscc9cv7.png",
+        "https://cdn.utfc.ru/iblock/ac0/uf9t224pwbz434py4ajayjgw6zq0pp0h.png",
         "https://cdn.utfc.ru/iblock/76d/5bdnqphbib7nxzr8exqo2xj701k2trck.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2233,10 +2234,10 @@
       "IP_PROP34": 8116,
       "IP_PROP35": "ЦБ-00014778",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/e79/pohhkqwfl8kxnlajxtxj73adfjp8ml97.png",
         "https://cdn.utfc.ru/iblock/705/5mb8qpq1jtlhd42smr326rbstzmyrz1g.png",
         "https://cdn.utfc.ru/iblock/7f3/scgdxk4dc1illl5k3ffgpc2akf57h5fy.png",
         "https://cdn.utfc.ru/iblock/df9/l3at7s0g6j7zyqqi0w8h2vtqzz3y7g22.png",
+        "https://cdn.utfc.ru/iblock/e79/pohhkqwfl8kxnlajxtxj73adfjp8ml97.png",
         "https://cdn.utfc.ru/iblock/a3b/lt496aciwlv1wymshexnwo9pmfvughfq.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2275,7 +2276,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 251,
+      "CP_QUANTITY": 128,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -2292,7 +2293,7 @@
       "CP_VAT_ID": 1,
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 128,
+      "STORE_AMOUNT_2": 5,
       "STORE_AMOUNT_3": 123,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
@@ -3483,7 +3484,7 @@
     "Стул ИЗО СН (-, Ткань С71 (меланж),, )",
     "Стул ИЗО СН (-, Ткань С72 (черно-стальной),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "550",
     "Высота:": "835",

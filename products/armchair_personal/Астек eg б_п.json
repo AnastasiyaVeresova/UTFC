@@ -217,7 +217,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -361,7 +362,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/0e2/0e253c50f9fb62aa80501aca3d1439b7.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/141/14116b6266842e3abd63485f332ffc0b.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -1468,10 +1469,10 @@
       "IP_PROP34": 964,
       "IP_PROP35": "ЦБ-00012511",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c2f/c2fd90db9501829a66f43a51bba6e510/333ed2506c223e9bc7d9c7985fed29d1.png",
         "https://cdn.utfc.ru/iblock/9ad/9ad14f7b46353854171a65d05ba1fa78/cf396333ee9e2ca1f416ffa48331a5e0.png",
         "https://cdn.utfc.ru/iblock/31a/31aa7bd2b5d8d623ecbede2ae4b20b5f/5e3d6ada031d548d922d8c5219c10e1e.png",
         "https://cdn.utfc.ru/iblock/9b8/9b88715a17331e4a6f442c834e97900e/d20ac8d3b50c6c65abcf6e1896671001.png",
+        "https://cdn.utfc.ru/iblock/c2f/c2fd90db9501829a66f43a51bba6e510/333ed2506c223e9bc7d9c7985fed29d1.png",
         "https://cdn.utfc.ru/iblock/419/419f40604c4a2186b4c2fb4c1e9ea557/20a630ff6fc0419a02614ed0d6cfeb7a.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -2027,7 +2028,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "470",
     "Высота:": "950-1250",

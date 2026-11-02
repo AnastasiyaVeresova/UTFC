@@ -194,7 +194,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -341,7 +342,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/552/55236d56e5f5fafc9799441f0a059064.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/d4b/d4b540c56cac04639fe397a09b4a9ad6.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -608,10 +609,10 @@
       "IP_PROP34": 9140,
       "IP_PROP35": "ЦБ-00006377",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c6e/dka3o54ri15014xmjvga9jiwrtgad8el.png",
         "https://cdn.utfc.ru/iblock/ef7/ehd2ny0glrbx96ium8rvjxoy8thh8stw.png",
         "https://cdn.utfc.ru/iblock/f48/n4316owknqc8un5lxo87axs40b47hgbk.png",
         "https://cdn.utfc.ru/iblock/eb6/cnvchzzzbjp6pzkhqyr57m73qe24jmsc.png",
+        "https://cdn.utfc.ru/iblock/c6e/dka3o54ri15014xmjvga9jiwrtgad8el.png",
         "https://cdn.utfc.ru/iblock/226/btxc2p52tu61nuvdgi2jq5htk70d6w4e.png"
       ],
       "IP_PROP37": "Ткань С",
@@ -650,7 +651,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 219,
+      "CP_QUANTITY": 104,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -667,8 +668,8 @@
       "CP_VAT_ID": "",
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 200,
-      "STORE_AMOUNT_3": 19,
+      "STORE_AMOUNT_2": 88,
+      "STORE_AMOUNT_3": 16,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 8957,
@@ -1118,10 +1119,10 @@
       "IP_PROP34": 9140,
       "IP_PROP35": "ПУ-00024233",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/720/du4eacatufmrg85pom0gklayat9q97ct.png",
         "https://cdn.utfc.ru/iblock/322/v6qevs1mzsucgcdwii1bmhjtzovc1ekw.png",
         "https://cdn.utfc.ru/iblock/883/srgcm9k4g5oy9bt5i0u0c64zh061un4j.png",
         "https://cdn.utfc.ru/iblock/9fe/e1bkzlxp1ipig7wrqzrd5ngfalff5cug.png",
+        "https://cdn.utfc.ru/iblock/720/du4eacatufmrg85pom0gklayat9q97ct.png",
         "https://cdn.utfc.ru/iblock/cdb/3m53eekj131i1qv9ir6xxqop2itgj0lm.png"
       ],
       "IP_PROP37": "Ткань Сетка Е",
@@ -1422,7 +1423,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "670",
     "Высота:": "1140-1240",

@@ -7,7 +7,8 @@
   ],
   "name_all": [
     "UTFC СН-105 Онтарио В пластик/хром",
-    "UTFC СН-105 Онтарио Н пластик/хром"
+    "UTFC СН-105 Онтарио Н пластик/хром",
+    "UTFC СН-105 Онтарио В 3D хром Ср"
   ],
   "unique_name": [
     "UTFC Онтарио СН-105 Н пластик хром"
@@ -221,7 +222,8 @@
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -330,7 +332,7 @@
     ""
   ],
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "additional_info": {
     "package_dimensions": {
       "width": "23",
@@ -377,7 +379,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/c9c/c9c17f8ff510a44d693f8337f35f2e61/537437d477a416fd1da5eae5593a17d5.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/be9/be90654f7cb2b13d91d8ab710ec89b9a/12178ae728a0d63709238420c67b1cbc.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -476,10 +478,10 @@
       "IP_PROP34": 13786,
       "IP_PROP35": "ПУ-00044102",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
         "https://cdn.utfc.ru/iblock/9db/9db483ad61eb54ebf1f34f0f73238d70/f4637619c641b3946c599f1ee528d4a1.png",
         "https://cdn.utfc.ru/iblock/1d0/1d051000ff8477fbddb0f4d1f7e208c1/d1b0447dd1a59f3d8bf7af66d649c65a.png",
         "https://cdn.utfc.ru/iblock/1ec/1ec7556b6eb815663e8519afdb34b3cf/3304256e87e0bdbefb911e3602beef03.png",
+        "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
         "https://cdn.utfc.ru/iblock/d15/d156fdd2dc69a4fb0c290507786439bc/8b5dac91a8c84b71b0939fb93c5f4bbf.png"
       ],
       "IP_PROP37": "Экокожа Santorini",

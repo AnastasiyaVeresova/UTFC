@@ -196,7 +196,8 @@
         "https://cdn.utfc.ru/iblock/a40/a400cbb894a5efef3d3fa500814a7d3e/4adf060189e20098878566102ef375b8.png",
         "https://cdn.utfc.ru/iblock/d0f/d0f55f4a5bfdd06543eaaf3fb2ac9507/9b8254c81277c23fa0bd1cd36989863c.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -340,7 +341,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/2bd/2bdcbd6921316ca710b04c9adab1861f/85656995643a84fa904dffbf29f23a6a.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/f7d/f7d94e2d928dff0a34ec454603806aaa/8e5129d37f1b83a06cc4189addad42cf.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -439,10 +440,10 @@
       "IP_PROP34": 13848,
       "IP_PROP35": "ЦБ-00010571",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/850/850277514717b9ec686e2cdaa5ae1ca5/ca5e8026c1c24f5e7ffa64e74ec7e1c8.png",
         "https://cdn.utfc.ru/iblock/5a4/5a4f26439bfb434908cb2798f39a7c40/802a924243a99ed7e546f9702a734299.png",
         "https://cdn.utfc.ru/iblock/a40/a400cbb894a5efef3d3fa500814a7d3e/4adf060189e20098878566102ef375b8.png",
         "https://cdn.utfc.ru/iblock/238/238c6ae24d01a73c85dc7e69566f30bb/04890e1402b2f158a698eff2f25ec3db.png",
+        "https://cdn.utfc.ru/iblock/850/850277514717b9ec686e2cdaa5ae1ca5/ca5e8026c1c24f5e7ffa64e74ec7e1c8.png",
         "https://cdn.utfc.ru/iblock/c3b/c3b7f3511a8469d99076760636fab4c3/3d20c10cac53411d627d97b4cdbbb9c7.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -529,10 +530,10 @@
       "IP_PROP34": 13848,
       "IP_PROP35": "ЦБ-00010576",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/e6b/e6baae85aea2cd65519c8e97b9806ed6/0d29f37492af6dba2552dd34f78ed384.png",
         "https://cdn.utfc.ru/iblock/2a8/2a89e258b191641ea6ef67f2699e4cea/bdf0b9c791501cebc10dddf782dfb677.png",
         "https://cdn.utfc.ru/iblock/73e/73e37230f4c483e114ba0c66d6a75558/f353cbf48113ec3fcbbee51833199e91.png",
         "https://cdn.utfc.ru/iblock/e92/e92c0a02e295b3a757417c8737b4b6b1/3ea78120a75bffd04aa95aae283826b5.png",
+        "https://cdn.utfc.ru/iblock/e6b/e6baae85aea2cd65519c8e97b9806ed6/0d29f37492af6dba2552dd34f78ed384.png",
         "https://cdn.utfc.ru/iblock/95a/95abba1022463525a7b21874c5cd7283/810cbd18bdb535f0c2c19462e1ae6146.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -645,7 +646,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "560",
     "Высота:": "970-1070",

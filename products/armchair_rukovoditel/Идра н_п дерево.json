@@ -171,7 +171,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -318,7 +319,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/45c/ijayvyqfh607lcc43tqzlp3w15ntnrfo.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/38c/pm7ry3ss1ajcjxfy1jnspgxldavbkzrl.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -417,10 +418,10 @@
       "IP_PROP34": 12005,
       "IP_PROP35": "ПУ-00024464",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/351/35157e3019e955f4d241a02ad5b20589/55cfc6628ba980f1a37a7325f13677e8.png",
         "https://cdn.utfc.ru/iblock/cad/caddbca5dfc26d3baf981737640a71f3/839151dc2c1deabbe2acf6bb6e8ca98c.png",
         "https://cdn.utfc.ru/iblock/1ec/1eca2b86e92c0a5adbfd54890ffc0e0a/0d0c2fc9f90da3f05e8213d849429f56.png",
         "https://cdn.utfc.ru/iblock/b0b/b0bbc0cfc43cccad63d05095270e7a2d/f8cc7a1c9846b8e87e72a10fd3e769bd.png",
+        "https://cdn.utfc.ru/iblock/351/35157e3019e955f4d241a02ad5b20589/55cfc6628ba980f1a37a7325f13677e8.png",
         "https://cdn.utfc.ru/iblock/be2/be2685962580541a131cc63293d66f59/0bd07e53b2bd0b93c6d6eb5a06e22e47.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -507,10 +508,10 @@
       "IP_PROP34": 12005,
       "IP_PROP35": "ПУ-00039474",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/6af/6af7f0a964d5fcf150fff74c925bdb9c/65cf10dba455f997bacb964a7ced2f5b.png",
         "https://cdn.utfc.ru/iblock/d0e/d0e5265276edc136a0354b751eb085be/99204281644cdbc9e03b4373b708c530.png",
         "https://cdn.utfc.ru/iblock/150/150488c4eba93544f0a25cf8416d3f84/44ff4f02f8f340a4d4966a2f78f9c484.png",
         "https://cdn.utfc.ru/iblock/1b9/1b9e1412c9cf0a2ac546e7061059757c/795c35fff57b45c4092eb2188f29c749.png",
+        "https://cdn.utfc.ru/iblock/6af/6af7f0a964d5fcf150fff74c925bdb9c/65cf10dba455f997bacb964a7ced2f5b.png",
         "https://cdn.utfc.ru/iblock/3a0/3a01637a7f553b54726daa32b855f0e2/d16ec894ba295d102c9d102bc5843987.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -609,7 +610,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "630",
     "Высота:": "980",

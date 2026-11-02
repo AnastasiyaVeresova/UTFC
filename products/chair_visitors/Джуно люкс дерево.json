@@ -157,7 +157,8 @@
         "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -307,7 +308,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/692/826xdvj2ij6lawg6e1iecqdioa0a11e9.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/faf/wtcre7a1zbnwqmxz8200gry5o7xbtwq0.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -406,10 +407,10 @@
       "IP_PROP34": 12012,
       "IP_PROP35": "ЦБ-00008940",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/019/01988a6c9f05781e3a7d42545381ad4a/2a4b40429382a22b1a632e62acb708d5.png",
         "https://cdn.utfc.ru/iblock/4f7/4f757512f75078f28063e55f766b5ebd/3b6d8d233eeb684687138e85611da14e.png",
         "https://cdn.utfc.ru/iblock/7d1/7d1ebffca4783c15b72ce6b72cbbafeb/4dc74bd1bfdf9cd23a136dfb3e5b4570.png",
         "https://cdn.utfc.ru/iblock/b5b/b5bb54e51891e62ec37eebf39e20bde1/c485dbbe657b591a27c74e8dbc2a3fd0.png",
+        "https://cdn.utfc.ru/iblock/019/01988a6c9f05781e3a7d42545381ad4a/2a4b40429382a22b1a632e62acb708d5.png",
         "https://cdn.utfc.ru/iblock/456/45613d829f282e77fe9295d55349527b/3f646be709394abb0b9755371d0866b1.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -506,7 +507,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "550",
     "Высота:": "840",

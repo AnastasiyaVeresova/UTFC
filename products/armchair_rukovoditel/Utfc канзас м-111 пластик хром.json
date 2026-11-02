@@ -167,7 +167,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -309,7 +310,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/9ca/i3rgv65n4qnblsqvmyd4325m8kbx97sr.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/f7f/n675j1nvb0slv1r2zkhi1o2wj03cogqz.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -408,10 +409,10 @@
       "IP_PROP34": 12062,
       "IP_PROP35": "ПУ-00033569",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/125/i4rli28gnexe2f6bmggl8uw09xi1sw0n.png",
         "https://cdn.utfc.ru/iblock/513/kpo2hadezc4txs1dj0nlkxoeks3ys81a.png",
         "https://cdn.utfc.ru/iblock/284/8vlfpnp5nofv5y6cjbrv3mogoejoh4rk.png",
         "https://cdn.utfc.ru/iblock/f5a/81qkaa5j3pdn39rqa3qmryzzneugtnmj.png",
+        "https://cdn.utfc.ru/iblock/125/i4rli28gnexe2f6bmggl8uw09xi1sw0n.png",
         "https://cdn.utfc.ru/iblock/eb8/58kyl6igw4bdlhp2s9d84upjc12s73q4.png"
       ],
       "IP_PROP37": "Искусственная кожа М-111 ",
@@ -498,10 +499,10 @@
       "IP_PROP34": 12062,
       "IP_PROP35": "ПУ-00033570",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/c71/63rah6pzwwxgp2vtebudjqog716lkamg.png",
         "https://cdn.utfc.ru/iblock/877/k2kwmufptonr51h7e02ajbdya2jixpon.png",
         "https://cdn.utfc.ru/iblock/8f4/l5awde0d8x203mk5kxeiwd5ueuimpqzl.png",
         "https://cdn.utfc.ru/iblock/bb4/v6mje51nxyu0acgds5jsi3szfzsxso2y.png",
+        "https://cdn.utfc.ru/iblock/c71/63rah6pzwwxgp2vtebudjqog716lkamg.png",
         "https://cdn.utfc.ru/iblock/fe6/mmknomu1cpe52m2mxtne43vzy3uon45k.png"
       ],
       "IP_PROP37": "Искусственная кожа М-111 ",
@@ -540,7 +541,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 50,
+      "CP_QUANTITY": 49,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -558,7 +559,7 @@
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
       "STORE_AMOUNT_2": 2,
-      "STORE_AMOUNT_3": 2,
+      "STORE_AMOUNT_3": 1,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",
       "CV_PRICE_1": 18124,
@@ -602,7 +603,7 @@
     ""
   ],
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "705",
     "Высота:": "1220-1280",

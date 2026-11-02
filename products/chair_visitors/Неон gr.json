@@ -164,7 +164,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/iblock/c00/c0009b0db64b036b8b67e4ab600f8ca5/1927d5e47894ee94df6fd520befc67bd.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -259,7 +260,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/276/7huj2ud4bp4nhwhg1dduxrvmv1vy7wys.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/38b/13adi64rle92vgnr7w7136806i0l1o8i.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -358,10 +359,10 @@
       "IP_PROP34": 12925,
       "IP_PROP35": "ПУ-00040871",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/551/7lxovp99amakj58n60bxge9xlxlddzqt.png",
         "https://cdn.utfc.ru/iblock/e4a/lqd2p6uhoyo8jkp9ne7tl7optnw99ju0.png",
         "https://cdn.utfc.ru/iblock/194/stj7jy4tgs9fxwl3kzqzzqiitemvavaz.png",
         "https://cdn.utfc.ru/iblock/30c/w1vz37qu3x0tkr82vu4xki8wkdumr5oc.png",
+        "https://cdn.utfc.ru/iblock/551/7lxovp99amakj58n60bxge9xlxlddzqt.png",
         "https://cdn.utfc.ru/iblock/9e6/m286inpmo819hmeiasujnnp3h60jdmys.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -448,10 +449,10 @@
       "IP_PROP34": 12925,
       "IP_PROP35": "ПУ-00040870",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/b62/bampz5ce5cgb4w2k5ixwd3mcn9qmo4na.png",
         "https://cdn.utfc.ru/iblock/ebe/wl4cfaf9hjsl39ez97tt3ie7ltzp40nm.png",
         "https://cdn.utfc.ru/iblock/d91/wlv64tsxk82aovw7ma26ilr8mdpew83g.png",
         "https://cdn.utfc.ru/iblock/149/pf4yeg2j54so8g5sca2c0ljb1b5rahb6.png",
+        "https://cdn.utfc.ru/iblock/b62/bampz5ce5cgb4w2k5ixwd3mcn9qmo4na.png",
         "https://cdn.utfc.ru/iblock/3a8/7t2pm42x5j9z7n74dubx8j8itq55g3g1.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -706,10 +707,10 @@
       "IP_PROP34": 12925,
       "IP_PROP35": "ПУ-00041404",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/9b1/02pzyygpkdon6tnd8kycb6g2gi9ng30i.png",
         "https://cdn.utfc.ru/iblock/923/kgzjffgti3ubpivanuj5236l6ff2goqn.png",
         "https://cdn.utfc.ru/iblock/c1f/39bu6xwtqojrbcaq9pgrul5w6dtqjnvw.png",
         "https://cdn.utfc.ru/iblock/8ae/y790k6bvjjky77651hx603iybp6erfnk.png",
+        "https://cdn.utfc.ru/iblock/9b1/02pzyygpkdon6tnd8kycb6g2gi9ng30i.png",
         "https://cdn.utfc.ru/iblock/473/a3w25oo5d6h5boghqn9oblo0lh82tfji.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -796,10 +797,10 @@
       "IP_PROP34": 12925,
       "IP_PROP35": "ПУ-00041540",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/b0e/st9ns73fvmvy6ud1igxk3y6k69bspjww.png",
         "https://cdn.utfc.ru/iblock/236/wnnebf9a4k59576sv0lutfbebw5aks00.png",
         "https://cdn.utfc.ru/iblock/668/cnji11q70s7imlso9mfslpf72e4al2q5.png",
         "https://cdn.utfc.ru/iblock/ab6/y5o7vujqka8e1sn8jv0c8x0gpxshpf9j.png",
+        "https://cdn.utfc.ru/iblock/b0e/st9ns73fvmvy6ud1igxk3y6k69bspjww.png",
         "https://cdn.utfc.ru/iblock/a21/gpgn09ev542gz09putjiokxt9lzgf784.png"
       ],
       "IP_PROP37": "Кожзаменитель Z",
@@ -989,7 +990,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "lost": [
     {
       "clean": false,

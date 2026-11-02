@@ -124,7 +124,8 @@
         "https://cdn.utfc.ru/iblock/131/13101ef1c9dc831b2244143b3ebc29c5/3b7094245aed87f77bd616a55e0e36eb.png",
         "https://cdn.utfc.ru/iblock/a63/a63693181d09c6d18c4cbe2ffc2972d9/e65eb25f2604c7799a9cb346b818490e.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -271,7 +272,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/ae4/ae4d847309a9bf1a096cabb768207d3e.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/1c0/1c053960a55937421c6f73ff62acbbf8.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -370,10 +371,10 @@
       "IP_PROP34": 8783,
       "IP_PROP35": "ЦБ-00008332",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/840/840bcd8c86dd4fb23bf6ac76d9e4f8d7/598eb953441cd151ea421a9c0f5427f2.png",
         "https://cdn.utfc.ru/iblock/131/13101ef1c9dc831b2244143b3ebc29c5/3b7094245aed87f77bd616a55e0e36eb.png",
         "https://cdn.utfc.ru/iblock/158/158a7b7f10ed5da7909a20138f4c034f/6259f780006b967740d74cf52450055a.png",
         "https://cdn.utfc.ru/iblock/cf0/cf0b58bc3d9f9897570ffcea41ee39c3/700c582f95625d61e55526c0488dab58.png",
+        "https://cdn.utfc.ru/iblock/840/840bcd8c86dd4fb23bf6ac76d9e4f8d7/598eb953441cd151ea421a9c0f5427f2.png",
         "https://cdn.utfc.ru/iblock/a63/a63693181d09c6d18c4cbe2ffc2972d9/e65eb25f2604c7799a9cb346b818490e.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -551,7 +552,7 @@
     "Кресло Премьер В пластик-люкс 727 (Экокожа Santorini, Экокожа S-0427 (слоновая кость),, )",
     "Кресло Премьер В пластик-люкс 727 (-, Экокожа S-0401 (черный),, )"
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "635",
     "Высота:": "1160-1260",

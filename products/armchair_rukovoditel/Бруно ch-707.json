@@ -176,7 +176,8 @@
         "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
         "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png"
+        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -323,7 +324,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/c07/c07f07f11819377be4aed52ec7235565.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/490/49085ac3bbce5d2a8368e7605b448400.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -422,10 +423,10 @@
       "IP_PROP34": 9618,
       "IP_PROP35": "ЦБ-00006949",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/fcb/hsv8kkilvz0m6fpqw4r6x0oulg46p6qn.png",
         "https://cdn.utfc.ru/iblock/d0a/0iis6h498w2s0ohjgp6w4i3rq8a5v5qq.png",
         "https://cdn.utfc.ru/iblock/932/f4u7rqwe0qm62gvncf3rnb5oxo2z18pl.png",
         "https://cdn.utfc.ru/iblock/bc3/2l8he9ue4fi1ddamk22prgu64pzzsuun.png",
+        "https://cdn.utfc.ru/iblock/fcb/hsv8kkilvz0m6fpqw4r6x0oulg46p6qn.png",
         "https://cdn.utfc.ru/iblock/0c6/0qcnpx6dw3qgfe085z0djzrqi98uyykb.png"
       ],
       "IP_PROP37": "Экокожа Santorini",
@@ -680,10 +681,10 @@
       "IP_PROP34": 9618,
       "IP_PROP35": "ПУ-00040763",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/502/p1xw69zavd7jh0hzjsywtklg6mh7wptb.png",
         "https://cdn.utfc.ru/iblock/1c7/ms4bt4dj54tffhy7n6anugneenia940u.png",
         "https://cdn.utfc.ru/iblock/2b0/ehax1dfejbtnd3xx5nub6p8i47js8qfg.png",
         "https://cdn.utfc.ru/iblock/8d0/vnsbwsspbdk9ittw4hwb7ay3twdnoqe1.png",
+        "https://cdn.utfc.ru/iblock/502/p1xw69zavd7jh0hzjsywtklg6mh7wptb.png",
         "https://cdn.utfc.ru/iblock/c87/25lopvr01368r912j58q2utmhxmf30xn.png"
       ],
       "IP_PROP37": "Ткань Velutto",
@@ -770,10 +771,10 @@
       "IP_PROP34": 9618,
       "IP_PROP35": "ПУ-00041188",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/f37/gawnppct4njxybl2jp7ha27kg6ar2a79.png",
         "https://cdn.utfc.ru/iblock/67c/2tqxaw3gtjkmhwh009lles967cskrqn9.png",
         "https://cdn.utfc.ru/iblock/568/l6sde0y539r881ixbqu5409ceful3m5g.png",
         "https://cdn.utfc.ru/iblock/404/t86ovot4ajf54eqve6v5du7rd4y2qgpa.png",
+        "https://cdn.utfc.ru/iblock/f37/gawnppct4njxybl2jp7ha27kg6ar2a79.png",
         "https://cdn.utfc.ru/iblock/ecb/o6wrn5u0ddqe6etn4za5ec9kv1cxmf7t.png"
       ],
       "IP_PROP37": "Ткань Velutto",
@@ -880,7 +881,7 @@
   "color_seat": [
     ""
   ],
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "sizes": {
     "Ширина:": "640",
     "Высота:": "1100-1200",

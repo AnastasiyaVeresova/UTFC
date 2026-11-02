@@ -170,7 +170,8 @@
         "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
         "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
         "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png"
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -277,7 +278,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/006/yfslkxgljh9e7hlg5c4quz2gne2cbmy0.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/7a7/ts27r0m31knjgx8h08wsf8h3sqbvln7i.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -376,10 +377,10 @@
       "IP_PROP34": 12354,
       "IP_PROP35": "ПУ-00030422",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/dcb/dcb232d3063eb8473ba9d970fcda2861/baf101acfa0fae5c76fae4f0cf08e8e5.png",
         "https://cdn.utfc.ru/iblock/2c1/2c18a7b48b8a1072331256bcdf1cd700/13ce5f987bba267edb477f0fe59ce0e8.png",
         "https://cdn.utfc.ru/iblock/1fb/1fb677f34825a9721a9fed1e06f0b2cb/8e43f708689647658b3ba3b54a4796f2.png",
         "https://cdn.utfc.ru/iblock/3d7/3d71d7dd10f2296fd2ce8ad926b2260d/855f6bd319e8f88bfef4bf99a292b4c6.png",
+        "https://cdn.utfc.ru/iblock/dcb/dcb232d3063eb8473ba9d970fcda2861/baf101acfa0fae5c76fae4f0cf08e8e5.png",
         "https://cdn.utfc.ru/iblock/b85/b85d5dfd762aee3812b58b156687958d/edafb00ec511d5ab6ee8c3240cb4334f.png"
       ],
       "IP_PROP37": "Экокожа А-011",
@@ -418,7 +419,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 28,
+      "CP_QUANTITY": 27,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -435,7 +436,7 @@
       "CP_VAT_ID": "",
       "CP_VAT_INCLUDED": "Y",
       "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 4,
+      "STORE_AMOUNT_2": 3,
       "STORE_AMOUNT_3": 2,
       "CV_QUANTITY_FROM": "",
       "CV_QUANTITY_TO": "",

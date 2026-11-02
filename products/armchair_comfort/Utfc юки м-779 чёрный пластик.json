@@ -113,7 +113,9 @@
         "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
         "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
         "https://cdn.utfc.ru/iblock/beb/bebcbd36262d37e1dd0c2cfeb3ac2086/fd6be8491b7f95f409e05e0114f3e2fd.png",
-        "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png"
+        "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
       ]
     }
   ],
@@ -192,7 +194,7 @@
   "full_describe": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
   "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m779_yuki/?offers=13771",
   "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано РФ",
+  "madeinrf": "Сделано в РФ",
   "Основание": "Пятилучье пластиковое М-779 PL, диаметр 640 мм, (черный)",
   "Подлокотники": "Подлокотники пластиковые регулируемые по высоте для кресла М-779 Юки",
   "Газлифт": "",
@@ -274,7 +276,7 @@
     "IP_PROP10": "",
     "IP_PROP11": "",
     "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/cf7/cf7004a7879a21ba2d5a6b5d18f9e666/9d3ae003163f8e68c8771429da13d639.png",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/a68/a68b54833f7879b65761b6048972f6f3/87a1166b176652252d9f0d7e8834f134.png",
     "IP_PROP14": "",
     "IP_PROP15": "",
     "IP_PROP16": "",
@@ -373,10 +375,10 @@
       "IP_PROP34": 13767,
       "IP_PROP35": "ПУ-00044529",
       "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
         "https://cdn.utfc.ru/iblock/4a2/4a2ac6b6deb249c83532ca3a6eeabeb5/0caacb3987758771da3d4f144913d755.png",
         "https://cdn.utfc.ru/iblock/7d1/7d10ab58379160f09c485c3faeb3a869/7b2c2c82b35c47761910068c1a650db5.png",
         "https://cdn.utfc.ru/iblock/bda/bda0e0f10dcdcbc917beb28d6d6852bc/c9754dd0d174be63d64cf8a0fcfb3ef0.png",
+        "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
         "https://cdn.utfc.ru/iblock/0e6/0e6bc85460b3064e430c36569ac23503/4c88b43f44dc93d07712faf3b5d3f032.png"
       ],
       "IP_PROP37": "Сетка М-779",
