@@ -1,6 +1,6 @@
 {
     "namefile": [
-        "Бари"
+        "Бари gr"
     ],
     "name_all": [
         "Бари"
@@ -9,7 +9,7 @@
         "Бари"
     ],
     "unique_name": [
-        "Бари"
+        "Бари GR"
     ],
     "vid": [
         "стул"
@@ -33,7 +33,7 @@
     "construction_and_materials": [
         {
             "upholstery_materials": [
-                "- тип покрытия каркаса стула: BL, GR, где BL - окрашенный, цвет черный; GR — окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула: для мягких элементов: ткань (Велтон, Умбра, Moderno)."
+                "- тип покрытия каркаса стула: BL, GR, где BL - окрашенный, цвет черный; GR — окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула: для мягких элементов: ткань (Велтон, Умбра, Moderno)"
             ],
             "components": [
                 "сборного металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
@@ -51,11 +51,11 @@
             "packaging": {
                 "type": "5-слойный гофрокороб",
                 "size": {
-                    "width": "840",
-                    "depth": "660",
-                    "height": "180"
+                    "width": "850",
+                    "depth": "670",
+                    "height": "190"
                 },
-                "box_size": "840х660х180",
+                "box_size": "850х670х190",
                 "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде. Упаковка по 1 или 2 изделия в отдельный 5-слойный гофрокороб размером "
             }
         }
@@ -63,8 +63,8 @@
     "dimensions": [
         {
             "brutto": "5,5",
-            "netto": "",
-            "volume": "0,1"
+            "netto": "4,7",
+            "volume": "0,11"
         }
     ],
     "guarantee": [
@@ -76,9 +76,9 @@
     ],
     "images": [
         {
-            "vid_main": "img/chair_visitors/bari_bl_umbra910_01.png",
-            "chair_view": "img/chair_visitors/bari_bl_umbra910_02.png",
-            "dimensions": "img/chair_visitors/dimensions/bari_bl_umbra910_01.png",
+            "vid_main": "img/chair_visitors/bari_gr_01.png",
+            "chair_view": "img/chair_visitors/bari_gr_02.png",
+            "dimensions": "img/chair_visitors/dimensions/bari_gr_01.png",
             "box": "img/box_UTFC_2x.png",
             "additional": [
             ]

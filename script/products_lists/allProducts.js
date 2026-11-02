@@ -150,7 +150,12 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
-    "name": "Бари",
+    "name": "Бари bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Бари gr",
     "category": "chair_visitors",
     "is_archive": false
   },
@@ -591,6 +596,11 @@ const knownProductsAllFiles = [
   },
   {
     "name": "Кайман трио ch-303 в хром мб",
+    "category": "armchair_rukovoditel",
+    "is_archive": false
+  },
+  {
+    "name": "Кайман трио ch-303 в soft хром",
     "category": "armchair_rukovoditel",
     "is_archive": false
   },
