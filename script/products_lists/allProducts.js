@@ -1960,6 +1960,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Utfc канзас сн-111 в 3d хром",
+    "category": "armchair_rukovoditel",
+    "is_archive": false
+  },
+  {
     "name": "Utfc канзас сн-111 в пластик хром",
     "category": "armchair_rukovoditel",
     "is_archive": false
