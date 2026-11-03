@@ -141,12 +141,12 @@
                 <div class="box-info-label">Индивидуальная</div>
                 <div class="box-info-item">
                     <img src="img/brutto.png" alt="Вес брутто">
-                    <p><span id="brutto-individual"></span> кг</p>
+                    <p><span id="brutto-individual"></span></p>
                 </div>
                 <div class="box-info-line"></div>
                 <div class="box-info-item">
                     <img src="img/netto.png" alt="Вес нетто">
-                    <p><span id="netto-individual"></span> кг</p>
+                    <p><span id="netto-individual"></span></p>
                 </div>
                 <div class="box-info-line"></div>
                 <div class="box-info-item">
@@ -177,17 +177,36 @@
     </div>
 </div> -->
 
+            <!-- Блок для BOX2 -->
+            <div class="box-info-row" id="box-info-box2">
+                <div class="box-info-label">BOX2</div>
+                <div class="box-info-item">
+                    <img src="img/brutto.png" alt="Вес брутто">
+                    <p><span id="brutto-box2"></span></p>
+                </div>
+                <div class="box-info-line"></div>
+                <div class="box-info-item">
+                    <img src="img/netto.png" alt="Вес нетто">
+                    <p><span id="netto-box2"></span></p>
+                </div>
+                <div class="box-info-line"></div>
+                <div class="box-info-item">
+                    <img src="img/v.png" alt="Объем">
+                    <p><span id="volume-box2"></span> м³</p>
+                </div>
+            </div>
+
             <!-- Блок для BOX4 -->
             <div class="box-info-row" id="box-info-box4">
                 <div class="box-info-label">BOX4</div>
                 <div class="box-info-item">
                     <img src="img/brutto.png" alt="Вес брутто">
-                    <p><span id="brutto-box4"></span> кг</p>
+                    <p><span id="brutto-box4"></span></p>
                 </div>
                 <div class="box-info-line"></div>
                 <div class="box-info-item">
                     <img src="img/netto.png" alt="Вес нетто">
-                    <p><span id="netto-box4"></span> кг</p>
+                    <p><span id="netto-box4"></span></p>
                 </div>
                 <div class="box-info-line"></div>
                 <div class="box-info-item">
@@ -195,6 +214,7 @@
                     <p><span id="volume-box4"></span> м³</p>
                 </div>
             </div>
+
 
 
             <div class="box-container">
@@ -899,6 +919,7 @@
                     const packagingData = product.dimensions?.[0]?.packaging_type || [];
                     let bruttoIndividual = null, nettoIndividual = null, volumeIndividual = null;
                     let bruttoBox4 = null, nettoBox4 = null, volumeBox4 = null;
+                    let bruttoBox2 = null, nettoBox2 = null, volumeBox2 = null;
 
                   packagingData.forEach(pack => {
     if (pack.type === 'individual') {
@@ -913,6 +934,10 @@
         bruttoBox4 = pack.brutto;
         nettoBox4 = pack.netto;
         volumeBox4 = pack.volume;
+    } else if (pack.type === 'box2') {
+        bruttoBox2 = pack.brutto;
+        nettoBox2 = pack.netto;
+        volumeBox2 = pack.volume;
     }
 });
                     // Если есть packaging_type — заполняем новые блоки, скрываем старый
@@ -928,7 +953,16 @@
                             document.getElementById('box-info-individual').style.display = 'none';
                         }
 
-                        // Заполняем данные для BOX4
+                        // Заполняем данные для BOX2
+                        if (bruttoBox2 || nettoBox2 || volumeBox2) {
+                            document.getElementById('brutto-box2').textContent = bruttoBox2 || 'не указан';
+                            document.getElementById('netto-box2').textContent = nettoBox2 || 'не указан';
+                            document.getElementById('volume-box2').textContent = volumeBox2 || 'не указан';
+                        } else {
+                            document.getElementById('box-info-box2').style.display = 'none';
+                        }
+
+                         // Заполняем данные для BOX4
                         if (bruttoBox4 || nettoBox4 || volumeBox4) {
                             document.getElementById('brutto-box4').textContent = bruttoBox4 || 'не указан';
                             document.getElementById('netto-box4').textContent = nettoBox4 || 'не указан';
@@ -940,6 +974,7 @@
                     else {
                         // Если нет packaging_type — заполняем старый блок, скрываем новые
                         document.getElementById('box-info-individual').style.display = 'none';
+                        document.getElementById('box-info-box2').style.display = 'none';
                         document.getElementById('box-info-box4').style.display = 'none';
 
                         const bruttoElement = document.getElementById('brutto');

@@ -870,6 +870,26 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Латина bl",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Латина bl с подлокотниками",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Латина gr",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
+    "name": "Латина gr с подлокотниками",
+    "category": "chair_visitors",
+    "is_archive": false
+  },
+  {
     "name": "Логика tg пластик",
     "category": "armchair_personal",
     "is_archive": true

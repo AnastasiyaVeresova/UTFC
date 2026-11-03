@@ -64,7 +64,7 @@
       }
     }
   ],
-  "dimensions": [
+"dimensions": [
     {
       "packaging_type": [
         {
@@ -77,11 +77,11 @@
           "type": "box4",
           "brutto": "5,46",
           "netto": "4,94",
-          "volume": "0,038"
+          "volume": "0,15"
         }
       ],
-      "volume": "0,04",
-      "netto": "4,94",
+      "volume": "0,046",
+      "netto": "",
       "brutto": "5,46"
     }
   ],
