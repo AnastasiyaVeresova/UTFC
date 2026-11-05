@@ -80,8 +80,7 @@
             "chair_view": "img/chair_visitors/bari_gr_02.png",
             "dimensions": "img/chair_visitors/dimensions/bari_gr_01.png",
             "box": "img/box_UTFC_2x.png",
-            "additional": [
-            ]
+            "additional": []
         }
     ],
     "dimensions_details": [
@@ -168,8 +167,8 @@
             },
             "backrest_width_wide": {
                 "min": "",
-                "max": ""            
-            },                
+                "max": ""
+            },
             "recommended_load": "90",
             "max_load": "120",
             "skeleton": "",

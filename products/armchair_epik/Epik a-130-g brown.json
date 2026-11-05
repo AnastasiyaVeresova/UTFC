@@ -1,522 +1,522 @@
 {
-  "namefile": [
-    "Epik a-130-g brown"
-  ],
-  "name_all": [
-    "EPIK A-130"
-  ],
-  "name": [
-    "EPIK A-130"
-  ],
-  "unique_name": [
-    "EPIK A-130-G brown"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло руководителя"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
-        "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
-        "<strong>Облицовка спинки и сиденья</strong>: экокожа",
-        "<strong>Подлокотники</strong> - алюминиевые с мягкими полиуретановыми накладками",
-        "<strong>Механизм качания</strong> синхронный, позволяет регулировать высоту сиденья, жесткость отклонения спинки и обеспечивает фиксацию наклона в 4-х положениях",
-        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют открытый пластиковый чехол"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "890",
-          "depth": "350",
-          "height": "650"
-        },
-        "box_size": "890х350х650",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "22,00",
-      "netto": "19,40",
-      "volume": "0,20"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "150",
-      "recommended_load": "120"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_epik/epik_a_130_g_brown_01.png",
-      "chair_view": "img/armchair_epik/epik_a_130_g_brown_02.png",
-      "dimensions": "img/armchair_epik/dimensions/epik_a_130_g_black_01.png",
-      "box": "img/box_epik.png",
-      "additional": [
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4af/140_140_0/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://utfc.ru/upload/resize_cache/iblock/a94/140_140_0/0oau5x972my0mysphxnn64f6krpvapn0.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/635/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/4af/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-        "https://utfc.ru/upload/resize_cache/iblock/0de/140_140_0/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/635/140_140_0/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/0de/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
-        "https://utfc.ru/upload/resize_cache/iblock/c70/400_400_0/5kk900l7qfsrm711xoakxvtnc111yqik.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/a94/0oau5x972my0mysphxnn64f6krpvapn0.png",
-        "https://utfc.ru/upload/resize_cache/iblock/bb9/140_140_0/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
-        "https://cdn.utfc-store.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
-        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
-        "https://cdn.utfc-store.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
-        "https://cdn.utfc-store.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
-        "https://cdn.utfc-store.ru/iblock/a94/0oau5x972my0mysphxnn64f6krpvapn0.png",
-        "https://cdn.utfc-store.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
-        "https://cdn.utfc-store.ru/iblock/4af/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
-        "https://cdn.utfc-store.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
-        "https://cdn.utfc-store.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
-        "https://cdn.utfc-store.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
-        "https://cdn.utfc-store.ru/iblock/635/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
-        "https://cdn.utfc-store.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-        "https://cdn.utfc-store.ru/iblock/0de/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
-        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc-store.ru/resize_cache/28854/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
-        "https://cdn.utfc-store.ru/resize_cache/28857/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
-        "https://cdn.utfc-store.ru/resize_cache/28853/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
-        "https://cdn.utfc-store.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
-        "https://cdn.utfc-store.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
-        "https://cdn.utfc-store.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
-        "https://cdn.utfc-store.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
-        "https://cdn.utfc-store.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
-        "https://cdn.utfc-store.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
-        "https://cdn.utfc-store.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
-        "https://cdn.utfc-store.ru/resize_cache/28855/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
-        "https://cdn.utfc-store.ru/resize_cache/28856/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
-        "https://cdn.utfc-store.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
-        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
-        "https://cdn.utfc.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
-        "https://cdn.utfc.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
-        "https://cdn.utfc.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
-        "https://cdn.utfc.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
-        "https://cdn.utfc.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
-        "https://cdn.utfc.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
-        "https://cdn.utfc.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
-        "https://cdn.utfc.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
-        "https://cdn.utfc.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
-        "https://cdn.utfc.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
-        "https://cdn.utfc.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
-        "https://cdn.utfc.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
-        "https://cdn.utfc.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
-        "https://cdn.utfc.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
-        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/iblock/d2e/d2ea800e13e294df1c3a01ce7ac274ee/9ac1d7a2c1f2f39a8350d15e11579169.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1215",
-        "max": "1315"
-      },
-      "headrest_height": {},
-      "seat_to_floor_height": {
-        "min": "460",
-        "max": "560"
-      },
-      "seat_to_floor_height_upper": {},
-      "armrest_height_from_floor": {
-        "min": "285"
-      },
-      "armrest_height_from_seat": {
-        "min": "210"
-      },
-      "armrest_width_support": {
-        "max": "60"
-      },
-      "armrest_length_support": {
-        "max": "300"
-      },
-      "chair_depth": {
-        "min": "650"
-      },
-      "seat_depth": {
-        "min": "480"
-      },
-      "seat_depth_km": {
-        "max": "500"
-      },
-      "backrest_height": {
-        "max": "770"
-      },
-      "backrest_to_seat_height": {},
-      "backrest_height_external": {
-        "max": "860"
-      },
-      "seat_width_with_armrests": {
-        "min": "640"
-      },
-      "seat_width": {
-        "max": "510"
-      },
-      "backrest_width_narrow": {
-        "max": "450"
-      },
-      "backrest_width_wide": {
-        "max": "500"
-      },
-      "diameter_cross": {
-        "max": "700"
-      },
-      "runners_width": {},
-      "runners_depth": {},
-      "recommended_load": "120",
-      "max_load": "150",
-      "skeleton": "немонолитный",
-      "netto": "19",
-      "brutto": "22",
-      "package_width": "890",
-      "package_depth": "350",
-      "package_height": "650",
-      "volume": "0"
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1095",
-    "IE_NAME": "EPIK А-130-G (коричневый)",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 1300,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/1f5/o758yzpg2ozsqnyulkz1bkkbrc9xkcws.png",
-    "IE_PREVIEW_TEXT": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b67/2n012bchpjtb1dkrbwrtao55vazzo8nx.png",
-    "IE_DETAIL_TEXT": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "epik_a130g_br",
-    "IE_TAGS": "",
-    "IE_ID": 12367,
-    "IP_PROP2": 640,
-    "IP_PROP3": "1215-1315",
-    "IP_PROP4": 650,
-    "IP_PROP6": "",
-    "IP_PROP19": 150,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
-    "IP_PROP5": 890,
-    "IP_PROP26": 650,
-    "IP_PROP27": 350,
-    "IP_PROP28": 22,
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,21",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00038706",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье А-130-G",
-    "IP_PROP42": "Подлокотник А-130 G",
-    "IP_PROP43": "Газ-лифт А-130-G",
-    "IP_PROP44": "Механизм А-130",
-    "IP_PROP45": "Зона поясничной поддержки кресла А-130",
-    "IP_PROP46": "Ролик А-130-G",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 52,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "ЭПИК",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 39,
-    "IC_DESCRIPTION0": "Современный дизайн без компромиссов и премиальные материалы для уверенного лидерства и стиля",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "epik_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/dae/fjdmfrrih5khwme9l9w1r7ob66xbnvbk.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ac7/oxx22sy9v9t9gjz1xu17fqa2619qk0mt.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "N",
-    "CP_MEASURE": "",
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 22900,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 23587,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 22900,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50309,
-      "IE_NAME": "Кресло EPIK A-130-G (коричневый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/262/262b7eb1819cbb8effbe0fe8d83ac5d5/226ce635760ff8d58cd9f425c0ff5ff9.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/a3b/a3bd9a32508e8f8a3d8fdf147c98d388/11711cbe637e227fb372f60c1b84459c.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12395,
-      "IP_PROP34": 12367,
-      "IP_PROP35": "ПУ-00033579",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
-        "https://cdn.utfc.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
-        "https://cdn.utfc.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
-        "https://cdn.utfc.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
-        "https://cdn.utfc.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png"
-      ],
-      "IP_PROP37": "Экокожа Lux А-130",
-      "IP_PROP38": "Экокожа Lux А-130 (коричневый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "коричневый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 69,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 2,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 22900,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 23587,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 67,
-      "CV_PRICE_3": 22900,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Комфортабельное кресло руководителя в лаконичном дизайне EPIK А-130-G (коричневый) производства компании UTFC",
-  "base_name": "Кресло EPIK А-130-G (коричневый)",
-  "article_number": "ПУ-00033579",
-  "full_describe": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
-  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_a130g_br/?offers=12395",
-  "Основание": "Пятилучье алюминиевое А-130-G, покрытие глянцевое, диаметр 700мм",
-  "Подлокотники": "Подлокотники алюминиевые с мягкими полиуретановыми накладками для кресла EPIK A-130 G",
-  "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550",
-  "Механизм": "Синхронный механизм качания позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в 4-х положениях.",
-  "Особенности": "Увеличенная мягкая зона поясничной поддержки",
-  "Ролики": "Полиуретановые ролики 60 мм",
-  "finish_type": [
-    "-",
-    "Экокожа Lux А-130"
-  ],
-  "color": [
-    "Экокожа Lux А-130 (коричневый)"
-  ],
-  "variant_name": [
-    "Кресло EPIK А-130-G (коричневый) (-, Экокожа Lux А-130 (коричневый),, )",
-    "Кресло EPIK А-130-G (коричневый) (Экокожа Lux А-130, Экокожа Lux А-130 (коричневый),, )"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ],
-  "madeinrf": "",
-  "lost": [
-    {
-      "clean": false,
-      "limit": false,
-      "del": false
-    }
-  ],
-  "additional_info": {
-    "package_dimensions": {
-      "width": "22",
-      "depth": "890",
-      "height": "350"
+    "namefile": [
+        "Epik a-130-g brown"
+    ],
+    "name_all": [
+        "EPIK A-130"
+    ],
+    "name": [
+        "EPIK A-130"
+    ],
+    "unique_name": [
+        "EPIK A-130-G brown"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло руководителя"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и сиденья кресла: экокожа<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из основания, вкладыша пенополиуретанового и обивочного материала",
+                "<strong>Сиденье</strong> состоит из основания, вкладыша пенополиуретанового и обивочного элемента",
+                "<strong>Облицовка спинки и сиденья</strong>: экокожа",
+                "<strong>Подлокотники</strong> - алюминиевые с мягкими полиуретановыми накладками",
+                "<strong>Механизм качания</strong> синхронный, позволяет регулировать высоту сиденья, жесткость отклонения спинки и обеспечивает фиксацию наклона в 4-х положениях",
+                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> алюминиевое d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> с полиуретановым покрытием d=60 мм имеют открытый пластиковый чехол"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "890",
+                    "depth": "350",
+                    "height": "650"
+                },
+                "box_size": "890х350х650",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "22,00",
+            "netto": "19,40",
+            "volume": "0,20"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "150",
+            "recommended_load": "120"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_epik/epik_a_130_g_brown_01.png",
+            "chair_view": "img/armchair_epik/epik_a_130_g_brown_02.png",
+            "dimensions": "img/armchair_epik/dimensions/epik_a_130_g_black_01.png",
+            "box": "img/box_epik.png",
+            "additional": [
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4af/140_140_0/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://utfc.ru/upload/resize_cache/iblock/a94/140_140_0/0oau5x972my0mysphxnn64f6krpvapn0.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/635/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/4af/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+                "https://utfc.ru/upload/resize_cache/iblock/0de/140_140_0/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/635/140_140_0/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/0de/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
+                "https://utfc.ru/upload/resize_cache/iblock/c70/400_400_0/5kk900l7qfsrm711xoakxvtnc111yqik.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/a94/0oau5x972my0mysphxnn64f6krpvapn0.png",
+                "https://utfc.ru/upload/resize_cache/iblock/bb9/140_140_0/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
+                "https://cdn.utfc-store.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
+                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
+                "https://cdn.utfc-store.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
+                "https://cdn.utfc-store.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
+                "https://cdn.utfc-store.ru/iblock/a94/0oau5x972my0mysphxnn64f6krpvapn0.png",
+                "https://cdn.utfc-store.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
+                "https://cdn.utfc-store.ru/iblock/4af/nsczvmzr15ypqlw0glwqldf8dc86yb2j.png",
+                "https://cdn.utfc-store.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
+                "https://cdn.utfc-store.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
+                "https://cdn.utfc-store.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
+                "https://cdn.utfc-store.ru/iblock/635/ykqtjrzkg71lrs3v3n8pu74nap0nssrl.png",
+                "https://cdn.utfc-store.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+                "https://cdn.utfc-store.ru/iblock/0de/vr29b05xmb24uuou8cgseee1uzmtfpv8.png",
+                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc-store.ru/resize_cache/28854/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
+                "https://cdn.utfc-store.ru/resize_cache/28857/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
+                "https://cdn.utfc-store.ru/resize_cache/28853/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
+                "https://cdn.utfc-store.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
+                "https://cdn.utfc-store.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
+                "https://cdn.utfc-store.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
+                "https://cdn.utfc-store.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
+                "https://cdn.utfc-store.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
+                "https://cdn.utfc-store.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
+                "https://cdn.utfc-store.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
+                "https://cdn.utfc-store.ru/resize_cache/28855/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
+                "https://cdn.utfc-store.ru/resize_cache/28856/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
+                "https://cdn.utfc-store.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
+                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
+                "https://cdn.utfc.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
+                "https://cdn.utfc.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png",
+                "https://cdn.utfc.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
+                "https://cdn.utfc.ru/uf/057/isodxpakdiuf9c2n63a45yykfwstdzil.png",
+                "https://cdn.utfc.ru/uf/fbf/n3if81lavcxdtqn4h41eodi6vh6q7atd.png",
+                "https://cdn.utfc.ru/uf/7f5/dizw4o64zhohtjirkmbd5p87yr970egs.png",
+                "https://cdn.utfc.ru/uf/fb1/4igw50brt4ffn4kcebrd69i88824hdpk.png",
+                "https://cdn.utfc.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
+                "https://cdn.utfc.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
+                "https://cdn.utfc.ru/uf/d62/jywkniy05kmklmwmxwnsxnhiufnpimo2.png",
+                "https://cdn.utfc.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
+                "https://cdn.utfc.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
+                "https://cdn.utfc.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
+                "https://cdn.utfc.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
+                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/iblock/d2e/d2ea800e13e294df1c3a01ce7ac274ee/9ac1d7a2c1f2f39a8350d15e11579169.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1215",
+                "max": "1315"
+            },
+            "headrest_height": {},
+            "seat_to_floor_height": {
+                "min": "460",
+                "max": "560"
+            },
+            "seat_to_floor_height_upper": {},
+            "armrest_height_from_floor": {
+                "min": "285"
+            },
+            "armrest_height_from_seat": {
+                "min": "210"
+            },
+            "armrest_width_support": {
+                "max": "60"
+            },
+            "armrest_length_support": {
+                "max": "300"
+            },
+            "chair_depth": {
+                "min": "650"
+            },
+            "seat_depth": {
+                "min": "480"
+            },
+            "seat_depth_km": {
+                "max": "500"
+            },
+            "backrest_height": {
+                "max": "770"
+            },
+            "backrest_to_seat_height": {},
+            "backrest_height_external": {
+                "max": "860"
+            },
+            "seat_width_with_armrests": {
+                "min": "640"
+            },
+            "seat_width": {
+                "max": "510"
+            },
+            "backrest_width_narrow": {
+                "max": "450"
+            },
+            "backrest_width_wide": {
+                "max": "500"
+            },
+            "diameter_cross": {
+                "max": "700"
+            },
+            "runners_width": {},
+            "runners_depth": {},
+            "recommended_load": "120",
+            "max_load": "150",
+            "skeleton": "немонолитный",
+            "netto": "19",
+            "brutto": "22",
+            "package_width": "890",
+            "package_depth": "350",
+            "package_height": "650",
+            "volume": "0"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1095",
+        "IE_NAME": "EPIK А-130-G (коричневый)",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 1300,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/1f5/o758yzpg2ozsqnyulkz1bkkbrc9xkcws.png",
+        "IE_PREVIEW_TEXT": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b67/2n012bchpjtb1dkrbwrtao55vazzo8nx.png",
+        "IE_DETAIL_TEXT": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "epik_a130g_br",
+        "IE_TAGS": "",
+        "IE_ID": 12367,
+        "IP_PROP2": 640,
+        "IP_PROP3": "1215-1315",
+        "IP_PROP4": 650,
+        "IP_PROP6": "",
+        "IP_PROP19": 150,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/fac/sl8904ifyecc0up2argrllq8oczlu50d.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/18a/i6pi74fx1dti1zvuz9uru3puipe7xzay.png",
+        "IP_PROP5": 890,
+        "IP_PROP26": 650,
+        "IP_PROP27": 350,
+        "IP_PROP28": 22,
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,21",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00038706",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/bb9/j0fpkis8ruzq0wawo278gf25ulc2sjh1.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье А-130-G",
+        "IP_PROP42": "Подлокотник А-130 G",
+        "IP_PROP43": "Газ-лифт А-130-G",
+        "IP_PROP44": "Механизм А-130",
+        "IP_PROP45": "Зона поясничной поддержки кресла А-130",
+        "IP_PROP46": "Ролик А-130-G",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 52,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "ЭПИК",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 39,
+        "IC_DESCRIPTION0": "Современный дизайн без компромиссов и премиальные материалы для уверенного лидерства и стиля",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "epik_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/dae/fjdmfrrih5khwme9l9w1r7ob66xbnvbk.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ac7/oxx22sy9v9t9gjz1xu17fqa2619qk0mt.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "N",
+        "CP_MEASURE": "",
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 22900,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 23587,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 22900,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
     },
-    "netto": "19",
-    "brutto": "22",
-    "volume": "0"
-  },
-  "sizes": {
-    "Ширина:": "640",
-    "Высота:": "1215-1315",
-    "Глубина:": "650",
-    "Нагрузка:": "150",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "890",
-    "Высота упаковки:": "650",
-    "Глубина упаковки:": "350",
-    "Вес брутто:": "22",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,21"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "890",
-    "Высота упаковки:": "650",
-    "Глубина упаковки:": "350",
-    "Материал упаковки:": "Гофрокартон"
-  }
+    "children": [
+        {
+            "IE_XML_ID": 50309,
+            "IE_NAME": "Кресло EPIK A-130-G (коричневый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/262/262b7eb1819cbb8effbe0fe8d83ac5d5/226ce635760ff8d58cd9f425c0ff5ff9.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/a3b/a3bd9a32508e8f8a3d8fdf147c98d388/11711cbe637e227fb372f60c1b84459c.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12395,
+            "IP_PROP34": 12367,
+            "IP_PROP35": "ПУ-00033579",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/9cd/9cd50076333a249be617f59231a74057/80582caebc14ac5c6c35aee255e74ea5.png",
+                "https://cdn.utfc.ru/iblock/561/5610e7a49f4001c8cb33867467f56946/247ad2b245a88729f16aa45f11d33387.png",
+                "https://cdn.utfc.ru/iblock/53c/53cab8d765b85c9be16b4716b0a17c4f/be45adbce01624b3589fc22ce0c96221.png",
+                "https://cdn.utfc.ru/iblock/81f/81f8d5ce0bd360c373edcfc335caf00e/d5498c84900fbb56300b8aae64b67a64.png",
+                "https://cdn.utfc.ru/iblock/795/795a96a331b4926626e5cba2eb027538/4012d9f4f00ddefb63bec54396684d89.png"
+            ],
+            "IP_PROP37": "Экокожа Lux А-130",
+            "IP_PROP38": "Экокожа Lux А-130 (коричневый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "коричневый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 69,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 2,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 22900,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 23587,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 67,
+            "CV_PRICE_3": 22900,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Комфортабельное кресло руководителя в лаконичном дизайне EPIK А-130-G (коричневый) производства компании UTFC",
+    "base_name": "Кресло EPIK А-130-G (коричневый)",
+    "article_number": "ПУ-00033579",
+    "full_describe": "Кресло олицетворяет идеальное сочетание комфорта и элегантности. Оно обеспечивает надёжную поддержку поясницы, гарантируя максимальный уровень удобства. Изысканные алюминиевые подлокотники с мягкими накладками придают креслу роскошный вид и создают неповторимую атмосферу в вашем интерьере. Это кресло обладает утончённым и современным дизайном.",
+    "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_a130g_br/?offers=12395",
+    "Основание": "Пятилучье алюминиевое А-130-G, покрытие глянцевое, диаметр 700мм",
+    "Подлокотники": "Подлокотники алюминиевые с мягкими полиуретановыми накладками для кресла EPIK A-130 G",
+    "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550",
+    "Механизм": "Синхронный механизм качания позволяет регулировать высоту сиденья, жесткость отклонения и обеспечивает фиксацию наклона в 4-х положениях.",
+    "Особенности": "Увеличенная мягкая зона поясничной поддержки",
+    "Ролики": "Полиуретановые ролики 60 мм",
+    "finish_type": [
+        "-",
+        "Экокожа Lux А-130"
+    ],
+    "color": [
+        "Экокожа Lux А-130 (коричневый)"
+    ],
+    "variant_name": [
+        "Кресло EPIK А-130-G (коричневый) (-, Экокожа Lux А-130 (коричневый),, )",
+        "Кресло EPIK А-130-G (коричневый) (Экокожа Lux А-130, Экокожа Lux А-130 (коричневый),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "madeinrf": "",
+    "lost": [
+        {
+            "clean": false,
+            "limit": false,
+            "del": false
+        }
+    ],
+    "additional_info": {
+        "package_dimensions": {
+            "width": "22",
+            "depth": "890",
+            "height": "350"
+        },
+        "netto": "19",
+        "brutto": "22",
+        "volume": "0"
+    },
+    "sizes": {
+        "Ширина:": "640",
+        "Высота:": "1215-1315",
+        "Глубина:": "650",
+        "Нагрузка:": "150",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "890",
+        "Высота упаковки:": "650",
+        "Глубина упаковки:": "350",
+        "Вес брутто:": "22",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,21"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "890",
+        "Высота упаковки:": "650",
+        "Глубина упаковки:": "350",
+        "Материал упаковки:": "Гофрокартон"
+    }
 }

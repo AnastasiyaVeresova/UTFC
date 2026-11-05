@@ -1,445 +1,445 @@
 {
-  "namefile": [
-    "Utfc акита м-828 5d серый пластик хром"
-  ],
-  "name": [
-    "Акита"
-  ],
-  "unique_name": [
-    "UTFC Акита М-828 5D серый пластик хром"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Utfc акита м-828 5d серый пластик хром"
+    ],
+    "name": [
+        "Акита"
+    ],
+    "unique_name": [
+        "UTFC Акита М-828 5D серый пластик хром"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки, сиденья и подголовника: сетка"
+            ],
+            "components": [
+                "подголовника, спинки, сиденья, 2-х подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Подголовник</strong> 3D, состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине",
+                "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по глубине",
+                "Облицовка подголовника, спинки и сиденья: сетка",
+                "<strong>Подлокотники</strong> пластиковые 5D, регулируемые в 5-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
+                "<strong>Синхронный механизм со слайд-системой</strong> регулировка кресла по высоте и углу наклона спинки, фиксация в 3-х положениях",
+                "<strong>Газ-лифт</strong> хромированный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> d=700 мм хромированное с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "800",
+                    "depth": "420",
+                    "height": "650"
+                },
+                "box_size": "800х420х650",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "19,8",
+            "netto": "",
+            "volume": "0,22"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "130",
+            "recommended_load": "100"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/akita_gr_pl_grey_01.png",
+            "chair_view": "img/armchair_comfort/akita_gr_pl_grey_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/akita_gr_pl_grey_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://cdn.utfc.ru/iblock/15b/15be457d12e13af92eb88a4b1c1b760a/0974d3ba42a40c07c4ad14ccef89ad97.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/6c1/6c128f337cd5b1e2c42461173a099f89/ccc5176d889667d9716498a9ba6ab2af.png",
+                "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
+                "https://cdn.utfc.ru/iblock/76c/76cec84bebdfd7457c96e96c12977e87/dbb784cbc9a4391c3de9482971fbeb44.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://cdn.utfc.ru/iblock/925/9253df3311711ea23045a0d4707ab1aa/eb7b0c9959bd8ef8d1e54536d57d4f7a.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+                "https://cdn.utfc.ru/iblock/f2f/f2f4ab3be54415ed8d124a9977d1875a/c54c0feb633b9ad31b7c02c9165aecf4.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://cdn.utfc.ru/uf/8a3/8a3e66daa507897dfec5a948f143b9f2/88a7d9dd8990e622b86e646f76a893f3.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/uf/018/018ad6f95549e07ba3596f39d64baec7/3bf567bbec56460e056203f22872019b.png",
+                "https://cdn.utfc.ru/uf/c85/c85ae0bee2eb1c46b3ed3ba7f2fff11b/d83ad0bd3b68f6a721826df5f09fb44c.png",
+                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://cdn.utfc.ru/uf/327/327ca16155ebbebe90c81a6fbb1c6a2a/ecd0855d85f85bcb634560977a2302f6.png",
+                "https://cdn.utfc.ru/uf/130/1307c393836a798bbe55f19d2aaa100f/04ca2caf9436f2a8e5a1106ee5df1d8e.png",
+                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+                "https://cdn.utfc.ru/iblock/bda/bda914244e846f73a442c575049bb21b/62fdbd8ecc5054aaa4f056b66783b043.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/50b/50bed655a07bdbd609986f5c44bb580e/0def9e2ae3fd45ca7b83837fb92be691.png",
+                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+                "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "1130",
+                "max": "1310"
+            },
+            "headrest_height": {
+                "min": "105",
+                "max": "205"
+            },
+            "seat_to_floor_height": {
+                "min": "440",
+                "max": "520"
+            },
+            "seat_to_floor_height_upper": {},
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "230",
+                "max": "300"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "chair_depth": {
+                "min": "650"
+            },
+            "seat_depth": {
+                "min": "440",
+                "max": ""
+            },
+            "seat_depth_km": {},
+            "backrest_height": {},
+            "backrest_to_seat_height": {
+                "min": "600"
+            },
+            "backrest_height_external": {
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "670",
+                "max": "1040"
+            },
+            "seat_width": {
+                "max": "500"
+            },
+            "backrest_width_narrow": {
+                "max": ""
+            },
+            "backrest_width_wide": {
+                "max": ""
+            },
+            "diameter_cross": {
+                "max": "700"
+            },
+            "runners_width": {},
+            "runners_depth": {},
+            "recommended_load": "100",
+            "max_load": "130",
+            "skeleton": "",
+            "netto": "",
+            "brutto": "",
+            "package_width": "",
+            "package_depth": "",
+            "package_height": "",
+            "volume": ""
+        }
+    ],
+    "title": "Кресло UTFC Акита М-828 5D серый пластик/хром производства компании UTFC",
+    "base_name": "Кресло UTFC Акита М-828 5D серый пластик/хром",
+    "article_number": "ПУ-00038174",
+    "full_describe": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/akita/?offers=13812",
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "Основание": "Пятилучье хромированное М-828, диаметр 700 мм",
+    "Подлокотники": "Подлокотники пластиковые 5D со вставками \"под хром\" и мягкими полиуретановыми накладками для кресла М-828 Акита",
+    "Газлифт": "",
+    "Механизм": "Синхронный механизм качания со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в 3-х положениях.",
+    "Особенности": "Зона поясничной поддержки регулируется по высоте и глубине, слайд-система позволяет изменить глубину посадки для максимального удобства",
+    "Ролики": "Пластиковые ролики d=60 мм",
+    "sizes": {
+        "Ширина:": "670",
+        "Высота:": "1130-1310",
+        "Глубина:": "650",
+        "Нагрузка:": "130",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "800",
+        "Высота упаковки:": "650",
+        "Глубина упаковки:": "420",
+        "Вес брутто:": "19,8",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,22"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "800",
+        "Высота упаковки:": "650",
+        "Глубина упаковки:": "420",
+        "Материал упаковки:": "Гофрокартон"
+    },
+    "finish_type": [
+        "Сетка М-828",
+        "-"
+    ],
+    "color": [
+        "Сетка М-828 (серый)"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "variant_name": [
+        "Кресло UTFC Акита М-828 5D серый пластик/хром (Сетка М-828, Сетка М-828 (серый),, )",
+        "Кресло UTFC Акита М-828 5D серый пластик/хром (-, Сетка М-828 (серый),, )"
+    ],
+    "parent": {
+        "IE_XML_ID": 13809,
+        "IE_NAME": "UTFC Акита М-828 5D серый пластик/хром",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 500,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/107/107a90150d612e020d97927be6fc4653/f71e35dfd57198c25ab7cfb980346471.png",
+        "IE_PREVIEW_TEXT": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/7f6/7f6bb647f0f60138fe2e05380c1255c5/6fefb8c0ed128cfb604e1a482089a119.png",
+        "IE_DETAIL_TEXT": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "akita",
+        "IE_TAGS": "",
+        "IE_ID": 13809,
+        "IP_PROP2": 670,
+        "IP_PROP3": "1130-1310",
+        "IP_PROP4": 650,
+        "IP_PROP6": "",
+        "IP_PROP19": 130,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/bda/bda914244e846f73a442c575049bb21b/62fdbd8ecc5054aaa4f056b66783b043.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/50b/50bed655a07bdbd609986f5c44bb580e/0def9e2ae3fd45ca7b83837fb92be691.png",
+        "IP_PROP5": 800,
+        "IP_PROP26": 650,
+        "IP_PROP27": 420,
+        "IP_PROP28": "19,8",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,22",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00045629",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/813/8133d9f5d1056754b8adcb25c20298f0/08842f05b15cfbf4689d51a6cbdf4ce3.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье М-828",
+        "IP_PROP42": "Подлокотник М-828 Акита",
+        "IP_PROP43": "",
+        "IP_PROP44": "Механизм М-828",
+        "IP_PROP45": "Зона поясничной поддержки и слайд-система кресла М-828 Акита",
+        "IP_PROP46": "Ролик М-828 Акита",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 40,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 50,
+        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "comfort_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "Y",
+        "CP_MEASURE": 5,
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 19300,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 19879,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 19300,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 13812,
+            "IE_NAME": "Кресло UTFC Акита М-828 5D серый пластик/хром (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/350/350dcbd47b3f99565e939b7b0ce2dd9f/8890b9fb4cf7573058ddffa0947a9a37.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13812,
+            "IP_PROP34": 13809,
+            "IP_PROP35": "ПУ-00038174",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/15b/15be457d12e13af92eb88a4b1c1b760a/0974d3ba42a40c07c4ad14ccef89ad97.png",
+                "https://cdn.utfc.ru/iblock/6c1/6c128f337cd5b1e2c42461173a099f89/ccc5176d889667d9716498a9ba6ab2af.png",
+                "https://cdn.utfc.ru/iblock/76c/76cec84bebdfd7457c96e96c12977e87/dbb784cbc9a4391c3de9482971fbeb44.png",
+                "https://cdn.utfc.ru/iblock/f2f/f2f4ab3be54415ed8d124a9977d1875a/c54c0feb633b9ad31b7c02c9165aecf4.png",
+                "https://cdn.utfc.ru/iblock/925/9253df3311711ea23045a0d4707ab1aa/eb7b0c9959bd8ef8d1e54536d57d4f7a.png"
+            ],
+            "IP_PROP37": "Сетка М-828",
+            "IP_PROP38": "Сетка М-828 (серый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "серый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 58,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 10,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 19300,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 19879,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 48,
+            "CV_PRICE_3": 19300,
+            "CV_CURRENCY_3": "RUB"
+        }
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки, сиденья и подголовника: сетка"
-      ],
-      "components": [
-        "подголовника, спинки, сиденья, 2-х подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Подголовник</strong> 3D, состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине",
-        "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по глубине",
-        "Облицовка подголовника, спинки и сиденья: сетка",
-        "<strong>Подлокотники</strong> пластиковые 5D, регулируемые в 5-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
-        "<strong>Синхронный механизм со слайд-системой</strong> регулировка кресла по высоте и углу наклона спинки, фиксация в 3-х положениях",
-        "<strong>Газ-лифт</strong> хромированный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> d=700 мм хромированное с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "800",
-          "depth": "420",
-          "height": "650"
-        },
-        "box_size": "800х420х650",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "19,8",
-      "netto": "",
-      "volume": "0,22"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "130",
-      "recommended_load": "100"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/akita_gr_pl_grey_01.png",
-      "chair_view": "img/armchair_comfort/akita_gr_pl_grey_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/akita_gr_pl_grey_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://cdn.utfc.ru/iblock/15b/15be457d12e13af92eb88a4b1c1b760a/0974d3ba42a40c07c4ad14ccef89ad97.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/6c1/6c128f337cd5b1e2c42461173a099f89/ccc5176d889667d9716498a9ba6ab2af.png",
-        "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
-        "https://cdn.utfc.ru/iblock/76c/76cec84bebdfd7457c96e96c12977e87/dbb784cbc9a4391c3de9482971fbeb44.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://cdn.utfc.ru/iblock/925/9253df3311711ea23045a0d4707ab1aa/eb7b0c9959bd8ef8d1e54536d57d4f7a.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-        "https://cdn.utfc.ru/iblock/f2f/f2f4ab3be54415ed8d124a9977d1875a/c54c0feb633b9ad31b7c02c9165aecf4.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://cdn.utfc.ru/uf/8a3/8a3e66daa507897dfec5a948f143b9f2/88a7d9dd8990e622b86e646f76a893f3.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/uf/018/018ad6f95549e07ba3596f39d64baec7/3bf567bbec56460e056203f22872019b.png",
-        "https://cdn.utfc.ru/uf/c85/c85ae0bee2eb1c46b3ed3ba7f2fff11b/d83ad0bd3b68f6a721826df5f09fb44c.png",
-        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://cdn.utfc.ru/uf/327/327ca16155ebbebe90c81a6fbb1c6a2a/ecd0855d85f85bcb634560977a2302f6.png",
-        "https://cdn.utfc.ru/uf/130/1307c393836a798bbe55f19d2aaa100f/04ca2caf9436f2a8e5a1106ee5df1d8e.png",
-        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-        "https://cdn.utfc.ru/iblock/bda/bda914244e846f73a442c575049bb21b/62fdbd8ecc5054aaa4f056b66783b043.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/50b/50bed655a07bdbd609986f5c44bb580e/0def9e2ae3fd45ca7b83837fb92be691.png",
-        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
-        "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "1130",
-        "max": "1310"
-      },
-      "headrest_height": {
-        "min": "105",
-        "max": "205"
-      },
-      "seat_to_floor_height": {
-        "min": "440",
-        "max": "520"
-      },
-      "seat_to_floor_height_upper": {},
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "230",
-        "max": "300"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "chair_depth": {
-        "min": "650"
-      },
-      "seat_depth": {
-        "min": "440",
-        "max": ""
-      },
-      "seat_depth_km": {},
-      "backrest_height": {},
-      "backrest_to_seat_height": {
-        "min": "600"
-      },
-      "backrest_height_external": {
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "670",
-        "max": "1040"
-      },
-      "seat_width": {
-        "max": "500"
-      },
-      "backrest_width_narrow": {
-        "max": ""
-      },
-      "backrest_width_wide": {
-        "max": ""
-      },
-      "diameter_cross": {
-        "max": "700"
-      },
-      "runners_width": {},
-      "runners_depth": {},
-      "recommended_load": "100",
-      "max_load": "130",
-      "skeleton": "",
-      "netto": "",
-      "brutto": "",
-      "package_width": "",
-      "package_depth": "",
-      "package_height": "",
-      "volume": ""
-    }
-  ],
-  "title": "Кресло UTFC Акита М-828 5D серый пластик/хром производства компании UTFC",
-  "base_name": "Кресло UTFC Акита М-828 5D серый пластик/хром",
-  "article_number": "ПУ-00038174",
-  "full_describe": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/akita/?offers=13812",
-  "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано в РФ",
-  "Основание": "Пятилучье хромированное М-828, диаметр 700 мм",
-  "Подлокотники": "Подлокотники пластиковые 5D со вставками \"под хром\" и мягкими полиуретановыми накладками для кресла М-828 Акита",
-  "Газлифт": "",
-  "Механизм": "Синхронный механизм качания со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в 3-х положениях.",
-  "Особенности": "Зона поясничной поддержки регулируется по высоте и глубине, слайд-система позволяет изменить глубину посадки для максимального удобства",
-  "Ролики": "Пластиковые ролики d=60 мм",
-  "sizes": {
-    "Ширина:": "670",
-    "Высота:": "1130-1310",
-    "Глубина:": "650",
-    "Нагрузка:": "130",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "800",
-    "Высота упаковки:": "650",
-    "Глубина упаковки:": "420",
-    "Вес брутто:": "19,8",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,22"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "800",
-    "Высота упаковки:": "650",
-    "Глубина упаковки:": "420",
-    "Материал упаковки:": "Гофрокартон"
-  },
-  "finish_type": [
-    "Сетка М-828",
-    "-"
-  ],
-  "color": [
-    "Сетка М-828 (серый)"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ],
-  "variant_name": [
-    "Кресло UTFC Акита М-828 5D серый пластик/хром (Сетка М-828, Сетка М-828 (серый),, )",
-    "Кресло UTFC Акита М-828 5D серый пластик/хром (-, Сетка М-828 (серый),, )"
-  ],
-  "parent": {
-    "IE_XML_ID": 13809,
-    "IE_NAME": "UTFC Акита М-828 5D серый пластик/хром",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 500,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/107/107a90150d612e020d97927be6fc4653/f71e35dfd57198c25ab7cfb980346471.png",
-    "IE_PREVIEW_TEXT": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/7f6/7f6bb647f0f60138fe2e05380c1255c5/6fefb8c0ed128cfb604e1a482089a119.png",
-    "IE_DETAIL_TEXT": "Новая модель офисного кресла из серии «Комфорт». Высокая спинка, подголовник и сиденье выполнены из дышащей сетки с фактурным плетением: она обеспечивает вентиляцию и комфорт в течение рабочего дня. Светло-серая гамма корпуса и обивки смягчает строгий образ, а алюминиевое пятилучье подчёркивает целостность дизайна. Подлокотники и поясничная зона кресла регулируемые - комфорт настраивается буквально до миллиметра.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "akita",
-    "IE_TAGS": "",
-    "IE_ID": 13809,
-    "IP_PROP2": 670,
-    "IP_PROP3": "1130-1310",
-    "IP_PROP4": 650,
-    "IP_PROP6": "",
-    "IP_PROP19": 130,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/bda/bda914244e846f73a442c575049bb21b/62fdbd8ecc5054aaa4f056b66783b043.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/50b/50bed655a07bdbd609986f5c44bb580e/0def9e2ae3fd45ca7b83837fb92be691.png",
-    "IP_PROP5": 800,
-    "IP_PROP26": 650,
-    "IP_PROP27": 420,
-    "IP_PROP28": "19,8",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,22",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00045629",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/813/8133d9f5d1056754b8adcb25c20298f0/08842f05b15cfbf4689d51a6cbdf4ce3.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье М-828",
-    "IP_PROP42": "Подлокотник М-828 Акита",
-    "IP_PROP43": "",
-    "IP_PROP44": "Механизм М-828",
-    "IP_PROP45": "Зона поясничной поддержки и слайд-система кресла М-828 Акита",
-    "IP_PROP46": "Ролик М-828 Акита",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 40,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 50,
-    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "comfort_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "Y",
-    "CP_MEASURE": 5,
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 19300,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 19879,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 19300,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13812,
-      "IE_NAME": "Кресло UTFC Акита М-828 5D серый пластик/хром (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/350/350dcbd47b3f99565e939b7b0ce2dd9f/8890b9fb4cf7573058ddffa0947a9a37.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13812,
-      "IP_PROP34": 13809,
-      "IP_PROP35": "ПУ-00038174",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/15b/15be457d12e13af92eb88a4b1c1b760a/0974d3ba42a40c07c4ad14ccef89ad97.png",
-        "https://cdn.utfc.ru/iblock/6c1/6c128f337cd5b1e2c42461173a099f89/ccc5176d889667d9716498a9ba6ab2af.png",
-        "https://cdn.utfc.ru/iblock/76c/76cec84bebdfd7457c96e96c12977e87/dbb784cbc9a4391c3de9482971fbeb44.png",
-        "https://cdn.utfc.ru/iblock/f2f/f2f4ab3be54415ed8d124a9977d1875a/c54c0feb633b9ad31b7c02c9165aecf4.png",
-        "https://cdn.utfc.ru/iblock/925/9253df3311711ea23045a0d4707ab1aa/eb7b0c9959bd8ef8d1e54536d57d4f7a.png"
-      ],
-      "IP_PROP37": "Сетка М-828",
-      "IP_PROP38": "Сетка М-828 (серый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "серый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 58,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 10,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 19300,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 19879,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 48,
-      "CV_PRICE_3": 19300,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ]
 }

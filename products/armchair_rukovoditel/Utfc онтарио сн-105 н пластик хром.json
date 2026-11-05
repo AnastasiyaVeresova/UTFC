@@ -1,572 +1,569 @@
 {
-  "namefile": [
-    "Utfc онтарио сн-105 н пластик хром"
-  ],
-  "name": [
-    "UTFC СН-105 Онтарио Н пластик/хром"
-  ],
-  "name_all": [
-    "UTFC СН-105 Онтарио В пластик/хром",
-    "UTFC СН-105 Онтарио Н пластик/хром",
-    "UTFC СН-105 Онтарио В 3D хром Ср"
-  ],
-  "unique_name": [
-    "UTFC Онтарио СН-105 Н пластик хром"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло руководителя"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки и сиденья кресла: экокожа (S, R), кожа (К, Klux)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 40, плотность — 22 кг/м<sup>3</sup>) и обивочного элемента",
-        "<strong>Сиденье</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 60, плотность — 40 кг/м<sup>3</sup>) и обивочного элемента",
-        "Облицовка спинки и сиденья: экокожа (S, R), кожа (K, KLux)",
-        "<strong>Подлокотники</strong> пластиковые с мягкими накладками и вставками с имитацией под хром. Крепятся к основанию спинки и сиденья с помощью винтов М6. Накладки состоят из пластикового основания, мягкого элемента (пенополиуретан, жесткость - 25, плотность — 16 кг/м<sup>3</sup>) и облицовки",
-        "Облицовка подлокотников: экокожа (S, R), кожа (KLux)",
-        "<strong>Механизм качания</strong> «Мультиблок с синхроплатой» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении",
-        "<strong>Газ-лифт</strong> с высотой подъема 60 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
-        "<strong>Пятилучье</strong> хромированное d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "910",
-          "depth": "400",
-          "height": "680"
+    "namefile": [
+        "Utfc онтарио сн-105 н пластик хром"
+    ],
+    "name": [
+        "UTFC СН-105 Онтарио Н пластик/хром"
+    ],
+    "name_all": [
+        "UTFC СН-105 Онтарио В пластик/хром",
+        "UTFC СН-105 Онтарио Н пластик/хром",
+        "UTFC СН-105 Онтарио В 3D хром Ср"
+    ],
+    "unique_name": [
+        "UTFC Онтарио СН-105 Н пластик хром"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло руководителя"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и сиденья кресла: экокожа (S, R), кожа (К, Klux)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 40, плотность — 22 кг/м<sup>3</sup>) и обивочного элемента",
+                "<strong>Сиденье</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 60, плотность — 40 кг/м<sup>3</sup>) и обивочного элемента",
+                "Облицовка спинки и сиденья: экокожа (S, R), кожа (K, KLux)",
+                "<strong>Подлокотники</strong> пластиковые с мягкими накладками и вставками с имитацией под хром. Крепятся к основанию спинки и сиденья с помощью винтов М6. Накладки состоят из пластикового основания, мягкого элемента (пенополиуретан, жесткость - 25, плотность — 16 кг/м<sup>3</sup>) и облицовки",
+                "Облицовка подлокотников: экокожа (S, R), кожа (KLux)",
+                "<strong>Механизм качания</strong> «Мультиблок с синхроплатой» обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении",
+                "<strong>Газ-лифт</strong> с высотой подъема 60 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки",
+                "<strong>Пятилучье</strong> хромированное d=700 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> черные d=50 мм с серым полиуретановым покрытием имеют открытый пластиковый чехол"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "910",
+                    "depth": "400",
+                    "height": "680"
+                },
+                "box_size": "910х400х680",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "21,7",
+            "netto": "",
+            "volume": "0,25"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "150",
+            "recommended_load": "120"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_rukovoditel/ontario_n_ch105_s0422_01.png",
+            "chair_view": "img/armchair_rukovoditel/ontario_n_ch105_s0422_02.png",
+            "dimensions": "img/armchair_rukovoditel/dimensions/ontario_n_ch105_s0422_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/resize_cache/iblock/41d/140_140_0/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/b87/403o4zw336fn7z2cbjy927bqwkciu0li.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/35b/k9suaq13l3n01hs2e0yj20sm3tgh7lx2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/f6c/h642v9p1qmt3jdozu35bo8t4cpdysy5q.png",
+                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e75/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/41d/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/4d2/982xqbqv5apwlxvznuvtlu00gzfk2yfi.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/83c/t9h771rl28g35mwcz3l4wvu7sz2s7bum.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/upload/resize_cache/iblock/095/140_140_0/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
+                "https://utfc.ru/upload/resize_cache/iblock/e75/140_140_0/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/e20/sca4b652nkkrw63digsgep50uc337odc.png",
+                "https://utfc.ru/upload/resize_cache/iblock/b87/140_140_0/403o4zw336fn7z2cbjy927bqwkciu0li.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/1da/2js88ka0ae5zq5tfz02ymoe7o2unrxox.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/095/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/5f3/io44ig9x6glf1jgzg6mrvac3b8k9xajr.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/9c5/3qo7uw3lnef1g907lsngkxy2m2uiobn9.png",
+                "https://utfc.ru/upload/resize_cache/iblock/48c/140_140_0/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/48c/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/uf/df0/df06c7f63b82e1fd4408a31594276efc.jpg",
+                "https://cdn.utfc-store.ru/resize_cache/28020/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
+                "https://cdn.utfc-store.ru/uf/bae/bae6ba79562f7a48c6e01810637328ed.png",
+                "https://cdn.utfc-store.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
+                "https://cdn.utfc-store.ru/iblock/430/4309492316e6219aa0f49a94b9799f75/582f6e9f08ceddafd8c2158744f0538d.png",
+                "https://cdn.utfc-store.ru/uf/124/12488cc5e7825b6c33ec205fee2cf98d.jpg",
+                "https://cdn.utfc-store.ru/uf/10d/10d0587341e6b54c71f71cc811115d9c.jpg",
+                "https://cdn.utfc-store.ru/resize_cache/28016/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
+                "https://cdn.utfc-store.ru/uf/a56/a569ed7da653191844645055717515c7.jpg",
+                "https://cdn.utfc-store.ru/uf/791/791b522e509c64b45e53cb02e39f010e.jpg",
+                "https://cdn.utfc-store.ru/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.jpg",
+                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc-store.ru/uf/42e/42e6c4481d6e1825f4a2de223be6e640.jpg",
+                "https://cdn.utfc-store.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
+                "https://cdn.utfc-store.ru/iblock/ae7/ae78228fcdca61c7be9fb627e3d191ec/4fd213b43d6c41a6d42f6955eae08458.png",
+                "https://cdn.utfc-store.ru/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
+                "https://cdn.utfc-store.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://cdn.utfc-store.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://cdn.utfc-store.ru/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
+                "https://cdn.utfc-store.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
+                "https://cdn.utfc-store.ru/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
+                "https://cdn.utfc-store.ru/uf/583/583198f23f6994ed426a396a7fbfee16/ae0626218232df25f279ed3b10348e90.png",
+                "https://cdn.utfc-store.ru/uf/1d4/1d4602fd80132442365aa96095e71e91.jpg",
+                "https://cdn.utfc-store.ru/uf/849/84997c70cfeb45fe1384573dd2278390.png",
+                "https://cdn.utfc-store.ru/resize_cache/28017/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
+                "https://cdn.utfc-store.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://cdn.utfc-store.ru/uf/7f6/7f622a8a3c6d109774c96a627c14ece3.jpg",
+                "https://cdn.utfc-store.ru/resize_cache/28018/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
+                "https://cdn.utfc-store.ru/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
+                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/resize_cache/28019/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
+                "https://cdn.utfc-store.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://cdn.utfc-store.ru/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
+                "https://cdn.utfc-store.ru/uf/aef/aeffce3be46512c866610e3d5d7b8d82.jpg",
+                "https://cdn.utfc-store.ru/uf/f1b/f1b389f0a925393f619c55dd840941ea.jpg",
+                "https://cdn.utfc-store.ru/uf/79d/79de729e01a00f3c79268a1bfba110da.jpg",
+                "https://cdn.utfc-store.ru/uf/5f3/io44ig9x6glf1jgzg6mrvac3b8k9xajr.png",
+                "https://cdn.utfc-store.ru/iblock/4d2/982xqbqv5apwlxvznuvtlu00gzfk2yfi.png",
+                "https://cdn.utfc-store.ru/iblock/35b/k9suaq13l3n01hs2e0yj20sm3tgh7lx2.png",
+                "https://cdn.utfc-store.ru/iblock/48c/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
+                "https://cdn.utfc-store.ru/iblock/8b3/8b3da356ee7250ce9171650df628cd82/c8715375a7a42c187b811487ff16dc72.png",
+                "https://cdn.utfc-store.ru/iblock/b87/403o4zw336fn7z2cbjy927bqwkciu0li.png",
+                "https://cdn.utfc-store.ru/iblock/e75/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
+                "https://cdn.utfc-store.ru/uf/83c/t9h771rl28g35mwcz3l4wvu7sz2s7bum.png",
+                "https://cdn.utfc-store.ru/iblock/095/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
+                "https://cdn.utfc-store.ru/uf/f6c/h642v9p1qmt3jdozu35bo8t4cpdysy5q.png",
+                "https://cdn.utfc-store.ru/iblock/41d/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
+                "https://cdn.utfc-store.ru/uf/e20/sca4b652nkkrw63digsgep50uc337odc.png",
+                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://cdn.utfc.ru/uf/124/12488cc5e7825b6c33ec205fee2cf98d.jpg",
+                "https://cdn.utfc.ru/iblock/ae7/ae78228fcdca61c7be9fb627e3d191ec/4fd213b43d6c41a6d42f6955eae08458.png",
+                "https://cdn.utfc.ru/uf/f1b/f1b389f0a925393f619c55dd840941ea.jpg",
+                "https://cdn.utfc.ru/uf/10d/10d0587341e6b54c71f71cc811115d9c.jpg",
+                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/uf/bae/bae6ba79562f7a48c6e01810637328ed.png",
+                "https://cdn.utfc.ru/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
+                "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://cdn.utfc.ru/uf/79d/79de729e01a00f3c79268a1bfba110da.jpg",
+                "https://cdn.utfc.ru/uf/849/84997c70cfeb45fe1384573dd2278390.png",
+                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc.ru/uf/7f6/7f622a8a3c6d109774c96a627c14ece3.jpg",
+                "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://cdn.utfc.ru/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
+                "https://cdn.utfc.ru/uf/791/791b522e509c64b45e53cb02e39f010e.jpg",
+                "https://cdn.utfc.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
+                "https://cdn.utfc.ru/uf/df0/df06c7f63b82e1fd4408a31594276efc.jpg",
+                "https://cdn.utfc.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://cdn.utfc.ru/uf/aef/aeffce3be46512c866610e3d5d7b8d82.jpg",
+                "https://cdn.utfc.ru/uf/42e/42e6c4481d6e1825f4a2de223be6e640.jpg",
+                "https://cdn.utfc.ru/uf/a56/a569ed7da653191844645055717515c7.jpg",
+                "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://cdn.utfc.ru/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
+                "https://cdn.utfc.ru/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
+                "https://cdn.utfc.ru/uf/583/583198f23f6994ed426a396a7fbfee16/ae0626218232df25f279ed3b10348e90.png",
+                "https://cdn.utfc.ru/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.jpg",
+                "https://cdn.utfc.ru/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
+                "https://cdn.utfc.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
+                "https://cdn.utfc.ru/iblock/430/4309492316e6219aa0f49a94b9799f75/582f6e9f08ceddafd8c2158744f0538d.png",
+                "https://cdn.utfc.ru/iblock/bb0/bb0b682ca7b3cc7f6076683e5ebc7e37/0502c18dc8cb7b73ea0c7f68a69dc265.png",
+                "https://cdn.utfc.ru/uf/1d4/1d4602fd80132442365aa96095e71e91.jpg",
+                "https://cdn.utfc.ru/iblock/277/277228a0ae4d298178881a1883f6bad3/7378a2c20b53e3af651f77ac309cf692.png",
+                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+                "https://cdn.utfc.ru/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/uf/823/krt15pzm0xnf0pq4ubb26s9rs32hiifv.webp",
+                "https://cdn.utfc.ru/iblock/d0c/d0cf53e7251886149b72714580dbbfc2/c3041e7776cac8d3789f762fc878fb4a.png",
+                "https://cdn.utfc.ru/iblock/cee/cee81b9a468fa6987ad6bfb5b4bd8fd5/67acd6c7b008bef84f331aecb6f1ca4e.png",
+                "https://cdn.utfc.ru/iblock/d15/d156fdd2dc69a4fb0c290507786439bc/8b5dac91a8c84b71b0939fb93c5f4bbf.png",
+                "https://cdn.utfc.ru/iblock/5bf/5bf23a845ed46cb922f25c386882d0e3/197c8a351a6f6adb0141de1bf13bbb3f.png",
+                "https://cdn.utfc.ru/iblock/1ec/1ec7556b6eb815663e8519afdb34b3cf/3304256e87e0bdbefb911e3602beef03.png",
+                "https://cdn.utfc.ru/iblock/1d0/1d051000ff8477fbddb0f4d1f7e208c1/d1b0447dd1a59f3d8bf7af66d649c65a.png",
+                "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
+                "https://cdn.utfc.ru/iblock/9db/9db483ad61eb54ebf1f34f0f73238d70/f4637619c641b3946c599f1ee528d4a1.png",
+                "https://cdn.utfc.ru/iblock/039/0390882158b7a37eb980109fd2fc0b6c/ee07ada276601b4fa49ceed4b2f071e3.png",
+                "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
+                "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
+                "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "985",
+                "max": "1045"
+            },
+            "headrest_height": {},
+            "seat_to_floor_height": {
+                "min": "465",
+                "max": "525"
+            },
+            "seat_to_floor_height_upper": {
+                "min": "385",
+                "max": "445"
+            },
+            "armrest_height_from_floor": {
+                "min": "290"
+            },
+            "armrest_height_from_seat": {
+                "min": "225"
+            },
+            "armrest_width_support": {
+                "max": "70"
+            },
+            "armrest_length_support": {
+                "max": "270"
+            },
+            "chair_depth": {
+                "min": "760"
+            },
+            "seat_depth": {
+                "min": "525"
+            },
+            "seat_depth_km": {
+                "max": "540"
+            },
+            "backrest_height": {
+                "max": "550"
+            },
+            "backrest_to_seat_height": {},
+            "backrest_height_external": {
+                "max": "660"
+            },
+            "seat_width_with_armrests": {
+                "min": "680"
+            },
+            "seat_width": {
+                "max": "530"
+            },
+            "backrest_width_narrow": {
+                "max": "480"
+            },
+            "backrest_width_wide": {
+                "max": "520"
+            },
+            "diameter_cross": {
+                "max": "700"
+            },
+            "runners_width": {},
+            "runners_depth": {},
+            "recommended_load": "120",
+            "max_load": "150",
+            "skeleton": "немонолитный",
+            "netto": "20",
+            "brutto": "22",
+            "package_width": "910",
+            "package_depth": "400",
+            "package_height": "680",
+            "volume": "0",
+            "minpromtorg": "+"
+        }
+    ],
+    "addition": "",
+    "title": "Кресло UTFC СН-105 Онтарио Н пластик/хром производства компании UTFC",
+    "base_name": "Кресло UTFC СН-105 Онтарио Н пластик/хром",
+    "article_number": "ПУ-00044102",
+    "full_describe": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
+    "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch105_n_ontario_pl_ch/?offers=13787",
+    "Основание": "Пятилучье хромированное d=700 мм",
+    "Подлокотники": "Подлокотники пластиковые со вставками \"под хром\" и мягкими накладками для кресла Онтарио",
+    "Газлифт": "",
+    "Механизм": "Мультиблок с синхроплатой - механизм обеспечивает регулировку высоты сиденья, силу отклонения спинки под вес пользователя в режиме качания и фиксацию спинки в любом положении.",
+    "Особенности": "",
+    "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+    "finish_type": [
+        "-",
+        "Экокожа Santorini"
+    ],
+    "color": [
+        "Экокожа S-0422 (темно-серый)"
+    ],
+    "variant_name": [
+        "Кресло UTFC СН-105 Онтарио Н пластик/хром (-, Экокожа S-0422 (темно-серый),, )",
+        "Кресло UTFC СН-105 Онтарио Н пластик/хром (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "additional_info": {
+        "package_dimensions": {
+            "width": "22",
+            "depth": "910",
+            "height": "400"
         },
-        "box_size": "910х400х680",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "21,7",
-      "netto": "",
-      "volume": "0,25"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "150",
-      "recommended_load": "120"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_rukovoditel/ontario_n_ch105_s0422_01.png",
-      "chair_view": "img/armchair_rukovoditel/ontario_n_ch105_s0422_02.png",
-      "dimensions": "img/armchair_rukovoditel/dimensions/ontario_n_ch105_s0422_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/resize_cache/iblock/41d/140_140_0/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/b87/403o4zw336fn7z2cbjy927bqwkciu0li.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/35b/k9suaq13l3n01hs2e0yj20sm3tgh7lx2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/f6c/h642v9p1qmt3jdozu35bo8t4cpdysy5q.png",
-        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e75/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/41d/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/4d2/982xqbqv5apwlxvznuvtlu00gzfk2yfi.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/83c/t9h771rl28g35mwcz3l4wvu7sz2s7bum.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/upload/resize_cache/iblock/095/140_140_0/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
-        "https://utfc.ru/upload/resize_cache/iblock/e75/140_140_0/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/e20/sca4b652nkkrw63digsgep50uc337odc.png",
-        "https://utfc.ru/upload/resize_cache/iblock/b87/140_140_0/403o4zw336fn7z2cbjy927bqwkciu0li.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/1da/2js88ka0ae5zq5tfz02ymoe7o2unrxox.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/095/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/5f3/io44ig9x6glf1jgzg6mrvac3b8k9xajr.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/9c5/3qo7uw3lnef1g907lsngkxy2m2uiobn9.png",
-        "https://utfc.ru/upload/resize_cache/iblock/48c/140_140_0/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/48c/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/uf/df0/df06c7f63b82e1fd4408a31594276efc.jpg",
-        "https://cdn.utfc-store.ru/resize_cache/28020/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
-        "https://cdn.utfc-store.ru/uf/bae/bae6ba79562f7a48c6e01810637328ed.png",
-        "https://cdn.utfc-store.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
-        "https://cdn.utfc-store.ru/iblock/430/4309492316e6219aa0f49a94b9799f75/582f6e9f08ceddafd8c2158744f0538d.png",
-        "https://cdn.utfc-store.ru/uf/124/12488cc5e7825b6c33ec205fee2cf98d.jpg",
-        "https://cdn.utfc-store.ru/uf/10d/10d0587341e6b54c71f71cc811115d9c.jpg",
-        "https://cdn.utfc-store.ru/resize_cache/28016/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
-        "https://cdn.utfc-store.ru/uf/a56/a569ed7da653191844645055717515c7.jpg",
-        "https://cdn.utfc-store.ru/uf/791/791b522e509c64b45e53cb02e39f010e.jpg",
-        "https://cdn.utfc-store.ru/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.jpg",
-        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc-store.ru/uf/42e/42e6c4481d6e1825f4a2de223be6e640.jpg",
-        "https://cdn.utfc-store.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
-        "https://cdn.utfc-store.ru/iblock/ae7/ae78228fcdca61c7be9fb627e3d191ec/4fd213b43d6c41a6d42f6955eae08458.png",
-        "https://cdn.utfc-store.ru/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
-        "https://cdn.utfc-store.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://cdn.utfc-store.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://cdn.utfc-store.ru/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
-        "https://cdn.utfc-store.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
-        "https://cdn.utfc-store.ru/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
-        "https://cdn.utfc-store.ru/uf/583/583198f23f6994ed426a396a7fbfee16/ae0626218232df25f279ed3b10348e90.png",
-        "https://cdn.utfc-store.ru/uf/1d4/1d4602fd80132442365aa96095e71e91.jpg",
-        "https://cdn.utfc-store.ru/uf/849/84997c70cfeb45fe1384573dd2278390.png",
-        "https://cdn.utfc-store.ru/resize_cache/28017/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
-        "https://cdn.utfc-store.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://cdn.utfc-store.ru/uf/7f6/7f622a8a3c6d109774c96a627c14ece3.jpg",
-        "https://cdn.utfc-store.ru/resize_cache/28018/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
-        "https://cdn.utfc-store.ru/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
-        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/resize_cache/28019/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
-        "https://cdn.utfc-store.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-        "https://cdn.utfc-store.ru/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
-        "https://cdn.utfc-store.ru/uf/aef/aeffce3be46512c866610e3d5d7b8d82.jpg",
-        "https://cdn.utfc-store.ru/uf/f1b/f1b389f0a925393f619c55dd840941ea.jpg",
-        "https://cdn.utfc-store.ru/uf/79d/79de729e01a00f3c79268a1bfba110da.jpg",
-        "https://cdn.utfc-store.ru/uf/5f3/io44ig9x6glf1jgzg6mrvac3b8k9xajr.png",
-        "https://cdn.utfc-store.ru/iblock/4d2/982xqbqv5apwlxvznuvtlu00gzfk2yfi.png",
-        "https://cdn.utfc-store.ru/iblock/35b/k9suaq13l3n01hs2e0yj20sm3tgh7lx2.png",
-        "https://cdn.utfc-store.ru/iblock/48c/zy2xb1v2ema05zqdx5rj0xo87xlvhnx5.png",
-        "https://cdn.utfc-store.ru/iblock/8b3/8b3da356ee7250ce9171650df628cd82/c8715375a7a42c187b811487ff16dc72.png",
-        "https://cdn.utfc-store.ru/iblock/b87/403o4zw336fn7z2cbjy927bqwkciu0li.png",
-        "https://cdn.utfc-store.ru/iblock/e75/kqrla3kvzwbteltow4xtg4n3vfpt915m.png",
-        "https://cdn.utfc-store.ru/uf/83c/t9h771rl28g35mwcz3l4wvu7sz2s7bum.png",
-        "https://cdn.utfc-store.ru/iblock/095/wrlf3y5mw53df3pdfkw1zvb5ldexnbvf.png",
-        "https://cdn.utfc-store.ru/uf/f6c/h642v9p1qmt3jdozu35bo8t4cpdysy5q.png",
-        "https://cdn.utfc-store.ru/iblock/41d/q0hiyy8vlljjsg1p6x78u1zp0f4kd1vg.png",
-        "https://cdn.utfc-store.ru/uf/e20/sca4b652nkkrw63digsgep50uc337odc.png",
-        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://cdn.utfc.ru/uf/124/12488cc5e7825b6c33ec205fee2cf98d.jpg",
-        "https://cdn.utfc.ru/iblock/ae7/ae78228fcdca61c7be9fb627e3d191ec/4fd213b43d6c41a6d42f6955eae08458.png",
-        "https://cdn.utfc.ru/uf/f1b/f1b389f0a925393f619c55dd840941ea.jpg",
-        "https://cdn.utfc.ru/uf/10d/10d0587341e6b54c71f71cc811115d9c.jpg",
-        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/uf/bae/bae6ba79562f7a48c6e01810637328ed.png",
-        "https://cdn.utfc.ru/iblock/34d/34d78ad4a5b3c1df4e3e982bdfec39fb/41f0114c29d8faba4cb8bc2d0bccb1f2.png",
-        "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://cdn.utfc.ru/uf/79d/79de729e01a00f3c79268a1bfba110da.jpg",
-        "https://cdn.utfc.ru/uf/849/84997c70cfeb45fe1384573dd2278390.png",
-        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc.ru/uf/7f6/7f622a8a3c6d109774c96a627c14ece3.jpg",
-        "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-        "https://cdn.utfc.ru/iblock/225/225f8221d46bdc26715057911dacfcdc/6200d29dfdf96108e70ca752a3f31bf0.png",
-        "https://cdn.utfc.ru/uf/791/791b522e509c64b45e53cb02e39f010e.jpg",
-        "https://cdn.utfc.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
-        "https://cdn.utfc.ru/uf/df0/df06c7f63b82e1fd4408a31594276efc.jpg",
-        "https://cdn.utfc.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://cdn.utfc.ru/uf/aef/aeffce3be46512c866610e3d5d7b8d82.jpg",
-        "https://cdn.utfc.ru/uf/42e/42e6c4481d6e1825f4a2de223be6e640.jpg",
-        "https://cdn.utfc.ru/uf/a56/a569ed7da653191844645055717515c7.jpg",
-        "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://cdn.utfc.ru/iblock/ec5/ec565562b1bf2b122d70b367fa93b662/fc7be464ba7b5c5fbf0afd3d4fc6201e.png",
-        "https://cdn.utfc.ru/iblock/b48/b487685bf3d01f3254c9c9b1c190a9e1/82f787a58e7b386684060652d20d4611.png",
-        "https://cdn.utfc.ru/uf/583/583198f23f6994ed426a396a7fbfee16/ae0626218232df25f279ed3b10348e90.png",
-        "https://cdn.utfc.ru/uf/ba2/ba26cad27d0d08152e55229efdd0ed9b.jpg",
-        "https://cdn.utfc.ru/iblock/56f/56f63bf0ba04644b9b7ebfd9efedcce7/896f653e96f5b47047ed4f9c35a68742.png",
-        "https://cdn.utfc.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
-        "https://cdn.utfc.ru/iblock/430/4309492316e6219aa0f49a94b9799f75/582f6e9f08ceddafd8c2158744f0538d.png",
-        "https://cdn.utfc.ru/iblock/bb0/bb0b682ca7b3cc7f6076683e5ebc7e37/0502c18dc8cb7b73ea0c7f68a69dc265.png",
-        "https://cdn.utfc.ru/uf/1d4/1d4602fd80132442365aa96095e71e91.jpg",
-        "https://cdn.utfc.ru/iblock/277/277228a0ae4d298178881a1883f6bad3/7378a2c20b53e3af651f77ac309cf692.png",
-        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-        "https://cdn.utfc.ru/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/uf/4b2/yoqw8h3xmraol4nykhl9mzhkusrtja3a.webp",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/uf/823/krt15pzm0xnf0pq4ubb26s9rs32hiifv.webp",
-        "https://cdn.utfc.ru/iblock/d0c/d0cf53e7251886149b72714580dbbfc2/c3041e7776cac8d3789f762fc878fb4a.png",
-        "https://cdn.utfc.ru/iblock/cee/cee81b9a468fa6987ad6bfb5b4bd8fd5/67acd6c7b008bef84f331aecb6f1ca4e.png",
-        "https://cdn.utfc.ru/iblock/d15/d156fdd2dc69a4fb0c290507786439bc/8b5dac91a8c84b71b0939fb93c5f4bbf.png",
-        "https://cdn.utfc.ru/iblock/5bf/5bf23a845ed46cb922f25c386882d0e3/197c8a351a6f6adb0141de1bf13bbb3f.png",
-        "https://cdn.utfc.ru/iblock/1ec/1ec7556b6eb815663e8519afdb34b3cf/3304256e87e0bdbefb911e3602beef03.png",
-        "https://cdn.utfc.ru/iblock/1d0/1d051000ff8477fbddb0f4d1f7e208c1/d1b0447dd1a59f3d8bf7af66d649c65a.png",
-        "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
-        "https://cdn.utfc.ru/iblock/9db/9db483ad61eb54ebf1f34f0f73238d70/f4637619c641b3946c599f1ee528d4a1.png",
-        "https://cdn.utfc.ru/iblock/039/0390882158b7a37eb980109fd2fc0b6c/ee07ada276601b4fa49ceed4b2f071e3.png",
-        "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
-        "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
-        "https://cdn.utfc.ru/iblock/d6e/d6e6e305c2db016f8116cb34f2c62064/d1111a5946907d6f22f62447b9523e73.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "985",
-        "max": "1045"
-      },
-      "headrest_height": {},
-      "seat_to_floor_height": {
-        "min": "465",
-        "max": "525"
-      },
-      "seat_to_floor_height_upper": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_floor": {
-        "min": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "225"
-      },
-      "armrest_width_support": {
-        "max": ""
-      },
-      "armrest_length_support": {
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "760"
-      },
-      "seat_depth": {
-        "min": "525"
-      },
-      "seat_depth_km": {
-        "max": ""
-      },
-      "backrest_height": {
-        "max": "550"
-      },
-      "backrest_to_seat_height": {},
-      "backrest_height_external": {
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "680"
-      },
-      "seat_width": {
-        "max": "530"
-      },
-      "backrest_width_narrow": {
-        "max": ""
-      },
-      "backrest_width_wide": {
-        "max": ""
-      },
-      "diameter_cross": {
-        "max": "700"
-      },
-      "runners_width": {},
-      "runners_depth": {},
-      "recommended_load": "120",
-      "max_load": "150",
-      "skeleton": "немонолитный",
-      "netto": "21",
-      "brutto": "23",
-      "package_width": "910",
-      "package_depth": "400",
-      "package_height": "680",
-      "volume": "0",
-      "minpromtorg": {
-        "min": "",
-        "max": ""
-      }
-    }
-  ],
-  "addition": "",
-  "title": "Кресло UTFC СН-105 Онтарио Н пластик/хром производства компании UTFC",
-  "base_name": "Кресло UTFC СН-105 Онтарио Н пластик/хром",
-  "article_number": "ПУ-00044102",
-  "full_describe": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
-  "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch105_n_ontario_pl_ch/?offers=13787",
-  "Основание": "Пятилучье хромированное d=700 мм",
-  "Подлокотники": "Подлокотники пластиковые со вставками \"под хром\" и мягкими накладками для кресла Онтарио",
-  "Газлифт": "",
-  "Механизм": "Мультиблок с синхроплатой - механизм обеспечивает регулировку высоты сиденья, силу отклонения спинки под вес пользователя в режиме качания и фиксацию спинки в любом положении.",
-  "Особенности": "",
-  "Ролики": "Пластиковые ролики с полиуретановым покрытием, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-  "finish_type": [
-    "-",
-    "Экокожа Santorini"
-  ],
-  "color": [
-    "Экокожа S-0422 (темно-серый)"
-  ],
-  "variant_name": [
-    "Кресло UTFC СН-105 Онтарио Н пластик/хром (-, Экокожа S-0422 (темно-серый),, )",
-    "Кресло UTFC СН-105 Онтарио Н пластик/хром (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ],
-  "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано в РФ",
-  "additional_info": {
-    "package_dimensions": {
-      "width": "23",
-      "depth": "910",
-      "height": "400"
+        "netto": "20",
+        "brutto": "22",
+        "volume": "0"
     },
-    "netto": "",
-    "brutto": "",
-    "volume": ""
-  },
-  "parent": {
-    "IE_XML_ID": 13786,
-    "IE_NAME": "UTFC СН-105 Онтарио Н пластик/хром",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 4700,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/cf9/cf9c00adba8fa7df275dd2cf063a2182/cd1bd60e4ee80041cbe06066d7f83637.png",
-    "IE_PREVIEW_TEXT": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/d92/d92c1bd03fd54d3ac689b3b537f572fb/ad9ed8745350b8706c6aae09c7e304a9.png",
-    "IE_DETAIL_TEXT": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "ch105_n_ontario_pl_ch",
-    "IE_TAGS": "",
-    "IE_ID": 13786,
-    "IP_PROP2": 680,
-    "IP_PROP3": "985-1045",
-    "IP_PROP4": 760,
-    "IP_PROP6": "",
-    "IP_PROP19": 150,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/cee/cee81b9a468fa6987ad6bfb5b4bd8fd5/67acd6c7b008bef84f331aecb6f1ca4e.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/5bf/5bf23a845ed46cb922f25c386882d0e3/197c8a351a6f6adb0141de1bf13bbb3f.png",
-    "IP_PROP5": 910,
-    "IP_PROP26": 680,
-    "IP_PROP27": 400,
-    "IP_PROP28": "21,7",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,25",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00045080",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/be9/be90654f7cb2b13d91d8ab710ec89b9a/12178ae728a0d63709238420c67b1cbc.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье хромированное d=700 мм Испания",
-    "IP_PROP42": "Подлокотник М-105 Онтарио",
-    "IP_PROP43": "",
-    "IP_PROP44": "Мультиблок с синхроплатой",
-    "IP_PROP45": "",
-    "IP_PROP46": "Ролик п/у, открытый чехол, d колеса 50 мм, d штока 11 мм",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Да",
-    "IP_PROP60": "",
-    "IC_ID0": 18,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла для руководителя",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 40,
-    "IC_DESCRIPTION0": "Безупречный стиль, премиальные материалы и продуманная эргономика для особого статуса и комфорта во время решения важных задач",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "boss_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/a0b/a0b55a5b53a8bb142b4f32200f79ac62.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/8da/8da00c4d975d7fd70a1438b5a1b523fe.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "Y",
-    "CP_MEASURE": 5,
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 15592,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 16060,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 15592,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13787,
-      "IE_NAME": "Кресло UTFC СН-105 Онтарио Н пластик/хром Ср S-0422 (темно-серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/a3a/a3a6ad1fe8088bbe7d4d7dc1be1749db/0e8c8f6b4b7b106ccefc9b719902021e.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/eb1/eb1fb0c1f23c8b411d150a99ae8a028e/8f0a02f4b4ce3ef0796777cfeee5bab7.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13787,
-      "IP_PROP34": 13786,
-      "IP_PROP35": "ПУ-00044102",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/9db/9db483ad61eb54ebf1f34f0f73238d70/f4637619c641b3946c599f1ee528d4a1.png",
-        "https://cdn.utfc.ru/iblock/1d0/1d051000ff8477fbddb0f4d1f7e208c1/d1b0447dd1a59f3d8bf7af66d649c65a.png",
-        "https://cdn.utfc.ru/iblock/1ec/1ec7556b6eb815663e8519afdb34b3cf/3304256e87e0bdbefb911e3602beef03.png",
-        "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
-        "https://cdn.utfc.ru/iblock/d15/d156fdd2dc69a4fb0c290507786439bc/8b5dac91a8c84b71b0939fb93c5f4bbf.png"
-      ],
-      "IP_PROP37": "Экокожа Santorini",
-      "IP_PROP38": "Экокожа S-0422 (темно-серый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "серый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 15592,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 16060,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 15592,
-      "CV_CURRENCY_3": "RUB"
+    "parent": {
+        "IE_XML_ID": 13786,
+        "IE_NAME": "UTFC СН-105 Онтарио Н пластик/хром",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 4700,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/cf9/cf9c00adba8fa7df275dd2cf063a2182/cd1bd60e4ee80041cbe06066d7f83637.png",
+        "IE_PREVIEW_TEXT": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/d92/d92c1bd03fd54d3ac689b3b537f572fb/ad9ed8745350b8706c6aae09c7e304a9.png",
+        "IE_DETAIL_TEXT": "Увеличенная поясничная зона кресла обеспечивает превосходную поддержку спины в течение всего дня, а мультиблок с синхроплатой - механизм, который обеспечивает регулировку высоты сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в любом положении. Элегантность модели подчеркивают изящные подлокотники с мягкими накладками и хром-вставками, которые идеально сочетаются с хромированной крестовиной. Кресло представлено в широкой палитре оттенков под любой интерьер, а дополнить интерьер кабинета руководителя поможет конференц-кресло «Онтарио н/п» в аналогичном стиле.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "ch105_n_ontario_pl_ch",
+        "IE_TAGS": "",
+        "IE_ID": 13786,
+        "IP_PROP2": 680,
+        "IP_PROP3": "985-1045",
+        "IP_PROP4": 760,
+        "IP_PROP6": "",
+        "IP_PROP19": 150,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/cee/cee81b9a468fa6987ad6bfb5b4bd8fd5/67acd6c7b008bef84f331aecb6f1ca4e.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/5bf/5bf23a845ed46cb922f25c386882d0e3/197c8a351a6f6adb0141de1bf13bbb3f.png",
+        "IP_PROP5": 910,
+        "IP_PROP26": 680,
+        "IP_PROP27": 400,
+        "IP_PROP28": "21,7",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,25",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00045080",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/be9/be90654f7cb2b13d91d8ab710ec89b9a/12178ae728a0d63709238420c67b1cbc.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье хромированное d=700 мм Испания",
+        "IP_PROP42": "Подлокотник М-105 Онтарио",
+        "IP_PROP43": "",
+        "IP_PROP44": "Мультиблок с синхроплатой",
+        "IP_PROP45": "",
+        "IP_PROP46": "Ролик п/у, открытый чехол, d колеса 50 мм, d штока 11 мм",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Да",
+        "IP_PROP60": "",
+        "IC_ID0": 18,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла для руководителя",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 40,
+        "IC_DESCRIPTION0": "Безупречный стиль, премиальные материалы и продуманная эргономика для особого статуса и комфорта во время решения важных задач",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "boss_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/a0b/a0b55a5b53a8bb142b4f32200f79ac62.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/8da/8da00c4d975d7fd70a1438b5a1b523fe.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "Y",
+        "CP_MEASURE": 5,
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 15592,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 16060,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 15592,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 13787,
+            "IE_NAME": "Кресло UTFC СН-105 Онтарио Н пластик/хром Ср S-0422 (темно-серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/a3a/a3a6ad1fe8088bbe7d4d7dc1be1749db/0e8c8f6b4b7b106ccefc9b719902021e.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/eb1/eb1fb0c1f23c8b411d150a99ae8a028e/8f0a02f4b4ce3ef0796777cfeee5bab7.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13787,
+            "IP_PROP34": 13786,
+            "IP_PROP35": "ПУ-00044102",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/9db/9db483ad61eb54ebf1f34f0f73238d70/f4637619c641b3946c599f1ee528d4a1.png",
+                "https://cdn.utfc.ru/iblock/1d0/1d051000ff8477fbddb0f4d1f7e208c1/d1b0447dd1a59f3d8bf7af66d649c65a.png",
+                "https://cdn.utfc.ru/iblock/1ec/1ec7556b6eb815663e8519afdb34b3cf/3304256e87e0bdbefb911e3602beef03.png",
+                "https://cdn.utfc.ru/iblock/818/818a45a17f249539d30add89d4781197/2c35e096818c64ff6d566d904588cc04.png",
+                "https://cdn.utfc.ru/iblock/d15/d156fdd2dc69a4fb0c290507786439bc/8b5dac91a8c84b71b0939fb93c5f4bbf.png"
+            ],
+            "IP_PROP37": "Экокожа Santorini",
+            "IP_PROP38": "Экокожа S-0422 (темно-серый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "серый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 15592,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 16060,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 15592,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "sizes": {
+        "Ширина:": "680",
+        "Высота:": "985-1045",
+        "Глубина:": "760",
+        "Нагрузка:": "150",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "910",
+        "Высота упаковки:": "680",
+        "Глубина упаковки:": "400",
+        "Вес брутто:": "21,7",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,25"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "910",
+        "Высота упаковки:": "680",
+        "Глубина упаковки:": "400",
+        "Материал упаковки:": "Гофрокартон"
     }
-  ],
-  "sizes": {
-    "Ширина:": "680",
-    "Высота:": "985-1045",
-    "Глубина:": "760",
-    "Нагрузка:": "150",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "910",
-    "Высота упаковки:": "680",
-    "Глубина упаковки:": "400",
-    "Вес брутто:": "21,7",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,25"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "910",
-    "Высота упаковки:": "680",
-    "Глубина упаковки:": "400",
-    "Материал упаковки:": "Гофрокартон"
-  }
 }

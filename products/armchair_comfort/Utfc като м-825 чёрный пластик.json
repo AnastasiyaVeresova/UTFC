@@ -1,450 +1,450 @@
 {
-  "namefile": [
-    "Utfc като м-825 чёрный пластик"
-  ],
-  "name_all": [
-    "Като чёрный",
-    "Като серый"
-  ],
-  "name": [
-    "Като"
-  ],
-  "unique_name": [
-    "UTFC Като М-825 чёрный пластик"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Utfc като м-825 чёрный пластик"
+    ],
+    "name_all": [
+        "Като чёрный",
+        "Като серый"
+    ],
+    "name": [
+        "Като"
+    ],
+    "unique_name": [
+        "UTFC Като М-825 чёрный пластик"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. <strong>Облицовка спинки:</strong> сетка",
+                "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
+                "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья и к каркасу спинки с помощью винтов",
+                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы  отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> чёрный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> d=660 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "660",
+                    "depth": "290",
+                    "height": "630"
+                },
+                "box_size": "660х290х630",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "12,7",
+            "netto": "0",
+            "volume": "0,12"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/kato_m825_black_pl_01.png",
+            "chair_view": "img/armchair_comfort/kato_m825_black_pl_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/kato.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+                "https://cdn.utfc.ru/uf/769/76908cd1e10356c45cc62e03e181147f/a6541b68d3de4ea705e5541a65da3f95.png",
+                "https://cdn.utfc.ru/iblock/a7f/a7fb3f857983d9393ac0c53d911615fd/70b3e310b35cea8bb8dcc8ae4b9c29c0.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://cdn.utfc.ru/uf/8c8/8c8482db8aa7f3170fa2f45ab9ad52a0/fcbfb3cb7924c3b5481a6261d2dfbff8.png",
+                "https://cdn.utfc.ru/uf/45e/45ec62cd89a7710e51c5f0f0508c3c87/7466ce500cdca9d5b9a818f852131a37.png",
+                "https://cdn.utfc.ru/uf/29d/29d20ba8121e3f3b53bc47bbfae7c330/d1b72cef68540405826500036e9eaf76.png",
+                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://cdn.utfc.ru/iblock/928/9282d9bc3ca5f47cf5b402d4b6d8b626/aae21556287a298dc8fedea2dc7e3f0a.png",
+                "https://cdn.utfc.ru/iblock/9f5/9f59d22c15f55e8c12d512cf78b5f85a/cfc8c0b9d8e62ea8882b08241afe0d52.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://cdn.utfc.ru/iblock/993/993b3c91577834c9c8abb298dc7df405/9f61506a205cb7e3ddd6ef7144377c55.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://cdn.utfc.ru/uf/4f4/4f40a1aab815609485e4fb7ca26b9501/b49d0f1656c6fb5339b6a698206181da.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+                "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/7ae/7ae0752828a46f09a7c9e9da810bfbc0/9019e293b7ce8e4eac9e03113b6e880a.png",
+                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+                "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png",
+                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "920",
+                "max": "1020"
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "440",
+                "max": "540"
+            },
+            "seat_to_floor_height_upper": {},
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": "200"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "chair_depth": {
+                "min": "570"
+            },
+            "seat_depth": {
+                "min": "460",
+                "max": ""
+            },
+            "seat_depth_km": {},
+            "backrest_height": {},
+            "backrest_to_seat_height": {
+                "min": "490"
+            },
+            "backrest_height_external": {
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": "625"
+            },
+            "seat_width": {
+                "max": "525"
+            },
+            "backrest_width_narrow": {
+                "max": ""
+            },
+            "backrest_width_wide": {
+                "max": ""
+            },
+            "diameter_cross": {
+                "max": "660"
+            },
+            "runners_width": {},
+            "runners_depth": {},
+            "recommended_load": "90",
+            "max_load": "120",
+            "skeleton": "",
+            "netto": "",
+            "brutto": "",
+            "package_width": "",
+            "package_depth": "",
+            "package_height": "",
+            "volume": ""
+        }
+    ],
+    "title": "Кресло UTFC Като М-825 черный пластик производства компании UTFC",
+    "base_name": "Кресло UTFC Като М-825 черный пластик",
+    "article_number": "ПУ-00039959",
+    "full_describe": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m825_kato_bl/?offers=13770",
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "Основание": "Пятилучье пластиковое М-825 PL, диаметр 660 мм, (черный)",
+    "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-825 Като (черный)",
+    "Газлифт": "",
+    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "",
+    "Ролики": "Ролики с полиуретановым покрытием d=50 мм",
+    "sizes": {
+        "Ширина:": "625",
+        "Высота:": "920-1020",
+        "Глубина:": "570",
+        "Нагрузка:": "120",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "660",
+        "Высота упаковки:": "630",
+        "Глубина упаковки:": "290",
+        "Вес брутто:": "12,7",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,12"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "660",
+        "Высота упаковки:": "630",
+        "Глубина упаковки:": "290",
+        "Материал упаковки:": "Гофрокартон"
+    },
+    "finish_type": [
+        "Сетка М-825",
+        "-"
+    ],
+    "color": [
+        "Сетка М-825 (черный)"
+    ],
+    "finish_type_seat": [
+        "Ткань М-825",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань М-825 (черный)"
+    ],
+    "variant_name": [
+        "Кресло UTFC Като М-825 черный пластик (Сетка М-825, Сетка М-825 (черный), Ткань М-825, Ткань М-825 (черный))",
+        "Кресло UTFC Като М-825 черный пластик (Сетка М-825, Сетка М-825 (черный), -, Ткань М-825 (черный))",
+        "Кресло UTFC Като М-825 черный пластик (-, Сетка М-825 (черный), Ткань М-825, Ткань М-825 (черный))",
+        "Кресло UTFC Като М-825 черный пластик (-, Сетка М-825 (черный), -, Ткань М-825 (черный))"
+    ],
+    "parent": {
+        "IE_XML_ID": 13769,
+        "IE_NAME": "UTFC Като М-825 черный пластик",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 500,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/e39/e39ebd4a85d0436cd1d8d7bcc3abc9fb/d47bfcb0bf0a6fb1e9f485d233bb4832.png",
+        "IE_PREVIEW_TEXT": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/973/9731d45c2aa9643025a187ee28a50dd7/e374101cf8efa4b3ce33b9eb4e19eb1f.png",
+        "IE_DETAIL_TEXT": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "m825_kato_bl",
+        "IE_TAGS": "",
+        "IE_ID": 13769,
+        "IP_PROP2": 625,
+        "IP_PROP3": "920-1020",
+        "IP_PROP4": 570,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/7ae/7ae0752828a46f09a7c9e9da810bfbc0/9019e293b7ce8e4eac9e03113b6e880a.png",
+        "IP_PROP5": 660,
+        "IP_PROP26": 630,
+        "IP_PROP27": 290,
+        "IP_PROP28": "12,7",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,12",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00045038",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/c51/c5157ba5efa6e65d17cb43d110d5c174/30d56acfaca3e48b07497fdc5735ee0a.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье М-825 PL (черный)",
+        "IP_PROP42": "Подлокотник М-825 Като (черный)",
+        "IP_PROP43": "",
+        "IP_PROP44": "Топ-ган",
+        "IP_PROP45": "",
+        "IP_PROP46": "Ролик М-825 Като",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 40,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 50,
+        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "comfort_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "N",
+        "CP_MEASURE": "",
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 5200,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 5356,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 5200,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 13770,
+            "IE_NAME": "Кресло UTFC Като М-825 черный пластик (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/62e/62e4960639e55bff7b5d67f5f97d3aac/3beee63ca8c59aa036ea581d2237f2cd.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/521/5211a5ae9c67568eb87bdb698a919c33/87969af48ac26876176f53c0c01af127.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13770,
+            "IP_PROP34": 13769,
+            "IP_PROP35": "ПУ-00039959",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/a7f/a7fb3f857983d9393ac0c53d911615fd/70b3e310b35cea8bb8dcc8ae4b9c29c0.png",
+                "https://cdn.utfc.ru/iblock/9f5/9f59d22c15f55e8c12d512cf78b5f85a/cfc8c0b9d8e62ea8882b08241afe0d52.png",
+                "https://cdn.utfc.ru/iblock/928/9282d9bc3ca5f47cf5b402d4b6d8b626/aae21556287a298dc8fedea2dc7e3f0a.png",
+                "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
+                "https://cdn.utfc.ru/iblock/993/993b3c91577834c9c8abb298dc7df405/9f61506a205cb7e3ddd6ef7144377c55.png"
+            ],
+            "IP_PROP37": "Сетка М-825",
+            "IP_PROP38": "Сетка М-825 (черный)",
+            "IP_PROP39": "Ткань М-825",
+            "IP_PROP40": "Ткань М-825 (черный)",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "черный",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 164,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 5200,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 5356,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 164,
+            "CV_PRICE_3": 5200,
+            "CV_CURRENCY_3": "RUB"
+        }
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. <strong>Облицовка спинки:</strong> сетка",
-        "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
-        "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья и к каркасу спинки с помощью винтов",
-        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы  отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> чёрный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> d=660 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "660",
-          "depth": "290",
-          "height": "630"
-        },
-        "box_size": "660х290х630",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "12,7",
-      "netto": "0",
-      "volume": "0,12"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/kato_m825_black_pl_01.png",
-      "chair_view": "img/armchair_comfort/kato_m825_black_pl_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/kato.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-        "https://cdn.utfc.ru/uf/769/76908cd1e10356c45cc62e03e181147f/a6541b68d3de4ea705e5541a65da3f95.png",
-        "https://cdn.utfc.ru/iblock/a7f/a7fb3f857983d9393ac0c53d911615fd/70b3e310b35cea8bb8dcc8ae4b9c29c0.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://cdn.utfc.ru/uf/8c8/8c8482db8aa7f3170fa2f45ab9ad52a0/fcbfb3cb7924c3b5481a6261d2dfbff8.png",
-        "https://cdn.utfc.ru/uf/45e/45ec62cd89a7710e51c5f0f0508c3c87/7466ce500cdca9d5b9a818f852131a37.png",
-        "https://cdn.utfc.ru/uf/29d/29d20ba8121e3f3b53bc47bbfae7c330/d1b72cef68540405826500036e9eaf76.png",
-        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://cdn.utfc.ru/iblock/928/9282d9bc3ca5f47cf5b402d4b6d8b626/aae21556287a298dc8fedea2dc7e3f0a.png",
-        "https://cdn.utfc.ru/iblock/9f5/9f59d22c15f55e8c12d512cf78b5f85a/cfc8c0b9d8e62ea8882b08241afe0d52.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://cdn.utfc.ru/iblock/993/993b3c91577834c9c8abb298dc7df405/9f61506a205cb7e3ddd6ef7144377c55.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://cdn.utfc.ru/uf/4f4/4f40a1aab815609485e4fb7ca26b9501/b49d0f1656c6fb5339b6a698206181da.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-        "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/7ae/7ae0752828a46f09a7c9e9da810bfbc0/9019e293b7ce8e4eac9e03113b6e880a.png",
-        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-        "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png",
-        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "920",
-        "max": "1020"
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "440",
-        "max": "540"
-      },
-      "seat_to_floor_height_upper": {},
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "",
-        "max": "200"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "chair_depth": {
-        "min": "570"
-      },
-      "seat_depth": {
-        "min": "460",
-        "max": ""
-      },
-      "seat_depth_km": {},
-      "backrest_height": {},
-      "backrest_to_seat_height": {
-        "min": "490"
-      },
-      "backrest_height_external": {
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "",
-        "max": "625"
-      },
-      "seat_width": {
-        "max": "525"
-      },
-      "backrest_width_narrow": {
-        "max": ""
-      },
-      "backrest_width_wide": {
-        "max": ""
-      },
-      "diameter_cross": {
-        "max": "660"
-      },
-      "runners_width": {},
-      "runners_depth": {},
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "",
-      "netto": "",
-      "brutto": "",
-      "package_width": "",
-      "package_depth": "",
-      "package_height": "",
-      "volume": ""
-    }
-  ],
-  "title": "Кресло UTFC Като М-825 черный пластик производства компании UTFC",
-  "base_name": "Кресло UTFC Като М-825 черный пластик",
-  "article_number": "ПУ-00039959",
-  "full_describe": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m825_kato_bl/?offers=13770",
-  "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано в РФ",
-  "Основание": "Пятилучье пластиковое М-825 PL, диаметр 660 мм, (черный)",
-  "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-825 Като (черный)",
-  "Газлифт": "",
-  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "",
-  "Ролики": "Ролики с полиуретановым покрытием d=50 мм",
-  "sizes": {
-    "Ширина:": "625",
-    "Высота:": "920-1020",
-    "Глубина:": "570",
-    "Нагрузка:": "120",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "660",
-    "Высота упаковки:": "630",
-    "Глубина упаковки:": "290",
-    "Вес брутто:": "12,7",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,12"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "660",
-    "Высота упаковки:": "630",
-    "Глубина упаковки:": "290",
-    "Материал упаковки:": "Гофрокартон"
-  },
-  "finish_type": [
-    "Сетка М-825",
-    "-"
-  ],
-  "color": [
-    "Сетка М-825 (черный)"
-  ],
-  "finish_type_seat": [
-    "Ткань М-825",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань М-825 (черный)"
-  ],
-  "variant_name": [
-    "Кресло UTFC Като М-825 черный пластик (Сетка М-825, Сетка М-825 (черный), Ткань М-825, Ткань М-825 (черный))",
-    "Кресло UTFC Като М-825 черный пластик (Сетка М-825, Сетка М-825 (черный), -, Ткань М-825 (черный))",
-    "Кресло UTFC Като М-825 черный пластик (-, Сетка М-825 (черный), Ткань М-825, Ткань М-825 (черный))",
-    "Кресло UTFC Като М-825 черный пластик (-, Сетка М-825 (черный), -, Ткань М-825 (черный))"
-  ],
-  "parent": {
-    "IE_XML_ID": 13769,
-    "IE_NAME": "UTFC Като М-825 черный пластик",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 500,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/e39/e39ebd4a85d0436cd1d8d7bcc3abc9fb/d47bfcb0bf0a6fb1e9f485d233bb4832.png",
-    "IE_PREVIEW_TEXT": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/973/9731d45c2aa9643025a187ee28a50dd7/e374101cf8efa4b3ce33b9eb4e19eb1f.png",
-    "IE_DETAIL_TEXT": "Новая модель кресла серии «Комфорт»: спинка из прочной дышащей сетки, сиденье выполнено из мягкой износостойкой ткани. Стильный дизайн с лаконичными линиями и актуальным \"воздушным\" силуэтом в духе минимализма. Изящные подлокотники строгих аккуратных форм завершают образ. Модель полностью выдержана в черном цвете, включая подлокотники и крестовину.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "m825_kato_bl",
-    "IE_TAGS": "",
-    "IE_ID": 13769,
-    "IP_PROP2": 625,
-    "IP_PROP3": "920-1020",
-    "IP_PROP4": 570,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/6c6/6c6ff9f405d4b300ec1ed6b116461577/8d759015022cf45b617d2cafbd8e54d4.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/7ae/7ae0752828a46f09a7c9e9da810bfbc0/9019e293b7ce8e4eac9e03113b6e880a.png",
-    "IP_PROP5": 660,
-    "IP_PROP26": 630,
-    "IP_PROP27": 290,
-    "IP_PROP28": "12,7",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,12",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00045038",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/c51/c5157ba5efa6e65d17cb43d110d5c174/30d56acfaca3e48b07497fdc5735ee0a.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье М-825 PL (черный)",
-    "IP_PROP42": "Подлокотник М-825 Като (черный)",
-    "IP_PROP43": "",
-    "IP_PROP44": "Топ-ган",
-    "IP_PROP45": "",
-    "IP_PROP46": "Ролик М-825 Като",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 40,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 50,
-    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "comfort_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "N",
-    "CP_MEASURE": "",
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 5200,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 5356,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 5200,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13770,
-      "IE_NAME": "Кресло UTFC Като М-825 черный пластик (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/62e/62e4960639e55bff7b5d67f5f97d3aac/3beee63ca8c59aa036ea581d2237f2cd.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/521/5211a5ae9c67568eb87bdb698a919c33/87969af48ac26876176f53c0c01af127.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13770,
-      "IP_PROP34": 13769,
-      "IP_PROP35": "ПУ-00039959",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/a7f/a7fb3f857983d9393ac0c53d911615fd/70b3e310b35cea8bb8dcc8ae4b9c29c0.png",
-        "https://cdn.utfc.ru/iblock/9f5/9f59d22c15f55e8c12d512cf78b5f85a/cfc8c0b9d8e62ea8882b08241afe0d52.png",
-        "https://cdn.utfc.ru/iblock/928/9282d9bc3ca5f47cf5b402d4b6d8b626/aae21556287a298dc8fedea2dc7e3f0a.png",
-        "https://cdn.utfc.ru/iblock/e13/e1315f1dfc68683de602f0aa841a9a6a/94f199d3ce09ff3ed5fd9eff47e8b35d.png",
-        "https://cdn.utfc.ru/iblock/993/993b3c91577834c9c8abb298dc7df405/9f61506a205cb7e3ddd6ef7144377c55.png"
-      ],
-      "IP_PROP37": "Сетка М-825",
-      "IP_PROP38": "Сетка М-825 (черный)",
-      "IP_PROP39": "Ткань М-825",
-      "IP_PROP40": "Ткань М-825 (черный)",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "черный",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 164,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 5200,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 5356,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 164,
-      "CV_PRICE_3": 5200,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ]
 }

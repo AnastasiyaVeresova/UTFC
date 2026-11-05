@@ -1,546 +1,546 @@
 {
-  "namefile": [
-    "Кембридж сн-502 н/п хром"
-  ],
-  "name": [
-    "Кембридж Н/п"
-  ],
-  "unique_name": [
-    "Кембридж CH-502 Н_п хром"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "кресло"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Кембридж сн-502 н/п хром"
+    ],
+    "name": [
+        "Кембридж Н/п"
+    ],
+    "unique_name": [
+        "Кембридж CH-502 Н_п хром"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "кресло"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья: ткань (D), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "металлических полозьев, спинки, сиденья, подлокотников",
+                "<strong>Полозья</strong> «Нео» сварные металлические с защитно-декоративным покрытием",
+                "<strong>Каркас</strong> и перемычки полозьев изготовлен из стальной трубы круглого сечения Ф25х2 мм. Покрытие полозьев: термореактивная порошковая краска, цвет - черный или хромовое блестящее. На торцевые поверхности каркаса полозьев устанавливаются заглушки (2шт.). На опорную поверхность каркаса полозьев устанавливаются опоры (4 шт.)",
+                "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
+                "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
+                "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
+                "<strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (Е)",
+                "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 584,
+                    "depth": 262,
+                    "height": 584
+                },
+                "box_size": "584х262х584",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "",
+            "netto": "",
+            "volume": "0,09"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/ch502_kembridge_np_ch_tw72_01.png",
+            "chair_view": "img/armchair_comfort/ch502_kembridge_np_ch_tw72_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/ch502_kembridge_np_ch_tw72_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/aec/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/47f/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
+                "https://utfc.ru/upload/resize_cache/iblock/c24/140_140_0/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://utfc.ru/upload/resize_cache/iblock/47f/140_140_0/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
+                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+                "https://utfc.ru/upload/resize_cache/iblock/aec/140_140_0/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5b9/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5b9/140_140_0/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/93b/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/93b/140_140_0/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/iblock/5b9/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
+                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+                "https://cdn.utfc-store.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
+                "https://cdn.utfc-store.ru/iblock/aec/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
+                "https://cdn.utfc-store.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
+                "https://cdn.utfc-store.ru/iblock/93b/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
+                "https://cdn.utfc-store.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
+                "https://cdn.utfc-store.ru/iblock/47f/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
+                "https://cdn.utfc-store.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
+                "https://cdn.utfc-store.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc-store.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
+                "https://cdn.utfc-store.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
+                "https://cdn.utfc-store.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
+                "https://cdn.utfc-store.ru/resize_cache/28565/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
+                "https://cdn.utfc-store.ru/resize_cache/28566/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
+                "https://cdn.utfc-store.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
+                "https://cdn.utfc-store.ru/resize_cache/28567/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
+                "https://cdn.utfc-store.ru/resize_cache/28568/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
+                "https://cdn.utfc-store.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
+                "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+                "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+                "https://cdn.utfc-store.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
+                "https://cdn.utfc-store.ru/resize_cache/28569/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
+                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://cdn.utfc.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
+                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://cdn.utfc.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
+                "https://cdn.utfc.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
+                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+                "https://cdn.utfc.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
+                "https://cdn.utfc.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
+                "https://cdn.utfc.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://cdn.utfc.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
+                "https://cdn.utfc.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
+                "https://cdn.utfc.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
+                "https://cdn.utfc.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
+                "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+                "https://cdn.utfc.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
+                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
+                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "920",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "480",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "180",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "565",
+                "max": ""
+            },
+            "seat_depth": {
+                "min": "430",
+                "max": ""
+            },
+            "backrest_height": {
+                "min": "",
+                "max": "460"
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "535",
+                "max": ""
+            },
+            "seat_width": {
+                "min": "",
+                "max": "470"
+            },
+            "diameter_cross": {
+                "min": "",
+                "max": ""
+            },
+            "runners_width": {
+                "min": "",
+                "max": "480"
+            },
+            "runners_depth": {
+                "min": "",
+                "max": "590"
+            },
+            "seat_to_floor_height_upper": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_floor": {
+                "min": "245",
+                "max": ""
+            },
+            "armrest_width_support": {
+                "min": "",
+                "max": "55"
+            },
+            "armrest_length_support": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth_km": {
+                "min": "",
+                "max": "480"
+            },
+            "backrest_height_external": {
+                "min": "",
+                "max": "540"
+            },
+            "backrest_width_narrow": {
+                "min": "",
+                "max": "445"
+            },
+            "backrest_width_wide": {
+                "min": "",
+                "max": "460"
+            },
+            "recommended_load": "90",
+            "max_load": "120",
+            "skeleton": "немонолитный",
+            "minpromtorg": "+",
+            "netto": {
+                "min": "",
+                "max": ""
+            },
+            "brutto": {
+                "min": "",
+                "max": ""
+            },
+            "package_width": "584",
+            "package_depth": "262",
+            "package_height": "584",
+            "volume": "0"
+        }
+    ],
+    "skeleton": "немонолитный",
+    "minpromtorg": "+",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "a_1011",
+        "IE_NAME": "СН-502 Кембридж Н/п хром",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 850,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/367/fg80465titv5yi3ncoeez9ul7ysysvqp.png",
+        "IE_PREVIEW_TEXT": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на хромированных полозьях. Максимальная нагрузка 120 кг.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/83d/e2rl6mnspo6ko1ecj7ppdrc0ty3v93px.png",
+        "IE_DETAIL_TEXT": "",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "kembrige_np_ch_502",
+        "IE_TAGS": "",
+        "IE_ID": 12010,
+        "IP_PROP2": 535,
+        "IP_PROP3": 920,
+        "IP_PROP4": 565,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
+        "IP_PROP5": 584,
+        "IP_PROP26": 584,
+        "IP_PROP27": 262,
+        "IP_PROP28": "9,66",
+        "IP_PROP29": "Гофрокартон, полиэтилен",
+        "IP_PROP30": "0,19",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00038912",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Полозья металлические Нео СН",
+        "IP_PROP42": "Подлокотник СН-502 Кембридж",
+        "IP_PROP43": "",
+        "IP_PROP44": "",
+        "IP_PROP45": "",
+        "IP_PROP46": "",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 40,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 50,
+        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "comfort_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "N",
+        "CP_MEASURE": "",
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 6012,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 6193,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 6012,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 50087,
+            "IE_NAME": "Кресло СН-502 Кембридж Н/п хром TW-72/Е72-к/Е72-к (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/d19/d1908ab1e3fde6a8f78dc6909a81398f/10277d745860ea38cecb2152c3a32ed8.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2a1/2a126f30c976ce68d42d4ab85dc6f83c/901082ab4d1c0cb6080d88f456851b99.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12019,
+            "IP_PROP34": 12010,
+            "IP_PROP35": "ПУ-00035085",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
+                "https://cdn.utfc.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
+                "https://cdn.utfc.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
+                "https://cdn.utfc.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
+                "https://cdn.utfc.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png"
+            ],
+            "IP_PROP37": "Сетка TW",
+            "IP_PROP38": "Сетка TW-72 (серый)",
+            "IP_PROP39": "Ткань Сетка Е",
+            "IP_PROP40": "Ткань-сетка Е72-к (серый)",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "серый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 6012,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 6193,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 6012,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Эргономичное кресло с уникальным дизайном для офиса и дома СН-502 Кембридж Н/п хром производства компании UTFC",
+    "base_name": "Кресло СН-502 Кембридж Н/п хром",
+    "article_number": "ПУ-00035085",
+    "full_describe": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на хромированных полозьях. Максимальная нагрузка 120 кг.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/kembrige_np_ch_502/?offers=12019",
+    "Основание": "Полозья металлические Нео, защитно-декоративное покрытие никель-хром, d=25х2 мм",
+    "Подлокотники": "Подлокотники пластиковые для кресла СН-502 Кэмбридж",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "finish_type": [
+        "-",
+        "Сетка TW"
+    ],
+    "color": [
+        "Сетка TW-72 (серый)"
+    ],
+    "variant_name": [
+        "Кресло СН-502 Кембридж Н/п хром (-, Сетка TW-72 (серый), -, Ткань-сетка Е72-к (серый))",
+        "Кресло СН-502 Кембридж Н/п хром (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е72-к (серый))",
+        "Кресло СН-502 Кембридж Н/п хром (Сетка TW, Сетка TW-72 (серый), -, Ткань-сетка Е72-к (серый))",
+        "Кресло СН-502 Кембридж Н/п хром (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е72-к (серый))"
+    ],
+    "finish_type_seat": [
+        "-",
+        "Ткань Сетка Е"
+    ],
+    "color_seat": [
+        "Ткань-сетка Е72-к (серый)"
+    ],
+    "madeinrf": "Сделано в РФ",
+    "sizes": {
+        "Ширина:": "535",
+        "Высота:": "920",
+        "Глубина:": "565",
+        "Нагрузка:": "120",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "584",
+        "Высота упаковки:": "584",
+        "Глубина упаковки:": "262",
+        "Вес брутто:": "9,66",
+        "Материал упаковки:": "Гофрокартон, полиэтилен",
+        "Объём:": "0,19"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "584",
+        "Высота упаковки:": "584",
+        "Глубина упаковки:": "262",
+        "Материал упаковки:": "Гофрокартон, полиэтилен"
+    },
+    "lost": [
+        {
+            "clean": true,
+            "limit": false,
+            "del": false
+        }
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья: ткань (D), ткань-сетка (E)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "металлических полозьев, спинки, сиденья, подлокотников",
-        "<strong>Полозья</strong> «Нео» сварные металлические с защитно-декоративным покрытием",
-        "<strong>Каркас</strong> и перемычки полозьев изготовлен из стальной трубы круглого сечения Ф25х2 мм. Покрытие полозьев: термореактивная порошковая краска, цвет - черный или хромовое блестящее. На торцевые поверхности каркаса полозьев устанавливаются заглушки (2шт.). На опорную поверхность каркаса полозьев устанавливаются опоры (4 шт.)",
-        "<strong>Спинка</strong> состоит из пластикового каркаса с опорой для спины и обивочного элемента",
-        "<strong>Материал</strong> облицовки спинки: ткань-сетка (TW)",
-        "<strong>Сиденье</strong> состоит из основания фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность 20 кг/м<sup>3</sup>) и обивочного элемента",
-        "<strong>Материал</strong> облицовка сиденья: ткань (D), ткань-сетка (Е)",
-        "<strong>Подлокотники</strong> - пластиковые, крепятся к каркасу спинки и к основанию сиденья с помощью винтов"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": 584,
-          "depth": 262,
-          "height": 584
-        },
-        "box_size": "584х262х584",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "",
-      "netto": "",
-      "volume": "0,09"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/ch502_kembridge_np_ch_tw72_01.png",
-      "chair_view": "img/armchair_comfort/ch502_kembridge_np_ch_tw72_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/ch502_kembridge_np_ch_tw72_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/aec/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/47f/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
-        "https://utfc.ru/upload/resize_cache/iblock/c24/140_140_0/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://utfc.ru/upload/resize_cache/iblock/47f/140_140_0/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
-        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-        "https://utfc.ru/upload/resize_cache/iblock/aec/140_140_0/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5b9/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5b9/140_140_0/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/93b/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/93b/140_140_0/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/iblock/5b9/0ldqbob60yhvrlc6xiopi9g6vt08yhgj.png",
-        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-        "https://cdn.utfc-store.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
-        "https://cdn.utfc-store.ru/iblock/aec/q19wu4gbu4nwq05x7upmt60owqpo6y4a.png",
-        "https://cdn.utfc-store.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
-        "https://cdn.utfc-store.ru/iblock/93b/aav5sldycl2lpb7xbjwdn5bze7iocoml.png",
-        "https://cdn.utfc-store.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
-        "https://cdn.utfc-store.ru/iblock/47f/qhf2zbu9e9kkg9ystts7udi64nfwms2l.png",
-        "https://cdn.utfc-store.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
-        "https://cdn.utfc-store.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc-store.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
-        "https://cdn.utfc-store.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
-        "https://cdn.utfc-store.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
-        "https://cdn.utfc-store.ru/resize_cache/28565/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
-        "https://cdn.utfc-store.ru/resize_cache/28566/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
-        "https://cdn.utfc-store.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
-        "https://cdn.utfc-store.ru/resize_cache/28567/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
-        "https://cdn.utfc-store.ru/resize_cache/28568/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
-        "https://cdn.utfc-store.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
-        "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-        "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-        "https://cdn.utfc-store.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
-        "https://cdn.utfc-store.ru/resize_cache/28569/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
-        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://cdn.utfc.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
-        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://cdn.utfc.ru/uf/2b1/2b1714d2573a446b6e347310a16a5b8e.png",
-        "https://cdn.utfc.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
-        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-        "https://cdn.utfc.ru/uf/9b9/c40gohl039rnsxbkj6ycnq94fqxq1bz4.webp",
-        "https://cdn.utfc.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
-        "https://cdn.utfc.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://cdn.utfc.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
-        "https://cdn.utfc.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png",
-        "https://cdn.utfc.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
-        "https://cdn.utfc.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
-        "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-        "https://cdn.utfc.ru/uf/f87/f873e9e9793b2e3ffd7e672dbf97d35d.png",
-        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
-        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "920",
-        "max": ""
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "480",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "180",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "565",
-        "max": ""
-      },
-      "seat_depth": {
-        "min": "430",
-        "max": ""
-      },
-      "backrest_height": {
-        "min": "",
-        "max": "460"
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "535",
-        "max": ""
-      },
-      "seat_width": {
-        "min": "",
-        "max": "470"
-      },
-      "diameter_cross": {
-        "min": "",
-        "max": ""
-      },
-      "runners_width": {
-        "min": "",
-        "max": "480"
-      },
-      "runners_depth": {
-        "min": "",
-        "max": "590"
-      },
-      "seat_to_floor_height_upper": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_floor": {
-        "min": "245",
-        "max": ""
-      },
-      "armrest_width_support": {
-        "min": "",
-        "max": "55"
-      },
-      "armrest_length_support": {
-        "min": "",
-        "max": ""
-      },
-      "seat_depth_km": {
-        "min": "",
-        "max": "480"
-      },
-      "backrest_height_external": {
-        "min": "",
-        "max": "540"
-      },
-      "backrest_width_narrow": {
-        "min": "",
-        "max": "445"
-      },
-      "backrest_width_wide": {
-        "min": "",
-        "max": "460"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "немонолитный",
-      "minpromtorg": "+",
-      "netto": {
-        "min": "",
-        "max": ""
-      },
-      "brutto": {
-        "min": "",
-        "max": ""
-      },
-      "package_width": "584",
-      "package_depth": "262",
-      "package_height": "584",
-      "volume": "0"
-    }
-  ],
-  "skeleton": "немонолитный",
-  "minpromtorg": "Минпромторг",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "a_1011",
-    "IE_NAME": "СН-502 Кембридж Н/п хром",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 850,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/367/fg80465titv5yi3ncoeez9ul7ysysvqp.png",
-    "IE_PREVIEW_TEXT": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на хромированных полозьях. Максимальная нагрузка 120 кг.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/83d/e2rl6mnspo6ko1ecj7ppdrc0ty3v93px.png",
-    "IE_DETAIL_TEXT": "",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "kembrige_np_ch_502",
-    "IE_TAGS": "",
-    "IE_ID": 12010,
-    "IP_PROP2": 535,
-    "IP_PROP3": 920,
-    "IP_PROP4": 565,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/382/2e3cqwku0isv4dcinysife6laizz0m6x.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/287/jhbuuiamb82bs0uxgig6vxhhteioma72.png",
-    "IP_PROP5": 584,
-    "IP_PROP26": 584,
-    "IP_PROP27": 262,
-    "IP_PROP28": "9,66",
-    "IP_PROP29": "Гофрокартон, полиэтилен",
-    "IP_PROP30": "0,19",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00038912",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/c24/t7ymx7iieb6togrr0bnyc8labi0agzam.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Полозья металлические Нео СН",
-    "IP_PROP42": "Подлокотник СН-502 Кембридж",
-    "IP_PROP43": "",
-    "IP_PROP44": "",
-    "IP_PROP45": "",
-    "IP_PROP46": "",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 40,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 50,
-    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "comfort_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "N",
-    "CP_MEASURE": "",
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 6012,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 6193,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 6012,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50087,
-      "IE_NAME": "Кресло СН-502 Кембридж Н/п хром TW-72/Е72-к/Е72-к (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/d19/d1908ab1e3fde6a8f78dc6909a81398f/10277d745860ea38cecb2152c3a32ed8.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2a1/2a126f30c976ce68d42d4ab85dc6f83c/901082ab4d1c0cb6080d88f456851b99.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12019,
-      "IP_PROP34": 12010,
-      "IP_PROP35": "ПУ-00035085",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/f63/f63db5108a7a545b4a0e0161e26b4384/3755d1acd4c8462704b1984b8d0f4f90.png",
-        "https://cdn.utfc.ru/iblock/24a/24a4d221c995fe5c1b3e13bd11479ddb/648133903dee994e80c53e42e7829d69.png",
-        "https://cdn.utfc.ru/iblock/e93/e93de04b0f7c07d3fbf23a34a450d384/2a1c7fa1ab0bbf1a7dfd683ff13bfe34.png",
-        "https://cdn.utfc.ru/iblock/735/735d6047c0f986116591fa5a0a45836f/6dcd8daecf87a8c3808929ff9c8af1c9.png",
-        "https://cdn.utfc.ru/iblock/77b/77bbe650380bed8fa2286d77e8040720/4776bb505525beab4d7ed779700795c6.png"
-      ],
-      "IP_PROP37": "Сетка TW",
-      "IP_PROP38": "Сетка TW-72 (серый)",
-      "IP_PROP39": "Ткань Сетка Е",
-      "IP_PROP40": "Ткань-сетка Е72-к (серый)",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "серый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 6012,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 6193,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 6012,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Эргономичное кресло с уникальным дизайном для офиса и дома СН-502 Кембридж Н/п хром производства компании UTFC",
-  "base_name": "Кресло СН-502 Кембридж Н/п хром",
-  "article_number": "ПУ-00035085",
-  "full_describe": "Широкая эргономичная спинка обеспечивает удобное расположение в кресле. Изящный каркас спинки надежно соединен с сиденьем через подлокотники. Кресло стоит на хромированных полозьях. Максимальная нагрузка 120 кг.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/kembrige_np_ch_502/?offers=12019",
-  "Основание": "Полозья металлические Нео, защитно-декоративное покрытие никель-хром, d=25х2 мм",
-  "Подлокотники": "Подлокотники пластиковые для кресла СН-502 Кэмбридж",
-  "Газлифт": "",
-  "Механизм": "",
-  "Особенности": "",
-  "Ролики": "",
-  "finish_type": [
-    "-",
-    "Сетка TW"
-  ],
-  "color": [
-    "Сетка TW-72 (серый)"
-  ],
-  "variant_name": [
-    "Кресло СН-502 Кембридж Н/п хром (-, Сетка TW-72 (серый), -, Ткань-сетка Е72-к (серый))",
-    "Кресло СН-502 Кембридж Н/п хром (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е72-к (серый))",
-    "Кресло СН-502 Кембридж Н/п хром (Сетка TW, Сетка TW-72 (серый), -, Ткань-сетка Е72-к (серый))",
-    "Кресло СН-502 Кембридж Н/п хром (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е72-к (серый))"
-  ],
-  "finish_type_seat": [
-    "-",
-    "Ткань Сетка Е"
-  ],
-  "color_seat": [
-    "Ткань-сетка Е72-к (серый)"
-  ],
-  "madeinrf": "Сделано в РФ",
-  "sizes": {
-    "Ширина:": "535",
-    "Высота:": "920",
-    "Глубина:": "565",
-    "Нагрузка:": "120",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "584",
-    "Высота упаковки:": "584",
-    "Глубина упаковки:": "262",
-    "Вес брутто:": "9,66",
-    "Материал упаковки:": "Гофрокартон, полиэтилен",
-    "Объём:": "0,19"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "584",
-    "Высота упаковки:": "584",
-    "Глубина упаковки:": "262",
-    "Материал упаковки:": "Гофрокартон, полиэтилен"
-  },
-  "lost": [
-    {
-      "clean": true,
-      "limit": false,
-      "del": false
-    }
-  ]
 }

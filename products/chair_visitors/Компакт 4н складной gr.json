@@ -1,540 +1,540 @@
 {
-  "namefile": [
-    "Компакт 4н складной gr"
-  ],
-  "name_all": [
-    "Компакт",
-    "Компакт Люкс",
-    "Компакт 4Н",
-    "Компакт Люкс 4Н"
-  ],
-  "name": [
-    "Компакт 4Н"
-  ],
-  "unique_name": [
-    "Компакт 4Н складной GR"
-  ],
-  "vid": [
-    "стул"
-  ],
-  "category": [
-    "стул складной"
-  ],
-  "destiny": [
-    "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягкими элементом спинки и сиденья"
-  ],
-  "technical_requirements": [
-    [
-      "Стул должен соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- тип покрытия каркаса стула:<br>\nBL, GR, где BL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "каркаса, спинки, сиденья, заглушек, опор и крепежных элементов. Складной, нерегулируемый",
-        "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Состоит из спинки, опоры сидения, ножек (стальная труба Ф22х1,1 мм), перекладин (стальная труба Ф16х1,2 мм) и пластин (лист толщиной 2 мм)",
-        "<strong>Покрытие каркаса</strong> - термореактивная порошковая краска, черного или серого цвета",
-        "<strong>Спинка</strong> - двойная: передняя состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки, задняя - из ДВП, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Соединение передней и задней спинки осуществляется 2-мя соединениями клипс",
-        "<strong>Сиденье</strong> состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу саморезами",
-        "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)",
-        "Заглушки устанавливаются на ножки (4 шт.) и на торцы задних ножек (2 шт.)"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "гофрокороб",
-        "size": {
-          "width": 1045,
-          "depth": 290,
-          "height": 500
-        },
-        "box_size": "1045х290х500",
-        "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1015х475х95 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "packaging_type": [
+    "namefile": [
+        "Компакт 4н складной gr"
+    ],
+    "name_all": [
+        "Компакт",
+        "Компакт Люкс",
+        "Компакт 4Н",
+        "Компакт Люкс 4Н"
+    ],
+    "name": [
+        "Компакт 4Н"
+    ],
+    "unique_name": [
+        "Компакт 4Н складной GR"
+    ],
+    "vid": [
+        "стул"
+    ],
+    "category": [
+        "стул складной"
+    ],
+    "destiny": [
+        "работы и кратковременного отдыха сидя<br>Устанавливается в жилых и административных помещениях<br>Изготавливается с мягкими элементом спинки и сиденья"
+    ],
+    "technical_requirements": [
+        [
+            "Стул должен соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
         {
-          "type": "individual",
-          "brutto": "5,59",
-          "netto": "",
-          "volume": "0,046"
-        },
-        {
-          "type": "box4",
-          "brutto": "5,44",
-          "netto": "4,94",
-          "volume": "0,15"
+            "upholstery_materials": [
+                "- тип покрытия каркаса стула:<br>\nBL, GR, где BL - окрашенный, цвет черный<br>\nGR - окрашенный, цвет серый<br>\n- материал облицовки спинки и сиденья стула:<br>ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "каркаса, спинки, сиденья, заглушек, опор и крепежных элементов. Складной, нерегулируемый",
+                "<strong>Каркас</strong> стула сварной металлический с защитно-декоративным покрытием. Состоит из спинки, опоры сидения, ножек (стальная труба Ф22х1,1 мм), перекладин (стальная труба Ф16х1,2 мм) и пластин (лист толщиной 2 мм)",
+                "<strong>Покрытие каркаса</strong> - термореактивная порошковая краска, черного или серого цвета",
+                "<strong>Спинка</strong> - двойная: передняя состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки, задняя - из ДВП, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Соединение передней и задней спинки осуществляется 2-мя соединениями клипс",
+                "<strong>Сиденье</strong> состоит из фанерного вкладыша, мягкого элемента (пенополиуретан, жесткость - 22, плотность - 18 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу саморезами",
+                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (С, Moderno), кожзаменитель (Z), экокожа (S,R), велюр (Velutto)",
+                "Заглушки устанавливаются на ножки (4 шт.) и на торцы задних ножек (2 шт.)"
+            ]
         }
-      ],
-      "volume": "0,046",
-      "netto": "",
-      "brutto": "5,59"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/chair_visitors/kompakt_4h_gr_velutto02_01.png",
-      "chair_view": "img/chair_visitors/kompakt_4h_gr_velutto02_02.png",
-      "dimensions": "img/chair_visitors/dimensions/kompakt_4h_gr_velutto02_01.png",
-      "box": "img/box_UTFC_4x.png",
-      "additional": []
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "820",
-        "max": ""
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "460",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "500",
-        "max": ""
-      },
-      "seat_depth": {
-        "min": "390",
-        "max": ""
-      },
-      "backrest_height": {
-        "min": "",
-        "max": "370"
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width": {
-        "min": "",
-        "max": "395"
-      },
-      "diameter_cross": {
-        "min": "",
-        "max": ""
-      },
-      "runners_width": {
-        "min": "",
-        "max": "450"
-      },
-      "runners_depth": {
-        "min": "",
-        "max": "460"
-      },
-      "seat_to_floor_height_upper": {
-        "min": "400",
-        "max": ""
-      },
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_width_support": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_length_support": {
-        "min": "",
-        "max": ""
-      },
-      "seat_depth_km": {
-        "min": "",
-        "max": "395"
-      },
-      "backrest_height_external": {
-        "min": "",
-        "max": "145"
-      },
-      "backrest_width_narrow": {
-        "min": "",
-        "max": "410"
-      },
-      "backrest_width_wide": {
-        "min": "",
-        "max": "410"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": "складной",
-      "minpromtorg": "+",
-      "netto": "5",
-      "brutto": "5",
-      "package_width": "1015",
-      "package_depth": "475",
-      "package_height": "95",
-      "volume": "0"
-    }
-  ],
-  "skeleton": "складной",
-  "minpromtorg": "Минпромторг",
-  "addition": "",
-  "title": "Стул складной Компакт 4Н BL для универсального использования производства компании UTFC",
-  "base_name": "Стул складной Компакт 4Н BL",
-  "article_number": "НКС-00035",
-  "full_describe": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-  "Link_arm": "https://utfc.ru/catalog/pos_chair/kompakt_4n_bl/?offers=13102",
-  "Основание": "Металлические опоры складного стула Компакт, защитно-декоративное порошковое покрытие черного цвета (BL)",
-  "Подлокотники": "Без подлокотников",
-  "Газлифт": "",
-  "Механизм": "",
-  "Особенности": "",
-  "Ролики": "",
-  "finish_type": [
-    "Кожзаменитель Z",
-    "-",
-    "Ткань Velutto"
-  ],
-  "color": [
-    "Кожзаменитель Z71 (серый)"
-  ],
-  "variant_name": [],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ],
-  "madeinrf": "Сделано РФ",
-  "lost": [
-    {
-      "clean": false,
-      "limit": false,
-      "del": true
-    }
-  ],
-  "additional_info": {
-    "package_dimensions": {
-      "width": "5",
-      "depth": "1015",
-      "height": "475"
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "гофрокороб",
+                "size": {
+                    "width": 1045,
+                    "depth": 290,
+                    "height": 500
+                },
+                "box_size": "1045х290х500",
+                "transportation": "удобства транспортировки и хранения стул поставляется в сложенном виде<br><strong>Упаковка стульев:</strong><br><strong>Индивидуальная упаковка:</strong> 1 шт в гофрокороб размером <strong>1015х475х95 мм</strong><br><strong>BOX4:</strong> 4 шт в гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "packaging_type": [
+                {
+                    "type": "individual",
+                    "brutto": "5,59",
+                    "netto": "",
+                    "volume": "0,046"
+                },
+                {
+                    "type": "box4",
+                    "brutto": "5,44",
+                    "netto": "4,94",
+                    "volume": "0,15"
+                }
+            ],
+            "volume": "0,046",
+            "netto": "",
+            "brutto": "5,59"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/chair_visitors/kompakt_4h_gr_velutto02_01.png",
+            "chair_view": "img/chair_visitors/kompakt_4h_gr_velutto02_02.png",
+            "dimensions": "img/chair_visitors/dimensions/kompakt_4h_gr_velutto02_01.png",
+            "box": "img/box_UTFC_4x.png",
+            "additional": []
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "820",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "460",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "500",
+                "max": ""
+            },
+            "seat_depth": {
+                "min": "390",
+                "max": ""
+            },
+            "backrest_height": {
+                "min": "",
+                "max": "370"
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width": {
+                "min": "",
+                "max": "395"
+            },
+            "diameter_cross": {
+                "min": "",
+                "max": ""
+            },
+            "runners_width": {
+                "min": "",
+                "max": "450"
+            },
+            "runners_depth": {
+                "min": "",
+                "max": "460"
+            },
+            "seat_to_floor_height_upper": {
+                "min": "400",
+                "max": ""
+            },
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_width_support": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_length_support": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth_km": {
+                "min": "",
+                "max": "395"
+            },
+            "backrest_height_external": {
+                "min": "",
+                "max": "145"
+            },
+            "backrest_width_narrow": {
+                "min": "",
+                "max": "410"
+            },
+            "backrest_width_wide": {
+                "min": "",
+                "max": "410"
+            },
+            "recommended_load": "90",
+            "max_load": "120",
+            "skeleton": "складной",
+            "minpromtorg": "+",
+            "netto": "5",
+            "brutto": "5",
+            "package_width": "1015",
+            "package_depth": "475",
+            "package_height": "95",
+            "volume": "0"
+        }
+    ],
+    "skeleton": "складной",
+    "minpromtorg": "Минпромторг",
+    "addition": "",
+    "title": "Стул складной Компакт 4Н BL для универсального использования производства компании UTFC",
+    "base_name": "Стул складной Компакт 4Н BL",
+    "article_number": "НКС-00035",
+    "full_describe": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+    "Link_arm": "https://utfc.ru/catalog/pos_chair/kompakt_4n_bl/?offers=13102",
+    "Основание": "Металлические опоры складного стула Компакт, защитно-декоративное порошковое покрытие черного цвета (BL)",
+    "Подлокотники": "Без подлокотников",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "finish_type": [
+        "Кожзаменитель Z",
+        "-",
+        "Ткань Velutto"
+    ],
+    "color": [
+        "Кожзаменитель Z71 (серый)"
+    ],
+    "variant_name": [],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "madeinrf": "Сделано РФ",
+    "lost": [
+        {
+            "clean": false,
+            "limit": false,
+            "del": true
+        }
+    ],
+    "additional_info": {
+        "package_dimensions": {
+            "width": "5",
+            "depth": "1015",
+            "height": "475"
+        },
+        "netto": "5",
+        "brutto": "5",
+        "volume": "0"
     },
-    "netto": "5",
-    "brutto": "5",
-    "volume": "0"
-  },
-  "parent": {
-    "IE_XML_ID": 13555,
-    "IE_NAME": "Стул складной Компакт 4Н GR",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 2375,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/d48/d486e31bd8ae71e44b0349a19837200c/2cf778de98651b032c3c2985ed00cf07.png",
-    "IE_PREVIEW_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/38f/38fd276c95663182a94bbfcca3c00f44/c46826b91721166daba2ce6473bbc2b3.png",
-    "IE_DETAIL_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "kompakt_4n_gr",
-    "IE_TAGS": "",
-    "IE_ID": 13555,
-    "IP_PROP2": 395,
-    "IP_PROP3": 820,
-    "IP_PROP4": 500,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/600/600b3613e21a158f540928917f7a9b56/af43b1cbe8ab3053907697a09b219ab3.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/27b/27b3c9faa355d240644983ae1e55c7db/ba5ad17ed050dbf4a83e7a2aacb2d880.png",
-    "IP_PROP5": 1045,
-    "IP_PROP26": 500,
-    "IP_PROP27": 290,
-    "IP_PROP28": "5,44",
-    "IP_PROP29": "Гофрокартон (1шт/уп или 4шт/уп)",
-    "IP_PROP30": "0,038",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00043452",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/7b5/7b57eca9e33bdd8fcc3bd204841c8056/e8d35144781240350b3d5a4d32a67fa5.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Опоры складного стула Компакт 4Н GR",
-    "IP_PROP42": "",
-    "IP_PROP43": "",
-    "IP_PROP44": "",
-    "IP_PROP45": "",
-    "IP_PROP46": "",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 27,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Стулья",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 55,
-    "IC_DESCRIPTION0": "Лаконичный дизайн и универсальность для гармоничного дополнения интерьера офиса и зон ожидания",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "pos_chair",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/886/8861dc6234e3cb1dd2db61171cfb210c.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ccc/ccc8c3730415630646026bfc16547e7f.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "Y",
-    "CP_MEASURE": 5,
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 1978,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 2038,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 1978,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13556,
-      "IE_NAME": "Стул складной Компакт 4Н GR Z71 (серый) BOX4",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13556,
-      "IP_PROP34": 13555,
-      "IP_PROP35": "ПУ-00040692",
-      "IP_PROP36": "",
-      "IP_PROP37": "Кожзаменитель Z",
-      "IP_PROP38": "Кожзаменитель Z71 (серый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "серый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 1978,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 2038,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 1978,
-      "CV_CURRENCY_3": "RUB"
+    "parent": {
+        "IE_XML_ID": 13555,
+        "IE_NAME": "Стул складной Компакт 4Н GR",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 2375,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/d48/d486e31bd8ae71e44b0349a19837200c/2cf778de98651b032c3c2985ed00cf07.png",
+        "IE_PREVIEW_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/38f/38fd276c95663182a94bbfcca3c00f44/c46826b91721166daba2ce6473bbc2b3.png",
+        "IE_DETAIL_TEXT": "Благодаря эргономичному дизайну, мягкому сиденью и металлическому каркасу складной стул является компактным, прочным и универсальным в использовании. Он может быть использован в различных местах, таких как: офисы, малогабаритные квартиры, зоны отдыха, конференц-залы, кафе и рестораны, спортивные мероприятия, выставки и ярмарки, залы ожидания, учебные аудитории, выездные мероприятия и пр.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "kompakt_4n_gr",
+        "IE_TAGS": "",
+        "IE_ID": 13555,
+        "IP_PROP2": 395,
+        "IP_PROP3": 820,
+        "IP_PROP4": 500,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/600/600b3613e21a158f540928917f7a9b56/af43b1cbe8ab3053907697a09b219ab3.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/27b/27b3c9faa355d240644983ae1e55c7db/ba5ad17ed050dbf4a83e7a2aacb2d880.png",
+        "IP_PROP5": 1045,
+        "IP_PROP26": 500,
+        "IP_PROP27": 290,
+        "IP_PROP28": "5,44",
+        "IP_PROP29": "Гофрокартон (1шт/уп или 4шт/уп)",
+        "IP_PROP30": "0,038",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00043452",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/7b5/7b57eca9e33bdd8fcc3bd204841c8056/e8d35144781240350b3d5a4d32a67fa5.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Опоры складного стула Компакт 4Н GR",
+        "IP_PROP42": "",
+        "IP_PROP43": "",
+        "IP_PROP44": "",
+        "IP_PROP45": "",
+        "IP_PROP46": "",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 27,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Стулья",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 55,
+        "IC_DESCRIPTION0": "Лаконичный дизайн и универсальность для гармоничного дополнения интерьера офиса и зон ожидания",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "pos_chair",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/886/8861dc6234e3cb1dd2db61171cfb210c.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ccc/ccc8c3730415630646026bfc16547e7f.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "Y",
+        "CP_MEASURE": 5,
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 1978,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 2038,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 1978,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
     },
-    {
-      "IE_XML_ID": 13557,
-      "IE_NAME": "Стул складной Компакт 4Н GR Velutto 03 (бежевый) BOX4",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/ac0/ac0b04b2c174985abbadb78e65c748bb/025e1828e124f1bda4165b5b28f5e442.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/fb9/fb9a965cbb3b5453ca34a59d043aefe9/ce42fb957f9fd65950235d74cce5734a.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13557,
-      "IP_PROP34": 13555,
-      "IP_PROP35": "ПУ-00043343",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/110/1105dc0ae34e0547ba8e2b41e40bb528/6937469c5effbd124f411c5ea272023c.png",
-        "https://cdn.utfc.ru/iblock/b7b/b7bee55357df542bb9e94ffeadd90cf3/7b199ae0caa9e038444957ecd298bd66.png",
-        "https://cdn.utfc.ru/iblock/be9/be9a50b3a7a36736fd9721f10ec3044a/f273f7868bacd67fbf94bc51e2b5a61b.png",
-        "https://cdn.utfc.ru/iblock/e67/e67429a51a749b269170c343cb6b4467/51f7770641fef678225d38083898cc6a.png",
-        "https://cdn.utfc.ru/iblock/3d3/3d352a0e31514e51748aa228082d3f40/7f4b10335d1b2d679b6559e232851a05.png"
-      ],
-      "IP_PROP37": "Ткань Velutto",
-      "IP_PROP38": "Велюр Velutto 03 (бежевый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "бежевый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 2110,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 2174,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 2110,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ]
+    "children": [
+        {
+            "IE_XML_ID": 13556,
+            "IE_NAME": "Стул складной Компакт 4Н GR Z71 (серый) BOX4",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13556,
+            "IP_PROP34": 13555,
+            "IP_PROP35": "ПУ-00040692",
+            "IP_PROP36": "",
+            "IP_PROP37": "Кожзаменитель Z",
+            "IP_PROP38": "Кожзаменитель Z71 (серый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "серый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 1978,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 2038,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 1978,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 13557,
+            "IE_NAME": "Стул складной Компакт 4Н GR Velutto 03 (бежевый) BOX4",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/ac0/ac0b04b2c174985abbadb78e65c748bb/025e1828e124f1bda4165b5b28f5e442.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/fb9/fb9a965cbb3b5453ca34a59d043aefe9/ce42fb957f9fd65950235d74cce5734a.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13557,
+            "IP_PROP34": 13555,
+            "IP_PROP35": "ПУ-00043343",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/110/1105dc0ae34e0547ba8e2b41e40bb528/6937469c5effbd124f411c5ea272023c.png",
+                "https://cdn.utfc.ru/iblock/b7b/b7bee55357df542bb9e94ffeadd90cf3/7b199ae0caa9e038444957ecd298bd66.png",
+                "https://cdn.utfc.ru/iblock/be9/be9a50b3a7a36736fd9721f10ec3044a/f273f7868bacd67fbf94bc51e2b5a61b.png",
+                "https://cdn.utfc.ru/iblock/e67/e67429a51a749b269170c343cb6b4467/51f7770641fef678225d38083898cc6a.png",
+                "https://cdn.utfc.ru/iblock/3d3/3d352a0e31514e51748aa228082d3f40/7f4b10335d1b2d679b6559e232851a05.png"
+            ],
+            "IP_PROP37": "Ткань Velutto",
+            "IP_PROP38": "Велюр Velutto 03 (бежевый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "бежевый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 2110,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 2174,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 2110,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ]
 }

@@ -1,450 +1,450 @@
 {
-  "namefile": [
-    "Utfc юки м-779 чёрный пластик"
-  ],
-  "name_all": [
-    "Юки",
-    "Юки с подголовником"
-  ],
-  "name": [
-    "Юки"
-  ],
-  "unique_name": [
-    "UTFC Юки М-779 чёрный пластик"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло серии комфорт"
-  ],
-  "destiny": [
-    "ежедневной работы в офисных и домашних помещениях"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
+    "namefile": [
+        "Utfc юки м-779 чёрный пластик"
+    ],
+    "name_all": [
+        "Юки",
+        "Юки с подголовником"
+    ],
+    "name": [
+        "Юки"
+    ],
+    "unique_name": [
+        "UTFC Юки М-779 чёрный пластик"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло серии комфорт"
+    ],
+    "destiny": [
+        "ежедневной работы в офисных и домашних помещениях"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
+            ],
+            "components": [
+                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине. <strong>Облицовка спинки:</strong> сетка",
+                "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
+                "<strong>Подлокотники</strong> пластиковые, регулируются по высоте, крепятся к основанию сиденья с помощью винтов",
+                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы  отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+                "<strong>Газ-лифт</strong> чёрный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> d=640 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "600",
+                    "depth": "290",
+                    "height": "600"
+                },
+                "box_size": "600х290х600",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "12,7",
+            "netto": "0",
+            "volume": "0,1"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "130",
+            "recommended_load": "100"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_comfort/uki_m779_01.png",
+            "chair_view": "img/armchair_comfort/uki_m779_02.png",
+            "dimensions": "img/armchair_comfort/dimensions/yuki.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://cdn.utfc.ru/uf/1fd/1fd81b2174d5794842b6089c3495c7e6/b51a71d887d552e44b90d1c481c2af6c.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://cdn.utfc.ru/uf/190/1903d414206e57d1503e4a49a6c92778/d9461ad57fdb856409cd4afc4c10be34.png",
+                "https://cdn.utfc.ru/uf/a17/a1783b8948b068a2f7c9411178fcce28/67fca4a05f668fca0434b483ffd2bef5.png",
+                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+                "https://cdn.utfc.ru/iblock/7d1/7d10ab58379160f09c485c3faeb3a869/7b2c2c82b35c47761910068c1a650db5.png",
+                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+                "https://cdn.utfc.ru/iblock/0e6/0e6bc85460b3064e430c36569ac23503/4c88b43f44dc93d07712faf3b5d3f032.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+                "https://cdn.utfc.ru/iblock/4a2/4a2ac6b6deb249c83532ca3a6eeabeb5/0caacb3987758771da3d4f144913d755.png",
+                "https://cdn.utfc.ru/iblock/bda/bda0e0f10dcdcbc917beb28d6d6852bc/c9754dd0d174be63d64cf8a0fcfb3ef0.png",
+                "https://cdn.utfc.ru/uf/137/137aeded71d5c3e658441261d741a697/db90fe9452d54791f55bb61591b7c154.png",
+                "https://cdn.utfc.ru/uf/a6f/a6f0ee03bdb3da456a9b40986768c4b5/dbe00fbe08d91d91181badb7117626ad.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://cdn.utfc.ru/uf/402/402ee600adc01db0c6f1ac35452a69b6/eea6c940e91b1fddcbe99cd58b9539ce.png",
+                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/beb/bebcbd36262d37e1dd0c2cfeb3ac2086/fd6be8491b7f95f409e05e0114f3e2fd.png",
+                "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png",
+                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "970",
+                "max": "1070"
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "470",
+                "max": "570"
+            },
+            "seat_to_floor_height_upper": {},
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "205",
+                "max": "285"
+            },
+            "armrest_width_support": {},
+            "armrest_length_support": {},
+            "chair_depth": {
+                "min": "590"
+            },
+            "seat_depth": {
+                "min": "470",
+                "max": ""
+            },
+            "seat_depth_km": {},
+            "backrest_height": {},
+            "backrest_to_seat_height": {
+                "min": "530"
+            },
+            "backrest_height_external": {
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "",
+                "max": "640"
+            },
+            "seat_width": {
+                "max": "480"
+            },
+            "backrest_width_narrow": {
+                "max": ""
+            },
+            "backrest_width_wide": {
+                "max": ""
+            },
+            "diameter_cross": {
+                "max": "640"
+            },
+            "runners_width": {},
+            "runners_depth": {},
+            "recommended_load": "100",
+            "max_load": "130",
+            "skeleton": "",
+            "netto": "",
+            "brutto": "",
+            "package_width": "",
+            "package_depth": "",
+            "package_height": "",
+            "volume": ""
+        }
+    ],
+    "title": "Кресло UTFC Юки М-779 производства компании UTFC",
+    "base_name": "Кресло UTFC Юки М-779",
+    "article_number": "ПУ-00044529",
+    "full_describe": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
+    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m779_yuki/?offers=13771",
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "Основание": "Пятилучье пластиковое М-779 PL, диаметр 640 мм, (черный)",
+    "Подлокотники": "Подлокотники пластиковые регулируемые по высоте для кресла М-779 Юки",
+    "Газлифт": "",
+    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "Регулируемая по высоте и глубине поддержка поясницы",
+    "Ролики": "Ролики с полиуретановым покрытием d=50 мм",
+    "sizes": {
+        "Ширина:": "640",
+        "Высота:": "970-1070",
+        "Глубина:": "590",
+        "Нагрузка:": "130",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "600",
+        "Высота упаковки:": "600",
+        "Глубина упаковки:": "290",
+        "Вес брутто:": "12,7",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,1"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "600",
+        "Высота упаковки:": "600",
+        "Глубина упаковки:": "290",
+        "Материал упаковки:": "Гофрокартон"
+    },
+    "finish_type": [
+        "Сетка М-779",
+        "-"
+    ],
+    "color": [
+        "Сетка М-779 (черный)"
+    ],
+    "finish_type_seat": [
+        "Ткань М-779",
+        "-"
+    ],
+    "color_seat": [
+        "Ткань М-779 (черный)"
+    ],
+    "variant_name": [
+        "Кресло UTFC Юки М-779 (Сетка М-779, Сетка М-779 (черный), Ткань М-779, Ткань М-779 (черный))",
+        "Кресло UTFC Юки М-779 (Сетка М-779, Сетка М-779 (черный), -, Ткань М-779 (черный))",
+        "Кресло UTFC Юки М-779 (-, Сетка М-779 (черный), Ткань М-779, Ткань М-779 (черный))",
+        "Кресло UTFC Юки М-779 (-, Сетка М-779 (черный), -, Ткань М-779 (черный))"
+    ],
+    "parent": {
+        "IE_XML_ID": 13767,
+        "IE_NAME": "UTFC Юки М-779",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 500,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/702/702fe2933274753e3d04a49c952ef118/c46814af2b758839635245e74d7f21fa.png",
+        "IE_PREVIEW_TEXT": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/509/5090b5de15918cb55bd5321cfd0922a8/8c84ab7240fdaad131731ff4e53cbebe.png",
+        "IE_DETAIL_TEXT": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "m779_yuki",
+        "IE_TAGS": "",
+        "IE_ID": 13767,
+        "IP_PROP2": 640,
+        "IP_PROP3": "970-1070",
+        "IP_PROP4": 590,
+        "IP_PROP6": "",
+        "IP_PROP19": 130,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/beb/bebcbd36262d37e1dd0c2cfeb3ac2086/fd6be8491b7f95f409e05e0114f3e2fd.png",
+        "IP_PROP5": 600,
+        "IP_PROP26": 600,
+        "IP_PROP27": 290,
+        "IP_PROP28": "12,7",
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,1",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00045030",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/a68/a68b54833f7879b65761b6048972f6f3/87a1166b176652252d9f0d7e8834f134.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье М-779 PL",
+        "IP_PROP42": "Подлокотник М-779 Юки",
+        "IP_PROP43": "",
+        "IP_PROP44": "Топ-ган",
+        "IP_PROP45": "Зона поясничной поддержки кресла М-779 Юки",
+        "IP_PROP46": "Ролик М-779 Юки",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 40,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла Комфорт",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 50,
+        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "comfort_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "N",
+        "CP_MEASURE": "",
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 5500,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 5665,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 5500,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 13771,
+            "IE_NAME": "Кресло UTFC Юки М-779 черный пластик (черный)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/cca/cca647ff058c5cd423f36db2db1b8943/277c5aefa94aa255b0737c07426ee012.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13771,
+            "IP_PROP34": 13767,
+            "IP_PROP35": "ПУ-00044529",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/4a2/4a2ac6b6deb249c83532ca3a6eeabeb5/0caacb3987758771da3d4f144913d755.png",
+                "https://cdn.utfc.ru/iblock/7d1/7d10ab58379160f09c485c3faeb3a869/7b2c2c82b35c47761910068c1a650db5.png",
+                "https://cdn.utfc.ru/iblock/bda/bda0e0f10dcdcbc917beb28d6d6852bc/c9754dd0d174be63d64cf8a0fcfb3ef0.png",
+                "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
+                "https://cdn.utfc.ru/iblock/0e6/0e6bc85460b3064e430c36569ac23503/4c88b43f44dc93d07712faf3b5d3f032.png"
+            ],
+            "IP_PROP37": "Сетка М-779",
+            "IP_PROP38": "Сетка М-779 (черный)",
+            "IP_PROP39": "Ткань М-779",
+            "IP_PROP40": "Ткань М-779 (черный)",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "черный",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 5500,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 5665,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 5500,
+            "CV_CURRENCY_3": "RUB"
+        }
     ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
-      ],
-      "components": [
-        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине. <strong>Облицовка спинки:</strong> сетка",
-        "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
-        "<strong>Подлокотники</strong> пластиковые, регулируются по высоте, крепятся к основанию сиденья с помощью винтов",
-        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы  отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-        "<strong>Газ-лифт</strong> чёрный с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> d=640 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "600",
-          "depth": "290",
-          "height": "600"
-        },
-        "box_size": "600х290х600",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "12,7",
-      "netto": "0",
-      "volume": "0,1"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "130",
-      "recommended_load": "100"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_comfort/uki_m779_01.png",
-      "chair_view": "img/armchair_comfort/uki_m779_02.png",
-      "dimensions": "img/armchair_comfort/dimensions/yuki.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://cdn.utfc.ru/uf/1fd/1fd81b2174d5794842b6089c3495c7e6/b51a71d887d552e44b90d1c481c2af6c.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://cdn.utfc.ru/uf/190/1903d414206e57d1503e4a49a6c92778/d9461ad57fdb856409cd4afc4c10be34.png",
-        "https://cdn.utfc.ru/uf/a17/a1783b8948b068a2f7c9411178fcce28/67fca4a05f668fca0434b483ffd2bef5.png",
-        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-        "https://cdn.utfc.ru/iblock/7d1/7d10ab58379160f09c485c3faeb3a869/7b2c2c82b35c47761910068c1a650db5.png",
-        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-        "https://cdn.utfc.ru/iblock/0e6/0e6bc85460b3064e430c36569ac23503/4c88b43f44dc93d07712faf3b5d3f032.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-        "https://cdn.utfc.ru/iblock/4a2/4a2ac6b6deb249c83532ca3a6eeabeb5/0caacb3987758771da3d4f144913d755.png",
-        "https://cdn.utfc.ru/iblock/bda/bda0e0f10dcdcbc917beb28d6d6852bc/c9754dd0d174be63d64cf8a0fcfb3ef0.png",
-        "https://cdn.utfc.ru/uf/137/137aeded71d5c3e658441261d741a697/db90fe9452d54791f55bb61591b7c154.png",
-        "https://cdn.utfc.ru/uf/a6f/a6f0ee03bdb3da456a9b40986768c4b5/dbe00fbe08d91d91181badb7117626ad.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://cdn.utfc.ru/uf/402/402ee600adc01db0c6f1ac35452a69b6/eea6c940e91b1fddcbe99cd58b9539ce.png",
-        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/beb/bebcbd36262d37e1dd0c2cfeb3ac2086/fd6be8491b7f95f409e05e0114f3e2fd.png",
-        "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png",
-        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "970",
-        "max": "1070"
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "470",
-        "max": "570"
-      },
-      "seat_to_floor_height_upper": {},
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "205",
-        "max": "285"
-      },
-      "armrest_width_support": {},
-      "armrest_length_support": {},
-      "chair_depth": {
-        "min": "590"
-      },
-      "seat_depth": {
-        "min": "470",
-        "max": ""
-      },
-      "seat_depth_km": {},
-      "backrest_height": {},
-      "backrest_to_seat_height": {
-        "min": "530"
-      },
-      "backrest_height_external": {
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "",
-        "max": "640"
-      },
-      "seat_width": {
-        "max": "480"
-      },
-      "backrest_width_narrow": {
-        "max": ""
-      },
-      "backrest_width_wide": {
-        "max": ""
-      },
-      "diameter_cross": {
-        "max": "640"
-      },
-      "runners_width": {},
-      "runners_depth": {},
-      "recommended_load": "100",
-      "max_load": "130",
-      "skeleton": "",
-      "netto": "",
-      "brutto": "",
-      "package_width": "",
-      "package_depth": "",
-      "package_height": "",
-      "volume": ""
-    }
-  ],
-  "title": "Кресло UTFC Юки М-779 производства компании UTFC",
-  "base_name": "Кресло UTFC Юки М-779",
-  "article_number": "ПУ-00044529",
-  "full_describe": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
-  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m779_yuki/?offers=13771",
-  "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано в РФ",
-  "Основание": "Пятилучье пластиковое М-779 PL, диаметр 640 мм, (черный)",
-  "Подлокотники": "Подлокотники пластиковые регулируемые по высоте для кресла М-779 Юки",
-  "Газлифт": "",
-  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "Регулируемая по высоте и глубине поддержка поясницы",
-  "Ролики": "Ролики с полиуретановым покрытием d=50 мм",
-  "sizes": {
-    "Ширина:": "640",
-    "Высота:": "970-1070",
-    "Глубина:": "590",
-    "Нагрузка:": "130",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "600",
-    "Высота упаковки:": "600",
-    "Глубина упаковки:": "290",
-    "Вес брутто:": "12,7",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,1"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "600",
-    "Высота упаковки:": "600",
-    "Глубина упаковки:": "290",
-    "Материал упаковки:": "Гофрокартон"
-  },
-  "finish_type": [
-    "Сетка М-779",
-    "-"
-  ],
-  "color": [
-    "Сетка М-779 (черный)"
-  ],
-  "finish_type_seat": [
-    "Ткань М-779",
-    "-"
-  ],
-  "color_seat": [
-    "Ткань М-779 (черный)"
-  ],
-  "variant_name": [
-    "Кресло UTFC Юки М-779 (Сетка М-779, Сетка М-779 (черный), Ткань М-779, Ткань М-779 (черный))",
-    "Кресло UTFC Юки М-779 (Сетка М-779, Сетка М-779 (черный), -, Ткань М-779 (черный))",
-    "Кресло UTFC Юки М-779 (-, Сетка М-779 (черный), Ткань М-779, Ткань М-779 (черный))",
-    "Кресло UTFC Юки М-779 (-, Сетка М-779 (черный), -, Ткань М-779 (черный))"
-  ],
-  "parent": {
-    "IE_XML_ID": 13767,
-    "IE_NAME": "UTFC Юки М-779",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 500,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/702/702fe2933274753e3d04a49c952ef118/c46814af2b758839635245e74d7f21fa.png",
-    "IE_PREVIEW_TEXT": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/509/5090b5de15918cb55bd5321cfd0922a8/8c84ab7240fdaad131731ff4e53cbebe.png",
-    "IE_DETAIL_TEXT": "Кресло Юки - современная модель для рабочего кабинета. Выраженная поясничная поддержка снижает нагрузку на спину при длительной работе. Спинка выполнена из дышащей сетки, что обеспечивает комфортную вентиляцию, а мягкое тканевое сиденье удобство в течение дня. Т-образные подлокотники дополняют лаконичный силуэт и удобно поддерживают руки. Строгая современная стилистика делает кресло уместным и в кабинете руководителя и в домашнем офисе.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "m779_yuki",
-    "IE_TAGS": "",
-    "IE_ID": 13767,
-    "IP_PROP2": 640,
-    "IP_PROP3": "970-1070",
-    "IP_PROP4": 590,
-    "IP_PROP6": "",
-    "IP_PROP19": 130,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/fc8/fc831359d749e3210cd3f03bb955ac00/eeb31070279e2caeeef9ae4f3d2e2259.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/beb/bebcbd36262d37e1dd0c2cfeb3ac2086/fd6be8491b7f95f409e05e0114f3e2fd.png",
-    "IP_PROP5": 600,
-    "IP_PROP26": 600,
-    "IP_PROP27": 290,
-    "IP_PROP28": "12,7",
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,1",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00045030",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/a68/a68b54833f7879b65761b6048972f6f3/87a1166b176652252d9f0d7e8834f134.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье М-779 PL",
-    "IP_PROP42": "Подлокотник М-779 Юки",
-    "IP_PROP43": "",
-    "IP_PROP44": "Топ-ган",
-    "IP_PROP45": "Зона поясничной поддержки кресла М-779 Юки",
-    "IP_PROP46": "Ролик М-779 Юки",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 40,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла Комфорт",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 50,
-    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "comfort_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "N",
-    "CP_MEASURE": "",
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 5500,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 5665,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 5500,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13771,
-      "IE_NAME": "Кресло UTFC Юки М-779 черный пластик (черный)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/cca/cca647ff058c5cd423f36db2db1b8943/277c5aefa94aa255b0737c07426ee012.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13771,
-      "IP_PROP34": 13767,
-      "IP_PROP35": "ПУ-00044529",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/4a2/4a2ac6b6deb249c83532ca3a6eeabeb5/0caacb3987758771da3d4f144913d755.png",
-        "https://cdn.utfc.ru/iblock/7d1/7d10ab58379160f09c485c3faeb3a869/7b2c2c82b35c47761910068c1a650db5.png",
-        "https://cdn.utfc.ru/iblock/bda/bda0e0f10dcdcbc917beb28d6d6852bc/c9754dd0d174be63d64cf8a0fcfb3ef0.png",
-        "https://cdn.utfc.ru/iblock/4f4/4f48e048ba1d17eff8b028e34a4426b1/a1a00d31adc947d368268b53bd978b1a.png",
-        "https://cdn.utfc.ru/iblock/0e6/0e6bc85460b3064e430c36569ac23503/4c88b43f44dc93d07712faf3b5d3f032.png"
-      ],
-      "IP_PROP37": "Сетка М-779",
-      "IP_PROP38": "Сетка М-779 (черный)",
-      "IP_PROP39": "Ткань М-779",
-      "IP_PROP40": "Ткань М-779 (черный)",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "черный",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 5500,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 5665,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 5500,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ]
 }

@@ -64,27 +64,27 @@
             }
         }
     ],
-  "dimensions": [
-    {
-      "packaging_type": [
+    "dimensions": [
         {
-          "type": "individual",
-          "brutto": "5,61",
-          "netto": "",
-          "volume": "0,046"
-        },
-        {
-          "type": "box4",
-          "brutto": "5,46",
-          "netto": "4,94",
-          "volume": "0,15"
+            "packaging_type": [
+                {
+                    "type": "individual",
+                    "brutto": "5,61",
+                    "netto": "",
+                    "volume": "0,046"
+                },
+                {
+                    "type": "box4",
+                    "brutto": "5,46",
+                    "netto": "4,94",
+                    "volume": "0,15"
+                }
+            ],
+            "volume": "0,046",
+            "netto": "",
+            "brutto": "5,61"
         }
-      ],
-      "volume": "0,046",
-      "netto": "",
-      "brutto": "5,61"
-    }
-  ],
+    ],
     "guarantee": [
         {
             "period": "12",

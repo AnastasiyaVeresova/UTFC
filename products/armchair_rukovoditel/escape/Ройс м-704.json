@@ -1,582 +1,582 @@
 {
-  "namefile": [
-    "Ройс м-704"
-  ],
-  "name": [
-    "Ройс М-704"
-  ],
-  "unique_name": [
-    "Ройс М-704"
-  ],
-  "vid": [
-    "кресло"
-  ],
-  "category": [
-    "поворотное кресло руководителя"
-  ],
-  "destiny": [
-    "ежедневной работы в офисе. Отличается повышенной комфортностью, возможностью индивидуальной адаптации под конкретного человека<br>Кресло имеет высокую мягкую спинку и мягкое сиденье, оснащено механизмом качания, облицовано экокожей черного и серого цвета"
-  ],
-  "technical_requirements": [
-    [
-      "Кресло должно соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
+    "namefile": [
+        "Ройс м-704"
+    ],
+    "name": [
+        "Ройс М-704"
+    ],
+    "unique_name": [
+        "Ройс М-704"
+    ],
+    "vid": [
+        "кресло"
+    ],
+    "category": [
+        "поворотное кресло руководителя"
+    ],
+    "destiny": [
+        "ежедневной работы в офисе. Отличается повышенной комфортностью, возможностью индивидуальной адаптации под конкретного человека<br>Кресло имеет высокую мягкую спинку и мягкое сиденье, оснащено механизмом качания, облицовано экокожей черного и серого цвета"
+    ],
+    "technical_requirements": [
+        [
+            "Кресло должно соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                ""
+            ],
+            "components": [
+                "спинки, сиденья, механизма качания Топ-Ган, 2-х подлокотников, газ-лифта, пятилучья и 5-ти роликов",
+                "<strong>Спинка</strong> состоит из основания, полиуретанового вкладыша, облицована экокожей черного и серого цвета. Основание - из гнуто-клееной фанеры, на которой крепятся гайки мебельные М6 (4 шт.) для установки кронштейнов на которые крепятся подлокотники",
+                "<strong>Сиденье</strong> состоит из основания, полиуретанового вкладыша, облицовано экокожей черного и серого цвета. Основание - из гнуто-клееной фанеры, на которой крепятся мебельные гайки М6 (8 шт.) для установки механизма качания и двух кронштейнов для крепления подлокотников",
+                "<strong>Материал вкладышей:</strong> пенополиуретан, жесткость - 40, плотность - 20 кг/м<sup>3</sup>",
+                "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении",
+                "<strong>Подлокотники</strong> состоят из пластикового каркаса, накладок и пластиковых заглушек. Каждая накладка состоит из вкладыша фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицована экокожей черного и серого цвета",
+                "<strong>Газ-лифт</strong> хромированный с высотой подъема 100 мм ± 10 позволяет плавно регулировать высоту сиденья относительно пола",
+                "<strong>Пятилучье</strong> пластиковое d=680 с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+                "<strong>Ролики</strong> пластиковые с полиуретановым покрытием d=50 мм",
+                "<strong>Материал</strong> чехла газ-лифта – полипропилен",
+                "Ролики, ручка механизма качания - пластиковые из материалов согласно технологии поставщика комплектующих"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": 790,
+                    "depth": 400,
+                    "height": 680
+                },
+                "box_size": "790x400x680",
+                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "17",
+            "netto": "",
+            "volume": "0,22"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_01.png",
+            "chair_view": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_02.png",
+            "dimensions": "img/armchair_rukovoditel/dimensions/roys_m_704_ch_s0422_01.png",
+            "box": "img/box_UTFC.png",
+            "additional": [
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
+                "https://utfc.ru/upload/resize_cache/iblock/9fd/140_140_0/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
+                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://utfc.ru/upload/resize_cache/iblock/020/140_140_0/02083de92db3c55b2ed45b63d9c988e2.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
+                "https://utfc.ru/upload/resize_cache/iblock/8ac/140_140_0/8ac7015a945b12227ed5e8bdb72caec4.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
+                "https://utfc.ru/upload/resize_cache/iblock/bc0/140_140_0/bc0d587244a4e554437f4ff2b695891f.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://utfc.ru/upload/resize_cache/iblock/9f5/140_140_0/9f5d68f7fb9114c366ae2c397b5333fc.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+                "https://cdn.utfc-store.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://cdn.utfc-store.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://cdn.utfc-store.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
+                "https://cdn.utfc-store.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
+                "https://cdn.utfc-store.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
+                "https://cdn.utfc-store.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
+                "https://cdn.utfc-store.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
+                "https://cdn.utfc-store.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
+                "https://cdn.utfc-store.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
+                "https://cdn.utfc-store.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
+                "https://cdn.utfc-store.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://cdn.utfc-store.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
+                "https://cdn.utfc-store.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
+                "https://cdn.utfc-store.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
+                "https://cdn.utfc-store.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
+                "https://cdn.utfc-store.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
+                "https://cdn.utfc-store.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
+                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc-store.ru/iblock/8b3/8b3da356ee7250ce9171650df628cd82/c8715375a7a42c187b811487ff16dc72.png",
+                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://cdn.utfc.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
+                "https://cdn.utfc.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
+                "https://cdn.utfc.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
+                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
+                "https://cdn.utfc.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
+                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
+                "https://cdn.utfc.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
+                "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://cdn.utfc.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
+                "https://cdn.utfc.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
+                "https://cdn.utfc.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
+                "https://cdn.utfc.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
+                "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+                "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
+                "https://cdn.utfc.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
+                "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://cdn.utfc.ru/iblock/bb0/bb0b682ca7b3cc7f6076683e5ebc7e37/0502c18dc8cb7b73ea0c7f68a69dc265.png",
+                "https://cdn.utfc.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
+                "https://cdn.utfc.ru/iblock/277/277228a0ae4d298178881a1883f6bad3/7378a2c20b53e3af651f77ac309cf692.png",
+                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+                "https://cdn.utfc.ru/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png",
+                "https://cdn.utfc.ru/iblock/8e5/8e5273417fdc850e8d63884658a0a0d7/55a7e7a36a7c66042b868a59d8691c33.png",
+                "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
+                "https://cdn.utfc.ru/iblock/f31/f319dcf6b7d5af2a44855d797b09b467/d7f35f125105930268ab821ff04f18ce.png",
+                "https://cdn.utfc.ru/iblock/3a9/3a91ad1effb38f96d5f0c506a82324e0/1adeda9565198f49a2cdb131cecf91ad.png",
+                "https://cdn.utfc.ru/iblock/9dc/9dce658160854fc0b72c901f9e296c44/834e0161979c22b7e5700e633653b9ae.png",
+                "https://cdn.utfc.ru/iblock/6c7/6c7f90086b1f903490a4fa906e3481e1/82a66ebfb73f11dedc2d249901b0ab6e.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/iblock/039/0390882158b7a37eb980109fd2fc0b6c/ee07ada276601b4fa49ceed4b2f071e3.png",
+                "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
+                "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": 1160,
+                "max": 1260
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": 520,
+                "max": 620
+            },
+            "armrest_height_from_seat": {
+                "min": 180,
+                "max": ""
+            },
+            "chair_depth": {
+                "min": 700,
+                "max": null
+            },
+            "seat_depth": {
+                "min": 520,
+                "max": null
+            },
+            "backrest_height": {
+                "max": 770,
+                "min": ""
+            },
+            "backrest_to_seat_height": {
+                "min": null,
+                "max": null
+            },
+            "seat_width_with_armrests": {
+                "min": 680,
+                "max": null
+            },
+            "seat_width": {
+                "max": 600,
+                "min": ""
+            },
+            "diameter_cross": {
+                "max": 680,
+                "min": ""
+            },
+            "runners_width": {
+                "max": null,
+                "min": ""
+            },
+            "runners_depth": {
+                "max": null,
+                "min": ""
+            },
+            "seat_to_floor_height_upper": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_width_support": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_length_support": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth_km": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_height_external": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_width_narrow": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_width_wide": {
+                "min": "",
+                "max": ""
+            },
+            "recommended_load": {
+                "min": "",
+                "max": ""
+            },
+            "max_load": {
+                "min": "",
+                "max": ""
+            },
+            "skeleton": {
+                "min": "",
+                "max": ""
+            },
+            "minpromtorg": {
+                "min": "",
+                "max": ""
+            },
+            "typeofproduct": {
+                "min": "",
+                "max": ""
+            },
+            "netto": {
+                "min": "",
+                "max": ""
+            },
+            "brutto": {
+                "min": "",
+                "max": ""
+            },
+            "package_width": {
+                "min": "",
+                "max": ""
+            },
+            "package_depth": {
+                "min": "",
+                "max": ""
+            },
+            "package_height": {
+                "min": "",
+                "max": ""
+            },
+            "volume": {
+                "min": "",
+                "max": ""
+            }
+        }
+    ],
+    "parent": {
+        "IE_XML_ID": 7494,
+        "IE_NAME": "М-704 Ройс",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 950,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/769/769b0133cc93d47b68c0c5f641a4bfa9/678081aba978b68c402c71062eee9d1b.png",
+        "IE_PREVIEW_TEXT": "Дизайн кресла вдохновлен эстетикой спортивных автомобилей: характерная ромбовидная строчка придает модели динамику и особый характер. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг. ",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/ab3/ab3470698013c7d97fe69ddd0a91962c/c8edbca35659d3ba5a95bf7c4bfced49.png",
+        "IE_DETAIL_TEXT": "Кресло руководителя имитирует автомобильную прошивку, тем самым создавая уникальный дизайн. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг. ",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "roys_m_704",
+        "IE_TAGS": "Ройс",
+        "IE_ID": 7494,
+        "IP_PROP2": 740,
+        "IP_PROP3": "1160-1260",
+        "IP_PROP4": 780,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/8e5/8e5273417fdc850e8d63884658a0a0d7/55a7e7a36a7c66042b868a59d8691c33.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
+        "IP_PROP5": 780,
+        "IP_PROP26": 670,
+        "IP_PROP27": 390,
+        "IP_PROP28": 17,
+        "IP_PROP29": "Гофрокартон",
+        "IP_PROP30": "0,22",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00038802",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/595/595fe0ec28b7e83d8f9869386876254b/a9629b766db2ef64edbdd9f1e1e9b16f.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Пятилучье пластиковое Ройс",
+        "IP_PROP42": "Подлокотник М-704 Ройс",
+        "IP_PROP43": "Газ-лифт h=230 мм",
+        "IP_PROP44": "Топ-ган",
+        "IP_PROP45": "Термоклеширование",
+        "IP_PROP46": "Ролик п/у (Ср), открытый чехол, d колеса 50 мм, d штока 11 мм",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 18,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Кресла для руководителя",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 40,
+        "IC_DESCRIPTION0": "Безупречный стиль, премиальные материалы и продуманная эргономика для особого статуса и комфорта во время решения важных задач",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "boss_chairs",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/a0b/a0b55a5b53a8bb142b4f32200f79ac62.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/8da/8da00c4d975d7fd70a1438b5a1b523fe.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": 1,
+        "CP_VAT_INCLUDED": "Y",
+        "CP_MEASURE": 5,
+        "STORE_AMOUNT_2": 50,
+        "STORE_AMOUNT_3": 50,
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 11016,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 11347,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 11016,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
+    },
+    "children": [
+        {
+            "IE_XML_ID": 13332,
+            "IE_NAME": "Кресло М-704 Ройс/Royce silver PL S-0422 (серый)",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/421/42182d6732c0d0cf76430185cba31f04/c7e5e214fe4b673063ba40b847c7549f.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/223/2234a2be6bf6254e0437c67de3cb1aa8/0bfefccba3a8e2201037fe47ed7e0fea.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13332,
+            "IP_PROP34": 7494,
+            "IP_PROP35": "ЦБ-00009992",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/3a9/3a91ad1effb38f96d5f0c506a82324e0/1adeda9565198f49a2cdb131cecf91ad.png",
+                "https://cdn.utfc.ru/iblock/f31/f319dcf6b7d5af2a44855d797b09b467/d7f35f125105930268ab821ff04f18ce.png",
+                "https://cdn.utfc.ru/iblock/6c7/6c7f90086b1f903490a4fa906e3481e1/82a66ebfb73f11dedc2d249901b0ab6e.png",
+                "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
+                "https://cdn.utfc.ru/iblock/9dc/9dce658160854fc0b72c901f9e296c44/834e0161979c22b7e5700e633653b9ae.png"
+            ],
+            "IP_PROP37": "Экокожа Santorini",
+            "IP_PROP38": "Экокожа S-0422 (темно-серый)",
+            "IP_PROP39": "",
+            "IP_PROP40": "",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": "серый",
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 6,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 6,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 11016,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 11347,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 11016,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Кресло с характером: уникальный дизайн, эргономика и комфорт - М-704 Ройс производства компании UTFC",
+    "base_name": "Кресло М-704 Ройс",
+    "article_number": "ЦБ-00009992",
+    "full_describe": "Дизайн кресла вдохновлен эстетикой спортивных автомобилей: характерная ромбовидная строчка придает модели динамику и особый характер. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг.",
+    "Link_arm": "https://utfc.ru/catalog/boss_chairs/roys_m_704/?offers=13332",
+    "Основание": "Пятилучье пластиковое для кресел Ройс",
+    "Подлокотники": "Подлокотники пластиковые для кресла М-704 Ройс",
+    "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
+    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+    "Особенности": "Тиснение кожи термоклешированием",
+    "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+    "finish_type": [
+        "-",
+        "Экокожа Santorini"
+    ],
+    "color": [
+        "Экокожа S-0422 (темно-серый)"
+    ],
+    "variant_name": [
+        "Кресло М-704 Ройс (-, Экокожа S-0422 (темно-серый),, )",
+        "Кресло М-704 Ройс (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
+    ],
+    "finish_type_seat": [
         ""
-      ],
-      "components": [
-        "спинки, сиденья, механизма качания Топ-Ган, 2-х подлокотников, газ-лифта, пятилучья и 5-ти роликов",
-        "<strong>Спинка</strong> состоит из основания, полиуретанового вкладыша, облицована экокожей черного и серого цвета. Основание - из гнуто-клееной фанеры, на которой крепятся гайки мебельные М6 (4 шт.) для установки кронштейнов на которые крепятся подлокотники",
-        "<strong>Сиденье</strong> состоит из основания, полиуретанового вкладыша, облицовано экокожей черного и серого цвета. Основание - из гнуто-клееной фанеры, на которой крепятся мебельные гайки М6 (8 шт.) для установки механизма качания и двух кронштейнов для крепления подлокотников",
-        "<strong>Материал вкладышей:</strong> пенополиуретан, жесткость - 40, плотность - 20 кг/м<sup>3</sup>",
-        "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении",
-        "<strong>Подлокотники</strong> состоят из пластикового каркаса, накладок и пластиковых заглушек. Каждая накладка состоит из вкладыша фанерного, вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицована экокожей черного и серого цвета",
-        "<strong>Газ-лифт</strong> хромированный с высотой подъема 100 мм ± 10 позволяет плавно регулировать высоту сиденья относительно пола",
-        "<strong>Пятилучье</strong> пластиковое d=680 с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-        "<strong>Ролики</strong> пластиковые с полиуретановым покрытием d=50 мм",
-        "<strong>Материал</strong> чехла газ-лифта – полипропилен",
-        "Ролики, ручка механизма качания - пластиковые из материалов согласно технологии поставщика комплектующих"
-      ]
+    ],
+    "color_seat": [
+        ""
+    ],
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "lost": [
+        {
+            "clean": true,
+            "limit": false,
+            "del": true
+        }
+    ],
+    "sizes": {
+        "Ширина:": "740",
+        "Высота:": "1160-1260",
+        "Глубина:": "780",
+        "Нагрузка:": "120",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "780",
+        "Высота упаковки:": "670",
+        "Глубина упаковки:": "390",
+        "Вес брутто:": "17",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,22"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "780",
+        "Высота упаковки:": "670",
+        "Глубина упаковки:": "390",
+        "Материал упаковки:": "Гофрокартон"
     }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": 790,
-          "depth": 400,
-          "height": 680
-        },
-        "box_size": "790x400x680",
-        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "17",
-      "netto": "",
-      "volume": "0,22"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_01.png",
-      "chair_view": "img/armchair_rukovoditel/roys_m_704_ch_s0401g_02.png",
-      "dimensions": "img/armchair_rukovoditel/dimensions/roys_m_704_ch_s0422_01.png",
-      "box": "img/box_UTFC.png",
-      "additional": [
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
-        "https://utfc.ru/upload/resize_cache/iblock/9fd/140_140_0/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
-        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-        "https://utfc.ru/upload/resize_cache/iblock/020/140_140_0/02083de92db3c55b2ed45b63d9c988e2.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
-        "https://utfc.ru/upload/resize_cache/iblock/8ac/140_140_0/8ac7015a945b12227ed5e8bdb72caec4.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
-        "https://utfc.ru/upload/resize_cache/iblock/bc0/140_140_0/bc0d587244a4e554437f4ff2b695891f.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://utfc.ru/upload/resize_cache/iblock/9f5/140_140_0/9f5d68f7fb9114c366ae2c397b5333fc.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-        "https://cdn.utfc-store.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://cdn.utfc-store.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://cdn.utfc-store.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
-        "https://cdn.utfc-store.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/iblock/9eb/xibtegety1jo9wvrk7ykw3i2pjti7hck.png",
-        "https://cdn.utfc-store.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
-        "https://cdn.utfc-store.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
-        "https://cdn.utfc-store.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
-        "https://cdn.utfc-store.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
-        "https://cdn.utfc-store.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
-        "https://cdn.utfc-store.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
-        "https://cdn.utfc-store.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-        "https://cdn.utfc-store.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
-        "https://cdn.utfc-store.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
-        "https://cdn.utfc-store.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
-        "https://cdn.utfc-store.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
-        "https://cdn.utfc-store.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
-        "https://cdn.utfc-store.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
-        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc-store.ru/iblock/8b3/8b3da356ee7250ce9171650df628cd82/c8715375a7a42c187b811487ff16dc72.png",
-        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://cdn.utfc.ru/iblock/683/0b94al11jw4wmdh6xrx3z8hodstyxo91.png",
-        "https://cdn.utfc.ru/iblock/bc0/bc0d587244a4e554437f4ff2b695891f.png",
-        "https://cdn.utfc.ru/uf/a99/a99c01a998591ed9f6e6cc556d0a23da.png",
-        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/uf/d97/d97ca41c1c7f43e6f6038f5d1d7a428d.png",
-        "https://cdn.utfc.ru/iblock/9fd/9fd96d5e2b92a82e92ae75db6c4f4a7b.png",
-        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc.ru/uf/182/1825d09bfbd7ee9fefb36a498e77c4c2.png",
-        "https://cdn.utfc.ru/iblock/9f5/9f5d68f7fb9114c366ae2c397b5333fc.png",
-        "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-        "https://cdn.utfc.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
-        "https://cdn.utfc.ru/iblock/8ac/8ac7015a945b12227ed5e8bdb72caec4.png",
-        "https://cdn.utfc.ru/uf/017/0170d0f775c6624be53668116b9d9805.jpg",
-        "https://cdn.utfc.ru/iblock/f8b/qxew6nsdn7phfz6bh57ic3a42pa39zbh.png",
-        "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-        "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
-        "https://cdn.utfc.ru/uf/ed8/ed809c4302b8f61180ba2401fad216c5.png",
-        "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-        "https://cdn.utfc.ru/iblock/bb0/bb0b682ca7b3cc7f6076683e5ebc7e37/0502c18dc8cb7b73ea0c7f68a69dc265.png",
-        "https://cdn.utfc.ru/iblock/020/02083de92db3c55b2ed45b63d9c988e2.png",
-        "https://cdn.utfc.ru/iblock/277/277228a0ae4d298178881a1883f6bad3/7378a2c20b53e3af651f77ac309cf692.png",
-        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-        "https://cdn.utfc.ru/iblock/175/lzek5k9nvnc35w5kzt1ebwocw3ngrcki.png",
-        "https://cdn.utfc.ru/iblock/8e5/8e5273417fdc850e8d63884658a0a0d7/55a7e7a36a7c66042b868a59d8691c33.png",
-        "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
-        "https://cdn.utfc.ru/iblock/f31/f319dcf6b7d5af2a44855d797b09b467/d7f35f125105930268ab821ff04f18ce.png",
-        "https://cdn.utfc.ru/iblock/3a9/3a91ad1effb38f96d5f0c506a82324e0/1adeda9565198f49a2cdb131cecf91ad.png",
-        "https://cdn.utfc.ru/iblock/9dc/9dce658160854fc0b72c901f9e296c44/834e0161979c22b7e5700e633653b9ae.png",
-        "https://cdn.utfc.ru/iblock/6c7/6c7f90086b1f903490a4fa906e3481e1/82a66ebfb73f11dedc2d249901b0ab6e.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/iblock/039/0390882158b7a37eb980109fd2fc0b6c/ee07ada276601b4fa49ceed4b2f071e3.png",
-        "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
-        "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": 1160,
-        "max": 1260
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": 520,
-        "max": 620
-      },
-      "armrest_height_from_seat": {
-        "min": 180,
-        "max": ""
-      },
-      "chair_depth": {
-        "min": 700,
-        "max": null
-      },
-      "seat_depth": {
-        "min": 520,
-        "max": null
-      },
-      "backrest_height": {
-        "max": 770,
-        "min": ""
-      },
-      "backrest_to_seat_height": {
-        "min": null,
-        "max": null
-      },
-      "seat_width_with_armrests": {
-        "min": 680,
-        "max": null
-      },
-      "seat_width": {
-        "max": 600,
-        "min": ""
-      },
-      "diameter_cross": {
-        "max": 680,
-        "min": ""
-      },
-      "runners_width": {
-        "max": null,
-        "min": ""
-      },
-      "runners_depth": {
-        "max": null,
-        "min": ""
-      },
-      "seat_to_floor_height_upper": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_width_support": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_length_support": {
-        "min": "",
-        "max": ""
-      },
-      "seat_depth_km": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_height_external": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_width_narrow": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_width_wide": {
-        "min": "",
-        "max": ""
-      },
-      "recommended_load": {
-        "min": "",
-        "max": ""
-      },
-      "max_load": {
-        "min": "",
-        "max": ""
-      },
-      "skeleton": {
-        "min": "",
-        "max": ""
-      },
-      "minpromtorg": {
-        "min": "",
-        "max": ""
-      },
-      "typeofproduct": {
-        "min": "",
-        "max": ""
-      },
-      "netto": {
-        "min": "",
-        "max": ""
-      },
-      "brutto": {
-        "min": "",
-        "max": ""
-      },
-      "package_width": {
-        "min": "",
-        "max": ""
-      },
-      "package_depth": {
-        "min": "",
-        "max": ""
-      },
-      "package_height": {
-        "min": "",
-        "max": ""
-      },
-      "volume": {
-        "min": "",
-        "max": ""
-      }
-    }
-  ],
-  "parent": {
-    "IE_XML_ID": 7494,
-    "IE_NAME": "М-704 Ройс",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 950,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/769/769b0133cc93d47b68c0c5f641a4bfa9/678081aba978b68c402c71062eee9d1b.png",
-    "IE_PREVIEW_TEXT": "Дизайн кресла вдохновлен эстетикой спортивных автомобилей: характерная ромбовидная строчка придает модели динамику и особый характер. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг. ",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/ab3/ab3470698013c7d97fe69ddd0a91962c/c8edbca35659d3ba5a95bf7c4bfced49.png",
-    "IE_DETAIL_TEXT": "Кресло руководителя имитирует автомобильную прошивку, тем самым создавая уникальный дизайн. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг. ",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "roys_m_704",
-    "IE_TAGS": "Ройс",
-    "IE_ID": 7494,
-    "IP_PROP2": 740,
-    "IP_PROP3": "1160-1260",
-    "IP_PROP4": 780,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/8e5/8e5273417fdc850e8d63884658a0a0d7/55a7e7a36a7c66042b868a59d8691c33.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/f25/f250647593cee2c914dd250a82da1c21.png",
-    "IP_PROP5": 780,
-    "IP_PROP26": 670,
-    "IP_PROP27": 390,
-    "IP_PROP28": 17,
-    "IP_PROP29": "Гофрокартон",
-    "IP_PROP30": "0,22",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00038802",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/595/595fe0ec28b7e83d8f9869386876254b/a9629b766db2ef64edbdd9f1e1e9b16f.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Пятилучье пластиковое Ройс",
-    "IP_PROP42": "Подлокотник М-704 Ройс",
-    "IP_PROP43": "Газ-лифт h=230 мм",
-    "IP_PROP44": "Топ-ган",
-    "IP_PROP45": "Термоклеширование",
-    "IP_PROP46": "Ролик п/у (Ср), открытый чехол, d колеса 50 мм, d штока 11 мм",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 18,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Кресла для руководителя",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 40,
-    "IC_DESCRIPTION0": "Безупречный стиль, премиальные материалы и продуманная эргономика для особого статуса и комфорта во время решения важных задач",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "boss_chairs",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/a0b/a0b55a5b53a8bb142b4f32200f79ac62.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/8da/8da00c4d975d7fd70a1438b5a1b523fe.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": 1,
-    "CP_VAT_INCLUDED": "Y",
-    "CP_MEASURE": 5,
-    "STORE_AMOUNT_2": 50,
-    "STORE_AMOUNT_3": 50,
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 11016,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 11347,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 11016,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 13332,
-      "IE_NAME": "Кресло М-704 Ройс/Royce silver PL S-0422 (серый)",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/421/42182d6732c0d0cf76430185cba31f04/c7e5e214fe4b673063ba40b847c7549f.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/223/2234a2be6bf6254e0437c67de3cb1aa8/0bfefccba3a8e2201037fe47ed7e0fea.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13332,
-      "IP_PROP34": 7494,
-      "IP_PROP35": "ЦБ-00009992",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/3a9/3a91ad1effb38f96d5f0c506a82324e0/1adeda9565198f49a2cdb131cecf91ad.png",
-        "https://cdn.utfc.ru/iblock/f31/f319dcf6b7d5af2a44855d797b09b467/d7f35f125105930268ab821ff04f18ce.png",
-        "https://cdn.utfc.ru/iblock/6c7/6c7f90086b1f903490a4fa906e3481e1/82a66ebfb73f11dedc2d249901b0ab6e.png",
-        "https://cdn.utfc.ru/iblock/18b/18b6230f5a790098d52d1b6b0f0faa4e/82e0585abccdf6dc78d3f286295e1526.png",
-        "https://cdn.utfc.ru/iblock/9dc/9dce658160854fc0b72c901f9e296c44/834e0161979c22b7e5700e633653b9ae.png"
-      ],
-      "IP_PROP37": "Экокожа Santorini",
-      "IP_PROP38": "Экокожа S-0422 (темно-серый)",
-      "IP_PROP39": "",
-      "IP_PROP40": "",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": "серый",
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 6,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 6,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 11016,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 11347,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 11016,
-      "CV_CURRENCY_3": "RUB"
-    }
-  ],
-  "title": "Кресло с характером: уникальный дизайн, эргономика и комфорт - М-704 Ройс производства компании UTFC",
-  "base_name": "Кресло М-704 Ройс",
-  "article_number": "ЦБ-00009992",
-  "full_describe": "Дизайн кресла вдохновлен эстетикой спортивных автомобилей: характерная ромбовидная строчка придает модели динамику и особый характер. Ярко выраженная эргономика позволит удобно сидеть весь рабочий день. Максимальная нагрузка – 120 кг.",
-  "Link_arm": "https://utfc.ru/catalog/boss_chairs/roys_m_704/?offers=13332",
-  "Основание": "Пятилучье пластиковое для кресел Ройс",
-  "Подлокотники": "Подлокотники пластиковые для кресла М-704 Ройс",
-  "Газлифт": "Газ-лифт 3 категории по стандарту Germany DIN 4550, h=230 мм, длина штока 100 мм",
-  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-  "Особенности": "Тиснение кожи термоклешированием",
-  "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-  "finish_type": [
-    "-",
-    "Экокожа Santorini"
-  ],
-  "color": [
-    "Экокожа S-0422 (темно-серый)"
-  ],
-  "variant_name": [
-    "Кресло М-704 Ройс (-, Экокожа S-0422 (темно-серый),, )",
-    "Кресло М-704 Ройс (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
-  ],
-  "finish_type_seat": [
-    ""
-  ],
-  "color_seat": [
-    ""
-  ],
-  "minpromtorg": "Минпромторг",
-  "madeinrf": "Сделано в РФ",
-  "lost": [
-    {
-      "clean": true,
-      "limit": false,
-      "del": true
-    }
-  ],
-  "sizes": {
-    "Ширина:": "740",
-    "Высота:": "1160-1260",
-    "Глубина:": "780",
-    "Нагрузка:": "120",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "780",
-    "Высота упаковки:": "670",
-    "Глубина упаковки:": "390",
-    "Вес брутто:": "17",
-    "Материал упаковки:": "Гофрокартон",
-    "Объём:": "0,22"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "780",
-    "Высота упаковки:": "670",
-    "Глубина упаковки:": "390",
-    "Материал упаковки:": "Гофрокартон"
-  }
 }

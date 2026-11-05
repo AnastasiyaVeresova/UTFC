@@ -2090,6 +2090,11 @@ const knownProductsAllFiles = [
     "is_archive": false
   },
   {
+    "name": "Utfc онтарио ch-405 н_п",
+    "category": "armchair_rukovoditel",
+    "is_archive": false
+  },
+  {
     "name": "Utfc осака м-201",
     "category": "armchair_comfort",
     "is_archive": false
