@@ -1,256 +1,541 @@
 {
-    "namefile": [
-        "UTFC Онтарио ch-405 Н_п"
-    ],
-    "name": [
-        "UTFC Онтарио CH-405 н_п"
-    ],
-    "unique_name": [
-        "UTFC Онтарио CH-405 н_п"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "кресло руководителя"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки и сиденья кресла: экокожа (S, R), кожа (К, Klux)<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "металлических полозьев, спинки, сиденья, подлокотников, пластиковых заглушек, опор и крепежных элементов",
-                "<strong>Полозья</strong> кресла сварные металлические с защитно-декоративным покрытием. Каркас полозьев изготовлен из стальной трубы круглого сечения Ф32х2 мм, связи - из стального листа толщиной 3 мм, кронштейна из листа толщиной 8 мм. Покрытие полозьев: хромовое блестящее",
-                "<strong>Спинка</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и обивочного элемента",
-                "<strong>Сиденье</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и обивочного элемента",
-                "<strong>Облицовка спинки и сиденья</strong>: экокожа (S, R), кожа (K, KLux)",
-                "<strong>Подлокотники</strong> - пластиковые с мягкими накладками и вставками с имитацией под хром. Крепятся к основанию сиденья с помощью винтов М6. Накладки состоят из пластикового основания, мягкого элемента (пенополиуретан, жесткость - 25, плотность - 16 кг/м<sup>3</sup>) и облицовки",
-                "<strong>Облицовка подлокотников</strong> экокожа (S, R), кожа (Klux)"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "900",
-                    "depth": "490",
-                    "height": "676"
-                },
-                "box_size": "900х490х676",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "21,35",
-            "netto": "18,45",
-            "volume": "0,3"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "150",
-            "recommended_load": "120"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_rukovoditel/ontario_ch405_np_011.png",
-            "chair_view": "img/armchair_rukovoditel/ontario_ch405_np_02.png",
-            "dimensions": "img/armchair_rukovoditel/dimensions/ontario_ch405_np_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/2fc/2fcf85ff1bd1f2a588ee7cbf0a585103/d81ebae81bd5c412d57f1ef335359f1a.png",
-                "https://cdn.utfc.ru/iblock/17c/17c9c9bf8cf947c9031b04264b872a36/ba5a080178c720444caf60b8c3670c07.png",
-                "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
-                "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
-                "https://cdn.utfc.ru/iblock/d7f/d7f8c39ecd728233396c611e9612df7d/418f259474a05d0c80fc5175d7b62e05.png",
-                "https://cdn.utfc.ru/iblock/04b/04b8a73d8ee6213a06e8e8e7b7f6b940/68d9bc126d0c5b2c8c29c3b3b3aaec3a.png",
-                "https://cdn.utfc.ru/iblock/166/16670138b5602f2cb4b321439c7aa20b/1e151b2cf9c3637e5d5552a9ca2b7fd5.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://cdn.utfc.ru/iblock/be3/be3bcfdb10a5e6fd4bf2f166225e6e1f/a80312b9e16a2bc136b7f934ee1114c4.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
-                "https://cdn.utfc.ru/iblock/a64/a646f3c0722998489310d013dcb5b137/8236f5e35199bad2d7648ae77d353525.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://cdn.utfc.ru/iblock/562/56209b803274a0ca774b728ee57fd846/c26d3b99bdea903c214260f63208f761.png",
-                "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://cdn.utfc.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
-                "https://cdn.utfc.ru/uf/8d9/8d92fbd325f9a2e2167242de10bc4bad.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1075",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "510",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "225",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "680",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "485",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": "580"
-            },
-            "backrest_to_seat_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "665",
-                "max": ""
-            },
-            "seat_width": {
-                "min": "",
-                "max": "530"
-            },
-            "diameter_cross": {
-                "min": "",
-                "max": ""
-            },
-            "runners_width": {
-                "min": "",
-                "max": "530"
-            },
-            "runners_depth": {
-                "min": "",
-                "max": "610"
-            },
-            "seat_to_floor_height_upper": {
-                "min": "410",
-                "max": ""
-            },
-            "armrest_height_from_floor": {
-                "min": "290",
-                "max": ""
-            },
-            "armrest_width_support": {
-                "min": "",
-                "max": "70"
-            },
-            "armrest_length_support": {
-                "min": "",
-                "max": "270"
-            },
-            "seat_depth_km": {
-                "min": "",
-                "max": "520"
-            },
-            "backrest_height_external": {
-                "min": "",
-                "max": "660"
-            },
-            "backrest_width_narrow": {
-                "min": "",
-                "max": "480"
-            },
-            "backrest_width_wide": {
-                "min": "",
-                "max": "520"
-            },
-            "recommended_load": "120",
-            "max_load": "150",
-            "skeleton": "немонолитный",
-            "minpromtorg": "+",
-            "netto": "18,45",
-            "brutto": "21,35",
-            "package_width": "900",
-            "package_depth": "490",
-            "package_height": "676",
-            "volume": "0"
-        }
-    ],
-    "title": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром производства компании UTFC",
-    "base_name": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром",
-    "article_number": "ПУ-00046031",
-    "full_describe": "Увеличенная мягкая зона в области поясницы обеспечивает комфортную поддержку спины на протяжении всего рабочего дня. Изящные пластиковые подлокотники с мягкими накладками гармонично сочетаются с хромированными полозьями, придавая креслу элегантный вид. Конференц-кресло идеально дополнит кабинет руководителя с креслами серии «Канзас» и «Онтарио».",
-    "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch405_np_ontario_pl_ch/?offers=13920",
-    "minpromtorg": "Минпромторг",
-    "madeinrf": "Сделано в РФ",
-    "Основание": "Металлические, защитно-декоративное покрытие никель-хром (CH)",
-    "Подлокотники": "Подлокотники пластиковые со вставками \"под хром\" и мягкими накладками для кресла Онтарио",
-    "Газлифт": "",
-    "Механизм": "",
-    "Особенности": "",
-    "Ролики": "",
-    "sizes": {
-        "Ширина:": "665",
-        "Высота:": "1075",
-        "Глубина:": "680",
-        "Нагрузка:": "150",
-        "Каркас:": "Немонолитный",
-        "Ширина упаковки:": "900",
-        "Высота упаковки:": "676",
-        "Глубина упаковки:": "490",
-        "Вес брутто:": "21,3",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,3"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "900",
-        "Высота упаковки:": "676",
-        "Глубина упаковки:": "490",
-        "Материал упаковки:": "Гофрокартон"
-    },
-    "finish_type": [
-        "Экокожа Santorini",
-        "-"
-    ],
-    "color": [
-        "Экокожа S-0422 (темно-серый)"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
-    ],
-    "variant_name": [
-        "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )",
-        "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (-, Экокожа S-0422 (темно-серый),, )"
+  "namefile": [
+    "UTFC Онтарио ch-405 Н_п"
+  ],
+  "name": [
+    "UTFC Онтарио CH-405 н_п"
+  ],
+  "unique_name": [
+    "UTFC Онтарио CH-405 н_п"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "кресло руководителя"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья кресла: экокожа (S, R), кожа (К, Klux)<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "металлических полозьев, спинки, сиденья, подлокотников, пластиковых заглушек, опор и крепежных элементов",
+        "<strong>Полозья</strong> кресла сварные металлические с защитно-декоративным покрытием. Каркас полозьев изготовлен из стальной трубы круглого сечения Ф32х2 мм, связи - из стального листа толщиной 3 мм, кронштейна из листа толщиной 8 мм. Покрытие полозьев: хромовое блестящее",
+        "<strong>Спинка</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 40, плотность - 22 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Сиденье</strong> состоит из фанерного основания, вкладыша пенополиуретанового (жесткость - 60, плотность - 40 кг/м<sup>3</sup>) и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: экокожа (S, R), кожа (K, KLux)",
+        "<strong>Подлокотники</strong> - пластиковые с мягкими накладками и вставками с имитацией под хром. Крепятся к основанию сиденья с помощью винтов М6. Накладки состоят из пластикового основания, мягкого элемента (пенополиуретан, жесткость - 25, плотность - 16 кг/м<sup>3</sup>) и облицовки",
+        "<strong>Облицовка подлокотников</strong> экокожа (S, R), кожа (Klux)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "900",
+          "depth": "490",
+          "height": "676"
+        },
+        "box_size": "900х490х676",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "21,35",
+      "netto": "18,45",
+      "volume": "0,3"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "150",
+      "recommended_load": "120"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_rukovoditel/ontario_ch405_np_011.png",
+      "chair_view": "img/armchair_rukovoditel/ontario_ch405_np_02.png",
+      "dimensions": "img/armchair_rukovoditel/dimensions/ontario_ch405_np_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/2fc/2fcf85ff1bd1f2a588ee7cbf0a585103/d81ebae81bd5c412d57f1ef335359f1a.png",
+        "https://cdn.utfc.ru/iblock/17c/17c9c9bf8cf947c9031b04264b872a36/ba5a080178c720444caf60b8c3670c07.png",
+        "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+        "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+        "https://cdn.utfc.ru/iblock/d7f/d7f8c39ecd728233396c611e9612df7d/418f259474a05d0c80fc5175d7b62e05.png",
+        "https://cdn.utfc.ru/iblock/04b/04b8a73d8ee6213a06e8e8e7b7f6b940/68d9bc126d0c5b2c8c29c3b3b3aaec3a.png",
+        "https://cdn.utfc.ru/iblock/166/16670138b5602f2cb4b321439c7aa20b/1e151b2cf9c3637e5d5552a9ca2b7fd5.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://cdn.utfc.ru/iblock/be3/be3bcfdb10a5e6fd4bf2f166225e6e1f/a80312b9e16a2bc136b7f934ee1114c4.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
+        "https://cdn.utfc.ru/iblock/a64/a646f3c0722998489310d013dcb5b137/8236f5e35199bad2d7648ae77d353525.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://cdn.utfc.ru/iblock/562/56209b803274a0ca774b728ee57fd846/c26d3b99bdea903c214260f63208f761.png",
+        "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://cdn.utfc.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
+        "https://cdn.utfc.ru/uf/8d9/8d92fbd325f9a2e2167242de10bc4bad.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1075",
+        "max": ""
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "510",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "225",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "680",
+        "max": ""
+      },
+      "seat_depth": {
+        "min": "485",
+        "max": ""
+      },
+      "backrest_height": {
+        "min": "",
+        "max": "580"
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "665",
+        "max": ""
+      },
+      "seat_width": {
+        "min": "",
+        "max": "530"
+      },
+      "diameter_cross": {
+        "min": "",
+        "max": ""
+      },
+      "runners_width": {
+        "min": "",
+        "max": "530"
+      },
+      "runners_depth": {
+        "min": "",
+        "max": "610"
+      },
+      "seat_to_floor_height_upper": {
+        "min": "410",
+        "max": ""
+      },
+      "armrest_height_from_floor": {
+        "min": "290",
+        "max": ""
+      },
+      "armrest_width_support": {
+        "min": "",
+        "max": "70"
+      },
+      "armrest_length_support": {
+        "min": "",
+        "max": "270"
+      },
+      "seat_depth_km": {
+        "min": "",
+        "max": "520"
+      },
+      "backrest_height_external": {
+        "min": "",
+        "max": "660"
+      },
+      "backrest_width_narrow": {
+        "min": "",
+        "max": "480"
+      },
+      "backrest_width_wide": {
+        "min": "",
+        "max": "520"
+      },
+      "recommended_load": "120",
+      "max_load": "150",
+      "skeleton": "немонолитный",
+      "minpromtorg": "+",
+      "netto": "18,45",
+      "brutto": "21,35",
+      "package_width": "900",
+      "package_depth": "490",
+      "package_height": "676",
+      "volume": "0"
+    }
+  ],
+  "title": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром производства компании UTFC",
+  "base_name": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром",
+  "article_number": "ПУ-00046031",
+  "full_describe": "Увеличенная мягкая зона в области поясницы обеспечивает комфортную поддержку спины на протяжении всего рабочего дня. Изящные пластиковые подлокотники с мягкими накладками гармонично сочетаются с хромированными полозьями, придавая креслу элегантный вид. Конференц-кресло идеально дополнит кабинет руководителя с креслами серии «Канзас» и «Онтарио».",
+  "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch405_np_ontario_pl_ch/?offers=13920",
+  "minpromtorg": "Минпромторг",
+  "madeinrf": "Сделано в РФ",
+  "Основание": "Металлические, защитно-декоративное покрытие никель-хром (CH)",
+  "Подлокотники": "Подлокотники пластиковые со вставками \"под хром\" и мягкими накладками для кресла Онтарио",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "sizes": {
+    "Ширина:": "665",
+    "Высота:": "1075",
+    "Глубина:": "680",
+    "Нагрузка:": "150",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "900",
+    "Высота упаковки:": "676",
+    "Глубина упаковки:": "490",
+    "Вес брутто:": "21,3",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,3"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "900",
+    "Высота упаковки:": "676",
+    "Глубина упаковки:": "490",
+    "Материал упаковки:": "Гофрокартон"
+  },
+  "finish_type": [
+    "Экокожа Santorini",
+    "-"
+  ],
+  "color": [
+    "Экокожа S-0422 (темно-серый)"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "variant_name": [
+    "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )",
+    "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (-, Экокожа S-0422 (темно-серый),, )"
+  ],
+  "parent": {
+    "IE_XML_ID": 13908,
+    "IE_NAME": "UTFC СН-405 Онтарио Н/п пластик/хром",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 500,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/3f0/3f0c540a40722bbbe5b9efc82f47aed2/91b0c7a083e3e3390a7452f20e2f707d.png",
+    "IE_PREVIEW_TEXT": "Увеличенная мягкая зона в области поясницы обеспечивает комфортную поддержку спины на протяжении всего рабочего дня. Изящные пластиковые подлокотники с мягкими накладками гармонично сочетаются с хромированными полозьями, придавая креслу элегантный вид. Конференц-кресло идеально дополнит кабинет руководителя с креслами серии «Канзас» и «Онтарио».",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/6bf/6bfb9a0c5b391af870d5e401620a114f/fc95c71c206f42c940091fe0b80c108a.png",
+    "IE_DETAIL_TEXT": "Увеличенная мягкая зона в области поясницы обеспечивает комфортную поддержку спины на протяжении всего рабочего дня. Изящные пластиковые подлокотники с мягкими накладками гармонично сочетаются с хромированными полозьями, придавая креслу элегантный вид. Конференц-кресло идеально дополнит кабинет руководителя с креслами серии «Канзас» и «Онтарио».",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "ch405_np_ontario_pl_ch",
+    "IE_TAGS": "",
+    "IE_ID": 13908,
+    "IP_PROP2": 665,
+    "IP_PROP3": 1075,
+    "IP_PROP4": 680,
+    "IP_PROP6": "",
+    "IP_PROP19": 150,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/d7f/d7f8c39ecd728233396c611e9612df7d/418f259474a05d0c80fc5175d7b62e05.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/04b/04b8a73d8ee6213a06e8e8e7b7f6b940/68d9bc126d0c5b2c8c29c3b3b3aaec3a.png",
+    "IP_PROP5": 900,
+    "IP_PROP26": 676,
+    "IP_PROP27": 490,
+    "IP_PROP28": "21,3",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,3",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00046140",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/b59/b59dfa9f94e0fbdf1c23275f2972d540/c1659b357611e1de79848cdaedc4c3c1.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Полозья металлические СН",
+    "IP_PROP42": "Подлокотник М-105 Онтарио",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 18,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "Кресла для руководителя",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 40,
+    "IC_DESCRIPTION0": "Безупречный стиль, премиальные материалы и продуманная эргономика для особого статуса и комфорта во время решения важных задач",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "boss_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/a0b/a0b55a5b53a8bb142b4f32200f79ac62.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/8da/8da00c4d975d7fd70a1438b5a1b523fe.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "Y",
+    "CP_MEASURE": 5,
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 13401,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 13804,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 13401,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 13920,
+      "IE_NAME": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13920,
+      "IP_PROP34": 13908,
+      "IP_PROP35": "ПУ-00046031",
+      "IP_PROP36": "",
+      "IP_PROP37": "Экокожа Santorini",
+      "IP_PROP38": "Экокожа S-0422 (темно-серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": "",
+      "CP_QUANTITY_TRACE": "",
+      "CP_CAN_BUY_ZERO": "",
+      "CP_WEIGHT": "",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "",
+      "CP_MEASURE": "",
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 13401,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 13804,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 13401,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 13921,
+      "IE_NAME": "Кресло СН-405 Онтарио Н/п пластик/хром S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13921,
+      "IP_PROP34": 13908,
+      "IP_PROP35": "ПУ-00042116",
+      "IP_PROP36": "",
+      "IP_PROP37": "Экокожа Santorini",
+      "IP_PROP38": "Экокожа S-0422 (темно-серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": "",
+      "CP_QUANTITY_TRACE": "",
+      "CP_CAN_BUY_ZERO": "",
+      "CP_WEIGHT": "",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "",
+      "CP_MEASURE": "",
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 0,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 0,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 0,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ]
 }
