@@ -257,7 +257,8 @@
             "package_width": "584",
             "package_depth": "262",
             "package_height": "584",
-            "volume": "0"
+            "volume": "0",
+            "brutto": "10"
         }
     ],
     "parent": {
@@ -745,9 +746,11 @@
     "additional_info": {
         "package_dimensions": {
             "depth": "584",
-            "height": "262"
+            "height": "262",
+            "width": "10"
         },
-        "volume": "0"
+        "volume": "0",
+        "brutto": "10"
     },
     "sizes": {
         "Ширина:": "700",

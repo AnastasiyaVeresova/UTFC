@@ -69,7 +69,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "11,80",
             "netto": "9,50",
             "volume": "0,17"
         }
@@ -279,10 +279,7 @@
             "skeleton": "немонолитный",
             "minpromtorg": "+",
             "netto": "10",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "12",
             "package_width": "910",
             "package_depth": "270",
             "package_height": "690",
@@ -290,7 +287,7 @@
         }
     ],
     "skeleton": "немонолитный",
-    "minpromtorg": "+",
+    "minpromtorg": "Минпромторг",
     "addition": "",
     "parent": {
         "IE_XML_ID": "a_1124",
@@ -447,10 +444,12 @@
     "additional_info": {
         "package_dimensions": {
             "depth": "910",
-            "height": "270"
+            "height": "270",
+            "width": "12"
         },
         "netto": "10",
-        "volume": "0,17"
+        "volume": "0,17",
+        "brutto": "12"
     },
     "sizes": {
         "Ширина:": "610",

@@ -65,7 +65,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "9,30",
             "netto": "8,90",
             "volume": "0,22"
         }
@@ -264,10 +264,7 @@
             "skeleton": "монолитный",
             "minpromtorg": "+",
             "netto": "9",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "9",
             "package_width": "760",
             "package_depth": "440",
             "package_height": "650",
@@ -275,7 +272,7 @@
         }
     ],
     "skeleton": "монолитный",
-    "minpromtorg": "+",
+    "minpromtorg": "Минпромторг",
     "addition": "",
     "title": "Кресло Честер GTS TG хром в ткани Модерно производства компании UTFC",
     "base_name": "Кресло Честер GTS TG хром",

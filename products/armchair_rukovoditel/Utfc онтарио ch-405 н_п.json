@@ -78,7 +78,32 @@
             "chair_view": "img/armchair_rukovoditel/ontario_ch405_np_02.png",
             "dimensions": "img/armchair_rukovoditel/dimensions/ontario_ch405_np_01.png",
             "box": "img/box_UTFC.png",
-            "additional": []
+            "additional": [
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/2fc/2fcf85ff1bd1f2a588ee7cbf0a585103/d81ebae81bd5c412d57f1ef335359f1a.png",
+                "https://cdn.utfc.ru/iblock/17c/17c9c9bf8cf947c9031b04264b872a36/ba5a080178c720444caf60b8c3670c07.png",
+                "https://cdn.utfc.ru/iblock/f71/f716b49c202ecda8e2a8f4d69c898e15/62212fb81e5d25578c7f38140d3da1dc.png",
+                "https://cdn.utfc.ru/iblock/2a6/et32xujxkuklrx20yzazrcrav7rztk8e.png",
+                "https://cdn.utfc.ru/iblock/d7f/d7f8c39ecd728233396c611e9612df7d/418f259474a05d0c80fc5175d7b62e05.png",
+                "https://cdn.utfc.ru/iblock/04b/04b8a73d8ee6213a06e8e8e7b7f6b940/68d9bc126d0c5b2c8c29c3b3b3aaec3a.png",
+                "https://cdn.utfc.ru/iblock/166/16670138b5602f2cb4b321439c7aa20b/1e151b2cf9c3637e5d5552a9ca2b7fd5.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/iblock/be3/be3bcfdb10a5e6fd4bf2f166225e6e1f/a80312b9e16a2bc136b7f934ee1114c4.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://cdn.utfc.ru/iblock/950/950932a05266bab2055f28e16c9b42f9/27d8d7afa8690edbbcf59bc183335173.png",
+                "https://cdn.utfc.ru/iblock/a64/a646f3c0722998489310d013dcb5b137/8236f5e35199bad2d7648ae77d353525.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://cdn.utfc.ru/iblock/562/56209b803274a0ca774b728ee57fd846/c26d3b99bdea903c214260f63208f761.png",
+                "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://cdn.utfc.ru/uf/88e/88ef3a27a3e79a05f93c4c439243a21b/9a5d3ee8d97c4b97e8a5eecfc2ead69f.png",
+                "https://cdn.utfc.ru/uf/8d9/8d92fbd325f9a2e2167242de10bc4bad.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png"
+            ]
         }
     ],
     "dimensions_details": [
@@ -178,5 +203,54 @@
             "package_height": "676",
             "volume": "0"
         }
+    ],
+    "title": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром производства компании UTFC",
+    "base_name": "Кресло UTFC СН-405 Онтарио Н/п пластик/хром",
+    "article_number": "ПУ-00046031",
+    "full_describe": "Увеличенная мягкая зона в области поясницы обеспечивает комфортную поддержку спины на протяжении всего рабочего дня. Изящные пластиковые подлокотники с мягкими накладками гармонично сочетаются с хромированными полозьями, придавая креслу элегантный вид. Конференц-кресло идеально дополнит кабинет руководителя с креслами серии «Канзас» и «Онтарио».",
+    "Link_arm": "https://utfc.ru/catalog/boss_chairs/ch405_np_ontario_pl_ch/?offers=13920",
+    "minpromtorg": "Минпромторг",
+    "madeinrf": "Сделано в РФ",
+    "Основание": "Металлические, защитно-декоративное покрытие никель-хром (CH)",
+    "Подлокотники": "Подлокотники пластиковые со вставками \"под хром\" и мягкими накладками для кресла Онтарио",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "sizes": {
+        "Ширина:": "665",
+        "Высота:": "1075",
+        "Глубина:": "680",
+        "Нагрузка:": "150",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "900",
+        "Высота упаковки:": "676",
+        "Глубина упаковки:": "490",
+        "Вес брутто:": "21,3",
+        "Материал упаковки:": "Гофрокартон",
+        "Объём:": "0,3"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "900",
+        "Высота упаковки:": "676",
+        "Глубина упаковки:": "490",
+        "Материал упаковки:": "Гофрокартон"
+    },
+    "finish_type": [
+        "Экокожа Santorini",
+        "-"
+    ],
+    "color": [
+        "Экокожа S-0422 (темно-серый)"
+    ],
+    "finish_type_seat": [
+        ""
+    ],
+    "color_seat": [
+        ""
+    ],
+    "variant_name": [
+        "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )",
+        "Кресло UTFC СН-405 Онтарио Н/п пластик/хром (-, Экокожа S-0422 (темно-серый),, )"
     ]
 }

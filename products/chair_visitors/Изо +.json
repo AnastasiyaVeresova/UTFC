@@ -70,9 +70,9 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "6,40",
             "netto": "",
-            "volume": ""
+            "volume": "0,04-0,06"
         }
     ],
     "guarantee": [
@@ -384,10 +384,7 @@
                 "min": "",
                 "max": ""
             },
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "6",
             "package_width": {
                 "min": "",
                 "max": ""
@@ -400,7 +397,7 @@
                 "min": "",
                 "max": ""
             },
-            "volume": "0"
+            "volume": "0,04-0,06"
         }
     ]
 }

@@ -68,7 +68,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "19,70",
             "netto": "16,20",
             "volume": "0,36"
         }
@@ -129,7 +129,8 @@
                 "https://cdn.utfc.ru/iblock/c1d/c1dad4264f19c09dc622fb57fd9aee76/3a65df672c37dfbe5db82890c0501c35.png",
                 "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
                 "https://cdn.utfc.ru/iblock/92f/92fea27ba8b28276331a8aaeccc22b62/134c8b5489f54d9ff634f47d9d93bac1.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+                "https://cdn.utfc.ru/iblock/2fc/2fcf85ff1bd1f2a588ee7cbf0a585103/d81ebae81bd5c412d57f1ef335359f1a.png"
             ]
         }
     ],
@@ -224,10 +225,7 @@
             "skeleton": "монолитный",
             "minpromtorg": "+",
             "netto": "16",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "20",
             "package_width": "1100",
             "package_depth": "490",
             "package_height": "676",
@@ -235,7 +233,7 @@
         }
     ],
     "skeleton": "монолитный",
-    "minpromtorg": "+",
+    "minpromtorg": "Минпромторг",
     "addition": "",
     "title": "Кресло Комо Н/п хром производства компании UTFC",
     "base_name": "Кресло Комо Н/п хром",

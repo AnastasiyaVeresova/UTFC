@@ -67,7 +67,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "9,45",
             "netto": "8,00",
             "volume": "0,11"
         }
@@ -273,10 +273,7 @@
             "skeleton": "немонолитный",
             "minpromtorg": "+",
             "netto": "8",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "9",
             "package_width": "630",
             "package_depth": "290",
             "package_height": "600",
@@ -284,7 +281,7 @@
         }
     ],
     "skeleton": "немонолитный",
-    "minpromtorg": "+",
+    "minpromtorg": "Минпромторг",
     "addition": "",
     "parent": {
         "IE_XML_ID": "p_5210",

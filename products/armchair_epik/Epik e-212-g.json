@@ -1,528 +1,528 @@
 {
-    "namefile": [
-        "Epik e-212-g"
-    ],
-    "name_all": [
-        "EPIK E-212"
-    ],
-    "name": [
-        "EPIK E-212"
-    ],
-    "unique_name": [
-        "EPIK E-212-G"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло серии комфорт"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки подголовника, спинки и сиденья: ткань<br>\n- цвет материала - по каталогу"
-            ],
-            "components": [
-                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
-                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
-                "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
-                "<strong>Облицовка спинки и сиденья</strong>: ткань",
-                "<strong>Подлокотники</strong> - алюминиевые, регулируемые в 6-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
-                "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении, слайд-система",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> алюминиевое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "930",
-                    "depth": "460",
-                    "height": "660"
-                },
-                "box_size": "930х460х660",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "23,10",
-            "netto": "19,20",
-            "volume": "0,28"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "160",
-            "recommended_load": "130"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_epik/1080_epik_e_212_g_m021_01.png",
-            "chair_view": "img/armchair_epik/1080_epik_e_212_g_m021_02.png",
-            "dimensions": "img/armchair_epik/dimensions/1080_epik_e_212_g_m021_01.png",
-            "box": "img/box_epik.png",
-            "additional": [
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
-                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/resize_cache/iblock/dd5/140_140_0/2f74jb3frtakksvd1rtou0nky8128gha.png",
-                "https://utfc.ru/upload/resize_cache/iblock/61e/140_140_0/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/83b/140_140_0/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/c9d/140_140_0/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://utfc.ru/upload/resize_cache/iblock/c70/400_400_0/5kk900l7qfsrm711xoakxvtnc111yqik.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
-                "https://utfc.ru/upload/resize_cache/iblock/8f4/140_140_0/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
-                "https://cdn.utfc-store.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
-                "https://cdn.utfc-store.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
-                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
-                "https://cdn.utfc-store.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
-                "https://cdn.utfc-store.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
-                "https://cdn.utfc-store.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
-                "https://cdn.utfc-store.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
-                "https://cdn.utfc-store.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
-                "https://cdn.utfc-store.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
-                "https://cdn.utfc-store.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
-                "https://cdn.utfc-store.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-                "https://cdn.utfc-store.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
-                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc-store.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
-                "https://cdn.utfc-store.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
-                "https://cdn.utfc-store.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
-                "https://cdn.utfc-store.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
-                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://cdn.utfc.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
-                "https://cdn.utfc.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
-                "https://cdn.utfc.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
-                "https://cdn.utfc.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
-                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
-                "https://cdn.utfc.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
-                "https://cdn.utfc.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
-                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
-                "https://cdn.utfc.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
-                "https://cdn.utfc.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
-                "https://cdn.utfc.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
-                "https://cdn.utfc.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
-                "https://cdn.utfc.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
-                "https://cdn.utfc.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
-                "https://cdn.utfc.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
-                "https://cdn.utfc.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
-                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-                "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1160",
-                "max": "1330"
-            },
-            "headrest_height": {
-                "min": "210",
-                "max": "280"
-            },
-            "seat_to_floor_height": {
-                "min": "440",
-                "max": "540"
-            },
-            "armrest_height_from_seat": {
-                "min": "140",
-                "max": "200"
-            },
-            "chair_depth": {
-                "min": "660",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "440",
-                "max": "490"
-            },
-            "backrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_to_seat_height": {
-                "min": "500",
-                "max": "550"
-            },
-            "seat_width_with_armrests": {
-                "min": "620",
-                "max": ""
-            },
-            "seat_width": {
-                "min": "",
-                "max": "500"
-            },
-            "diameter_cross": {
-                "min": "",
-                "max": "700"
-            },
-            "runners_width": {
-                "min": "",
-                "max": ""
-            },
-            "runners_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height_from_floor": {
-                "min": "200",
-                "max": "260"
-            },
-            "armrest_width_support": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_length_support": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth_km": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height_external": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_width_narrow": {
-                "min": "",
-                "max": "400"
-            },
-            "backrest_width_wide": {
-                "min": "",
-                "max": "440"
-            },
-            "recommended_load": "130",
-            "max_load": "160",
-            "skeleton": "немонолитный",
-            "minpromtorg": {
-                "min": "",
-                "max": ""
-            },
-            "netto": "19",
-            "brutto": "23",
-            "package_width": "930",
-            "package_depth": "460",
-            "package_height": "660",
-            "volume": "0"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "p_5246",
-        "IE_NAME": "EPIK Е-212-G М021 (серый)",
-        "IE_ACTIVE": "Y",
-        "IE_ACTIVE_FROM": "",
-        "IE_ACTIVE_TO": "",
-        "IE_SORT": 130,
-        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/11a/zomnk0cffjnmlkcy1okluzij08lmmjgz.png",
-        "IE_PREVIEW_TEXT": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники 6D регулируются по высоте и поворачиваются на 180 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
-        "IE_PREVIEW_TEXT_TYPE": "text",
-        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/4ba/rbk5ira13os04nhzdyc2trjwpyw3ho7m.png",
-        "IE_DETAIL_TEXT": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники регулируются по высоте и поворачиваются на 30 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
-        "IE_DETAIL_TEXT_TYPE": "text",
-        "IE_CODE": "epik_e212g",
-        "IE_TAGS": "",
-        "IE_ID": 11664,
-        "IP_PROP2": 620,
-        "IP_PROP3": "1160-1330",
-        "IP_PROP4": 660,
-        "IP_PROP6": "",
-        "IP_PROP19": 160,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://cdn.utfc.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
-        "IP_PROP31": "https://cdn.utfc.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
-        "IP_PROP5": 650,
-        "IP_PROP26": 920,
-        "IP_PROP27": 450,
-        "IP_PROP28": "23,1",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,27",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ПУ-00038717",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://cdn.utfc.ru/iblock/5a5/mnhfpzfvge4ybvisl2d921oh215ewtrm.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "Пятилучье Е-212-G",
-        "IP_PROP42": "Подлокотник Е-212 G",
-        "IP_PROP43": "Газ-лифт Е-212-G",
-        "IP_PROP44": "Механизм Е-212",
-        "IP_PROP45": "Поддержка спины кресла Е-212",
-        "IP_PROP46": "Ролик Е-212-G",
-        "IP_PROP47": "",
-        "IP_PROP48": "Немонолитный",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP59": "Нет",
-        "IP_PROP60": "",
-        "IC_ID0": 52,
-        "IC_XML_ID0": "",
-        "IC_GROUP0": "ЭПИК",
-        "IC_ACTIVE0": "Y",
-        "IC_SORT0": 39,
-        "IC_DESCRIPTION0": "Современный дизайн без компромиссов и премиальные материалы для уверенного лидерства и стиля",
-        "IC_DESCRIPTION_TYPE0": "text",
-        "IC_CODE0": "epik_chairs",
-        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/dae/fjdmfrrih5khwme9l9w1r7ob66xbnvbk.png",
-        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ac7/oxx22sy9v9t9gjz1xu17fqa2619qk0mt.png",
-        "IC_ID1": "",
-        "IC_XML_ID1": "",
-        "IC_GROUP1": "",
-        "IC_ACTIVE1": "",
-        "IC_SORT1": "",
-        "IC_DESCRIPTION1": "",
-        "IC_DESCRIPTION_TYPE1": "",
-        "IC_CODE1": "",
-        "IC_PICTURE1": "",
-        "IC_DETAIL_PICTURE1": "",
-        "IC_ID2": "",
-        "IC_XML_ID2": "",
-        "IC_GROUP2": "",
-        "IC_ACTIVE2": "",
-        "IC_SORT2": "",
-        "IC_DESCRIPTION2": "",
-        "IC_DESCRIPTION_TYPE2": "",
-        "IC_CODE2": "",
-        "IC_PICTURE2": "",
-        "IC_DETAIL_PICTURE2": "",
-        "CP_QUANTITY": 0,
-        "CP_QUANTITY_TRACE": "N",
-        "CP_CAN_BUY_ZERO": "Y",
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CP_PURCHASING_PRICE": "",
-        "CP_PURCHASING_CURRENCY": "",
-        "CP_PRICE_TYPE": "S",
-        "CP_RECUR_SCHEME_LENGTH": "",
-        "CP_RECUR_SCHEME_TYPE": "D",
-        "CP_TRIAL_PRICE_ID": "",
-        "CP_WITHOUT_ORDER": "N",
-        "CP_VAT_ID": "",
-        "CP_VAT_INCLUDED": "N",
-        "CP_MEASURE": "",
-        "STORE_AMOUNT_2": "",
-        "STORE_AMOUNT_3": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 42900,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 44187,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 42900,
-        "CV_CURRENCY_3": "RUB",
-        "STORE_AMOUNT_4": ""
-    },
-    "children": [
-        {
-            "IE_XML_ID": 40103,
-            "IE_NAME": "Кресло EPIK E-212-G M021 (серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/7d1/zyaaknrcqt18v4bayndxquc1swjsekqb.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/74d/7wcoxtqnbwde1uiyn954jpxgnfi9quqv.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 11702,
-            "IP_PROP34": 11664,
-            "IP_PROP35": "ПУ-00030431",
-            "IP_PROP36": [
-                "https://cdn.utfc.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
-                "https://cdn.utfc.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
-                "https://cdn.utfc.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
-                "https://cdn.utfc.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
-                "https://cdn.utfc.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png"
-            ],
-            "IP_PROP37": "Ткань-сетка Е-212",
-            "IP_PROP38": "Ткань Е-212 М021 (серый)",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP61": "",
-            "IC_ID0": "",
-            "IC_XML_ID0": "",
-            "IC_GROUP0": "",
-            "IC_ACTIVE0": "",
-            "IC_SORT0": "",
-            "IC_DESCRIPTION0": "",
-            "IP_PROP122": "серый",
-            "IC_DESCRIPTION_TYPE0": "",
-            "IC_CODE0": "",
-            "IC_PICTURE0": "",
-            "IC_DETAIL_PICTURE0": "",
-            "IC_ID1": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_ACTIVE1": "",
-            "IC_SORT1": "",
-            "IC_DESCRIPTION1": "",
-            "IC_DESCRIPTION_TYPE1": "",
-            "IC_CODE1": "",
-            "IC_PICTURE1": "",
-            "IC_DETAIL_PICTURE1": "",
-            "IC_ID2": "",
-            "IC_XML_ID2": "",
-            "IC_GROUP2": "",
-            "IC_ACTIVE2": "",
-            "IC_SORT2": "",
-            "IC_DESCRIPTION2": "",
-            "IC_DESCRIPTION_TYPE2": "",
-            "IC_CODE2": "",
-            "IC_PICTURE2": "",
-            "IC_DETAIL_PICTURE2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "STORE_AMOUNT_2": 0,
-            "STORE_AMOUNT_3": 0,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 42900,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 44187,
-            "CV_CURRENCY_2": "RUB",
-            "STORE_AMOUNT_4": 0,
-            "CV_PRICE_3": 42900,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Естественный комфорт для длительной работы в офисе - кресло EPIK Е-212-G М021 (серый) производства компании UTFC",
-    "base_name": "Кресло EPIK Е-212-G М021 (серый)",
-    "article_number": "ПУ-00030431",
-    "full_describe": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники 6D регулируются по высоте и поворачиваются на 180 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
-    "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_e212g/?offers=11702",
-    "Основание": "Пятилучье алюминиевое Е-212-G, покрытие глянцевое, диаметр 700мм",
-    "Подлокотники": "Подлокотники алюминиевые 6D-регулируемые с мягкими накладками из ппу для кресла EPIK E-212 G",
-    "Газлифт": "Газ-лифт 4 класса сертифицирован по стандартам SGS и BIFMA",
-    "Механизм": "Синхронный механизм качания со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в нескольких положениях.",
-    "Особенности": "Регулируемая поддержка поясничного отдела позвоночника",
-    "Ролики": "Прочные пластиковые ролики с идеальной плавностью вращения",
-    "finish_type": [
-        "-",
-        "Ткань-сетка Е-212"
-    ],
-    "color": [
-        "Ткань Е-212 М021 (серый)"
-    ],
-    "variant_name": [
-        "Кресло EPIK Е-212-G М021 (серый) (-, Ткань Е-212 М021 (серый),, )",
-        "Кресло EPIK Е-212-G М021 (серый) (Ткань-сетка Е-212, Ткань Е-212 М021 (серый),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
-    ],
-    "madeinrf": "",
-    "sizes": {
-        "Ширина:": "620",
-        "Высота:": "1160-1330",
-        "Глубина:": "660",
-        "Нагрузка:": "160",
-        "Каркас:": "Немонолитный",
-        "Ширина упаковки:": "650",
-        "Высота упаковки:": "920",
-        "Глубина упаковки:": "450",
-        "Вес брутто:": "23,1",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,27"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "650",
-        "Высота упаковки:": "920",
-        "Глубина упаковки:": "450",
-        "Материал упаковки:": "Гофрокартон"
+  "namefile": [
+    "Epik e-212-g"
+  ],
+  "name_all": [
+    "EPIK E-212"
+  ],
+  "name": [
+    "EPIK E-212"
+  ],
+  "unique_name": [
+    "EPIK E-212-G"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло серии комфорт"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки подголовника, спинки и сиденья: ткань<br>\n- цвет материала - по каталогу"
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и наклону",
+        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
+        "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+        "<strong>Облицовка спинки и сиденья</strong>: ткань",
+        "<strong>Подлокотники</strong> - алюминиевые, регулируемые в 6-ти плоскостях, накладки с фиксацией в нескольких положениях. Материал накладок подлокотников - ППУ высокой плотности",
+        "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении, слайд-система",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> алюминиевое d=700 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=60 мм имеют открытый пластиковый чехол"
+      ]
     }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "930",
+          "depth": "460",
+          "height": "660"
+        },
+        "box_size": "930х460х660",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "23,10",
+      "netto": "19,20",
+      "volume": "0,28"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "160",
+      "recommended_load": "130"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_epik/1080_epik_e_212_g_m021_01.png",
+      "chair_view": "img/armchair_epik/1080_epik_e_212_g_m021_02.png",
+      "dimensions": "img/armchair_epik/dimensions/1080_epik_e_212_g_m021_01.png",
+      "box": "img/box_epik.png",
+      "additional": [
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
+        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/dd5/140_140_0/2f74jb3frtakksvd1rtou0nky8128gha.png",
+        "https://utfc.ru/upload/resize_cache/iblock/61e/140_140_0/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/83b/140_140_0/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/c9d/140_140_0/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/upload/resize_cache/iblock/c70/400_400_0/5kk900l7qfsrm711xoakxvtnc111yqik.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/496/400_400_0/ek9kv3n02izh63bntwg0mfoflewbwvya.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
+        "https://utfc.ru/upload/resize_cache/iblock/8f4/140_140_0/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
+        "https://cdn.utfc-store.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
+        "https://cdn.utfc-store.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
+        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
+        "https://cdn.utfc-store.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
+        "https://cdn.utfc-store.ru/resize_cache/27357/83881752a2127bf2e42434fe4ae13e98/iblock/b11/b11d982c196a0dbfbfdb3bb7691dc635/987695862beca6c3639cfbcf0e5e0553.png",
+        "https://cdn.utfc-store.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
+        "https://cdn.utfc-store.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
+        "https://cdn.utfc-store.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
+        "https://cdn.utfc-store.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
+        "https://cdn.utfc-store.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
+        "https://cdn.utfc-store.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+        "https://cdn.utfc-store.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
+        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc-store.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
+        "https://cdn.utfc-store.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
+        "https://cdn.utfc-store.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
+        "https://cdn.utfc-store.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
+        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://cdn.utfc.ru/uf/8b9/c9wirgyzeeugzk1ssjeyxlmh0vl57zur.png",
+        "https://cdn.utfc.ru/uf/b35/gcrfbfhkgkqqwu59bzpt3kupxzkxls5q.png",
+        "https://cdn.utfc.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
+        "https://cdn.utfc.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
+        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc.ru/iblock/5a9/0wi1fqwsiy47a18o1zdd1vuxsk3mm3e0.png",
+        "https://cdn.utfc.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
+        "https://cdn.utfc.ru/uf/69f/4dkoddbt03eqf6t5aj02j58q4imn5m1z.png",
+        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc.ru/uf/02f/a37g2vkdvn6ozitdca95wwfw3ymhgr82.png",
+        "https://cdn.utfc.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png",
+        "https://cdn.utfc.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
+        "https://cdn.utfc.ru/uf/8eb/xnzhityqnco89ze6o7sgrkz4ivksuir9.png",
+        "https://cdn.utfc.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
+        "https://cdn.utfc.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
+        "https://cdn.utfc.ru/iblock/186/1867a1781c7cdcaad1b45ca591bb4c63/4642b01140a30faec22ecb1b9eebde58.png",
+        "https://cdn.utfc.ru/iblock/49e/49e97b5c33efbcdcd02c2f61fc2a1655/3edf214263eb792bbcd7f64bff8bc07d.png",
+        "https://cdn.utfc.ru/iblock/961/9612bcbd6f5b0d7ede676215b8e2d066/e291581e0655e0999d69e6023927cabf.png",
+        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+        "https://cdn.utfc.ru/iblock/91e/91efaacde95ce0ed85d04f50b17daa1c/5f54d8427c286862b711b056fc4a8ef2.png",
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1160",
+        "max": "1330"
+      },
+      "headrest_height": {
+        "min": "210",
+        "max": "280"
+      },
+      "seat_to_floor_height": {
+        "min": "440",
+        "max": "540"
+      },
+      "armrest_height_from_seat": {
+        "min": "140",
+        "max": "200"
+      },
+      "chair_depth": {
+        "min": "660",
+        "max": ""
+      },
+      "seat_depth": {
+        "min": "440",
+        "max": "490"
+      },
+      "backrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_to_seat_height": {
+        "min": "500",
+        "max": "550"
+      },
+      "seat_width_with_armrests": {
+        "min": "620",
+        "max": ""
+      },
+      "seat_width": {
+        "min": "",
+        "max": "500"
+      },
+      "diameter_cross": {
+        "min": "",
+        "max": "700"
+      },
+      "runners_width": {
+        "min": "",
+        "max": ""
+      },
+      "runners_depth": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_height_from_floor": {
+        "min": "200",
+        "max": "260"
+      },
+      "armrest_width_support": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_length_support": {
+        "min": "",
+        "max": ""
+      },
+      "seat_depth_km": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_height_external": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_width_narrow": {
+        "min": "",
+        "max": "400"
+      },
+      "backrest_width_wide": {
+        "min": "",
+        "max": "440"
+      },
+      "recommended_load": "130",
+      "max_load": "160",
+      "skeleton": "немонолитный",
+      "minpromtorg": {
+        "min": "",
+        "max": ""
+      },
+      "netto": "19",
+      "brutto": "23",
+      "package_width": "930",
+      "package_depth": "460",
+      "package_height": "660",
+      "volume": "0"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "p_5246",
+    "IE_NAME": "EPIK Е-212-G М021 (серый)",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 130,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/11a/zomnk0cffjnmlkcy1okluzij08lmmjgz.png",
+    "IE_PREVIEW_TEXT": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники 6D регулируются по высоте и поворачиваются на 180 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/4ba/rbk5ira13os04nhzdyc2trjwpyw3ho7m.png",
+    "IE_DETAIL_TEXT": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники регулируются по высоте и поворачиваются на 30 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "epik_e212g",
+    "IE_TAGS": "",
+    "IE_ID": 11664,
+    "IP_PROP2": 620,
+    "IP_PROP3": "1160-1330",
+    "IP_PROP4": 660,
+    "IP_PROP6": "",
+    "IP_PROP19": 160,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/2b6/vzvfmfm5olu0vdywqshd4zsg3h1m8f53.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/ef1/4kh2qvax1zlmy0sh8r32uigtbq5v6l52.png",
+    "IP_PROP5": 650,
+    "IP_PROP26": 920,
+    "IP_PROP27": 450,
+    "IP_PROP28": "23,1",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,27",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00038717",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/5a5/mnhfpzfvge4ybvisl2d921oh215ewtrm.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Пятилучье Е-212-G",
+    "IP_PROP42": "Подлокотник Е-212 G",
+    "IP_PROP43": "Газ-лифт Е-212-G",
+    "IP_PROP44": "Механизм Е-212",
+    "IP_PROP45": "Поддержка спины кресла Е-212",
+    "IP_PROP46": "Ролик Е-212-G",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 52,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "ЭПИК",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 39,
+    "IC_DESCRIPTION0": "Современный дизайн без компромиссов и премиальные материалы для уверенного лидерства и стиля",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "epik_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/dae/fjdmfrrih5khwme9l9w1r7ob66xbnvbk.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ac7/oxx22sy9v9t9gjz1xu17fqa2619qk0mt.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "N",
+    "CP_MEASURE": "",
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 42900,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 44187,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 42900,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 40103,
+      "IE_NAME": "Кресло EPIK E-212-G M021 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/7d1/zyaaknrcqt18v4bayndxquc1swjsekqb.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/74d/7wcoxtqnbwde1uiyn954jpxgnfi9quqv.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 11702,
+      "IP_PROP34": 11664,
+      "IP_PROP35": "ПУ-00030431",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/8f4/y5b31e1saa9dykoa811sva9ktvxlzmth.png",
+        "https://cdn.utfc.ru/iblock/dd5/2f74jb3frtakksvd1rtou0nky8128gha.png",
+        "https://cdn.utfc.ru/iblock/61e/wxef8i4g04rx9ntyjldqeux67bbfs5mg.png",
+        "https://cdn.utfc.ru/iblock/c9d/8xvoclmaa7avnl0rd3j9me3lnj4pb0j4.png",
+        "https://cdn.utfc.ru/iblock/83b/wl0jhogxg4jjkr2b38ltz7wzlizgts2s.png"
+      ],
+      "IP_PROP37": "Ткань-сетка Е-212",
+      "IP_PROP38": "Ткань Е-212 М021 (серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 42900,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 44187,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 42900,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Естественный комфорт для длительной работы в офисе - кресло EPIK Е-212-G М021 (серый) производства компании UTFC",
+  "base_name": "Кресло EPIK Е-212-G М021 (серый)",
+  "article_number": "ПУ-00030431",
+  "full_describe": "Современное кресло в стиле хай-тек. Анатомический дизайн спинки и регулируемый подголовник обеспечивают комфортную посадку на протяжении всего рабочего дня. Подлокотники 6D регулируются по высоте и поворачиваются на 180 градусов в разные стороны. Прочная ткань обладает износостойкостью и воздухопроницаемостью. Модель отлично будет смотреться в open-офисах и коворкингах.",
+  "Link_arm": "https://utfc.ru/catalog/epik_chairs/epik_e212g/?offers=11702",
+  "Основание": "Пятилучье алюминиевое Е-212-G, покрытие глянцевое, диаметр 700мм",
+  "Подлокотники": "Подлокотники алюминиевые 6D-регулируемые с мягкими накладками из ппу для кресла EPIK E-212 G",
+  "Газлифт": "Газ-лифт 4 класса сертифицирован по стандартам SGS и BIFMA",
+  "Механизм": "Синхронный механизм качания со слайд-системой позволяет регулировать высоту и глубину сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в нескольких положениях.",
+  "Особенности": "Регулируемая поддержка поясничного отдела позвоночника",
+  "Ролики": "Прочные пластиковые ролики с идеальной плавностью вращения",
+  "finish_type": [
+    "-",
+    "Ткань-сетка Е-212"
+  ],
+  "color": [
+    "Ткань Е-212 М021 (серый)"
+  ],
+  "variant_name": [
+    "Кресло EPIK Е-212-G М021 (серый) (-, Ткань Е-212 М021 (серый),, )",
+    "Кресло EPIK Е-212-G М021 (серый) (Ткань-сетка Е-212, Ткань Е-212 М021 (серый),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "madeinrf": "",
+  "sizes": {
+    "Ширина:": "620",
+    "Высота:": "1160-1330",
+    "Глубина:": "660",
+    "Нагрузка:": "160",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "650",
+    "Высота упаковки:": "920",
+    "Глубина упаковки:": "450",
+    "Вес брутто:": "23,1",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,27"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "650",
+    "Высота упаковки:": "920",
+    "Глубина упаковки:": "450",
+    "Материал упаковки:": "Гофрокартон"
+  }
 }

@@ -1,513 +1,513 @@
 {
-    "namefile": [
-        "Utfc мориока м-242 красный пластик"
-    ],
-    "name": [
-        "Мориока"
-    ],
-    "unique_name": [
-        "UTFC Мориока М-242 красный пластик"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки и сиденья:<br>высокопрочная сетка<br>\n- цвет материала и пластика - по каталогу"
-            ],
-            "components": [
-                "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
-                "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
-                "<strong>Облицовка</strong> спинки и сиденья: высококачественная сетка",
-                "<strong>Подлокотники</strong> - пластиковые",
-                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-                "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> пластиковое d=640 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> пластиковые d=50 мм имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "660",
-                    "depth": "285",
-                    "height": "590"
-                },
-                "box_size": "660х285х590",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "11,65",
-            "netto": "10,40",
-            "volume": "0,11"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/morioka_red_1.png",
-            "chair_view": "img/armchair_comfort/morioka_red_2.png",
-            "dimensions": "img/armchair_comfort/dimensions/morioka_grey_1.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/resize_cache/iblock/b77/140_140_0/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
-                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/b77/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
-                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9d1/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/resize_cache/iblock/567/140_140_0/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/13d/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-                "https://utfc.ru/upload/resize_cache/iblock/13d/140_140_0/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/upload/resize_cache/iblock/9d1/140_140_0/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/3b8/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://utfc.ru/upload/resize_cache/iblock/3b8/140_140_0/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
-                "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://cdn.utfc-store.ru/iblock/b77/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
-                "https://cdn.utfc-store.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
-                "https://cdn.utfc-store.ru/iblock/9d1/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
-                "https://cdn.utfc-store.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
-                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
-                "https://cdn.utfc-store.ru/iblock/13d/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
-                "https://cdn.utfc-store.ru/iblock/3b8/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
-                "https://cdn.utfc-store.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
-                "https://cdn.utfc-store.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
-                "https://cdn.utfc-store.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
-                "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://cdn.utfc-store.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
-                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc-store.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
-                "https://cdn.utfc-store.ru/resize_cache/28624/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
-                "https://cdn.utfc-store.ru/resize_cache/28625/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
-                "https://cdn.utfc-store.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
-                "https://cdn.utfc-store.ru/resize_cache/28622/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
-                "https://cdn.utfc-store.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
-                "https://cdn.utfc-store.ru/resize_cache/28621/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
-                "https://cdn.utfc-store.ru/resize_cache/28623/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
-                "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-                "https://cdn.utfc-store.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
-                "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-                "https://cdn.utfc-store.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
-                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://cdn.utfc.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
-                "https://cdn.utfc.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
-                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://cdn.utfc.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
-                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
-                "https://cdn.utfc.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
-                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-                "https://cdn.utfc.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
-                "https://cdn.utfc.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
-                "https://cdn.utfc.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
-                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://cdn.utfc.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
-                "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-                "https://cdn.utfc.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
-                "https://cdn.utfc.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
-                "https://cdn.utfc.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
-                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-                "https://cdn.utfc.ru/uf/892/8925e7d4b3a9115a3d292bc7fb664622/7e2a42985b39fdd00edc3ed5021e30c1.png",
-                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-                "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
-                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1130",
-                "max": "1230"
-            },
-            "headrest_height": {},
-            "seat_to_floor_height": {
-                "min": "460",
-                "max": "560"
-            },
-            "seat_to_floor_height_upper": {},
-            "armrest_height_from_floor": {
-                "min": "300"
-            },
-            "armrest_height_from_seat": {
-                "min": "205"
-            },
-            "armrest_width_support": {
-                "max": "60"
-            },
-            "armrest_length_support": {
-                "max": "260"
-            },
-            "chair_depth": {
-                "min": "630"
-            },
-            "seat_depth": {
-                "min": "410"
-            },
-            "seat_depth_km": {},
-            "backrest_height": {
-                "max": "660"
-            },
-            "backrest_to_seat_height": {},
-            "backrest_height_external": {
-                "max": "680"
-            },
-            "seat_width_with_armrests": {
-                "min": "570"
-            },
-            "seat_width": {
-                "max": "455"
-            },
-            "backrest_width_narrow": {
-                "max": "430"
-            },
-            "backrest_width_wide": {
-                "max": "430"
-            },
-            "diameter_cross": {
-                "max": "640"
-            },
-            "runners_width": {},
-            "runners_depth": {},
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "немонолитный",
-            "netto": "10",
-            "brutto": "12",
-            "package_width": "660",
-            "package_depth": "285",
-            "package_height": "590",
-            "volume": "0"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "Минпромторг",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1027",
-        "IE_NAME": "UTFC Мориока М-242 красный пластик",
-        "IE_ACTIVE": "Y",
-        "IE_ACTIVE_FROM": "",
-        "IE_ACTIVE_TO": "",
-        "IE_SORT": 1550,
-        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/dbb/obhj3jlir4q6g8vzn8devtwk1121ctxt.png",
-        "IE_PREVIEW_TEXT": "Кресло Мориока воплощает стиль и комфорт. Его минималистичный и инновационный дизайн делает его идеальным для современного офиса или дома. Доступные цвета — красный, зеленый, серый и черный — позволяют выбрать вариант, который либо добавит яркий акцент, либо поддержит спокойную цветовую гамму интерьера. Эргономичная изогнутая спинка обеспечивает отличную поддержку позвоночника. Кресло идеально подойдет для подростков и людей с ростом до 165 см.",
-        "IE_PREVIEW_TEXT_TYPE": "text",
-        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/9b1/pusu0g4u4gskgxwvlq6k9kfagse73ekr.png",
-        "IE_DETAIL_TEXT": "",
-        "IE_DETAIL_TEXT_TYPE": "text",
-        "IE_CODE": "m242_morioka_red",
-        "IE_TAGS": "",
-        "IE_ID": 12057,
-        "IP_PROP2": 570,
-        "IP_PROP3": "1130-1230",
-        "IP_PROP4": 630,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://cdn.utfc.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
-        "IP_PROP31": "https://cdn.utfc.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
-        "IP_PROP5": 660,
-        "IP_PROP26": 590,
-        "IP_PROP27": 285,
-        "IP_PROP28": "11,65",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,11",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ПУ-00038735",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://cdn.utfc.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "Пятилучье М-242 PL (красный)",
-        "IP_PROP42": "Подлокотник М-242 Мориока",
-        "IP_PROP43": "Газ-лифт М-242 хром",
-        "IP_PROP44": "Топ-ган",
-        "IP_PROP45": "Конструкция кресла М-242 Мориока",
-        "IP_PROP46": "Ролик М-242 Мориока",
-        "IP_PROP47": "",
-        "IP_PROP48": "Немонолитный",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP59": "Нет",
-        "IP_PROP60": "",
-        "IC_ID0": 40,
-        "IC_XML_ID0": "",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_ACTIVE0": "Y",
-        "IC_SORT0": 50,
-        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-        "IC_DESCRIPTION_TYPE0": "text",
-        "IC_CODE0": "comfort_chairs",
-        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-        "IC_ID1": "",
-        "IC_XML_ID1": "",
-        "IC_GROUP1": "",
-        "IC_ACTIVE1": "",
-        "IC_SORT1": "",
-        "IC_DESCRIPTION1": "",
-        "IC_DESCRIPTION_TYPE1": "",
-        "IC_CODE1": "",
-        "IC_PICTURE1": "",
-        "IC_DETAIL_PICTURE1": "",
-        "IC_ID2": "",
-        "IC_XML_ID2": "",
-        "IC_GROUP2": "",
-        "IC_ACTIVE2": "",
-        "IC_SORT2": "",
-        "IC_DESCRIPTION2": "",
-        "IC_DESCRIPTION_TYPE2": "",
-        "IC_CODE2": "",
-        "IC_PICTURE2": "",
-        "IC_DETAIL_PICTURE2": "",
-        "CP_QUANTITY": 0,
-        "CP_QUANTITY_TRACE": "N",
-        "CP_CAN_BUY_ZERO": "Y",
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CP_PURCHASING_PRICE": "",
-        "CP_PURCHASING_CURRENCY": "",
-        "CP_PRICE_TYPE": "S",
-        "CP_RECUR_SCHEME_LENGTH": "",
-        "CP_RECUR_SCHEME_TYPE": "D",
-        "CP_TRIAL_PRICE_ID": "",
-        "CP_WITHOUT_ORDER": "N",
-        "CP_VAT_ID": "",
-        "CP_VAT_INCLUDED": "N",
-        "CP_MEASURE": "",
-        "STORE_AMOUNT_2": "",
-        "STORE_AMOUNT_3": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 6695,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 6896,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 6695,
-        "CV_CURRENCY_3": "RUB",
-        "STORE_AMOUNT_4": ""
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50112,
-            "IE_NAME": "Кресло UTFC Мориока М-242 красный пластик (красный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/053/053428fb9ff2570520bd58180f3ca68f/32e52c1cbdd2a57898071fe405a4c2d9.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/760/760a3945fab8b00b089acd1fa1f293d4/43efbb099a926af2e9491df43b07dbbe.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12069,
-            "IP_PROP34": 12057,
-            "IP_PROP35": "ПУ-00033587",
-            "IP_PROP36": [
-                "https://cdn.utfc.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
-                "https://cdn.utfc.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
-                "https://cdn.utfc.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
-                "https://cdn.utfc.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
-                "https://cdn.utfc.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png"
-            ],
-            "IP_PROP37": "Ткань-сетка М-242",
-            "IP_PROP38": "Ткань М-242S (красный)",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP61": "",
-            "IC_ID0": "",
-            "IC_XML_ID0": "",
-            "IC_GROUP0": "",
-            "IC_ACTIVE0": "",
-            "IC_SORT0": "",
-            "IC_DESCRIPTION0": "",
-            "IP_PROP122": "красный",
-            "IC_DESCRIPTION_TYPE0": "",
-            "IC_CODE0": "",
-            "IC_PICTURE0": "",
-            "IC_DETAIL_PICTURE0": "",
-            "IC_ID1": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_ACTIVE1": "",
-            "IC_SORT1": "",
-            "IC_DESCRIPTION1": "",
-            "IC_DESCRIPTION_TYPE1": "",
-            "IC_CODE1": "",
-            "IC_PICTURE1": "",
-            "IC_DETAIL_PICTURE1": "",
-            "IC_ID2": "",
-            "IC_XML_ID2": "",
-            "IC_GROUP2": "",
-            "IC_ACTIVE2": "",
-            "IC_SORT2": "",
-            "IC_DESCRIPTION2": "",
-            "IC_DESCRIPTION_TYPE2": "",
-            "IC_CODE2": "",
-            "IC_PICTURE2": "",
-            "IC_DETAIL_PICTURE2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "STORE_AMOUNT_2": 0,
-            "STORE_AMOUNT_3": 0,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 6695,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 6896,
-            "CV_CURRENCY_2": "RUB",
-            "STORE_AMOUNT_4": 0,
-            "CV_PRICE_3": 6695,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Яркое комфортное ультрасовременное офисное кресло UTFC Мориока М-242 красный пластик производства компании UTFC",
-    "base_name": "Кресло UTFC Мориока М-242 красный пластик",
-    "article_number": "ПУ-00033587",
-    "full_describe": "Кресло Мориока воплощает стиль и комфорт. Его минималистичный и инновационный дизайн делает его идеальным для современного офиса или дома. Доступные цвета — красный, зеленый, серый и черный — позволяют выбрать вариант, который либо добавит яркий акцент, либо поддержит спокойную цветовую гамму интерьера. Эргономичная изогнутая спинка обеспечивает отличную поддержку позвоночника. Кресло идеально подойдет для подростков и людей с ростом до 165 см.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m242_morioka_red/?offers=12069",
-    "Основание": "Пятилучье пластиковое М-242 PL, покрытие матовое, диаметр 640мм, (красный)",
-    "Подлокотники": "Подлокотники пластиковые для кресла М-242 Мориока",
-    "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550",
-    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-    "Особенности": "Дизайнерский каркас. Легкая, надежная конструкция.",
-    "Ролики": "Нейлоновые ролики 50 мм",
-    "finish_type": [
-        "-",
-        "Ткань-сетка М-242"
-    ],
-    "color": [
-        "Ткань М-242S (красный)"
-    ],
-    "variant_name": [
-        "Кресло UTFC Мориока М-242 красный пластик (-, Ткань М-242S (красный),, )",
-        "Кресло UTFC Мориока М-242 красный пластик (Ткань-сетка М-242, Ткань М-242S (красный),, )"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
-    ],
-    "madeinrf": "Сделано в РФ",
-    "lost": [
-        {
-            "clean": true,
-            "limit": false,
-            "del": false
-        }
-    ],
-    "sizes": {
-        "Ширина:": "570",
-        "Высота:": "1130-1230",
-        "Глубина:": "630",
-        "Нагрузка:": "120",
-        "Каркас:": "Немонолитный",
-        "Ширина упаковки:": "660",
-        "Высота упаковки:": "590",
-        "Глубина упаковки:": "285",
-        "Вес брутто:": "11,65",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,11"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "660",
-        "Высота упаковки:": "590",
-        "Глубина упаковки:": "285",
-        "Материал упаковки:": "Гофрокартон"
+  "namefile": [
+    "Utfc мориока м-242 красный пластик"
+  ],
+  "name": [
+    "Мориока"
+  ],
+  "unique_name": [
+    "UTFC Мориока М-242 красный пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и сиденья:<br>высокопрочная сетка<br>\n- цвет материала и пластика - по каталогу"
+      ],
+      "components": [
+        "спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента",
+        "<strong>Сиденье</strong> состоит из пластикового каркаса и обивочного элемента",
+        "<strong>Облицовка</strong> спинки и сиденья: высококачественная сетка",
+        "<strong>Подлокотники</strong> - пластиковые",
+        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 100 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=640 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> пластиковые d=50 мм имеют открытый пластиковый чехол"
+      ]
     }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "660",
+          "depth": "285",
+          "height": "590"
+        },
+        "box_size": "660х285х590",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "11,65",
+      "netto": "10,40",
+      "volume": "0,11"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/morioka_red_1.png",
+      "chair_view": "img/armchair_comfort/morioka_red_2.png",
+      "dimensions": "img/armchair_comfort/dimensions/morioka_grey_1.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/b77/140_140_0/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/b77/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
+        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/9d1/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/567/140_140_0/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/13d/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/resize_cache/iblock/13d/140_140_0/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/upload/resize_cache/iblock/9d1/140_140_0/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/3b8/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://utfc.ru/upload/resize_cache/iblock/3b8/140_140_0/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
+        "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://cdn.utfc-store.ru/iblock/b77/ooxtqav4na0q0fiwgqs3v738c8jru1f8.png",
+        "https://cdn.utfc-store.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
+        "https://cdn.utfc-store.ru/iblock/9d1/v2n1264yksfowi8axdk25m3lfpf72lzj.png",
+        "https://cdn.utfc-store.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
+        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
+        "https://cdn.utfc-store.ru/iblock/13d/73drdp5ptcpwjevwcan38uj8kalkhwoz.png",
+        "https://cdn.utfc-store.ru/iblock/3b8/zkkx9hngyjuam1o4qxixd03fardz94cw.png",
+        "https://cdn.utfc-store.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
+        "https://cdn.utfc-store.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
+        "https://cdn.utfc-store.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
+        "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc-store.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
+        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc-store.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
+        "https://cdn.utfc-store.ru/resize_cache/28624/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
+        "https://cdn.utfc-store.ru/resize_cache/28625/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
+        "https://cdn.utfc-store.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
+        "https://cdn.utfc-store.ru/resize_cache/28622/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
+        "https://cdn.utfc-store.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
+        "https://cdn.utfc-store.ru/resize_cache/28621/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
+        "https://cdn.utfc-store.ru/resize_cache/28623/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
+        "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+        "https://cdn.utfc-store.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
+        "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+        "https://cdn.utfc-store.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
+        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://cdn.utfc.ru/uf/a2d/l8wh9koybjarz5su1hcsi4mk1x0no10a.png",
+        "https://cdn.utfc.ru/uf/7c5/mu9hbfmeikge1qp782wk32oys271w9md.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
+        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc.ru/uf/530/jiifb6ivi1eovuul3p9nuye4pt40tcjt.png",
+        "https://cdn.utfc.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
+        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+        "https://cdn.utfc.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
+        "https://cdn.utfc.ru/uf/0dd/qd1v8jyun15w11gwfo5xpzn70r9iji7q.png",
+        "https://cdn.utfc.ru/uf/327/o0g3hq12e39lwh1napvk1wtg82l88l0y.png",
+        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://cdn.utfc.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
+        "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+        "https://cdn.utfc.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
+        "https://cdn.utfc.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png",
+        "https://cdn.utfc.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
+        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+        "https://cdn.utfc.ru/uf/892/8925e7d4b3a9115a3d292bc7fb664622/7e2a42985b39fdd00edc3ed5021e30c1.png",
+        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+        "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
+        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1130",
+        "max": "1230"
+      },
+      "headrest_height": {},
+      "seat_to_floor_height": {
+        "min": "460",
+        "max": "560"
+      },
+      "seat_to_floor_height_upper": {},
+      "armrest_height_from_floor": {
+        "min": "300"
+      },
+      "armrest_height_from_seat": {
+        "min": "205"
+      },
+      "armrest_width_support": {
+        "max": "60"
+      },
+      "armrest_length_support": {
+        "max": "260"
+      },
+      "chair_depth": {
+        "min": "630"
+      },
+      "seat_depth": {
+        "min": "410"
+      },
+      "seat_depth_km": {},
+      "backrest_height": {
+        "max": "660"
+      },
+      "backrest_to_seat_height": {},
+      "backrest_height_external": {
+        "max": "680"
+      },
+      "seat_width_with_armrests": {
+        "min": "570"
+      },
+      "seat_width": {
+        "max": "455"
+      },
+      "backrest_width_narrow": {
+        "max": "430"
+      },
+      "backrest_width_wide": {
+        "max": "430"
+      },
+      "diameter_cross": {
+        "max": "640"
+      },
+      "runners_width": {},
+      "runners_depth": {},
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "netto": "10",
+      "brutto": "12",
+      "package_width": "660",
+      "package_depth": "285",
+      "package_height": "590",
+      "volume": "0"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "Минпромторг",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1027",
+    "IE_NAME": "UTFC Мориока М-242 красный пластик",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 1550,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/dbb/obhj3jlir4q6g8vzn8devtwk1121ctxt.png",
+    "IE_PREVIEW_TEXT": "Кресло Мориока воплощает стиль и комфорт. Его минималистичный и инновационный дизайн делает его идеальным для современного офиса или дома. Доступные цвета — красный, зеленый, серый и черный — позволяют выбрать вариант, который либо добавит яркий акцент, либо поддержит спокойную цветовую гамму интерьера. Эргономичная изогнутая спинка обеспечивает отличную поддержку позвоночника. Кресло идеально подойдет для подростков и людей с ростом до 165 см.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/9b1/pusu0g4u4gskgxwvlq6k9kfagse73ekr.png",
+    "IE_DETAIL_TEXT": "",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "m242_morioka_red",
+    "IE_TAGS": "",
+    "IE_ID": 12057,
+    "IP_PROP2": 570,
+    "IP_PROP3": "1130-1230",
+    "IP_PROP4": 630,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/095/8ajsr2z45mctm2tmludzh6a5fufiympx.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/f1d/d929ez9on3oq14mks148k064s84subjb.png",
+    "IP_PROP5": 660,
+    "IP_PROP26": 590,
+    "IP_PROP27": 285,
+    "IP_PROP28": "11,65",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,11",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00038735",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/567/ezndx6w92hx52gxreyeoo1qz8w034sc7.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Пятилучье М-242 PL (красный)",
+    "IP_PROP42": "Подлокотник М-242 Мориока",
+    "IP_PROP43": "Газ-лифт М-242 хром",
+    "IP_PROP44": "Топ-ган",
+    "IP_PROP45": "Конструкция кресла М-242 Мориока",
+    "IP_PROP46": "Ролик М-242 Мориока",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 40,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 50,
+    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "comfort_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "N",
+    "CP_MEASURE": "",
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 6695,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 6896,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 6695,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50112,
+      "IE_NAME": "Кресло UTFC Мориока М-242 красный пластик (красный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/053/053428fb9ff2570520bd58180f3ca68f/32e52c1cbdd2a57898071fe405a4c2d9.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/760/760a3945fab8b00b089acd1fa1f293d4/43efbb099a926af2e9491df43b07dbbe.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12069,
+      "IP_PROP34": 12057,
+      "IP_PROP35": "ПУ-00033587",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/ff1/ff14c72ac991d5dddfad2095b392070a/8a87e5f6c014d4159fa99559981b1643.png",
+        "https://cdn.utfc.ru/iblock/e8e/e8ed0ca227df44e5e69a605d972d160a/f0ec54640a6039bfa6cd84789385674a.png",
+        "https://cdn.utfc.ru/iblock/e63/e631eac3a1757c3f34a0edb8515796ea/daaeace4e1b7765205c9d8e9b8c2aacb.png",
+        "https://cdn.utfc.ru/iblock/7c2/7c21a56c77cbe9e628d493bcf545184e/f1194cc4dac02f307421e79ae6198d9d.png",
+        "https://cdn.utfc.ru/iblock/841/8410d4001d92c5dd07a3c43474264cf8/f67dcc43b86fcd795980d6bbf27c5825.png"
+      ],
+      "IP_PROP37": "Ткань-сетка М-242",
+      "IP_PROP38": "Ткань М-242S (красный)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "красный",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 6695,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 6896,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 6695,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Яркое комфортное ультрасовременное офисное кресло UTFC Мориока М-242 красный пластик производства компании UTFC",
+  "base_name": "Кресло UTFC Мориока М-242 красный пластик",
+  "article_number": "ПУ-00033587",
+  "full_describe": "Кресло Мориока воплощает стиль и комфорт. Его минималистичный и инновационный дизайн делает его идеальным для современного офиса или дома. Доступные цвета — красный, зеленый, серый и черный — позволяют выбрать вариант, который либо добавит яркий акцент, либо поддержит спокойную цветовую гамму интерьера. Эргономичная изогнутая спинка обеспечивает отличную поддержку позвоночника. Кресло идеально подойдет для подростков и людей с ростом до 165 см.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m242_morioka_red/?offers=12069",
+  "Основание": "Пятилучье пластиковое М-242 PL, покрытие матовое, диаметр 640мм, (красный)",
+  "Подлокотники": "Подлокотники пластиковые для кресла М-242 Мориока",
+  "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550",
+  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "Дизайнерский каркас. Легкая, надежная конструкция.",
+  "Ролики": "Нейлоновые ролики 50 мм",
+  "finish_type": [
+    "-",
+    "Ткань-сетка М-242"
+  ],
+  "color": [
+    "Ткань М-242S (красный)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Мориока М-242 красный пластик (-, Ткань М-242S (красный),, )",
+    "Кресло UTFC Мориока М-242 красный пластик (Ткань-сетка М-242, Ткань М-242S (красный),, )"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "madeinrf": "Сделано в РФ",
+  "lost": [
+    {
+      "clean": true,
+      "limit": false,
+      "del": false
+    }
+  ],
+  "sizes": {
+    "Ширина:": "570",
+    "Высота:": "1130-1230",
+    "Глубина:": "630",
+    "Нагрузка:": "120",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "660",
+    "Высота упаковки:": "590",
+    "Глубина упаковки:": "285",
+    "Вес брутто:": "11,65",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,11"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "660",
+    "Высота упаковки:": "590",
+    "Глубина упаковки:": "285",
+    "Материал упаковки:": "Гофрокартон"
+  }
 }

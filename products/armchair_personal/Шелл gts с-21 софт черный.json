@@ -1,492 +1,491 @@
 {
-    "namefile": [
-        "Шелл gts с-21 софт черный"
-    ],
-    "name_all": [
-        "Шелл GTS пластик",
-        "Шелл GTS хром"
-    ],
-    "name": [
-        "Шелл GTS пластик"
-    ],
-    "unique_name": [
-        "Шелл GTS С-21 Софт черный"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло для персонала"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях<br>Изготавливается с жестким элементом спинки-сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- цвет пластикового каркаса-ракушки - по каталогу"
-            ],
-            "components": [
-                "пластикового каркаса-ракушки, сиденья, пиастры, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Каркас-ракушка</strong> пластиковый с мягким сиденьем",
-                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого (пенополиуретан, жесткость - 30, плотность — 20 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу-ракушке с помощью 4-х винтов М6",
-                "<strong>Материал облицовки сиденья:</strong> экокожа (S,R)",
-                "<strong>Пиастра</strong> крепится к основанию каркаса-ракушки с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
-                "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
-                "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> черные d=50 мм с полиуретановым покрытием имеют открытый пластиковый чехол"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": 624,
-                    "depth": 322,
-                    "height": 665
-                },
-                "box_size": "624х322х665",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "",
-            "netto": "",
-            "volume": "0,13"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_personal/shell_c21_gts_bl_black_soft_0422_01.png",
-            "chair_view": "img/armchair_personal/shell_c21_gts_bl_black_soft_0422_02.png",
-            "dimensions": "img/armchair_personal/dimensions/shell_c21_gts_bl_black_soft_0422_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://cdn.utfc.ru/iblock/9dd/9dd0fa51152fb12ef8354b1f71aabe59.png",
-                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://cdn.utfc.ru/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.png",
-                "https://cdn.utfc.ru/iblock/ca1/ca1415b8b5ff041c67dfd191dde57cc7/fe2779ce7eca0c7fdf6e7cf8d7308f4e.png",
-                "https://cdn.utfc.ru/iblock/766/7660b73a28859cfc01ddb493c0ce30b7/d72c5e2fb07d066b6991e909ba9035d8.png",
-                "https://cdn.utfc.ru/iblock/e36/e36142af92e25436f548a3a0e9bb4d48/2d08fcfd687d826f7b394f31ac5ca6b2.png",
-                "https://cdn.utfc.ru/iblock/6ff/6ffe666a7460840879d5791827f2ca8e/3fa64fcc4d1b184106eba1aa1d4ad483.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://cdn.utfc.ru/iblock/487/487e3192017b68ca5e028e578d3d4b10/e74f8d8624b7a9ca07a91614bd8c65d4.png",
-                "https://cdn.utfc.ru/iblock/28f/28f0e41312c5e22ea6d6848b5027d791/659e4c60e14a5fa9fe08cc316d291670.png",
-                "https://cdn.utfc.ru/iblock/18b/18b080c3bc3ab944f80358e84a76d651/45034f484a0f82ba1790d0214d5cef36.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc.ru/uf/e7e/ptsn7azj32k52zm7iut1g14jfche8edp.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
-                "https://cdn.utfc.ru/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://cdn.utfc.ru/iblock/8c5/8c567effc81b6086c5982175b9149b9c/c13f67e8db56d028c53e0d2d326a8aca.png",
-                "https://cdn.utfc.ru/uf/2f6/t58hht87rij6473bfzs7e5qa017izxtn.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://cdn.utfc.ru/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.png",
-                "https://cdn.utfc.ru/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.png",
-                "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
-                "https://cdn.utfc.ru/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.png",
-                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-                "https://cdn.utfc.ru/iblock/bc2/bc2166b704579feb802cd10858a30bba.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "780",
-                "max": "920"
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "450",
-                "max": "590"
-            },
-            "armrest_height_from_seat": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "495",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "420",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": "360"
-            },
-            "backrest_to_seat_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width": {
-                "min": "",
-                "max": "460"
-            },
-            "diameter_cross": {
-                "min": "",
-                "max": "580"
-            },
-            "runners_width": {
-                "min": "",
-                "max": ""
-            },
-            "runners_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "385",
-                "max": "525"
-            },
-            "armrest_height_from_floor": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_width_support": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_length_support": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth_km": {
-                "min": "",
-                "max": "420"
-            },
-            "backrest_height_external": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_width_narrow": {
-                "min": "",
-                "max": "270"
-            },
-            "backrest_width_wide": {
-                "min": "",
-                "max": "430"
-            },
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "монолитный",
-            "minpromtorg": "+",
-            "netto": "5",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
-            "package_width": "624",
-            "package_depth": "322",
-            "package_height": "665",
-            "volume": "0"
-        }
-    ],
-    "title": "Кресло С-21 Шелл GTS Софт черный Ср производства компании UTFC",
-    "base_name": "Кресло С-21 Шелл GTS Софт черный Ср",
-    "article_number": "ПУ-00043830",
-    "full_describe": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
-    "Link_arm": "https://utfc.ru/catalog/staff_chairs/shell_gts_soft_bl/?offers=13692",
-    "minpromtorg": "+",
-    "madeinrf": "Сделано в РФ",
-    "Основание": "Пятилучье пластиковое d=580 мм",
-    "Подлокотники": "",
-    "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
-    "Механизм": "Пиастра — механизм регулировки высоты сиденья.",
-    "Особенности": "",
-    "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
-    "sizes": {
-        "Ширина:": "460",
-        "Высота:": "780-920",
-        "Глубина:": "495",
-        "Нагрузка:": "120",
-        "Каркас:": "Монолитный",
-        "Ширина упаковки:": "624",
-        "Высота упаковки:": "665",
-        "Глубина упаковки:": "322",
-        "Вес брутто:": "7,2",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,13"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "624",
-        "Высота упаковки:": "665",
-        "Глубина упаковки:": "322",
-        "Материал упаковки:": "Гофрокартон"
-    },
-    "finish_type": [
-        "-",
-        "Экокожа Santorini"
-    ],
-    "color": [
-        "Экокожа S-0422 (темно-серый)"
-    ],
-    "finish_type_seat": [
-        ""
-    ],
-    "color_seat": [
-        ""
-    ],
-    "variant_name": [
-        "Кресло С-21 Шелл GTS Софт черный Ср (-, Экокожа S-0422 (темно-серый),, )",
-        "Кресло С-21 Шелл GTS Софт черный Ср (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
-    ],
-    "parent": {
-        "IE_XML_ID": 13691,
-        "IE_NAME": "С-21 Шелл GTS Софт черный Ср",
-        "IE_ACTIVE": "Y",
-        "IE_ACTIVE_FROM": "",
-        "IE_ACTIVE_TO": "",
-        "IE_SORT": 1675,
-        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/956/95651966faa449f7a1cff56d2684b352/e5f7f94f64cb13f7d0860b248595b2d9.png",
-        "IE_PREVIEW_TEXT": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
-        "IE_PREVIEW_TEXT_TYPE": "text",
-        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/491/49145b1461b67cd632d655c0a12fd43e/d164decd37d935c5f7475d8b75fdd492.png",
-        "IE_DETAIL_TEXT": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
-        "IE_DETAIL_TEXT_TYPE": "text",
-        "IE_CODE": "shell_gts_soft_bl",
-        "IE_TAGS": "",
-        "IE_ID": 13691,
-        "IP_PROP2": 460,
-        "IP_PROP3": "780-920",
-        "IP_PROP4": 495,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Монолитный",
-        "IP_PROP18": "https://cdn.utfc.ru/iblock/8c5/8c567effc81b6086c5982175b9149b9c/c13f67e8db56d028c53e0d2d326a8aca.png",
-        "IP_PROP31": "https://cdn.utfc.ru/iblock/6ff/6ffe666a7460840879d5791827f2ca8e/3fa64fcc4d1b184106eba1aa1d4ad483.png",
-        "IP_PROP5": 624,
-        "IP_PROP26": 665,
-        "IP_PROP27": 322,
-        "IP_PROP28": "7,2",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,13",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ПУ-00044596",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://cdn.utfc.ru/iblock/8ed/8ed30f44549e4911a887c64e2fbcb024/1972a26f6a866f2f250c4cc317a0eae1.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "Пятилучье пластиковое d=580 мм",
-        "IP_PROP42": "",
-        "IP_PROP43": "Газ-лифт h=290 мм",
-        "IP_PROP44": "Пиастра круглая",
-        "IP_PROP45": "",
-        "IP_PROP46": "Ролик п/у (Ср), открытый чехол, d колеса 50 мм, d штока 11 мм",
-        "IP_PROP47": "",
-        "IP_PROP48": "Монолитный",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP59": "Нет",
-        "IP_PROP60": "",
-        "IC_ID0": 1,
-        "IC_XML_ID0": 19,
-        "IC_GROUP0": "Кресла для персонала",
-        "IC_ACTIVE0": "Y",
-        "IC_SORT0": 45,
-        "IC_DESCRIPTION0": "Практичность, комфорт и надёжность для продуктивной работы в течение всего дня",
-        "IC_DESCRIPTION_TYPE0": "html",
-        "IC_CODE0": "staff_chairs",
-        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/bb2/bb201ba070ef1c4146778dbce29c0723.png",
-        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/671/671562ac346e2a8e8fd86b87a4440f37.png",
-        "IC_ID1": "",
-        "IC_XML_ID1": "",
-        "IC_GROUP1": "",
-        "IC_ACTIVE1": "",
-        "IC_SORT1": "",
-        "IC_DESCRIPTION1": "",
-        "IC_DESCRIPTION_TYPE1": "",
-        "IC_CODE1": "",
-        "IC_PICTURE1": "",
-        "IC_DETAIL_PICTURE1": "",
-        "IC_ID2": "",
-        "IC_XML_ID2": "",
-        "IC_GROUP2": "",
-        "IC_ACTIVE2": "",
-        "IC_SORT2": "",
-        "IC_DESCRIPTION2": "",
-        "IC_DESCRIPTION_TYPE2": "",
-        "IC_CODE2": "",
-        "IC_PICTURE2": "",
-        "IC_DETAIL_PICTURE2": "",
-        "CP_QUANTITY": 0,
-        "CP_QUANTITY_TRACE": "N",
-        "CP_CAN_BUY_ZERO": "Y",
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CP_PURCHASING_PRICE": "",
-        "CP_PURCHASING_CURRENCY": "",
-        "CP_PRICE_TYPE": "S",
-        "CP_RECUR_SCHEME_LENGTH": "",
-        "CP_RECUR_SCHEME_TYPE": "D",
-        "CP_TRIAL_PRICE_ID": "",
-        "CP_WITHOUT_ORDER": "N",
-        "CP_VAT_ID": "",
-        "CP_VAT_INCLUDED": "Y",
-        "CP_MEASURE": 5,
-        "STORE_AMOUNT_2": "",
-        "STORE_AMOUNT_3": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 3461,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 3565,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 3461,
-        "CV_CURRENCY_3": "RUB",
-        "STORE_AMOUNT_4": ""
-    },
-    "children": [
-        {
-            "IE_XML_ID": 13692,
-            "IE_NAME": "Кресло С-21 Шелл GTS Софт черный/черный Ср S-0422 (темно-серый)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/3c8/3c82f1d58415b0be9664b83b575c4643/7e259eccc3bc99fc4ff1f83f669095b0.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/e6c/e6c54e45406a147fe5e22c406f9dc04e/6809b2aabb073e1f09a3e4c5dca6298b.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 13692,
-            "IP_PROP34": 13691,
-            "IP_PROP35": "ПУ-00043830",
-            "IP_PROP36": [
-                "https://cdn.utfc.ru/iblock/18b/18b080c3bc3ab944f80358e84a76d651/45034f484a0f82ba1790d0214d5cef36.png",
-                "https://cdn.utfc.ru/iblock/28f/28f0e41312c5e22ea6d6848b5027d791/659e4c60e14a5fa9fe08cc316d291670.png",
-                "https://cdn.utfc.ru/iblock/487/487e3192017b68ca5e028e578d3d4b10/e74f8d8624b7a9ca07a91614bd8c65d4.png",
-                "https://cdn.utfc.ru/iblock/e36/e36142af92e25436f548a3a0e9bb4d48/2d08fcfd687d826f7b394f31ac5ca6b2.png",
-                "https://cdn.utfc.ru/iblock/766/7660b73a28859cfc01ddb493c0ce30b7/d72c5e2fb07d066b6991e909ba9035d8.png"
-            ],
-            "IP_PROP37": "Экокожа Santorini",
-            "IP_PROP38": "Экокожа S-0422 (темно-серый)",
-            "IP_PROP39": "",
-            "IP_PROP40": "",
-            "IP_PROP61": "",
-            "IC_ID0": "",
-            "IC_XML_ID0": "",
-            "IC_GROUP0": "",
-            "IC_ACTIVE0": "",
-            "IC_SORT0": "",
-            "IC_DESCRIPTION0": "",
-            "IP_PROP122": [
-                "черный",
-                "серый",
-                "разноцветный"
-            ],
-            "IC_DESCRIPTION_TYPE0": "",
-            "IC_CODE0": "",
-            "IC_PICTURE0": "",
-            "IC_DETAIL_PICTURE0": "",
-            "IC_ID1": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_ACTIVE1": "",
-            "IC_SORT1": "",
-            "IC_DESCRIPTION1": "",
-            "IC_DESCRIPTION_TYPE1": "",
-            "IC_CODE1": "",
-            "IC_PICTURE1": "",
-            "IC_DETAIL_PICTURE1": "",
-            "IC_ID2": "",
-            "IC_XML_ID2": "",
-            "IC_GROUP2": "",
-            "IC_ACTIVE2": "",
-            "IC_SORT2": "",
-            "IC_DESCRIPTION2": "",
-            "IC_DESCRIPTION_TYPE2": "",
-            "IC_CODE2": "",
-            "IC_PICTURE2": "",
-            "IC_DETAIL_PICTURE2": "",
-            "CP_QUANTITY": 0,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "STORE_AMOUNT_2": 0,
-            "STORE_AMOUNT_3": 0,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 3461,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 3565,
-            "CV_CURRENCY_2": "RUB",
-            "STORE_AMOUNT_4": 0,
-            "CV_PRICE_3": 3461,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "additional_info": {
-        "package_dimensions": {
-            "depth": "624",
-            "height": "322"
-        },
-        "volume": "0,13"
+  "namefile": [
+    "Шелл gts с-21 софт черный"
+  ],
+  "name_all": [
+    "Шелл GTS пластик",
+    "Шелл GTS хром"
+  ],
+  "name": [
+    "Шелл GTS пластик"
+  ],
+  "unique_name": [
+    "Шелл GTS С-21 Софт черный"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло для персонала"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях<br>Изготавливается с жестким элементом спинки-сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- цвет пластикового каркаса-ракушки - по каталогу"
+      ],
+      "components": [
+        "пластикового каркаса-ракушки, сиденья, пиастры, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Каркас-ракушка</strong> пластиковый с мягким сиденьем",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого (пенополиуретан, жесткость - 30, плотность — 20 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу-ракушке с помощью 4-х винтов М6",
+        "<strong>Материал облицовки сиденья:</strong> экокожа (S,R)",
+        "<strong>Пиастра</strong> крепится к основанию каркаса-ракушки с помощью 4-х винтов М6, снабжена рычагом регулировки газ-лифта",
+        "<strong>Газ-лифт</strong> с высотой подъема 140 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола, подпружинивает сиденье и демпфирует нагрузку на позвоночник в момент посадки. Газ-лифт закрыт телескопическим чехлом",
+        "<strong>Пятилучье</strong> пластиковое d=580 мм с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> черные d=50 мм с полиуретановым покрытием имеют открытый пластиковый чехол"
+      ]
     }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": 624,
+          "depth": 322,
+          "height": 665
+        },
+        "box_size": "624х322х665",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "7,55",
+      "netto": "",
+      "volume": "0,13"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_personal/shell_c21_gts_bl_black_soft_0422_01.png",
+      "chair_view": "img/armchair_personal/shell_c21_gts_bl_black_soft_0422_02.png",
+      "dimensions": "img/armchair_personal/dimensions/shell_c21_gts_bl_black_soft_0422_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://cdn.utfc.ru/iblock/9dd/9dd0fa51152fb12ef8354b1f71aabe59.png",
+        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://cdn.utfc.ru/iblock/8b4/bx8muu1dc1xkhd3x6dagsufj9wc7aobi.png",
+        "https://cdn.utfc.ru/iblock/ca1/ca1415b8b5ff041c67dfd191dde57cc7/fe2779ce7eca0c7fdf6e7cf8d7308f4e.png",
+        "https://cdn.utfc.ru/iblock/766/7660b73a28859cfc01ddb493c0ce30b7/d72c5e2fb07d066b6991e909ba9035d8.png",
+        "https://cdn.utfc.ru/iblock/e36/e36142af92e25436f548a3a0e9bb4d48/2d08fcfd687d826f7b394f31ac5ca6b2.png",
+        "https://cdn.utfc.ru/iblock/6ff/6ffe666a7460840879d5791827f2ca8e/3fa64fcc4d1b184106eba1aa1d4ad483.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://cdn.utfc.ru/iblock/487/487e3192017b68ca5e028e578d3d4b10/e74f8d8624b7a9ca07a91614bd8c65d4.png",
+        "https://cdn.utfc.ru/iblock/28f/28f0e41312c5e22ea6d6848b5027d791/659e4c60e14a5fa9fe08cc316d291670.png",
+        "https://cdn.utfc.ru/iblock/18b/18b080c3bc3ab944f80358e84a76d651/45034f484a0f82ba1790d0214d5cef36.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc.ru/uf/e7e/ptsn7azj32k52zm7iut1g14jfche8edp.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://cdn.utfc.ru/uf/8d0/8d0fc428274bc3dd435ab3736b873e89.jpg",
+        "https://cdn.utfc.ru/uf/1d6/1d6cad79d9bf8920195690bb2e2486ea.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://cdn.utfc.ru/iblock/8c5/8c567effc81b6086c5982175b9149b9c/c13f67e8db56d028c53e0d2d326a8aca.png",
+        "https://cdn.utfc.ru/uf/2f6/t58hht87rij6473bfzs7e5qa017izxtn.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://cdn.utfc.ru/iblock/b82/yrw2kqzjb7n4iz8h66e0id4zqe70gpso.png",
+        "https://cdn.utfc.ru/uf/bc1/bc19ccc90baa8164a6f8de94c86f1b38.png",
+        "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
+        "https://cdn.utfc.ru/uf/7ef/7efdfa93e4771a65b4a0adb5c600e07e.png",
+        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+        "https://cdn.utfc.ru/iblock/bc2/bc2166b704579feb802cd10858a30bba.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "780",
+        "max": "920"
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "450",
+        "max": "590"
+      },
+      "armrest_height_from_seat": {
+        "min": "",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "495",
+        "max": ""
+      },
+      "seat_depth": {
+        "min": "420",
+        "max": ""
+      },
+      "backrest_height": {
+        "min": "",
+        "max": "360"
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width": {
+        "min": "",
+        "max": "460"
+      },
+      "diameter_cross": {
+        "min": "",
+        "max": "580"
+      },
+      "runners_width": {
+        "min": "",
+        "max": ""
+      },
+      "runners_depth": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "385",
+        "max": "525"
+      },
+      "armrest_height_from_floor": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_width_support": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_length_support": {
+        "min": "",
+        "max": ""
+      },
+      "seat_depth_km": {
+        "min": "",
+        "max": "420"
+      },
+      "backrest_height_external": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_width_narrow": {
+        "min": "",
+        "max": "270"
+      },
+      "backrest_width_wide": {
+        "min": "",
+        "max": "430"
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "монолитный",
+      "minpromtorg": "+",
+      "netto": "5",
+      "brutto": "8",
+      "package_width": "624",
+      "package_depth": "322",
+      "package_height": "665",
+      "volume": "0"
+    }
+  ],
+  "title": "Кресло С-21 Шелл GTS Софт черный Ср производства компании UTFC",
+  "base_name": "Кресло С-21 Шелл GTS Софт черный Ср",
+  "article_number": "ПУ-00043830",
+  "full_describe": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
+  "Link_arm": "https://utfc.ru/catalog/staff_chairs/shell_gts_soft_bl/?offers=13692",
+  "minpromtorg": "Минпромторг",
+  "madeinrf": "Сделано в РФ",
+  "Основание": "Пятилучье пластиковое d=580 мм",
+  "Подлокотники": "",
+  "Газлифт": "Газ-лифт 2 категории по стандарту Germany DIN 4550, h=290 мм, длина штока 140 мм",
+  "Механизм": "Пиастра — механизм регулировки высоты сиденья.",
+  "Особенности": "",
+  "Ролики": "Пластиковые ролики с полиуретановым покрытием Ср, открытый чехол, d колеса 50 мм, d штока 11 мм. Стандарт BIFMA 5,1 (США).",
+  "sizes": {
+    "Ширина:": "460",
+    "Высота:": "780-920",
+    "Глубина:": "495",
+    "Нагрузка:": "120",
+    "Каркас:": "Монолитный",
+    "Ширина упаковки:": "624",
+    "Высота упаковки:": "665",
+    "Глубина упаковки:": "322",
+    "Вес брутто:": "7,2",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,13"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "624",
+    "Высота упаковки:": "665",
+    "Глубина упаковки:": "322",
+    "Материал упаковки:": "Гофрокартон"
+  },
+  "finish_type": [
+    "-",
+    "Экокожа Santorini"
+  ],
+  "color": [
+    "Экокожа S-0422 (темно-серый)"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "variant_name": [
+    "Кресло С-21 Шелл GTS Софт черный Ср (-, Экокожа S-0422 (темно-серый),, )",
+    "Кресло С-21 Шелл GTS Софт черный Ср (Экокожа Santorini, Экокожа S-0422 (темно-серый),, )"
+  ],
+  "parent": {
+    "IE_XML_ID": 13691,
+    "IE_NAME": "С-21 Шелл GTS Софт черный Ср",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 1675,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/956/95651966faa449f7a1cff56d2684b352/e5f7f94f64cb13f7d0860b248595b2d9.png",
+    "IE_PREVIEW_TEXT": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/491/49145b1461b67cd632d655c0a12fd43e/d164decd37d935c5f7475d8b75fdd492.png",
+    "IE_DETAIL_TEXT": "Эта модель кресла создана для жизни в ритме активной работы: эргономичная спинка повторяет изгибы тела, а мягкое сиденье из экокожи дарит приятное ощущение легкости даже после многочасовой сидячей работы. Подпружинивающая конструкция механизма регулировки высоты сиденья и ролики с полиуретановым покрытием гарантируют плавность движений.",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "shell_gts_soft_bl",
+    "IE_TAGS": "",
+    "IE_ID": 13691,
+    "IP_PROP2": 460,
+    "IP_PROP3": "780-920",
+    "IP_PROP4": 495,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Монолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/8c5/8c567effc81b6086c5982175b9149b9c/c13f67e8db56d028c53e0d2d326a8aca.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/6ff/6ffe666a7460840879d5791827f2ca8e/3fa64fcc4d1b184106eba1aa1d4ad483.png",
+    "IP_PROP5": 624,
+    "IP_PROP26": 665,
+    "IP_PROP27": 322,
+    "IP_PROP28": "7,2",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,13",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00044596",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/8ed/8ed30f44549e4911a887c64e2fbcb024/1972a26f6a866f2f250c4cc317a0eae1.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Пятилучье пластиковое d=580 мм",
+    "IP_PROP42": "",
+    "IP_PROP43": "Газ-лифт h=290 мм",
+    "IP_PROP44": "Пиастра круглая",
+    "IP_PROP45": "",
+    "IP_PROP46": "Ролик п/у (Ср), открытый чехол, d колеса 50 мм, d штока 11 мм",
+    "IP_PROP47": "",
+    "IP_PROP48": "Монолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 1,
+    "IC_XML_ID0": 19,
+    "IC_GROUP0": "Кресла для персонала",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 45,
+    "IC_DESCRIPTION0": "Практичность, комфорт и надёжность для продуктивной работы в течение всего дня",
+    "IC_DESCRIPTION_TYPE0": "html",
+    "IC_CODE0": "staff_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/bb2/bb201ba070ef1c4146778dbce29c0723.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/671/671562ac346e2a8e8fd86b87a4440f37.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "Y",
+    "CP_MEASURE": 5,
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 3461,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 3565,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 3461,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 13692,
+      "IE_NAME": "Кресло С-21 Шелл GTS Софт черный/черный Ср S-0422 (темно-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/3c8/3c82f1d58415b0be9664b83b575c4643/7e259eccc3bc99fc4ff1f83f669095b0.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/e6c/e6c54e45406a147fe5e22c406f9dc04e/6809b2aabb073e1f09a3e4c5dca6298b.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13692,
+      "IP_PROP34": 13691,
+      "IP_PROP35": "ПУ-00043830",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/18b/18b080c3bc3ab944f80358e84a76d651/45034f484a0f82ba1790d0214d5cef36.png",
+        "https://cdn.utfc.ru/iblock/28f/28f0e41312c5e22ea6d6848b5027d791/659e4c60e14a5fa9fe08cc316d291670.png",
+        "https://cdn.utfc.ru/iblock/487/487e3192017b68ca5e028e578d3d4b10/e74f8d8624b7a9ca07a91614bd8c65d4.png",
+        "https://cdn.utfc.ru/iblock/e36/e36142af92e25436f548a3a0e9bb4d48/2d08fcfd687d826f7b394f31ac5ca6b2.png",
+        "https://cdn.utfc.ru/iblock/766/7660b73a28859cfc01ddb493c0ce30b7/d72c5e2fb07d066b6991e909ba9035d8.png"
+      ],
+      "IP_PROP37": "Экокожа Santorini",
+      "IP_PROP38": "Экокожа S-0422 (темно-серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": [
+        "черный",
+        "серый",
+        "разноцветный"
+      ],
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3461,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3565,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 3461,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "additional_info": {
+    "package_dimensions": {
+      "depth": "624",
+      "height": "322",
+      "width": "8"
+    },
+    "volume": "0,13",
+    "brutto": "8"
+  }
 }

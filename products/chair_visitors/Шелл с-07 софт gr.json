@@ -152,7 +152,8 @@
                 "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
                 "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
                 "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+                "https://cdn.utfc.ru/iblock/d4f/d4ff9abdc126234ac7bf32960e025c46/20228fe44a69df770d1d820e4fa16a78.png"
             ]
         }
     ],
@@ -208,7 +209,11 @@
             "skeleton": "монолитный",
             "minpromtorg": "+",
             "netto": "4",
-            "volume": "0"
+            "volume": "0",
+            "brutto": "5",
+            "package_width": "570",
+            "package_depth": "510",
+            "package_height": "610"
         }
     ],
     "parent": {
@@ -569,9 +574,14 @@
         }
     ],
     "additional_info": {
-        "package_dimensions": {},
+        "package_dimensions": {
+            "width": "5",
+            "depth": "570",
+            "height": "510"
+        },
         "netto": "4",
-        "volume": "0"
+        "volume": "0",
+        "brutto": "5"
     },
     "sizes": {
         "Ширина:": "460",

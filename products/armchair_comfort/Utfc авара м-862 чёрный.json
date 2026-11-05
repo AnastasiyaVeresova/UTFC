@@ -1,475 +1,475 @@
 {
-    "namefile": [
-        "Utfc авара м-862 чёрный"
-    ],
-    "name_all": [
-        "Авара чёрный",
-        "Авара серый"
-    ],
-    "name": [
-        "Авара"
-    ],
-    "unique_name": [
-        "UTFC Авара М-862 чёрный"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло серии комфорт"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
-            ],
-            "components": [
-                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине. <strong>Облицовка спинки:</strong> сетка",
-                "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
-                "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и углу наклона. <strong>Облицовка подголовника:</strong> сетка",
-                "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья и каркасу спинки с помощью винтов",
-                "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-                "<strong>Газ-лифт</strong> черный с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> d=660 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием имеют узкий шток"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "690",
-                    "depth": "340",
-                    "height": "630"
-                },
-                "box_size": "690х340х630",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "12,65",
-            "netto": "0",
-            "volume": "0,15"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/lm_262a_bl_01.png",
-            "chair_view": "img/armchair_comfort/lm_262a_bl_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/lm_262a_bl_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://cdn.utfc.ru/iblock/56e/56e622a80fc329ed55203a53186fa7f0/40202ee1e0facb91594bd1b6abdf89bd.png",
-                "https://cdn.utfc.ru/iblock/1b8/1b8e3cde9ef81af0f64e341422185d79/4f99b427dac11d2371e2c94828e97b92.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://cdn.utfc.ru/iblock/6f6/6f6582fa0159156826f80175a2ab1c49/ed8c0f4faabf66ad37f159535c4a9169.png",
-                "https://cdn.utfc.ru/uf/77f/77fec10e6667fbbe3db7e7d6d8381197/cb24cdfb903132cd3957e09f3b23a8dc.png",
-                "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
-                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://cdn.utfc.ru/uf/989/989255c0e43a5773b78d7959e590eee0/d001a5e49b738a0e0cdf2eab1be5af34.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://cdn.utfc.ru/uf/e09/e0908558f3e61b8bed17c6d6869f1f9e/313d20010782d8f57792fd493ef55823.png",
-                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-                "https://cdn.utfc.ru/iblock/0f8/0f8d72454da94cd5c11ffcf9f17ef479/3ea43ce197519d823827e737f1e17937.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://cdn.utfc.ru/uf/e28/e283954d90b265e1a7782d2b9505a99e/5ead234c97e0383c2951ecfcde3e59aa.png",
-                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-                "https://cdn.utfc.ru/iblock/398/398d9b5707d5b3b35d4f51e71385c53f/279b58e3343e459b86f6639df8126eca.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-                "https://cdn.utfc.ru/uf/675/6750f3b95f8a46639c75061dd319f97a/5ecebcadf97dafeab8961b0e6f0059ef.png",
-                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-                "https://cdn.utfc.ru/iblock/b78/b782cbb0dfd3ca676552658e5acd5123/c44de71e82e7796483b55541b122b0b1.png",
-                "https://cdn.utfc.ru/uf/4fc/4fc5a7c5bdd40bf0ec90387853402cd9/c9f3936b00873a134e30487c1851c091.png",
-                "https://cdn.utfc.ru/iblock/a30/a30f26e0b607ea53ef6147f9b93e950b/f104879f305268c782549114852048c8.png",
-                "https://cdn.utfc.ru/iblock/125/125ea2e768f31f723d3aa4c64c5239e9/4b11f38fab653b8d94810ea7d5363c9f.png",
-                "https://cdn.utfc.ru/uf/7d7/7d742459d4d25184ed7878c101fa93b9/11f620d30cdd52bf84cefa7878f2dc8d.png",
-                "https://cdn.utfc.ru/uf/06f/06fbb79ebc1d9a6d5a4d516d092bb3b0/2352a504dfddf292ec4e9bea45c5520d.png",
-                "https://cdn.utfc.ru/uf/bbd/bbd46610983417ac7a6d659b48a4ec68/2692d17d002953102b80ece69db86290.png",
-                "https://cdn.utfc.ru/iblock/7f4/7f448380b79fb2222a774438c4621106/2698d4cfa084c8ff06ef2209630243ea.png",
-                "https://cdn.utfc.ru/iblock/3df/3df93e8635fd57d83171fda6a19be9a4/4176200cface1f0db0b41fb316dc4471.png",
-                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-                "https://cdn.utfc.ru/iblock/26b/26b32d659163bfecea866f0e31e57447/a87663dc60f02474a1e7bb968090e269.png",
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/dab/dabd000c987c6c7634b2a7e377f5627d/88e0fdda7c686407f042a059754786ea.png",
-                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1120",
-                "max": "1265"
-            },
-            "headrest_height": {
-                "min": "125",
-                "max": "190"
-            },
-            "seat_to_floor_height": {
-                "min": "440",
-                "max": "520"
-            },
-            "seat_to_floor_height_upper": {},
-            "armrest_height_from_floor": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "",
-                "max": "230"
-            },
-            "armrest_width_support": {},
-            "armrest_length_support": {},
-            "chair_depth": {
-                "min": "560"
-            },
-            "seat_depth": {
-                "min": "490",
-                "max": ""
-            },
-            "seat_depth_km": {},
-            "backrest_height": {},
-            "backrest_to_seat_height": {
-                "min": "570"
-            },
-            "backrest_height_external": {
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": "630"
-            },
-            "seat_width": {
-                "max": "530"
-            },
-            "backrest_width_narrow": {
-                "max": ""
-            },
-            "backrest_width_wide": {
-                "max": ""
-            },
-            "diameter_cross": {
-                "max": "660"
-            },
-            "runners_width": {},
-            "runners_depth": {},
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "",
-            "netto": "",
-            "brutto": "",
-            "package_width": "",
-            "package_depth": "",
-            "package_height": "",
-            "volume": ""
-        }
-    ],
-    "title": "Кресло UTFC Авара М-862 черный пластик производства компании UTFC",
-    "base_name": "Кресло UTFC Авара М-862 черный пластик",
-    "article_number": "ПУ-00044792",
-    "full_describe": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m862_avara_bl/?offers=13772",
-    "minpromtorg": "Минпромторг",
-    "madeinrf": "Сделано в РФ",
-    "Основание": "Пятилучье пластиковое М-862 PL, диаметр 660 мм, (черный)",
-    "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-862 Авара (черный)",
-    "Газлифт": "",
-    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-    "Особенности": "Регулируемая по высоте и глубине поддержка поясницы",
-    "Ролики": "Ролики с полиуретановым покрытием d=50 мм имеют узкий шток",
-    "sizes": {
-        "Ширина:": "630",
-        "Высота:": "1120-1265",
-        "Глубина:": "670",
-        "Нагрузка:": "120",
-        "Каркас:": "Немонолитный",
-        "Ширина упаковки:": "690",
-        "Высота упаковки:": "630",
-        "Глубина упаковки:": "340",
-        "Вес брутто:": "12,65",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,15"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "690",
-        "Высота упаковки:": "630",
-        "Глубина упаковки:": "340",
-        "Материал упаковки:": "Гофрокартон"
-    },
-    "finish_type": [
-        "Сетка М-848",
-        "-",
-        "Сетка М-862"
-    ],
-    "color": [
-        "Сетка М-848 (черный)",
-        "Сетка М-862 (серый)",
-        "Сетка М-862 (черный)"
-    ],
-    "finish_type_seat": [
-        "Ткань М-848",
-        "-",
-        "Ткань М-862"
-    ],
-    "color_seat": [
-        "Ткань М-848 (черный)",
-        "Ткань М-862 (серый)",
-        "Ткань М-862 (черный)"
-    ],
-    "variant_name": [
-        "Кресло UTFC Катори М-848 (Сетка М-848, Сетка М-848 (черный), Ткань М-848, Ткань М-848 (черный))",
-        "Кресло UTFC Катори М-848 (Сетка М-848, Сетка М-848 (черный), -, Ткань М-848 (черный))",
-        "Кресло UTFC Катори М-848 (-, Сетка М-848 (черный), Ткань М-848, Ткань М-848 (черный))",
-        "Кресло UTFC Катори М-848 (-, Сетка М-848 (черный), -, Ткань М-848 (черный))",
-        "Кресло UTFC Авара М-862 серый пластик (Сетка М-862, Сетка М-862 (серый), Ткань М-862, Ткань М-862 (серый))",
-        "Кресло UTFC Авара М-862 серый пластик (Сетка М-862, Сетка М-862 (серый), -, Ткань М-862 (серый))",
-        "Кресло UTFC Авара М-862 серый пластик (-, Сетка М-862 (серый), Ткань М-862, Ткань М-862 (серый))",
-        "Кресло UTFC Авара М-862 серый пластик (-, Сетка М-862 (серый), -, Ткань М-862 (серый))",
-        "Кресло UTFC Авара М-862 черный пластик (Сетка М-862, Сетка М-862 (черный), Ткань М-862, Ткань М-862 (черный))",
-        "Кресло UTFC Авара М-862 черный пластик (Сетка М-862, Сетка М-862 (черный), -, Ткань М-862 (черный))",
-        "Кресло UTFC Авара М-862 черный пластик (-, Сетка М-862 (черный), Ткань М-862, Ткань М-862 (черный))",
-        "Кресло UTFC Авара М-862 черный пластик (-, Сетка М-862 (черный), -, Ткань М-862 (черный))"
-    ],
-    "parent": {
-        "IE_XML_ID": 13768,
-        "IE_NAME": "UTFC Авара М-862 черный пластик",
-        "IE_ACTIVE": "Y",
-        "IE_ACTIVE_FROM": "",
-        "IE_ACTIVE_TO": "",
-        "IE_SORT": 500,
-        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/fce/fcea862351777176d221d0f885172e02/f0a2dddbae0c5bc157687bb0ac0e0e10.png",
-        "IE_PREVIEW_TEXT": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
-        "IE_PREVIEW_TEXT_TYPE": "text",
-        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/d58/d5820fd496d117cd4c8703916af6ff62/65c7484d1d25b87df2164510e8930954.png",
-        "IE_DETAIL_TEXT": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
-        "IE_DETAIL_TEXT_TYPE": "text",
-        "IE_CODE": "m862_avara_bl",
-        "IE_TAGS": "",
-        "IE_ID": 13768,
-        "IP_PROP2": 630,
-        "IP_PROP3": "1120-1265",
-        "IP_PROP4": 670,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://cdn.utfc.ru/iblock/dab/dabd000c987c6c7634b2a7e377f5627d/88e0fdda7c686407f042a059754786ea.png",
-        "IP_PROP31": "https://cdn.utfc.ru/iblock/26b/26b32d659163bfecea866f0e31e57447/a87663dc60f02474a1e7bb968090e269.png",
-        "IP_PROP5": 690,
-        "IP_PROP26": 630,
-        "IP_PROP27": 340,
-        "IP_PROP28": "12,65",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,15",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ПУ-00045034",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://cdn.utfc.ru/iblock/020/0201a85edba46c7602a008bfcde3de58/5510d5ffe0400c608b03ed86a62ebb90.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "Пятилучье М-862 PL (черный)",
-        "IP_PROP42": "Подлокотник М-862 Авара (черный)",
-        "IP_PROP43": "",
-        "IP_PROP44": "Топ-ган",
-        "IP_PROP45": "Зона поясничной поддержки и анатомическое сиденье М-862 Авара",
-        "IP_PROP46": "Ролик М-862 Авара",
-        "IP_PROP47": "",
-        "IP_PROP48": "Немонолитный",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP59": "Нет",
-        "IP_PROP60": "",
-        "IC_ID0": 40,
-        "IC_XML_ID0": "",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_ACTIVE0": "Y",
-        "IC_SORT0": 50,
-        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-        "IC_DESCRIPTION_TYPE0": "text",
-        "IC_CODE0": "comfort_chairs",
-        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-        "IC_ID1": "",
-        "IC_XML_ID1": "",
-        "IC_GROUP1": "",
-        "IC_ACTIVE1": "",
-        "IC_SORT1": "",
-        "IC_DESCRIPTION1": "",
-        "IC_DESCRIPTION_TYPE1": "",
-        "IC_CODE1": "",
-        "IC_PICTURE1": "",
-        "IC_DETAIL_PICTURE1": "",
-        "IC_ID2": "",
-        "IC_XML_ID2": "",
-        "IC_GROUP2": "",
-        "IC_ACTIVE2": "",
-        "IC_SORT2": "",
-        "IC_DESCRIPTION2": "",
-        "IC_DESCRIPTION_TYPE2": "",
-        "IC_CODE2": "",
-        "IC_PICTURE2": "",
-        "IC_DETAIL_PICTURE2": "",
-        "CP_QUANTITY": 0,
-        "CP_QUANTITY_TRACE": "N",
-        "CP_CAN_BUY_ZERO": "Y",
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CP_PURCHASING_PRICE": "",
-        "CP_PURCHASING_CURRENCY": "",
-        "CP_PRICE_TYPE": "S",
-        "CP_RECUR_SCHEME_LENGTH": "",
-        "CP_RECUR_SCHEME_TYPE": "D",
-        "CP_TRIAL_PRICE_ID": "",
-        "CP_WITHOUT_ORDER": "N",
-        "CP_VAT_ID": "",
-        "CP_VAT_INCLUDED": "N",
-        "CP_MEASURE": "",
-        "STORE_AMOUNT_2": "",
-        "STORE_AMOUNT_3": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 7500,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 7725,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 7500,
-        "CV_CURRENCY_3": "RUB",
-        "STORE_AMOUNT_4": ""
-    },
-    "children": [
-        {
-            "IE_XML_ID": 13772,
-            "IE_NAME": "Кресло UTFC Авара М-862 (черный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/8f3/8f30ffcbf2ff64139621d891127e16cb/fbd501d973c606a5b5578daa6e34c53f.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b65/b65f94bdbdc979ca1b5c6d83196284c4/0b9023406d0f193f7016563657ceeb46.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 13772,
-            "IP_PROP34": 13768,
-            "IP_PROP35": "ПУ-00044792",
-            "IP_PROP36": [
-                "https://cdn.utfc.ru/iblock/125/125ea2e768f31f723d3aa4c64c5239e9/4b11f38fab653b8d94810ea7d5363c9f.png",
-                "https://cdn.utfc.ru/iblock/b78/b782cbb0dfd3ca676552658e5acd5123/c44de71e82e7796483b55541b122b0b1.png",
-                "https://cdn.utfc.ru/iblock/7f4/7f448380b79fb2222a774438c4621106/2698d4cfa084c8ff06ef2209630243ea.png",
-                "https://cdn.utfc.ru/iblock/a30/a30f26e0b607ea53ef6147f9b93e950b/f104879f305268c782549114852048c8.png",
-                "https://cdn.utfc.ru/iblock/3df/3df93e8635fd57d83171fda6a19be9a4/4176200cface1f0db0b41fb316dc4471.png"
-            ],
-            "IP_PROP37": "Сетка М-862",
-            "IP_PROP38": "Сетка М-862 (черный)",
-            "IP_PROP39": "Ткань М-862",
-            "IP_PROP40": "Ткань М-862 (черный)",
-            "IP_PROP61": "",
-            "IC_ID0": "",
-            "IC_XML_ID0": "",
-            "IC_GROUP0": "",
-            "IC_ACTIVE0": "",
-            "IC_SORT0": "",
-            "IC_DESCRIPTION0": "",
-            "IP_PROP122": "черный",
-            "IC_DESCRIPTION_TYPE0": "",
-            "IC_CODE0": "",
-            "IC_PICTURE0": "",
-            "IC_DETAIL_PICTURE0": "",
-            "IC_ID1": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_ACTIVE1": "",
-            "IC_SORT1": "",
-            "IC_DESCRIPTION1": "",
-            "IC_DESCRIPTION_TYPE1": "",
-            "IC_CODE1": "",
-            "IC_PICTURE1": "",
-            "IC_DETAIL_PICTURE1": "",
-            "IC_ID2": "",
-            "IC_XML_ID2": "",
-            "IC_GROUP2": "",
-            "IC_ACTIVE2": "",
-            "IC_SORT2": "",
-            "IC_DESCRIPTION2": "",
-            "IC_DESCRIPTION_TYPE2": "",
-            "IC_CODE2": "",
-            "IC_PICTURE2": "",
-            "IC_DETAIL_PICTURE2": "",
-            "CP_QUANTITY": 159,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "STORE_AMOUNT_2": 0,
-            "STORE_AMOUNT_3": 0,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 7500,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 7725,
-            "CV_CURRENCY_2": "RUB",
-            "STORE_AMOUNT_4": 159,
-            "CV_PRICE_3": 7500,
-            "CV_CURRENCY_3": "RUB"
-        }
+  "namefile": [
+    "Utfc авара м-862 чёрный"
+  ],
+  "name_all": [
+    "Авара чёрный",
+    "Авара серый"
+  ],
+  "name": [
+    "Авара"
+  ],
+  "unique_name": [
+    "UTFC Авара М-862 чёрный"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло серии комфорт"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки спинки и подголовника: сетка<br>\n- материал облицовки сиденья: ткань"
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Спинка</strong> состоит из пластикового каркаса и обивочного элемента. Регулируемая поясничная поддержка - по высоте и глубине. <strong>Облицовка спинки:</strong> сетка",
+        "<strong>Сиденье</strong> состоит из основания, пенополиуретана и обивочного элемента. <strong>Облицовка сиденья:</strong> ткань",
+        "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента. Регулируется по высоте и углу наклона. <strong>Облицовка подголовника:</strong> сетка",
+        "<strong>Подлокотники</strong> пластиковые, крепятся к основанию сиденья и каркасу спинки с помощью винтов",
+        "<strong>Механизм качания</strong> «Топ-ган» позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> черный с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> d=660 мм пластиковое с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=50 мм с полиуретановым покрытием имеют узкий шток"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "690",
+          "depth": "340",
+          "height": "630"
+        },
+        "box_size": "690х340х630",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "12,65",
+      "netto": "0",
+      "volume": "0,15"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/lm_262a_bl_01.png",
+      "chair_view": "img/armchair_comfort/lm_262a_bl_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/lm_262a_bl_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://cdn.utfc.ru/iblock/56e/56e622a80fc329ed55203a53186fa7f0/40202ee1e0facb91594bd1b6abdf89bd.png",
+        "https://cdn.utfc.ru/iblock/1b8/1b8e3cde9ef81af0f64e341422185d79/4f99b427dac11d2371e2c94828e97b92.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://cdn.utfc.ru/iblock/6f6/6f6582fa0159156826f80175a2ab1c49/ed8c0f4faabf66ad37f159535c4a9169.png",
+        "https://cdn.utfc.ru/uf/77f/77fec10e6667fbbe3db7e7d6d8381197/cb24cdfb903132cd3957e09f3b23a8dc.png",
+        "https://cdn.utfc.ru/uf/960/960e751f997c5d91d1d7b1b3ebedb5cd.png",
+        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://cdn.utfc.ru/uf/989/989255c0e43a5773b78d7959e590eee0/d001a5e49b738a0e0cdf2eab1be5af34.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://cdn.utfc.ru/uf/e09/e0908558f3e61b8bed17c6d6869f1f9e/313d20010782d8f57792fd493ef55823.png",
+        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+        "https://cdn.utfc.ru/iblock/0f8/0f8d72454da94cd5c11ffcf9f17ef479/3ea43ce197519d823827e737f1e17937.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://cdn.utfc.ru/uf/e28/e283954d90b265e1a7782d2b9505a99e/5ead234c97e0383c2951ecfcde3e59aa.png",
+        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+        "https://cdn.utfc.ru/iblock/398/398d9b5707d5b3b35d4f51e71385c53f/279b58e3343e459b86f6639df8126eca.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+        "https://cdn.utfc.ru/uf/675/6750f3b95f8a46639c75061dd319f97a/5ecebcadf97dafeab8961b0e6f0059ef.png",
+        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+        "https://cdn.utfc.ru/iblock/b78/b782cbb0dfd3ca676552658e5acd5123/c44de71e82e7796483b55541b122b0b1.png",
+        "https://cdn.utfc.ru/uf/4fc/4fc5a7c5bdd40bf0ec90387853402cd9/c9f3936b00873a134e30487c1851c091.png",
+        "https://cdn.utfc.ru/iblock/a30/a30f26e0b607ea53ef6147f9b93e950b/f104879f305268c782549114852048c8.png",
+        "https://cdn.utfc.ru/iblock/125/125ea2e768f31f723d3aa4c64c5239e9/4b11f38fab653b8d94810ea7d5363c9f.png",
+        "https://cdn.utfc.ru/uf/7d7/7d742459d4d25184ed7878c101fa93b9/11f620d30cdd52bf84cefa7878f2dc8d.png",
+        "https://cdn.utfc.ru/uf/06f/06fbb79ebc1d9a6d5a4d516d092bb3b0/2352a504dfddf292ec4e9bea45c5520d.png",
+        "https://cdn.utfc.ru/uf/bbd/bbd46610983417ac7a6d659b48a4ec68/2692d17d002953102b80ece69db86290.png",
+        "https://cdn.utfc.ru/iblock/7f4/7f448380b79fb2222a774438c4621106/2698d4cfa084c8ff06ef2209630243ea.png",
+        "https://cdn.utfc.ru/iblock/3df/3df93e8635fd57d83171fda6a19be9a4/4176200cface1f0db0b41fb316dc4471.png",
+        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+        "https://cdn.utfc.ru/iblock/26b/26b32d659163bfecea866f0e31e57447/a87663dc60f02474a1e7bb968090e269.png",
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/dab/dabd000c987c6c7634b2a7e377f5627d/88e0fdda7c686407f042a059754786ea.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1120",
+        "max": "1265"
+      },
+      "headrest_height": {
+        "min": "125",
+        "max": "190"
+      },
+      "seat_to_floor_height": {
+        "min": "440",
+        "max": "520"
+      },
+      "seat_to_floor_height_upper": {},
+      "armrest_height_from_floor": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "",
+        "max": "230"
+      },
+      "armrest_width_support": {},
+      "armrest_length_support": {},
+      "chair_depth": {
+        "min": "560"
+      },
+      "seat_depth": {
+        "min": "490",
+        "max": ""
+      },
+      "seat_depth_km": {},
+      "backrest_height": {},
+      "backrest_to_seat_height": {
+        "min": "570"
+      },
+      "backrest_height_external": {
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "",
+        "max": "630"
+      },
+      "seat_width": {
+        "max": "530"
+      },
+      "backrest_width_narrow": {
+        "max": ""
+      },
+      "backrest_width_wide": {
+        "max": ""
+      },
+      "diameter_cross": {
+        "max": "660"
+      },
+      "runners_width": {},
+      "runners_depth": {},
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "",
+      "netto": "",
+      "brutto": "",
+      "package_width": "",
+      "package_depth": "",
+      "package_height": "",
+      "volume": ""
+    }
+  ],
+  "title": "Кресло UTFC Авара М-862 черный пластик производства компании UTFC",
+  "base_name": "Кресло UTFC Авара М-862 черный пластик",
+  "article_number": "ПУ-00044792",
+  "full_describe": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m862_avara_bl/?offers=13772",
+  "minpromtorg": "Минпромторг",
+  "madeinrf": "Сделано в РФ",
+  "Основание": "Пятилучье пластиковое М-862 PL, диаметр 660 мм, (черный)",
+  "Подлокотники": "Подлокотники пластиковые нерегулируемые для кресла М-862 Авара (черный)",
+  "Газлифт": "",
+  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "Регулируемая по высоте и глубине поддержка поясницы",
+  "Ролики": "Ролики с полиуретановым покрытием d=50 мм имеют узкий шток",
+  "sizes": {
+    "Ширина:": "630",
+    "Высота:": "1120-1265",
+    "Глубина:": "670",
+    "Нагрузка:": "120",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "690",
+    "Высота упаковки:": "630",
+    "Глубина упаковки:": "340",
+    "Вес брутто:": "12,65",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,15"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "690",
+    "Высота упаковки:": "630",
+    "Глубина упаковки:": "340",
+    "Материал упаковки:": "Гофрокартон"
+  },
+  "finish_type": [
+    "Сетка М-848",
+    "-",
+    "Сетка М-862"
+  ],
+  "color": [
+    "Сетка М-848 (черный)",
+    "Сетка М-862 (серый)",
+    "Сетка М-862 (черный)"
+  ],
+  "finish_type_seat": [
+    "Ткань М-848",
+    "-",
+    "Ткань М-862"
+  ],
+  "color_seat": [
+    "Ткань М-848 (черный)",
+    "Ткань М-862 (серый)",
+    "Ткань М-862 (черный)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Катори М-848 (Сетка М-848, Сетка М-848 (черный), Ткань М-848, Ткань М-848 (черный))",
+    "Кресло UTFC Катори М-848 (Сетка М-848, Сетка М-848 (черный), -, Ткань М-848 (черный))",
+    "Кресло UTFC Катори М-848 (-, Сетка М-848 (черный), Ткань М-848, Ткань М-848 (черный))",
+    "Кресло UTFC Катори М-848 (-, Сетка М-848 (черный), -, Ткань М-848 (черный))",
+    "Кресло UTFC Авара М-862 серый пластик (Сетка М-862, Сетка М-862 (серый), Ткань М-862, Ткань М-862 (серый))",
+    "Кресло UTFC Авара М-862 серый пластик (Сетка М-862, Сетка М-862 (серый), -, Ткань М-862 (серый))",
+    "Кресло UTFC Авара М-862 серый пластик (-, Сетка М-862 (серый), Ткань М-862, Ткань М-862 (серый))",
+    "Кресло UTFC Авара М-862 серый пластик (-, Сетка М-862 (серый), -, Ткань М-862 (серый))",
+    "Кресло UTFC Авара М-862 черный пластик (Сетка М-862, Сетка М-862 (черный), Ткань М-862, Ткань М-862 (черный))",
+    "Кресло UTFC Авара М-862 черный пластик (Сетка М-862, Сетка М-862 (черный), -, Ткань М-862 (черный))",
+    "Кресло UTFC Авара М-862 черный пластик (-, Сетка М-862 (черный), Ткань М-862, Ткань М-862 (черный))",
+    "Кресло UTFC Авара М-862 черный пластик (-, Сетка М-862 (черный), -, Ткань М-862 (черный))"
+  ],
+  "parent": {
+    "IE_XML_ID": 13768,
+    "IE_NAME": "UTFC Авара М-862 черный пластик",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 500,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/fce/fcea862351777176d221d0f885172e02/f0a2dddbae0c5bc157687bb0ac0e0e10.png",
+    "IE_PREVIEW_TEXT": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/d58/d5820fd496d117cd4c8703916af6ff62/65c7484d1d25b87df2164510e8930954.png",
+    "IE_DETAIL_TEXT": "Новое современное кресло из серии «Комфорт»: высокая спинка выполнена из дышащей сетки, сиденье из мягкой износостойкой ткани. Подлокотники в актуальном лаконичном стиле подчёркивают завершённость дизайна, а черная гамма всей модели подойдёт под минималистичный интерьер кабинета.",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "m862_avara_bl",
+    "IE_TAGS": "",
+    "IE_ID": 13768,
+    "IP_PROP2": 630,
+    "IP_PROP3": "1120-1265",
+    "IP_PROP4": 670,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/dab/dabd000c987c6c7634b2a7e377f5627d/88e0fdda7c686407f042a059754786ea.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/26b/26b32d659163bfecea866f0e31e57447/a87663dc60f02474a1e7bb968090e269.png",
+    "IP_PROP5": 690,
+    "IP_PROP26": 630,
+    "IP_PROP27": 340,
+    "IP_PROP28": "12,65",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,15",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00045034",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/020/0201a85edba46c7602a008bfcde3de58/5510d5ffe0400c608b03ed86a62ebb90.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Пятилучье М-862 PL (черный)",
+    "IP_PROP42": "Подлокотник М-862 Авара (черный)",
+    "IP_PROP43": "",
+    "IP_PROP44": "Топ-ган",
+    "IP_PROP45": "Зона поясничной поддержки и анатомическое сиденье М-862 Авара",
+    "IP_PROP46": "Ролик М-862 Авара",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 40,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 50,
+    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "comfort_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "N",
+    "CP_MEASURE": "",
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 7500,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 7725,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 7500,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 13772,
+      "IE_NAME": "Кресло UTFC Авара М-862 (черный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/8f3/8f30ffcbf2ff64139621d891127e16cb/fbd501d973c606a5b5578daa6e34c53f.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b65/b65f94bdbdc979ca1b5c6d83196284c4/0b9023406d0f193f7016563657ceeb46.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13772,
+      "IP_PROP34": 13768,
+      "IP_PROP35": "ПУ-00044792",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/125/125ea2e768f31f723d3aa4c64c5239e9/4b11f38fab653b8d94810ea7d5363c9f.png",
+        "https://cdn.utfc.ru/iblock/b78/b782cbb0dfd3ca676552658e5acd5123/c44de71e82e7796483b55541b122b0b1.png",
+        "https://cdn.utfc.ru/iblock/7f4/7f448380b79fb2222a774438c4621106/2698d4cfa084c8ff06ef2209630243ea.png",
+        "https://cdn.utfc.ru/iblock/a30/a30f26e0b607ea53ef6147f9b93e950b/f104879f305268c782549114852048c8.png",
+        "https://cdn.utfc.ru/iblock/3df/3df93e8635fd57d83171fda6a19be9a4/4176200cface1f0db0b41fb316dc4471.png"
+      ],
+      "IP_PROP37": "Сетка М-862",
+      "IP_PROP38": "Сетка М-862 (черный)",
+      "IP_PROP39": "Ткань М-862",
+      "IP_PROP40": "Ткань М-862 (черный)",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "черный",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 159,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 7500,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 7725,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 159,
+      "CV_PRICE_3": 7500,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ]
 }

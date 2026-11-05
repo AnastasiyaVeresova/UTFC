@@ -66,7 +66,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "15,90",
             "netto": "12,90",
             "volume": "0,17"
         }
@@ -177,10 +177,7 @@
             "skeleton": "немонолитный",
             "minpromtorg": "+",
             "netto": "13",
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "16",
             "package_width": "910",
             "package_depth": "270",
             "package_height": "690",

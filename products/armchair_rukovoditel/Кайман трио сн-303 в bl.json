@@ -259,7 +259,8 @@
             "package_width": "910",
             "package_depth": "400",
             "package_height": "680",
-            "volume": "0"
+            "volume": "0",
+            "brutto": "17"
         }
     ],
     "skeleton": "немонолитный",
@@ -1162,9 +1163,11 @@
     "additional_info": {
         "package_dimensions": {
             "depth": "910",
-            "height": "400"
+            "height": "400",
+            "width": "17"
         },
-        "volume": "0"
+        "volume": "0",
+        "brutto": "17"
     },
     "sizes": {
         "Ширина:": "570",

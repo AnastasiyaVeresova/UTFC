@@ -1,522 +1,522 @@
 {
-    "namefile": [
-        "Utfc осака м-201 красный пластик"
-    ],
-    "name": [
-        "Осака"
-    ],
-    "unique_name": [
-        "UTFC Осака М-201 красный пластик"
-    ],
-    "vid": [
-        "кресло"
-    ],
-    "category": [
-        "поворотное кресло"
-    ],
-    "destiny": [
-        "ежедневной работы в офисных и домашних помещениях"
-    ],
-    "technical_requirements": [
-        [
-            "Кресло должно соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- материал облицовки подголовника, спинки и сиденья:<br>\nвысококачественная ткань<br>\n- цвет материала и пластика - по каталогу"
-            ],
-            "components": [
-                "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
-                "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента, регулируется по высоте и углу наклона. <strong>Облицовка</strong> подголовника: высококачественная ткань",
-                "<strong>Спинка</strong> пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка регулируется по высоте в 5 положениях. <strong>Облицовка</strong> спинки: высококачественная ткань",
-                "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: высококачественная ткань",
-                "<strong>Подлокотники</strong> - пластиковые, регулируются по высоте в 5 положениях",
-                "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
-                "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
-                "<strong>Пятилучье</strong> пластиковое d=680 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
-                "<strong>Ролики</strong> d=55 мм имеют узкий шток"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "630",
-                    "depth": "370",
-                    "height": "630"
-                },
-                "box_size": "630х370х630",
-                "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "brutto": "14,70",
-            "netto": "12,80",
-            "volume": "0,15"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/armchair_comfort/osaka_m-201_pl_pink_01.png",
-            "chair_view": "img/armchair_comfort/osaka_m-201_pl_pink_02.png",
-            "dimensions": "img/armchair_comfort/dimensions/osaka_m-201_pl_gr_01.png",
-            "box": "img/box_UTFC.png",
-            "additional": [
-                "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
-                "https://utfc.ru/upload/resize_cache/iblock/8e2/140_140_0/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
-                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/1ff/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
-                "https://utfc.ru/upload/resize_cache/iblock/bb4/140_140_0/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/dde/idp0on9b6x31h39vnhgl50ja0askw810.png",
-                "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
-                "https://utfc.ru/upload/resize_cache/iblock/dde/140_140_0/idp0on9b6x31h39vnhgl50ja0askw810.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-                "https://utfc.ru/upload/resize_cache/iblock/213/140_140_0/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8e2/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
-                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
-                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bb4/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
-                "https://utfc.ru/upload/resize_cache/iblock/1ff/140_140_0/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
-                "https://utfc.ru/local/templates/utfc/img/palette.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
-                "https://cdn.utfc-store.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
-                "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://cdn.utfc-store.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
-                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc-store.ru/iblock/dde/idp0on9b6x31h39vnhgl50ja0askw810.png",
-                "https://cdn.utfc-store.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
-                "https://cdn.utfc-store.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
-                "https://cdn.utfc-store.ru/iblock/8e2/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
-                "https://cdn.utfc-store.ru/iblock/bb4/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
-                "https://cdn.utfc-store.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
-                "https://cdn.utfc-store.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
-                "https://cdn.utfc-store.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
-                "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://cdn.utfc-store.ru/iblock/1ff/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
-                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc-store.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
-                "https://cdn.utfc-store.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
-                "https://cdn.utfc-store.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
-                "https://cdn.utfc-store.ru/resize_cache/28595/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
-                "https://cdn.utfc-store.ru/resize_cache/28594/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
-                "https://cdn.utfc-store.ru/resize_cache/28593/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
-                "https://cdn.utfc-store.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
-                "https://cdn.utfc-store.ru/resize_cache/28596/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
-                "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-                "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-                "https://cdn.utfc-store.ru/resize_cache/28597/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
-                "https://cdn.utfc-store.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
-                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-                "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
-                "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
-                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-                "https://cdn.utfc.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
-                "https://cdn.utfc.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
-                "https://cdn.utfc.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
-                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-                "https://cdn.utfc.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
-                "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
-                "https://cdn.utfc.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
-                "https://cdn.utfc.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
-                "https://cdn.utfc.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
-                "https://cdn.utfc.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
-                "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
-                "https://cdn.utfc.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
-                "https://cdn.utfc.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
-                "https://cdn.utfc.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
-                "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
-                "https://cdn.utfc.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
-                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-                "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
-                "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
-                "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
-                "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
-                "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
-                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-                "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
-                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
-            ]
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "1130",
-                "max": "1250"
-            },
-            "headrest_height": {
-                "min": "195",
-                "max": "230"
-            },
-            "seat_to_floor_height": {
-                "min": "440",
-                "max": "520"
-            },
-            "seat_to_floor_height_upper": {},
-            "armrest_height_from_floor": {
-                "min": "300",
-                "max": "350"
-            },
-            "armrest_height_from_seat": {
-                "min": "185",
-                "max": "235"
-            },
-            "armrest_width_support": {
-                "max": "90"
-            },
-            "armrest_length_support": {
-                "max": "240"
-            },
-            "chair_depth": {
-                "min": "690"
-            },
-            "seat_depth": {
-                "min": "440"
-            },
-            "seat_depth_km": {
-                "max": "530"
-            },
-            "backrest_height": {},
-            "backrest_to_seat_height": {
-                "min": "545"
-            },
-            "backrest_height_external": {
-                "max": "600"
-            },
-            "seat_width_with_armrests": {
-                "min": "545"
-            },
-            "seat_width": {
-                "max": "510"
-            },
-            "backrest_width_narrow": {
-                "max": "430"
-            },
-            "backrest_width_wide": {
-                "max": "500"
-            },
-            "diameter_cross": {
-                "max": "680"
-            },
-            "runners_width": {},
-            "runners_depth": {},
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "немонолитный",
-            "netto": "13",
-            "brutto": "15",
-            "package_width": "630",
-            "package_depth": "370",
-            "package_height": "630",
-            "volume": "0"
-        }
-    ],
-    "skeleton": "немонолитный",
-    "minpromtorg": "Минпромторг",
-    "addition": "",
-    "parent": {
-        "IE_XML_ID": "a_1021",
-        "IE_NAME": "UTFC Осака М-201 красный пластик",
-        "IE_ACTIVE": "Y",
-        "IE_ACTIVE_FROM": "",
-        "IE_ACTIVE_TO": "",
-        "IE_SORT": 1425,
-        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/a90/k7u1s18fb0brbyige04s1qit6js4nbpz.png",
-        "IE_PREVIEW_TEXT": "Кресло изготовлено из прочных и дышащих материалов, обеспечивающих комфорт и долговечность. Это кресло предлагает разнообразные настройки, позволяя адаптировать его под ваши индивидуальные предпочтения. Подголовник 3D регулируется по высоте и углу наклона, подлокотники и поясничная поддержка имеют 5 положений по высоте. Механизм топ-ган позволяет фиксировать кресло в рабочем положении. Кресло сочетает в себе стильный дизайн, удобство и функциональность.",
-        "IE_PREVIEW_TEXT_TYPE": "text",
-        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2f3/dudr9w4dul43p4fqjprbot8q35axems6.png",
-        "IE_DETAIL_TEXT": "",
-        "IE_DETAIL_TEXT_TYPE": "text",
-        "IE_CODE": "m201_osaka_red",
-        "IE_TAGS": "",
-        "IE_ID": 12029,
-        "IP_PROP2": 545,
-        "IP_PROP3": "1130-1250",
-        "IP_PROP4": 690,
-        "IP_PROP6": "",
-        "IP_PROP19": 120,
-        "IP_PROP25": "Немонолитный",
-        "IP_PROP18": "https://cdn.utfc.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
-        "IP_PROP31": "https://cdn.utfc.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
-        "IP_PROP5": 630,
-        "IP_PROP26": 630,
-        "IP_PROP27": 370,
-        "IP_PROP28": "14,7",
-        "IP_PROP29": "Гофрокартон",
-        "IP_PROP30": "0,15",
-        "IP_PROP7": "",
-        "IP_PROP8": "",
-        "IP_PROP9": "ПУ-00038743",
-        "IP_PROP10": "",
-        "IP_PROP11": "",
-        "IP_PROP12": "",
-        "IP_PROP13": "https://cdn.utfc.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
-        "IP_PROP14": "",
-        "IP_PROP15": "",
-        "IP_PROP16": "",
-        "IP_PROP17": "",
-        "IP_PROP22": "",
-        "IP_PROP41": "Пятилучье М-201 PL (красный)",
-        "IP_PROP42": "Подлокотник М-201 Осака",
-        "IP_PROP43": "Газ-лифт М-201 PL",
-        "IP_PROP44": "Топ-ган",
-        "IP_PROP45": "",
-        "IP_PROP46": "Ролик М-201 Осака",
-        "IP_PROP47": "",
-        "IP_PROP48": "Немонолитный",
-        "IP_PROP49": "",
-        "IP_PROP50": "",
-        "IP_PROP51": "",
-        "IP_PROP52": "",
-        "IP_PROP59": "Нет",
-        "IP_PROP60": "",
-        "IC_ID0": 40,
-        "IC_XML_ID0": "",
-        "IC_GROUP0": "Кресла Комфорт",
-        "IC_ACTIVE0": "Y",
-        "IC_SORT0": 50,
-        "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
-        "IC_DESCRIPTION_TYPE0": "text",
-        "IC_CODE0": "comfort_chairs",
-        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
-        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
-        "IC_ID1": "",
-        "IC_XML_ID1": "",
-        "IC_GROUP1": "",
-        "IC_ACTIVE1": "",
-        "IC_SORT1": "",
-        "IC_DESCRIPTION1": "",
-        "IC_DESCRIPTION_TYPE1": "",
-        "IC_CODE1": "",
-        "IC_PICTURE1": "",
-        "IC_DETAIL_PICTURE1": "",
-        "IC_ID2": "",
-        "IC_XML_ID2": "",
-        "IC_GROUP2": "",
-        "IC_ACTIVE2": "",
-        "IC_SORT2": "",
-        "IC_DESCRIPTION2": "",
-        "IC_DESCRIPTION_TYPE2": "",
-        "IC_CODE2": "",
-        "IC_PICTURE2": "",
-        "IC_DETAIL_PICTURE2": "",
-        "CP_QUANTITY": 0,
-        "CP_QUANTITY_TRACE": "N",
-        "CP_CAN_BUY_ZERO": "Y",
-        "CP_WEIGHT": 0,
-        "CP_WIDTH": "",
-        "CP_HEIGHT": "",
-        "CP_LENGTH": "",
-        "CP_PURCHASING_PRICE": "",
-        "CP_PURCHASING_CURRENCY": "",
-        "CP_PRICE_TYPE": "S",
-        "CP_RECUR_SCHEME_LENGTH": "",
-        "CP_RECUR_SCHEME_TYPE": "D",
-        "CP_TRIAL_PRICE_ID": "",
-        "CP_WITHOUT_ORDER": "N",
-        "CP_VAT_ID": "",
-        "CP_VAT_INCLUDED": "N",
-        "CP_MEASURE": "",
-        "STORE_AMOUNT_2": "",
-        "STORE_AMOUNT_3": "",
-        "CV_QUANTITY_FROM": "",
-        "CV_QUANTITY_TO": "",
-        "CV_PRICE_1": 12962,
-        "CV_CURRENCY_1": "RUB",
-        "CV_PRICE_2": 13351,
-        "CV_CURRENCY_2": "RUB",
-        "CV_PRICE_3": 12962,
-        "CV_CURRENCY_3": "RUB",
-        "STORE_AMOUNT_4": ""
-    },
-    "children": [
-        {
-            "IE_XML_ID": 50104,
-            "IE_NAME": "Кресло UTFC Осака М-201 красный пластик (красный)",
-            "IE_ACTIVE": "Y",
-            "IE_ACTIVE_FROM": "",
-            "IE_ACTIVE_TO": "",
-            "IE_SORT": 500,
-            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/c60/c609153e978b23b066048319ec3da216/37918357b521effac6a5f137fd657a9a.png",
-            "IE_PREVIEW_TEXT": "",
-            "IE_PREVIEW_TEXT_TYPE": "text",
-            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/05e/05ecf3d0e86c17ff8fb0efb6911a964f/f7da1ecd4823cfa36fd92d78afdcdf2c.png",
-            "IE_DETAIL_TEXT": "",
-            "IE_DETAIL_TEXT_TYPE": "text",
-            "IE_CODE": "",
-            "IE_TAGS": "",
-            "IE_ID": 12046,
-            "IP_PROP34": 12029,
-            "IP_PROP35": "ПУ-00033557",
-            "IP_PROP36": [
-                "https://cdn.utfc.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
-                "https://cdn.utfc.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
-                "https://cdn.utfc.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
-                "https://cdn.utfc.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
-                "https://cdn.utfc.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png"
-            ],
-            "IP_PROP37": "Ткань М-201S",
-            "IP_PROP38": "Ткань М-201S (красный)",
-            "IP_PROP39": "Ткань М-201",
-            "IP_PROP40": "Ткань М-201 (красный)",
-            "IP_PROP61": "",
-            "IC_ID0": "",
-            "IC_XML_ID0": "",
-            "IC_GROUP0": "",
-            "IC_ACTIVE0": "",
-            "IC_SORT0": "",
-            "IC_DESCRIPTION0": "",
-            "IP_PROP122": "красный",
-            "IC_DESCRIPTION_TYPE0": "",
-            "IC_CODE0": "",
-            "IC_PICTURE0": "",
-            "IC_DETAIL_PICTURE0": "",
-            "IC_ID1": "",
-            "IC_XML_ID1": "",
-            "IC_GROUP1": "",
-            "IC_ACTIVE1": "",
-            "IC_SORT1": "",
-            "IC_DESCRIPTION1": "",
-            "IC_DESCRIPTION_TYPE1": "",
-            "IC_CODE1": "",
-            "IC_PICTURE1": "",
-            "IC_DETAIL_PICTURE1": "",
-            "IC_ID2": "",
-            "IC_XML_ID2": "",
-            "IC_GROUP2": "",
-            "IC_ACTIVE2": "",
-            "IC_SORT2": "",
-            "IC_DESCRIPTION2": "",
-            "IC_DESCRIPTION_TYPE2": "",
-            "IC_CODE2": "",
-            "IC_PICTURE2": "",
-            "IC_DETAIL_PICTURE2": "",
-            "CP_QUANTITY": 7,
-            "CP_QUANTITY_TRACE": "D",
-            "CP_CAN_BUY_ZERO": "D",
-            "CP_WEIGHT": 0,
-            "CP_WIDTH": "",
-            "CP_HEIGHT": "",
-            "CP_LENGTH": "",
-            "CP_PURCHASING_PRICE": "",
-            "CP_PURCHASING_CURRENCY": "",
-            "CP_PRICE_TYPE": "S",
-            "CP_RECUR_SCHEME_LENGTH": "",
-            "CP_RECUR_SCHEME_TYPE": "D",
-            "CP_TRIAL_PRICE_ID": "",
-            "CP_WITHOUT_ORDER": "N",
-            "CP_VAT_ID": "",
-            "CP_VAT_INCLUDED": "Y",
-            "CP_MEASURE": 5,
-            "STORE_AMOUNT_2": 5,
-            "STORE_AMOUNT_3": 0,
-            "CV_QUANTITY_FROM": "",
-            "CV_QUANTITY_TO": "",
-            "CV_PRICE_1": 12962,
-            "CV_CURRENCY_1": "RUB",
-            "CV_PRICE_2": 13351,
-            "CV_CURRENCY_2": "RUB",
-            "STORE_AMOUNT_4": 2,
-            "CV_PRICE_3": 12962,
-            "CV_CURRENCY_3": "RUB"
-        }
-    ],
-    "title": "Компьютерное кресло с эффектным дизайном UTFC Осака М-201 красный пластик производства компании UTFC",
-    "base_name": "Кресло UTFC Осака М-201 красный пластик",
-    "article_number": "ПУ-00033557",
-    "full_describe": "Кресло изготовлено из прочных и дышащих материалов, обеспечивающих комфорт и долговечность. Это кресло предлагает разнообразные настройки, позволяя адаптировать его под ваши индивидуальные предпочтения. Подголовник 3D регулируется по высоте и углу наклона, подлокотники и поясничная поддержка имеют 5 положений по высоте. Механизм топ-ган позволяет фиксировать кресло в рабочем положении. Кресло сочетает в себе стильный дизайн, удобство и функциональность.",
-    "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m201_osaka_red/?offers=12046",
-    "Основание": "Пятилучье пластиковое М-201 PL, покрытие матовое, диаметр 680мм, (красный)",
-    "Подлокотники": "Подлокотники пластиковые регулируемые для кресла М-201 Осака",
-    "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный чёрный",
-    "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
-    "Особенности": "",
-    "Ролики": "Нейлоновые ролики 55 мм",
-    "finish_type": [
-        "-",
-        "Ткань М-201S"
-    ],
-    "color": [
-        "Ткань М-201S (красный)"
-    ],
-    "variant_name": [
-        "Кресло UTFC Осака М-201 красный пластик (-, Ткань М-201S (красный), -, Ткань М-201 (красный))",
-        "Кресло UTFC Осака М-201 красный пластик (Ткань М-201S, Ткань М-201S (красный), Ткань М-201, Ткань М-201 (красный))",
-        "Кресло UTFC Осака М-201 красный пластик (Ткань М-201S, Ткань М-201S (красный), -, Ткань М-201 (красный))",
-        "Кресло UTFC Осака М-201 красный пластик (-, Ткань М-201S (красный), Ткань М-201, Ткань М-201 (красный))"
-    ],
-    "finish_type_seat": [
-        "-",
-        "Ткань М-201"
-    ],
-    "color_seat": [
-        "Ткань М-201 (красный)"
-    ],
-    "madeinrf": "Сделано в РФ",
-    "lost": [
-        {
-            "clean": false,
-            "limit": false,
-            "del": false
-        }
-    ],
-    "sizes": {
-        "Ширина:": "545",
-        "Высота:": "1130-1250",
-        "Глубина:": "690",
-        "Нагрузка:": "120",
-        "Каркас:": "Немонолитный",
-        "Ширина упаковки:": "630",
-        "Высота упаковки:": "630",
-        "Глубина упаковки:": "370",
-        "Вес брутто:": "14,7",
-        "Материал упаковки:": "Гофрокартон",
-        "Объём:": "0,15"
-    },
-    "package_sizes": {
-        "Ширина упаковки:": "630",
-        "Высота упаковки:": "630",
-        "Глубина упаковки:": "370",
-        "Материал упаковки:": "Гофрокартон"
+  "namefile": [
+    "Utfc осака м-201 красный пластик"
+  ],
+  "name": [
+    "Осака"
+  ],
+  "unique_name": [
+    "UTFC Осака М-201 красный пластик"
+  ],
+  "vid": [
+    "кресло"
+  ],
+  "category": [
+    "поворотное кресло"
+  ],
+  "destiny": [
+    "ежедневной работы в офисных и домашних помещениях"
+  ],
+  "technical_requirements": [
+    [
+      "Кресло должно соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
+    ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- материал облицовки подголовника, спинки и сиденья:<br>\nвысококачественная ткань<br>\n- цвет материала и пластика - по каталогу"
+      ],
+      "components": [
+        "подголовника, спинки, сиденья, подлокотников, механизма качания, газ-лифта, пятилучья и 5-ти роликов",
+        "<strong>Подголовник</strong> состоит из пластикового каркаса и обивочного элемента, регулируется по высоте и углу наклона. <strong>Облицовка</strong> подголовника: высококачественная ткань",
+        "<strong>Спинка</strong> пластикового каркаса с поясничной поддержкой и обивочного элемента. Поясничная поддержка регулируется по высоте в 5 положениях. <strong>Облицовка</strong> спинки: высококачественная ткань",
+        "<strong>Сиденье</strong> состоит из пластикового каркаса, пенополиуретана и обивочного элемента. Облицовка сиденья: высококачественная ткань",
+        "<strong>Подлокотники</strong> - пластиковые, регулируются по высоте в 5 положениях",
+        "<strong>Механизм качания</strong> позволяет регулировать высоту сиденья, регулировку силы отклонения спинки под вес пользователя в режиме качания и фиксацию в вертикальном положении",
+        "<strong>Газ-лифт</strong> с высотой подъема 80 мм ± 10 мм позволяет плавно регулировать высоту сиденья относительно пола",
+        "<strong>Пятилучье</strong> пластиковое d=680 мм с узкими лучами с 5-тью роликами обеспечивает устойчивость и позволяет креслу легко поворачиваться и перемещаться по любому стандартному покрытию пола",
+        "<strong>Ролики</strong> d=55 мм имеют узкий шток"
+      ]
     }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "630",
+          "depth": "370",
+          "height": "630"
+        },
+        "box_size": "630х370х630",
+        "transportation": "удобства транспортировки и хранения кресло поставляется в разобранном виде. Каждое кресло упаковано в отдельный 5-слойный гофрокороб размером"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "brutto": "14,70",
+      "netto": "12,80",
+      "volume": "0,15"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/armchair_comfort/osaka_m-201_pl_pink_01.png",
+      "chair_view": "img/armchair_comfort/osaka_m-201_pl_pink_02.png",
+      "dimensions": "img/armchair_comfort/dimensions/osaka_m-201_pl_gr_01.png",
+      "box": "img/box_UTFC.png",
+      "additional": [
+        "https://utfc.ru/upload/resize_cache/iblock/3eb/400_400_0/frc0uah3vjpuzri3g8zdicq0t4amwbfb.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
+        "https://utfc.ru/upload/resize_cache/iblock/8e2/140_140_0/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/1ff/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
+        "https://utfc.ru/upload/resize_cache/iblock/bb4/140_140_0/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/dde/idp0on9b6x31h39vnhgl50ja0askw810.png",
+        "https://utfc.ru/upload/resize_cache/iblock/5d1/400_400_0/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://utfc.ru/upload/resize_cache/iblock/4fe/400_400_0/sr786v8p7zl4dazdf55slu0eh21n5t05.png",
+        "https://utfc.ru/upload/resize_cache/iblock/dde/140_140_0/idp0on9b6x31h39vnhgl50ja0askw810.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://utfc.ru/upload/resize_cache/iblock/213/140_140_0/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/8e2/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
+        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/bb4/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
+        "https://utfc.ru/upload/resize_cache/iblock/1ff/140_140_0/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
+        "https://cdn.utfc-store.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
+        "https://cdn.utfc-store.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://cdn.utfc-store.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
+        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc-store.ru/iblock/dde/idp0on9b6x31h39vnhgl50ja0askw810.png",
+        "https://cdn.utfc-store.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
+        "https://cdn.utfc-store.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
+        "https://cdn.utfc-store.ru/iblock/8e2/kctcmmsgm1h5acx5uvxe87hpz2bjp011.png",
+        "https://cdn.utfc-store.ru/iblock/bb4/ikaasrw96zaabe9hl6c538lyex5jlyg6.png",
+        "https://cdn.utfc-store.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
+        "https://cdn.utfc-store.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
+        "https://cdn.utfc-store.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
+        "https://cdn.utfc-store.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc-store.ru/iblock/1ff/2rmeud1aii2phgrv2sqkdehkvd3adpli.png",
+        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc-store.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
+        "https://cdn.utfc-store.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
+        "https://cdn.utfc-store.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
+        "https://cdn.utfc-store.ru/resize_cache/28595/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
+        "https://cdn.utfc-store.ru/resize_cache/28594/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
+        "https://cdn.utfc-store.ru/resize_cache/28593/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
+        "https://cdn.utfc-store.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
+        "https://cdn.utfc-store.ru/resize_cache/28596/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
+        "https://cdn.utfc-store.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+        "https://cdn.utfc-store.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+        "https://cdn.utfc-store.ru/resize_cache/28597/f9a783e5b6ef0ba37f754dbaaffb7194/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
+        "https://cdn.utfc-store.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
+        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+        "https://cdn.utfc.ru/iblock/775/tplsrfn48o85zxqm9r7joni71y0ebeox.png",
+        "https://cdn.utfc.ru/iblock/5d1/5d1a7733c1332d593138c4b86b3f3e2b.png",
+        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+        "https://cdn.utfc.ru/uf/658/tznglwjrq9qsrdzp1rvloyess0ms2h0b.png",
+        "https://cdn.utfc.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png",
+        "https://cdn.utfc.ru/uf/991/p5dv8qke1wf12iqvf259072bmlvjhiv3.png",
+        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+        "https://cdn.utfc.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
+        "https://cdn.utfc.ru/iblock/e0d/e0d9842a02eaee7d94d242a0789be65f/a4d87ec359d7000327d9313ef9ec0824.png",
+        "https://cdn.utfc.ru/uf/e78/17g7de57rjq658148jq84x191fk3nqp9.png",
+        "https://cdn.utfc.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
+        "https://cdn.utfc.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
+        "https://cdn.utfc.ru/uf/1c5/po76d9r1f4ivlyizsocrr2xrq8jzmlry.png",
+        "https://cdn.utfc.ru/uf/a52/a52aa5a690d4881fc8805f83289394c6.png",
+        "https://cdn.utfc.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
+        "https://cdn.utfc.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
+        "https://cdn.utfc.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
+        "https://cdn.utfc.ru/iblock/5d9/5d9e639b65104face4aaa582f11e1639/83e2717f494c01b2a5d92394855e1ada.png",
+        "https://cdn.utfc.ru/uf/af6/p2s8lkincx2u78dqyu1rs8y0fsn9qdsv.png",
+        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+        "https://cdn.utfc.ru/iblock/420/4200ecddfd5b4a22457562d269869744/7cdba8a86576d55dbaa86196b41ddf9a.png",
+        "https://cdn.utfc.ru/iblock/656/65660f500e28f40e8ab8a84b254c4c18/457557f48193f68c90ac68c3d9954912.png",
+        "https://cdn.utfc.ru/iblock/c86/c869d6b11f5b391e0b45ad59c6aba7ae/20b8d4866d754964ecd1f0890dbd9b46.png",
+        "https://cdn.utfc.ru/iblock/b5c/b5c31c11e044a58093b39f7208bedcb8/aec8e8c3c2a8be82920798bf0d120eba.png",
+        "https://cdn.utfc.ru/iblock/350/350dc41b95d210b5ac78404415174b25/fc6e12c960d16ce3e8a8d77ac6540f17.png",
+        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+        "https://cdn.utfc.ru/iblock/82a/82a679f53d9c3affc6c23cc247f28d60/a7614f3ca138bb35bd12ea48ecc2b5e6.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "1130",
+        "max": "1250"
+      },
+      "headrest_height": {
+        "min": "195",
+        "max": "230"
+      },
+      "seat_to_floor_height": {
+        "min": "440",
+        "max": "520"
+      },
+      "seat_to_floor_height_upper": {},
+      "armrest_height_from_floor": {
+        "min": "300",
+        "max": "350"
+      },
+      "armrest_height_from_seat": {
+        "min": "185",
+        "max": "235"
+      },
+      "armrest_width_support": {
+        "max": "90"
+      },
+      "armrest_length_support": {
+        "max": "240"
+      },
+      "chair_depth": {
+        "min": "690"
+      },
+      "seat_depth": {
+        "min": "440"
+      },
+      "seat_depth_km": {
+        "max": "530"
+      },
+      "backrest_height": {},
+      "backrest_to_seat_height": {
+        "min": "545"
+      },
+      "backrest_height_external": {
+        "max": "600"
+      },
+      "seat_width_with_armrests": {
+        "min": "545"
+      },
+      "seat_width": {
+        "max": "510"
+      },
+      "backrest_width_narrow": {
+        "max": "430"
+      },
+      "backrest_width_wide": {
+        "max": "500"
+      },
+      "diameter_cross": {
+        "max": "680"
+      },
+      "runners_width": {},
+      "runners_depth": {},
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "немонолитный",
+      "netto": "13",
+      "brutto": "15",
+      "package_width": "630",
+      "package_depth": "370",
+      "package_height": "630",
+      "volume": "0"
+    }
+  ],
+  "skeleton": "немонолитный",
+  "minpromtorg": "Минпромторг",
+  "addition": "",
+  "parent": {
+    "IE_XML_ID": "a_1021",
+    "IE_NAME": "UTFC Осака М-201 красный пластик",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 1425,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/a90/k7u1s18fb0brbyige04s1qit6js4nbpz.png",
+    "IE_PREVIEW_TEXT": "Кресло изготовлено из прочных и дышащих материалов, обеспечивающих комфорт и долговечность. Это кресло предлагает разнообразные настройки, позволяя адаптировать его под ваши индивидуальные предпочтения. Подголовник 3D регулируется по высоте и углу наклона, подлокотники и поясничная поддержка имеют 5 положений по высоте. Механизм топ-ган позволяет фиксировать кресло в рабочем положении. Кресло сочетает в себе стильный дизайн, удобство и функциональность.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2f3/dudr9w4dul43p4fqjprbot8q35axems6.png",
+    "IE_DETAIL_TEXT": "",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "m201_osaka_red",
+    "IE_TAGS": "",
+    "IE_ID": 12029,
+    "IP_PROP2": 545,
+    "IP_PROP3": "1130-1250",
+    "IP_PROP4": 690,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/256/xzi8v0dxpmq5obfpiyjc8em915r3a8z5.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/c5c/tvcqib6ji96c0nvg5zn0eq6jzeiiod0i.png",
+    "IP_PROP5": 630,
+    "IP_PROP26": 630,
+    "IP_PROP27": 370,
+    "IP_PROP28": "14,7",
+    "IP_PROP29": "Гофрокартон",
+    "IP_PROP30": "0,15",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00038743",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/213/8jlq9lt7sq0k4fe7ejt8l7a1s0i3nyui.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Пятилучье М-201 PL (красный)",
+    "IP_PROP42": "Подлокотник М-201 Осака",
+    "IP_PROP43": "Газ-лифт М-201 PL",
+    "IP_PROP44": "Топ-ган",
+    "IP_PROP45": "",
+    "IP_PROP46": "Ролик М-201 Осака",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 40,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "Кресла Комфорт",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 50,
+    "IC_DESCRIPTION0": "Непревзойдённое удобство, мягкая посадка и продуманная эргономика снижают усталость, сохраняют бодрость и высокую эффективность работы",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "comfort_chairs",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/375/b5r59l3fi90ivczapo32b10xqtpyrlvm.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/4fd/36uazr3npy7xt33ftnqxsrv1ng1kac6r.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "N",
+    "CP_MEASURE": "",
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 12962,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 13351,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 12962,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 50104,
+      "IE_NAME": "Кресло UTFC Осака М-201 красный пластик (красный)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/c60/c609153e978b23b066048319ec3da216/37918357b521effac6a5f137fd657a9a.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/05e/05ecf3d0e86c17ff8fb0efb6911a964f/f7da1ecd4823cfa36fd92d78afdcdf2c.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 12046,
+      "IP_PROP34": 12029,
+      "IP_PROP35": "ПУ-00033557",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/c04/c04f94ad0dcb28121d8df2f12e86a164/6efc6592ff8a2f689fe9bf27e3d8d19e.png",
+        "https://cdn.utfc.ru/iblock/1be/1be290d15609ddee498b420e664e4a8a/308818d263155c991c6ab00afca6e69c.png",
+        "https://cdn.utfc.ru/iblock/3cb/3cb024c88b7b755511b3a6297d62fa03/cc1a4fd3f5f47965b329ebe7b21cd314.png",
+        "https://cdn.utfc.ru/iblock/eff/eff44dc283a64c22b7f6ec536ef545ee/11c6ce2907e43f4682bff99c48a7dd73.png",
+        "https://cdn.utfc.ru/iblock/5af/5af2319eade0241420de3513d291f34a/1862e0fbb43b75726116d8db04da0449.png"
+      ],
+      "IP_PROP37": "Ткань М-201S",
+      "IP_PROP38": "Ткань М-201S (красный)",
+      "IP_PROP39": "Ткань М-201",
+      "IP_PROP40": "Ткань М-201 (красный)",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "красный",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 7,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 5,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 12962,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 13351,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 2,
+      "CV_PRICE_3": 12962,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Компьютерное кресло с эффектным дизайном UTFC Осака М-201 красный пластик производства компании UTFC",
+  "base_name": "Кресло UTFC Осака М-201 красный пластик",
+  "article_number": "ПУ-00033557",
+  "full_describe": "Кресло изготовлено из прочных и дышащих материалов, обеспечивающих комфорт и долговечность. Это кресло предлагает разнообразные настройки, позволяя адаптировать его под ваши индивидуальные предпочтения. Подголовник 3D регулируется по высоте и углу наклона, подлокотники и поясничная поддержка имеют 5 положений по высоте. Механизм топ-ган позволяет фиксировать кресло в рабочем положении. Кресло сочетает в себе стильный дизайн, удобство и функциональность.",
+  "Link_arm": "https://utfc.ru/catalog/comfort_chairs/m201_osaka_red/?offers=12046",
+  "Основание": "Пятилучье пластиковое М-201 PL, покрытие матовое, диаметр 680мм, (красный)",
+  "Подлокотники": "Подлокотники пластиковые регулируемые для кресла М-201 Осака",
+  "Газлифт": "Высококачественный газ-лифт 3 класса Germany DIN 4550 чёрный чёрный",
+  "Механизм": "Топ-ган (TG) - механизм регулирует высоту сиденья, обеспечивает режим свободного качания и фиксацию каркаса в рабочем положении.",
+  "Особенности": "",
+  "Ролики": "Нейлоновые ролики 55 мм",
+  "finish_type": [
+    "-",
+    "Ткань М-201S"
+  ],
+  "color": [
+    "Ткань М-201S (красный)"
+  ],
+  "variant_name": [
+    "Кресло UTFC Осака М-201 красный пластик (-, Ткань М-201S (красный), -, Ткань М-201 (красный))",
+    "Кресло UTFC Осака М-201 красный пластик (Ткань М-201S, Ткань М-201S (красный), Ткань М-201, Ткань М-201 (красный))",
+    "Кресло UTFC Осака М-201 красный пластик (Ткань М-201S, Ткань М-201S (красный), -, Ткань М-201 (красный))",
+    "Кресло UTFC Осака М-201 красный пластик (-, Ткань М-201S (красный), Ткань М-201, Ткань М-201 (красный))"
+  ],
+  "finish_type_seat": [
+    "-",
+    "Ткань М-201"
+  ],
+  "color_seat": [
+    "Ткань М-201 (красный)"
+  ],
+  "madeinrf": "Сделано в РФ",
+  "lost": [
+    {
+      "clean": false,
+      "limit": false,
+      "del": false
+    }
+  ],
+  "sizes": {
+    "Ширина:": "545",
+    "Высота:": "1130-1250",
+    "Глубина:": "690",
+    "Нагрузка:": "120",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "630",
+    "Высота упаковки:": "630",
+    "Глубина упаковки:": "370",
+    "Вес брутто:": "14,7",
+    "Материал упаковки:": "Гофрокартон",
+    "Объём:": "0,15"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "630",
+    "Высота упаковки:": "630",
+    "Глубина упаковки:": "370",
+    "Материал упаковки:": "Гофрокартон"
+  }
 }

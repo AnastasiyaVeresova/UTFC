@@ -66,7 +66,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "10,45",
             "netto": "",
             "volume": "0,22"
         }
@@ -261,10 +261,7 @@
                 "min": "",
                 "max": ""
             },
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "10",
             "package_width": "760",
             "package_depth": "440",
             "package_height": "650",

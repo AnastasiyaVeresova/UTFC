@@ -67,7 +67,7 @@
     ],
     "dimensions": [
         {
-            "brutto": "",
+            "brutto": "10,90",
             "netto": "",
             "volume": "0,11"
         }
@@ -281,10 +281,7 @@
                 "min": "",
                 "max": ""
             },
-            "brutto": {
-                "min": "",
-                "max": ""
-            },
+            "brutto": "11",
             "package_width": "630",
             "package_depth": "290",
             "package_height": "600",
@@ -292,7 +289,7 @@
         }
     ],
     "skeleton": "немонолитный",
-    "minpromtorg": "+",
+    "minpromtorg": "Минпромторг",
     "addition": "не поставляется в кожзаме Z",
     "parent": {
         "IE_XML_ID": "p_5201",
