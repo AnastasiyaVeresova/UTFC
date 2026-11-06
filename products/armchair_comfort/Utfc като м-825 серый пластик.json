@@ -432,7 +432,7 @@
       "IC_CODE2": "",
       "IC_PICTURE2": "",
       "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 84,
+      "CP_QUANTITY": 184,
       "CP_QUANTITY_TRACE": "D",
       "CP_CAN_BUY_ZERO": "D",
       "CP_WEIGHT": 0,
@@ -457,7 +457,7 @@
       "CV_CURRENCY_1": "RUB",
       "CV_PRICE_2": 5562,
       "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 84,
+      "STORE_AMOUNT_4": 184,
       "CV_PRICE_3": 5400,
       "CV_CURRENCY_3": "RUB"
     }

@@ -1,636 +1,637 @@
 {
-  "namefile": [
-    "Афродита люкс со столиком хром"
-  ],
-  "name_all": [
-    "Афродита Люкс",
-    "Афродита Люкс со столиком"
-  ],
-  "name": [
-    "Афродита Люкс со столиком"
-  ],
-  "unique_name": [
-    "Афродита Люкс со столиком хром"
-  ],
-  "vid": [
-    "стул"
-  ],
-  "category": [
-    "стул"
-  ],
-  "destiny": [
-    "работы и кратковременного отдыха сидя<br>Используется в общественных помещениях различного назначения (в том числе в административных и т. д.)<br>Изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани, и пластиковыми подлокотниками"
-  ],
-  "technical_requirements": [
-    [
-      "Стул должен соответствовать требованиям:",
-      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-      "настоящего технического описания",
-      "комплекта конструкторской документации",
-      "образцу-эталону, утвержденному в установленном порядке производителем"
-    ]
-  ],
-  "construction_and_materials": [
-    {
-      "upholstery_materials": [
-        "- материал облицовки спинки стула:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья стула: ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R)<br>\n- цвет материала - по каталогу"
-      ],
-      "components": [
-        "металлического каркаса, сиденья, подлокотников, столика, пластиковых заглушек и крепежных элементов. Нерегулируемый",
-        "<strong>Каркас</strong> стула сварной металлический, с защитно-декоративным покрытием, состоит из ножек, спинки и планок",
-        "<strong>Ножки и спинка</strong> изготовлены из трубы круглого сечения Ф22х1,2 мм, <strong>планки</strong> - из стального листа толщиной 3 мм",
-        "<strong>Покрытие каркаса</strong>: хромовое блестящее",
-        "<strong>Спинка каркаса</strong> обтянула чехлом из сетчатой ткани (TW)",
-        "<strong>Сиденье</strong> мягкое, состоят из основания фанерного (фанера гнуто-клееная 6-слойная), вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицовки",
-        "На основаниях сиденья установлены гайки мебельные М6 для соединения сиденья с каркасом винтами М6",
-        "<strong>Облицовка сиденья:</strong> ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R). Материал канта сиденья: ткань-сетка (Е)",
-        "<strong>Подлокотники</strong> пластиковые устанавливаются на передние ножки каркаса и крепятся к спинке каркаса винтами М6",
-        "<strong>Столик</strong> поворотный пластиковый устанавливается на кронштейн каркаса и крепится с помощью винта и гайки М5",
-        "<strong>Заглушки</strong> устанавливаются на опорную поверхность ножек каркаса и в крепежные отверстия подлокотников"
-      ]
-    }
-  ],
-  "transportation": [
-    {
-      "standard": "ГОСТ 16371-2014",
-      "packaging": {
-        "type": "5-слойный гофрокороб",
-        "size": {
-          "width": "670",
-          "depth": "630",
-          "height": "970"
-        },
-        "box_size": "670х630х970",
-        "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
-      }
-    }
-  ],
-  "dimensions": [
-    {
-      "brutto": "5,20",
-      "netto": "",
-      "volume": "0,41"
-    }
-  ],
-  "guarantee": [
-    {
-      "period": "12",
-      "max_load": "120",
-      "recommended_load": "90"
-    }
-  ],
-  "images": [
-    {
-      "vid_main": "img/chair_visitors/afrodita_stol_ch_01.png",
-      "chair_view": "img/chair_visitors/afrodita_stol_ch_02.png",
-      "dimensions": "img/chair_visitors/dimensions/afrodita_stol_ch_01.png",
-      "box": "img/box_UTFC_2x.png",
-      "additional": [
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/5f8/400_400_0/5f87deb598a64f6efb82c20f80096b81.png",
-        "https://utfc.ru/upload/resize_cache/iblock/7a2/140_140_0/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
-        "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
-        "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
-        "https://utfc.ru/upload/resize_cache/iblock/e3d/140_140_0/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
-        "https://utfc.ru/upload/resize_cache/iblock/a9d/140_140_0/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
-        "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
-        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
-        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
-        "https://utfc.ru/upload/resize_cache/iblock/89d/140_140_0/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
-        "https://utfc.ru/upload/resize_cache/iblock/e00/140_140_0/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
-        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
-        "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
-        "https://utfc.ru/local/templates/utfc/img/palette.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
-        "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
-        "https://cdn.utfc-store.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
-        "https://cdn.utfc-store.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
-        "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc-store.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
-        "https://cdn.utfc-store.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
-        "https://cdn.utfc-store.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
-        "https://cdn.utfc-store.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
-        "https://cdn.utfc-store.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
-        "https://cdn.utfc-store.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
-        "https://cdn.utfc-store.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
-        "https://cdn.utfc-store.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
-        "https://cdn.utfc-store.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
-        "https://cdn.utfc-store.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://cdn.utfc-store.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
-        "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
-        "https://cdn.utfc.ru/iblock/5f8/5f87deb598a64f6efb82c20f80096b81.png",
-        "https://cdn.utfc.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
-        "https://cdn.utfc.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
-        "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
-        "https://cdn.utfc.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
-        "https://cdn.utfc.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
-        "https://cdn.utfc.ru/iblock/825/825222ae0487adaa00d3d37ee994e01f.png",
-        "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
-        "https://cdn.utfc.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
-        "https://cdn.utfc.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
-        "https://cdn.utfc.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
-        "https://cdn.utfc.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
-        "https://cdn.utfc.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
-        "https://cdn.utfc.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
-        "https://cdn.utfc.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
-        "https://cdn.utfc.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
-        "https://cdn.utfc.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
-        "https://cdn.utfc.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
-        "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
-        "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
-        "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
-        "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
-        "https://cdn.utfc.ru/uf/f1f/f1f5da610fb7fd8c67b417d21d8195bb/7e19de63ba4541cf5298fe7971d287eb.png",
-        "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
-        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
-        "https://cdn.utfc.ru/iblock/d4f/d4ff9abdc126234ac7bf32960e025c46/20228fe44a69df770d1d820e4fa16a78.png"
-      ]
-    }
-  ],
-  "dimensions_details": [
-    {
-      "chair_height": {
-        "min": "850",
-        "max": ""
-      },
-      "headrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_to_floor_height": {
-        "min": "485",
-        "max": ""
-      },
-      "armrest_height_from_seat": {
-        "min": "",
-        "max": ""
-      },
-      "chair_depth": {
-        "min": "",
-        "max": ""
-      },
-      "seat_depth": {
-        "min": "440",
-        "max": ""
-      },
-      "backrest_height": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_to_seat_height": {
-        "min": "",
-        "max": ""
-      },
-      "seat_width_with_armrests": {
-        "min": "540",
-        "max": ""
-      },
-      "seat_width": {
-        "min": "",
-        "max": "465"
-      },
-      "diameter_cross": {
-        "min": "",
-        "max": ""
-      },
-      "runners_width": {
-        "min": "",
-        "max": "520"
-      },
-      "runners_depth": {
-        "min": "",
-        "max": "490"
-      },
-      "seat_to_floor_height_upper": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_height_from_floor": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_width_support": {
-        "min": "",
-        "max": ""
-      },
-      "armrest_length_support": {
-        "min": "",
-        "max": ""
-      },
-      "seat_depth_km": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_height_external": {
-        "min": "",
-        "max": ""
-      },
-      "backrest_width_narrow": {
-        "min": "",
-        "max": "440"
-      },
-      "backrest_width_wide": {
-        "min": "",
-        "max": "450"
-      },
-      "recommended_load": "90",
-      "max_load": "120",
-      "skeleton": {
-        "min": "",
-        "max": ""
-      },
-      "minpromtorg": "+",
-      "netto": {
-        "min": "",
-        "max": ""
-      },
-      "brutto": "5",
-      "package_width": "670",
-      "package_depth": "630",
-      "package_height": "970",
-      "volume": "0"
-    }
-  ],
-  "skeleton": "",
-  "minpromtorg": "Минпромторг",
-  "addition": "",
-  "parent": {
-    "IE_XML_ID": "p_5094",
-    "IE_NAME": "Стул Афродита Люкс СН со столиком",
-    "IE_ACTIVE": "Y",
-    "IE_ACTIVE_FROM": "",
-    "IE_ACTIVE_TO": "",
-    "IE_SORT": 1850,
-    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/708/708b6a3ed0e8a6095e52abb4b8479457.png",
-    "IE_PREVIEW_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
-    "IE_PREVIEW_TEXT_TYPE": "text",
-    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2b5/2b5a5940b3531e6c95a2976ebf98204d.png",
-    "IE_DETAIL_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
-    "IE_DETAIL_TEXT_TYPE": "text",
-    "IE_CODE": "afrodita_lux_ch_stolik",
-    "IE_TAGS": "Афродита, со столиком",
-    "IE_ID": 9213,
-    "IP_PROP2": 540,
-    "IP_PROP3": 850,
-    "IP_PROP4": 730,
-    "IP_PROP6": "",
-    "IP_PROP19": 120,
-    "IP_PROP25": "Немонолитный",
-    "IP_PROP18": "https://cdn.utfc.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
-    "IP_PROP31": "https://cdn.utfc.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
-    "IP_PROP5": 660,
-    "IP_PROP26": 960,
-    "IP_PROP27": 620,
-    "IP_PROP28": "5,2",
-    "IP_PROP29": "Гофрокартон (2шт/уп)",
-    "IP_PROP30": "0,4",
-    "IP_PROP7": "",
-    "IP_PROP8": "",
-    "IP_PROP9": "ПУ-00038946",
-    "IP_PROP10": "",
-    "IP_PROP11": "",
-    "IP_PROP12": "",
-    "IP_PROP13": "https://cdn.utfc.ru/iblock/2ee/2ee4a6a79d1cbf7e46b40e82458a7000.png",
-    "IP_PROP14": "",
-    "IP_PROP15": "",
-    "IP_PROP16": "",
-    "IP_PROP17": "",
-    "IP_PROP22": "",
-    "IP_PROP41": "Опоры стула Афродита СН",
-    "IP_PROP42": "Подлокотник Афродита",
-    "IP_PROP43": "",
-    "IP_PROP44": "",
-    "IP_PROP45": "",
-    "IP_PROP46": "",
-    "IP_PROP47": "",
-    "IP_PROP48": "Немонолитный",
-    "IP_PROP49": "",
-    "IP_PROP50": "",
-    "IP_PROP51": "",
-    "IP_PROP52": "",
-    "IP_PROP59": "Нет",
-    "IP_PROP60": "",
-    "IC_ID0": 27,
-    "IC_XML_ID0": "",
-    "IC_GROUP0": "Стулья",
-    "IC_ACTIVE0": "Y",
-    "IC_SORT0": 55,
-    "IC_DESCRIPTION0": "Лаконичный дизайн и универсальность для гармоничного дополнения интерьера офиса и зон ожидания",
-    "IC_DESCRIPTION_TYPE0": "text",
-    "IC_CODE0": "pos_chair",
-    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/886/8861dc6234e3cb1dd2db61171cfb210c.png",
-    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ccc/ccc8c3730415630646026bfc16547e7f.png",
-    "IC_ID1": "",
-    "IC_XML_ID1": "",
-    "IC_GROUP1": "",
-    "IC_ACTIVE1": "",
-    "IC_SORT1": "",
-    "IC_DESCRIPTION1": "",
-    "IC_DESCRIPTION_TYPE1": "",
-    "IC_CODE1": "",
-    "IC_PICTURE1": "",
-    "IC_DETAIL_PICTURE1": "",
-    "IC_ID2": "",
-    "IC_XML_ID2": "",
-    "IC_GROUP2": "",
-    "IC_ACTIVE2": "",
-    "IC_SORT2": "",
-    "IC_DESCRIPTION2": "",
-    "IC_DESCRIPTION_TYPE2": "",
-    "IC_CODE2": "",
-    "IC_PICTURE2": "",
-    "IC_DETAIL_PICTURE2": "",
-    "CP_QUANTITY": 0,
-    "CP_QUANTITY_TRACE": "N",
-    "CP_CAN_BUY_ZERO": "Y",
-    "CP_WEIGHT": 0,
-    "CP_WIDTH": "",
-    "CP_HEIGHT": "",
-    "CP_LENGTH": "",
-    "CP_PURCHASING_PRICE": "",
-    "CP_PURCHASING_CURRENCY": "",
-    "CP_PRICE_TYPE": "S",
-    "CP_RECUR_SCHEME_LENGTH": "",
-    "CP_RECUR_SCHEME_TYPE": "D",
-    "CP_TRIAL_PRICE_ID": "",
-    "CP_WITHOUT_ORDER": "N",
-    "CP_VAT_ID": "",
-    "CP_VAT_INCLUDED": "N",
-    "CP_MEASURE": "",
-    "STORE_AMOUNT_2": "",
-    "STORE_AMOUNT_3": "",
-    "CV_QUANTITY_FROM": "",
-    "CV_QUANTITY_TO": "",
-    "CV_PRICE_1": 4755,
-    "CV_CURRENCY_1": "RUB",
-    "CV_PRICE_2": 4898,
-    "CV_CURRENCY_2": "RUB",
-    "CV_PRICE_3": 4755,
-    "CV_CURRENCY_3": "RUB",
-    "STORE_AMOUNT_4": ""
-  },
-  "children": [
-    {
-      "IE_XML_ID": 50686,
-      "IE_NAME": "Стул Афродита Люкс СН TW-01/Е105-к/Е11-к (черный/оранжевый/черный) со столиком",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/26d/xh0xvh0ithhc7kxqvjewl12o7vfpejrb.png",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b6c/y0v0strwe7dkpw4b378nrspy1uumwdl3.png",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 12809,
-      "IP_PROP34": 9213,
-      "IP_PROP35": "ЦБ-00008866",
-      "IP_PROP36": [
-        "https://cdn.utfc.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
-        "https://cdn.utfc.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
-        "https://cdn.utfc.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
-        "https://cdn.utfc.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
-        "https://cdn.utfc.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png"
-      ],
-      "IP_PROP37": "Сетка TW",
-      "IP_PROP38": "Сетка TW-01 (черный)",
-      "IP_PROP39": "Ткань Сетка Е",
-      "IP_PROP40": "Ткань-сетка Е105-к (оранжевый)",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": [
-        "черный",
-        "оранжевый",
-        "разноцветный"
-      ],
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "Y",
-      "CP_MEASURE": 5,
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4755,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4898,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 4755,
-      "CV_CURRENCY_3": "RUB"
+    "namefile": [
+        "Афродита люкс со столиком хром"
+    ],
+    "name_all": [
+        "Афродита Люкс",
+        "Афродита Люкс со столиком"
+    ],
+    "name": [
+        "Афродита Люкс со столиком"
+    ],
+    "unique_name": [
+        "Афродита Люкс со столиком хром"
+    ],
+    "vid": [
+        "стул"
+    ],
+    "category": [
+        "стул"
+    ],
+    "destiny": [
+        "работы и кратковременного отдыха сидя<br>Используется в общественных помещениях различного назначения (в том числе в административных и т. д.)<br>Изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани, и пластиковыми подлокотниками"
+    ],
+    "technical_requirements": [
+        [
+            "Стул должен соответствовать требованиям:",
+            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+            "настоящего технического описания",
+            "комплекта конструкторской документации",
+            "образцу-эталону, утвержденному в установленном порядке производителем"
+        ]
+    ],
+    "construction_and_materials": [
+        {
+            "upholstery_materials": [
+                "- материал облицовки спинки стула:<br>ткань-сетка (TW)<br>\n- материал облицовки сиденья стула: ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R)<br>\n- цвет материала - по каталогу"
+            ],
+            "components": [
+                "металлического каркаса, сиденья, подлокотников, столика, пластиковых заглушек и крепежных элементов. Нерегулируемый",
+                "<strong>Каркас</strong> стула сварной металлический, с защитно-декоративным покрытием, состоит из ножек, спинки и планок",
+                "<strong>Ножки и спинка</strong> изготовлены из трубы круглого сечения Ф22х1,2 мм, <strong>планки</strong> - из стального листа толщиной 3 мм",
+                "<strong>Покрытие каркаса</strong>: хромовое блестящее",
+                "<strong>Спинка каркаса</strong> обтянула чехлом из сетчатой ткани (TW)",
+                "<strong>Сиденье</strong> мягкое, состоят из основания фанерного (фанера гнуто-клееная 6-слойная), вкладыша пенополиуретанового (жесткость - 40, плотность - 20 кг/м<sup>3</sup>) и облицовки",
+                "На основаниях сиденья установлены гайки мебельные М6 для соединения сиденья с каркасом винтами М6",
+                "<strong>Облицовка сиденья:</strong> ткань (D), ткань-сетка (Е), искусственная кожа (Z), экокожа (S, R). Материал канта сиденья: ткань-сетка (Е)",
+                "<strong>Подлокотники</strong> пластиковые устанавливаются на передние ножки каркаса и крепятся к спинке каркаса винтами М6",
+                "<strong>Столик</strong> поворотный пластиковый устанавливается на кронштейн каркаса и крепится с помощью винта и гайки М5",
+                "<strong>Заглушки</strong> устанавливаются на опорную поверхность ножек каркаса и в крепежные отверстия подлокотников"
+            ]
+        }
+    ],
+    "transportation": [
+        {
+            "standard": "ГОСТ 16371-2014",
+            "packaging": {
+                "type": "5-слойный гофрокороб",
+                "size": {
+                    "width": "670",
+                    "depth": "630",
+                    "height": "970"
+                },
+                "box_size": "670х630х970",
+                "transportation": "Упаковка стульев: по 2 шт в 5-слойный гофрокороб размером"
+            }
+        }
+    ],
+    "dimensions": [
+        {
+            "brutto": "5,20",
+            "netto": "",
+            "volume": "0,41"
+        }
+    ],
+    "guarantee": [
+        {
+            "period": "12",
+            "max_load": "120",
+            "recommended_load": "90"
+        }
+    ],
+    "images": [
+        {
+            "vid_main": "img/chair_visitors/afrodita_stol_ch_01.png",
+            "chair_view": "img/chair_visitors/afrodita_stol_ch_02.png",
+            "dimensions": "img/chair_visitors/dimensions/afrodita_stol_ch_01.png",
+            "box": "img/box_UTFC_2x.png",
+            "additional": [
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/5f8/400_400_0/5f87deb598a64f6efb82c20f80096b81.png",
+                "https://utfc.ru/upload/resize_cache/iblock/7a2/140_140_0/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
+                "https://utfc.ru/upload/resize_cache/iblock/405/70_70_0/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+                "https://utfc.ru/upload/resize_cache/iblock/825/400_400_0/825222ae0487adaa00d3d37ee994e01f.png",
+                "https://utfc.ru/upload/resize_cache/iblock/e3d/140_140_0/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
+                "https://utfc.ru/upload/resize_cache/iblock/a9d/140_140_0/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
+                "https://utfc.ru/upload/resize_cache/iblock/5f2/70_70_0/jtoqpoxf3v0ai54dthupo7bqv6dlhff8.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
+                "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+                "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+                "https://utfc.ru/upload/resize_cache/iblock/89d/140_140_0/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
+                "https://utfc.ru/upload/resize_cache/iblock/e00/140_140_0/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
+                "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+                "https://utfc.ru/upload/resize_cache/iblock/f1e/70_70_0/w0ygriy5n0e2jfi6onf915j0a810dqrl.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
+                "https://utfc.ru/local/templates/utfc/img/palette.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
+                "https://96478eeb-ff2c-475c-9fba-7b30622ddf38.selstorage.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
+                "https://cdn.utfc-store.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
+                "https://cdn.utfc-store.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
+                "https://cdn.utfc-store.ru/resize_cache/27742/09667609493257e3dc4f183374d2fcb3/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc-store.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
+                "https://cdn.utfc-store.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
+                "https://cdn.utfc-store.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
+                "https://cdn.utfc-store.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
+                "https://cdn.utfc-store.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
+                "https://cdn.utfc-store.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
+                "https://cdn.utfc-store.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
+                "https://cdn.utfc-store.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
+                "https://cdn.utfc-store.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
+                "https://cdn.utfc-store.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://cdn.utfc-store.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
+                "https://cdn.utfc-store.ru/resize_cache/27729/09667609493257e3dc4f183374d2fcb3/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/iblock/405/6az8ijq3kwo614y93g1tk5dxfw4xk8zx.png",
+                "https://cdn.utfc.ru/iblock/5f8/5f87deb598a64f6efb82c20f80096b81.png",
+                "https://cdn.utfc.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
+                "https://cdn.utfc.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png",
+                "https://cdn.utfc.ru/iblock/4d4/4d41990eb99704cb4917b701ae204ad5/3a325688235932695c2d5ab0314af8c2.png",
+                "https://cdn.utfc.ru/uf/158/ydj3j3jwqroojv3a4tvklesfcf9x87mn.png",
+                "https://cdn.utfc.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png",
+                "https://cdn.utfc.ru/iblock/825/825222ae0487adaa00d3d37ee994e01f.png",
+                "https://cdn.utfc.ru/iblock/959/959dd4bf748fc6175817aec58673daf9/da8cb3bce3fcf393969db44d9eb766b8.png",
+                "https://cdn.utfc.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
+                "https://cdn.utfc.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
+                "https://cdn.utfc.ru/uf/70a/70aaa7da478d4874e5a20297e3b92dc8.jpg",
+                "https://cdn.utfc.ru/uf/754/754a02bbebb313b7ef2558e795a28ba6.jpg",
+                "https://cdn.utfc.ru/uf/164/1642cc9560c18c50c8c334f8afa14f6b.jpg",
+                "https://cdn.utfc.ru/uf/eeb/eebd8f0779e4f7b49d9f225d2fa9accb.jpg",
+                "https://cdn.utfc.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
+                "https://cdn.utfc.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
+                "https://cdn.utfc.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
+                "https://cdn.utfc.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
+                "https://cdn.utfc.ru/iblock/e49/e49ef734279064b5b9be4cafd2926b1d/e5b8b54948ab237d14fbd1f59e1ba258.png",
+                "https://cdn.utfc.ru/iblock/f0b/f0b7f5875e76cc86c342465af1693ed0/1b687b628bb2f1a20e2a2f394b9da986.png",
+                "https://cdn.utfc.ru/iblock/c82/c82221f9290dcdd80dbc249c5412bfc7/1ee2b80fedc34481732d1646a81542ac.png",
+                "https://cdn.utfc.ru/iblock/2ea/2eae6a06a46b7ac29d86a6a02df69d89/dd1b7264900872b0447056529ae5762a.png",
+                "https://cdn.utfc.ru/uf/f1f/f1f5da610fb7fd8c67b417d21d8195bb/7e19de63ba4541cf5298fe7971d287eb.png",
+                "https://cdn.utfc.ru/iblock/1d9/1d9af4c959b2bca68fcb434085755d5c/53d197f9ba0ae8bdebbce8a4a87ef90a.png",
+                "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+                "https://cdn.utfc.ru/iblock/d4f/d4ff9abdc126234ac7bf32960e025c46/20228fe44a69df770d1d820e4fa16a78.png",
+                "https://cdn.utfc.ru/iblock/07c/07ca2b6f6ee31041bb31b5cb1b8d5802/0b5e2d2b63a5e19b29a3add0eb8b24e9.png"
+            ]
+        }
+    ],
+    "dimensions_details": [
+        {
+            "chair_height": {
+                "min": "850",
+                "max": ""
+            },
+            "headrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_to_floor_height": {
+                "min": "485",
+                "max": ""
+            },
+            "armrest_height_from_seat": {
+                "min": "",
+                "max": ""
+            },
+            "chair_depth": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth": {
+                "min": "440",
+                "max": ""
+            },
+            "backrest_height": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_to_seat_height": {
+                "min": "",
+                "max": ""
+            },
+            "seat_width_with_armrests": {
+                "min": "540",
+                "max": ""
+            },
+            "seat_width": {
+                "min": "",
+                "max": "465"
+            },
+            "diameter_cross": {
+                "min": "",
+                "max": ""
+            },
+            "runners_width": {
+                "min": "",
+                "max": "520"
+            },
+            "runners_depth": {
+                "min": "",
+                "max": "490"
+            },
+            "seat_to_floor_height_upper": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_height_from_floor": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_width_support": {
+                "min": "",
+                "max": ""
+            },
+            "armrest_length_support": {
+                "min": "",
+                "max": ""
+            },
+            "seat_depth_km": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_height_external": {
+                "min": "",
+                "max": ""
+            },
+            "backrest_width_narrow": {
+                "min": "",
+                "max": "440"
+            },
+            "backrest_width_wide": {
+                "min": "",
+                "max": "450"
+            },
+            "recommended_load": "90",
+            "max_load": "120",
+            "skeleton": {
+                "min": "",
+                "max": ""
+            },
+            "minpromtorg": "+",
+            "netto": {
+                "min": "",
+                "max": ""
+            },
+            "brutto": "5",
+            "package_width": "670",
+            "package_depth": "630",
+            "package_height": "970",
+            "volume": "0"
+        }
+    ],
+    "skeleton": "",
+    "minpromtorg": "Минпромторг",
+    "addition": "",
+    "parent": {
+        "IE_XML_ID": "p_5094",
+        "IE_NAME": "Стул Афродита Люкс СН со столиком",
+        "IE_ACTIVE": "Y",
+        "IE_ACTIVE_FROM": "",
+        "IE_ACTIVE_TO": "",
+        "IE_SORT": 1850,
+        "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/708/708b6a3ed0e8a6095e52abb4b8479457.png",
+        "IE_PREVIEW_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
+        "IE_PREVIEW_TEXT_TYPE": "text",
+        "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/2b5/2b5a5940b3531e6c95a2976ebf98204d.png",
+        "IE_DETAIL_TEXT": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
+        "IE_DETAIL_TEXT_TYPE": "text",
+        "IE_CODE": "afrodita_lux_ch_stolik",
+        "IE_TAGS": "Афродита, со столиком",
+        "IE_ID": 9213,
+        "IP_PROP2": 540,
+        "IP_PROP3": 850,
+        "IP_PROP4": 730,
+        "IP_PROP6": "",
+        "IP_PROP19": 120,
+        "IP_PROP25": "Немонолитный",
+        "IP_PROP18": "https://cdn.utfc.ru/iblock/78a/b6sw5ftzc00ykrg6w2te5m5ucd194brj.png",
+        "IP_PROP31": "https://cdn.utfc.ru/iblock/767/th2yw6ozc66ai6khg74p1fmhb21tln4u.png",
+        "IP_PROP5": 660,
+        "IP_PROP26": 960,
+        "IP_PROP27": 620,
+        "IP_PROP28": "5,2",
+        "IP_PROP29": "Гофрокартон (2шт/уп)",
+        "IP_PROP30": "0,4",
+        "IP_PROP7": "",
+        "IP_PROP8": "",
+        "IP_PROP9": "ПУ-00038946",
+        "IP_PROP10": "",
+        "IP_PROP11": "",
+        "IP_PROP12": "",
+        "IP_PROP13": "https://cdn.utfc.ru/iblock/2ee/2ee4a6a79d1cbf7e46b40e82458a7000.png",
+        "IP_PROP14": "",
+        "IP_PROP15": "",
+        "IP_PROP16": "",
+        "IP_PROP17": "",
+        "IP_PROP22": "",
+        "IP_PROP41": "Опоры стула Афродита СН",
+        "IP_PROP42": "Подлокотник Афродита",
+        "IP_PROP43": "",
+        "IP_PROP44": "",
+        "IP_PROP45": "",
+        "IP_PROP46": "",
+        "IP_PROP47": "",
+        "IP_PROP48": "Немонолитный",
+        "IP_PROP49": "",
+        "IP_PROP50": "",
+        "IP_PROP51": "",
+        "IP_PROP52": "",
+        "IP_PROP59": "Нет",
+        "IP_PROP60": "",
+        "IC_ID0": 27,
+        "IC_XML_ID0": "",
+        "IC_GROUP0": "Стулья",
+        "IC_ACTIVE0": "Y",
+        "IC_SORT0": 55,
+        "IC_DESCRIPTION0": "Лаконичный дизайн и универсальность для гармоничного дополнения интерьера офиса и зон ожидания",
+        "IC_DESCRIPTION_TYPE0": "text",
+        "IC_CODE0": "pos_chair",
+        "IC_PICTURE0": "https://cdn.utfc.ru/iblock/886/8861dc6234e3cb1dd2db61171cfb210c.png",
+        "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ccc/ccc8c3730415630646026bfc16547e7f.png",
+        "IC_ID1": "",
+        "IC_XML_ID1": "",
+        "IC_GROUP1": "",
+        "IC_ACTIVE1": "",
+        "IC_SORT1": "",
+        "IC_DESCRIPTION1": "",
+        "IC_DESCRIPTION_TYPE1": "",
+        "IC_CODE1": "",
+        "IC_PICTURE1": "",
+        "IC_DETAIL_PICTURE1": "",
+        "IC_ID2": "",
+        "IC_XML_ID2": "",
+        "IC_GROUP2": "",
+        "IC_ACTIVE2": "",
+        "IC_SORT2": "",
+        "IC_DESCRIPTION2": "",
+        "IC_DESCRIPTION_TYPE2": "",
+        "IC_CODE2": "",
+        "IC_PICTURE2": "",
+        "IC_DETAIL_PICTURE2": "",
+        "CP_QUANTITY": 0,
+        "CP_QUANTITY_TRACE": "N",
+        "CP_CAN_BUY_ZERO": "Y",
+        "CP_WEIGHT": 0,
+        "CP_WIDTH": "",
+        "CP_HEIGHT": "",
+        "CP_LENGTH": "",
+        "CP_PURCHASING_PRICE": "",
+        "CP_PURCHASING_CURRENCY": "",
+        "CP_PRICE_TYPE": "S",
+        "CP_RECUR_SCHEME_LENGTH": "",
+        "CP_RECUR_SCHEME_TYPE": "D",
+        "CP_TRIAL_PRICE_ID": "",
+        "CP_WITHOUT_ORDER": "N",
+        "CP_VAT_ID": "",
+        "CP_VAT_INCLUDED": "N",
+        "CP_MEASURE": "",
+        "STORE_AMOUNT_2": "",
+        "STORE_AMOUNT_3": "",
+        "CV_QUANTITY_FROM": "",
+        "CV_QUANTITY_TO": "",
+        "CV_PRICE_1": 4755,
+        "CV_CURRENCY_1": "RUB",
+        "CV_PRICE_2": 4898,
+        "CV_CURRENCY_2": "RUB",
+        "CV_PRICE_3": 4755,
+        "CV_CURRENCY_3": "RUB",
+        "STORE_AMOUNT_4": ""
     },
-    {
-      "IE_XML_ID": 13494,
-      "IE_NAME": "Стул Афродита Люкс СН TW-72/D26-28/Е11-к (серый/черный) со столиком",
-      "IE_ACTIVE": "Y",
-      "IE_ACTIVE_FROM": "",
-      "IE_ACTIVE_TO": "",
-      "IE_SORT": 500,
-      "IE_PREVIEW_PICTURE": "",
-      "IE_PREVIEW_TEXT": "",
-      "IE_PREVIEW_TEXT_TYPE": "text",
-      "IE_DETAIL_PICTURE": "",
-      "IE_DETAIL_TEXT": "",
-      "IE_DETAIL_TEXT_TYPE": "text",
-      "IE_CODE": "",
-      "IE_TAGS": "",
-      "IE_ID": 13494,
-      "IP_PROP34": 9213,
-      "IP_PROP35": "ПУ-00027674",
-      "IP_PROP36": "",
-      "IP_PROP37": "Сетка TW",
-      "IP_PROP38": "Сетка TW-72 (серый)",
-      "IP_PROP39": "Ткань D",
-      "IP_PROP40": "Ткань D26-28 (черный)",
-      "IP_PROP61": "",
-      "IC_ID0": "",
-      "IC_XML_ID0": "",
-      "IC_GROUP0": "",
-      "IC_ACTIVE0": "",
-      "IC_SORT0": "",
-      "IC_DESCRIPTION0": "",
-      "IP_PROP122": [
-        "серый",
-        "черный",
-        "разноцветный"
-      ],
-      "IC_DESCRIPTION_TYPE0": "",
-      "IC_CODE0": "",
-      "IC_PICTURE0": "",
-      "IC_DETAIL_PICTURE0": "",
-      "IC_ID1": "",
-      "IC_XML_ID1": "",
-      "IC_GROUP1": "",
-      "IC_ACTIVE1": "",
-      "IC_SORT1": "",
-      "IC_DESCRIPTION1": "",
-      "IC_DESCRIPTION_TYPE1": "",
-      "IC_CODE1": "",
-      "IC_PICTURE1": "",
-      "IC_DETAIL_PICTURE1": "",
-      "IC_ID2": "",
-      "IC_XML_ID2": "",
-      "IC_GROUP2": "",
-      "IC_ACTIVE2": "",
-      "IC_SORT2": "",
-      "IC_DESCRIPTION2": "",
-      "IC_DESCRIPTION_TYPE2": "",
-      "IC_CODE2": "",
-      "IC_PICTURE2": "",
-      "IC_DETAIL_PICTURE2": "",
-      "CP_QUANTITY": 0,
-      "CP_QUANTITY_TRACE": "D",
-      "CP_CAN_BUY_ZERO": "D",
-      "CP_WEIGHT": 0,
-      "CP_WIDTH": "",
-      "CP_HEIGHT": "",
-      "CP_LENGTH": "",
-      "CP_PURCHASING_PRICE": "",
-      "CP_PURCHASING_CURRENCY": "",
-      "CP_PRICE_TYPE": "S",
-      "CP_RECUR_SCHEME_LENGTH": "",
-      "CP_RECUR_SCHEME_TYPE": "D",
-      "CP_TRIAL_PRICE_ID": "",
-      "CP_WITHOUT_ORDER": "N",
-      "CP_VAT_ID": "",
-      "CP_VAT_INCLUDED": "N",
-      "CP_MEASURE": "",
-      "STORE_AMOUNT_2": 0,
-      "STORE_AMOUNT_3": 0,
-      "CV_QUANTITY_FROM": "",
-      "CV_QUANTITY_TO": "",
-      "CV_PRICE_1": 4755,
-      "CV_CURRENCY_1": "RUB",
-      "CV_PRICE_2": 4898,
-      "CV_CURRENCY_2": "RUB",
-      "STORE_AMOUNT_4": 0,
-      "CV_PRICE_3": 4755,
-      "CV_CURRENCY_3": "RUB"
+    "children": [
+        {
+            "IE_XML_ID": 50686,
+            "IE_NAME": "Стул Афродита Люкс СН TW-01/Е105-к/Е11-к (черный/оранжевый/черный) со столиком",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/26d/xh0xvh0ithhc7kxqvjewl12o7vfpejrb.png",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/b6c/y0v0strwe7dkpw4b378nrspy1uumwdl3.png",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 12809,
+            "IP_PROP34": 9213,
+            "IP_PROP35": "ЦБ-00008866",
+            "IP_PROP36": [
+                "https://cdn.utfc.ru/iblock/e00/iljaqqmchazuxf50fbowutdeh9ncc5w4.png",
+                "https://cdn.utfc.ru/iblock/7a2/kapupkq6mkzl2219ar6yd8oy5q8mugvk.png",
+                "https://cdn.utfc.ru/iblock/e3d/g55pwo9g00cjjeir3074rm5bmleym5k6.png",
+                "https://cdn.utfc.ru/iblock/a9d/gj2td08hkic4pqumzg8epwwkxpumvsbi.png",
+                "https://cdn.utfc.ru/iblock/89d/7jfkqpi707b42fey3wyhxj11f44me5sf.png"
+            ],
+            "IP_PROP37": "Сетка TW",
+            "IP_PROP38": "Сетка TW-01 (черный)",
+            "IP_PROP39": "Ткань Сетка Е",
+            "IP_PROP40": "Ткань-сетка Е105-к (оранжевый)",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": [
+                "черный",
+                "оранжевый",
+                "разноцветный"
+            ],
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "Y",
+            "CP_MEASURE": 5,
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4755,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4898,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 4755,
+            "CV_CURRENCY_3": "RUB"
+        },
+        {
+            "IE_XML_ID": 13494,
+            "IE_NAME": "Стул Афродита Люкс СН TW-72/D26-28/Е11-к (серый/черный) со столиком",
+            "IE_ACTIVE": "Y",
+            "IE_ACTIVE_FROM": "",
+            "IE_ACTIVE_TO": "",
+            "IE_SORT": 500,
+            "IE_PREVIEW_PICTURE": "",
+            "IE_PREVIEW_TEXT": "",
+            "IE_PREVIEW_TEXT_TYPE": "text",
+            "IE_DETAIL_PICTURE": "",
+            "IE_DETAIL_TEXT": "",
+            "IE_DETAIL_TEXT_TYPE": "text",
+            "IE_CODE": "",
+            "IE_TAGS": "",
+            "IE_ID": 13494,
+            "IP_PROP34": 9213,
+            "IP_PROP35": "ПУ-00027674",
+            "IP_PROP36": "",
+            "IP_PROP37": "Сетка TW",
+            "IP_PROP38": "Сетка TW-72 (серый)",
+            "IP_PROP39": "Ткань D",
+            "IP_PROP40": "Ткань D26-28 (черный)",
+            "IP_PROP61": "",
+            "IC_ID0": "",
+            "IC_XML_ID0": "",
+            "IC_GROUP0": "",
+            "IC_ACTIVE0": "",
+            "IC_SORT0": "",
+            "IC_DESCRIPTION0": "",
+            "IP_PROP122": [
+                "серый",
+                "черный",
+                "разноцветный"
+            ],
+            "IC_DESCRIPTION_TYPE0": "",
+            "IC_CODE0": "",
+            "IC_PICTURE0": "",
+            "IC_DETAIL_PICTURE0": "",
+            "IC_ID1": "",
+            "IC_XML_ID1": "",
+            "IC_GROUP1": "",
+            "IC_ACTIVE1": "",
+            "IC_SORT1": "",
+            "IC_DESCRIPTION1": "",
+            "IC_DESCRIPTION_TYPE1": "",
+            "IC_CODE1": "",
+            "IC_PICTURE1": "",
+            "IC_DETAIL_PICTURE1": "",
+            "IC_ID2": "",
+            "IC_XML_ID2": "",
+            "IC_GROUP2": "",
+            "IC_ACTIVE2": "",
+            "IC_SORT2": "",
+            "IC_DESCRIPTION2": "",
+            "IC_DESCRIPTION_TYPE2": "",
+            "IC_CODE2": "",
+            "IC_PICTURE2": "",
+            "IC_DETAIL_PICTURE2": "",
+            "CP_QUANTITY": 0,
+            "CP_QUANTITY_TRACE": "D",
+            "CP_CAN_BUY_ZERO": "D",
+            "CP_WEIGHT": 0,
+            "CP_WIDTH": "",
+            "CP_HEIGHT": "",
+            "CP_LENGTH": "",
+            "CP_PURCHASING_PRICE": "",
+            "CP_PURCHASING_CURRENCY": "",
+            "CP_PRICE_TYPE": "S",
+            "CP_RECUR_SCHEME_LENGTH": "",
+            "CP_RECUR_SCHEME_TYPE": "D",
+            "CP_TRIAL_PRICE_ID": "",
+            "CP_WITHOUT_ORDER": "N",
+            "CP_VAT_ID": "",
+            "CP_VAT_INCLUDED": "N",
+            "CP_MEASURE": "",
+            "STORE_AMOUNT_2": 0,
+            "STORE_AMOUNT_3": 0,
+            "CV_QUANTITY_FROM": "",
+            "CV_QUANTITY_TO": "",
+            "CV_PRICE_1": 4755,
+            "CV_CURRENCY_1": "RUB",
+            "CV_PRICE_2": 4898,
+            "CV_CURRENCY_2": "RUB",
+            "STORE_AMOUNT_4": 0,
+            "CV_PRICE_3": 4755,
+            "CV_CURRENCY_3": "RUB"
+        }
+    ],
+    "title": "Стул Афродита Люкс СН со столиком и мягким сиденьем производства компании UTFC",
+    "base_name": "Стул Афродита Люкс СН со столиком",
+    "article_number": "ЦБ-00008866",
+    "full_describe": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
+    "Link_arm": "https://utfc.ru/catalog/pos_chair/afrodita_lux_ch_stolik/?offers=12809",
+    "Основание": "Металлические опоры стула Афродита, защитно-декоративное покрытие никель-хром (СН)",
+    "Подлокотники": "Подлокотники пластиковые \"Афродита\"",
+    "Газлифт": "",
+    "Механизм": "",
+    "Особенности": "",
+    "Ролики": "",
+    "finish_type": [
+        "-",
+        "Сетка TW"
+    ],
+    "color": [
+        "Сетка TW-72 (серый)",
+        "Сетка TW-01 (черный)"
+    ],
+    "variant_name": [
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), -, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), Ткань D, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), -, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), Ткань D, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), -, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), Ткань D, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), -, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
+        "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), Ткань D, Ткань-сетка Е105-к (оранжевый))"
+    ],
+    "finish_type_seat": [
+        "-",
+        "Ткань Сетка Е",
+        "Ткань D"
+    ],
+    "color_seat": [
+        "Ткань-сетка Е105-к (оранжевый)"
+    ],
+    "madeinrf": "Сделано в РФ",
+    "sizes": {
+        "Ширина:": "540",
+        "Высота:": "850",
+        "Глубина:": "730",
+        "Нагрузка:": "120",
+        "Каркас:": "Немонолитный",
+        "Ширина упаковки:": "660",
+        "Высота упаковки:": "960",
+        "Глубина упаковки:": "620",
+        "Вес брутто:": "5,2",
+        "Материал упаковки:": "2",
+        "Объём:": "0,4"
+    },
+    "package_sizes": {
+        "Ширина упаковки:": "660",
+        "Высота упаковки:": "960",
+        "Глубина упаковки:": "620",
+        "Материал упаковки:": "2"
     }
-  ],
-  "title": "Стул Афродита Люкс СН со столиком и мягким сиденьем производства компании UTFC",
-  "base_name": "Стул Афродита Люкс СН со столиком",
-  "article_number": "ЦБ-00008866",
-  "full_describe": "Кресло для посетителя изготавливается с мягким сиденьем, оригинальной спинкой, выполненной из сетчатой ткани и пластиковыми подлокотниками. К креслу прилагается столик, выполненный из пластика. Модель отлично подойдет для проведения конференций и форумов.",
-  "Link_arm": "https://utfc.ru/catalog/pos_chair/afrodita_lux_ch_stolik/?offers=12809",
-  "Основание": "Металлические опоры стула Афродита, защитно-декоративное покрытие никель-хром (СН)",
-  "Подлокотники": "Подлокотники пластиковые \"Афродита\"",
-  "Газлифт": "",
-  "Механизм": "",
-  "Особенности": "",
-  "Ролики": "",
-  "finish_type": [
-    "-",
-    "Сетка TW"
-  ],
-  "color": [
-    "Сетка TW-72 (серый)",
-    "Сетка TW-01 (черный)"
-  ],
-  "variant_name": [
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), -, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), Ткань D, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-01 (черный), -, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), Ткань D, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (Сетка TW, Сетка TW-72 (серый), -, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), Ткань D, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-01 (черный), -, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), Ткань Сетка Е, Ткань-сетка Е105-к (оранжевый))",
-    "Стул Афродита Люкс СН со столиком (-, Сетка TW-72 (серый), Ткань D, Ткань-сетка Е105-к (оранжевый))"
-  ],
-  "finish_type_seat": [
-    "-",
-    "Ткань Сетка Е",
-    "Ткань D"
-  ],
-  "color_seat": [
-    "Ткань-сетка Е105-к (оранжевый)"
-  ],
-  "madeinrf": "Сделано в РФ",
-  "sizes": {
-    "Ширина:": "540",
-    "Высота:": "850",
-    "Глубина:": "730",
-    "Нагрузка:": "120",
-    "Каркас:": "Немонолитный",
-    "Ширина упаковки:": "660",
-    "Высота упаковки:": "960",
-    "Глубина упаковки:": "620",
-    "Вес брутто:": "5,2",
-    "Материал упаковки:": "2",
-    "Объём:": "0,4"
-  },
-  "package_sizes": {
-    "Ширина упаковки:": "660",
-    "Высота упаковки:": "960",
-    "Глубина упаковки:": "620",
-    "Материал упаковки:": "2"
-  }
 }

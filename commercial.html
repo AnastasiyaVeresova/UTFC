@@ -590,96 +590,211 @@ document.getElementById('delete-price-btn').style.display = 'none';
 // });
 
 // Обработчик для кнопки
-document.getElementById('add-dimensions-btn').addEventListener('click', () => {
-  const selectedProductsStr = localStorage.getItem('selectedProducts');
-  if (!selectedProductsStr) return;
+// document.getElementById('add-dimensions-btn').addEventListener('click', () => {
+//   const selectedProductsStr = localStorage.getItem('selectedProducts');
+//   if (!selectedProductsStr) return;
 
-  const selectedProducts = JSON.parse(selectedProductsStr);
+//   const selectedProducts = JSON.parse(selectedProductsStr);
 
-  document.querySelectorAll('.commercial-product').forEach(productDiv => {
-    const img = productDiv.querySelector('img[data-product-name]');
-    if (!img) return;
+//   document.querySelectorAll('.commercial-product').forEach(productDiv => {
+//     const img = productDiv.querySelector('img[data-product-name]');
+//     if (!img) return;
 
-    const productName = img.getAttribute('data-product-name');
-    const newName = productDiv.querySelector('h3').textContent.trim();
-    productDiv.querySelector('h3').setAttribute('data-product-name', newName);
-    const productNameForSketch = newName;
+//     const productName = img.getAttribute('data-product-name');
+//     const newName = productDiv.querySelector('h3').textContent.trim();
+//     productDiv.querySelector('h3').setAttribute('data-product-name', newName);
+//     const productNameForSketch = newName;
 
-    const sketchSrc = localStorage.getItem(`sketch_${productNameForSketch}`);
-    //  console.log('Stored sketch:', localStorage.getItem(`sketch_${productNameForSketch}`));
+//     const sketchSrc = localStorage.getItem(`sketch_${productNameForSketch}`);
+//     //  console.log('Stored sketch:', localStorage.getItem(`sketch_${productNameForSketch}`));
 
-  // console.log(productName);
-  // console.log(newName);
-  // console.log(productNameForSketch);
+//   // console.log(productName);
+//   // console.log(newName);
+//   // console.log(productNameForSketch);
 
-    // Обрабатываем название для поиска
-    const productNameLower = productName.toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
-    const productWords = new Set(productNameLower.split(/\s+/));
+//     // Обрабатываем название для поиска
+//     const productNameLower = productName.toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
+//     const productWords = new Set(productNameLower.split(/\s+/));
 
 
-    const product = selectedProducts.find(p => {
-      if (p.name && p.name.length > 0) {
-        const pNameLower = p.name[0].toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
-        const pWords = new Set(pNameLower.split(/\s+/));
+//     const product = selectedProducts.find(p => {
+//       if (p.name && p.name.length > 0) {
+//         const pNameLower = p.name[0].toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
+//         const pWords = new Set(pNameLower.split(/\s+/));
 
-        for (let word of pWords) {
-          if (!productWords.has(word)) {
-            return false;
-          }
-        }
-        return true;
-      }
-      return false;
-    });
+//         for (let word of pWords) {
+//           if (!productWords.has(word)) {
+//             return false;
+//           }
+//         }
+//         return true;
+//       }
+//       return false;
+//     });
 
-    if (product && product.images && product.images.length > 0) {
-      const newSrc = product.images[0].dimensions || product.images[0];
+//     if (product && product.images && product.images.length > 0) {
+//       const newSrc = product.images[0].dimensions || product.images[0];
 
-      // Находим или создаем контейнер для эскиза
-      let sketchContainer = productDiv.querySelector('.sketch-container');
-      if (!sketchContainer) {
-        sketchContainer = document.createElement('div');
-        sketchContainer.className = 'sketch-container';
-        productDiv.appendChild(sketchContainer);
-      }
+//       // Находим или создаем контейнер для эскиза
+//       let sketchContainer = productDiv.querySelector('.sketch-container');
+//       if (!sketchContainer) {
+//         sketchContainer = document.createElement('div');
+//         sketchContainer.className = 'sketch-container';
+//         productDiv.appendChild(sketchContainer);
+//       }
 
-      // Проверяем, есть ли уже изображение (эскиз)
-      const existingSketchImg = sketchContainer.querySelector('img[data-isSketch="true"]');
+//       // Проверяем, есть ли уже изображение (эскиз)
+//       const existingSketchImg = sketchContainer.querySelector('img[data-isSketch="true"]');
 
-      if (existingSketchImg) {
-        // Если есть - удаляем его и очищаем localStorage
-        sketchContainer.innerHTML = '';
-        localStorage.removeItem(`sketch_${productNameForSketch}`);
-        document.getElementById('add-dimensions-btn').textContent = 'Добавить эскиз с размерами';
-        return; 
-      }
+//       if (existingSketchImg) {
+//         // Если есть - удаляем его и очищаем localStorage
+//         sketchContainer.innerHTML = '';
+//         localStorage.removeItem(`sketch_${productNameForSketch}`);
+//         document.getElementById('add-dimensions-btn').textContent = 'Добавить эскиз с размерами';
+//         return; 
+//       }
 
-      // Создаем изображение эскиза, если его еще нет
-      const sketchImg = document.createElement('img');
-      sketchImg.src = newSrc;
-      sketchImg.className = 'sketch-img';
-      sketchImg.setAttribute('data-isSketch', 'true');
+//       // Создаем изображение эскиза, если его еще нет
+//       const sketchImg = document.createElement('img');
+//       sketchImg.src = newSrc;
+//       sketchImg.className = 'sketch-img';
+//       sketchImg.setAttribute('data-isSketch', 'true');
 
-      // Добавляем обработчик для ручной замены
-      // sketchImg.addEventListener('click', () => {
-      //   currentSketchImg = sketchImg;
-      //   fileInput.click();
-      // });
+//       // Добавляем обработчик для ручной замены
+//       // sketchImg.addEventListener('click', () => {
+//       //   currentSketchImg = sketchImg;
+//       //   fileInput.click();
+//       // });
 
    
 
-      // Сохраняем в localStorage
-      localStorage.setItem(`sketch_${productNameForSketch}`, newSrc);
+//       // Сохраняем в localStorage
+//       localStorage.setItem(`sketch_${productNameForSketch}`, newSrc);
 
-         // Вставляем изображение в контейнер
-      sketchContainer.appendChild(sketchImg);
+//          // Вставляем изображение в контейнер
+//       sketchContainer.appendChild(sketchImg);
 
-      // Обновляем кнопку
-      document.getElementById('add-dimensions-btn').textContent = 'Удалить эскиз с размерами';
+//       // Обновляем кнопку
+//       document.getElementById('add-dimensions-btn').textContent = 'Удалить эскиз с размерами';
+//     }
+//   });
+// });
+document.getElementById('add-dimensions-btn').addEventListener('click', () => {
+  // console.group('Добавление эскизов');
+
+  const rawData = localStorage.getItem('finalSelection');
+  // console.log('finalSelection из localStorage:', rawData);
+
+  // if (!rawData) {
+  //   console.warn('В localStorage нет finalSelection');
+  //   console.groupEnd();
+  //   return;
+  // }
+
+  let finalSelection;
+
+  try {
+    finalSelection = JSON.parse(rawData);
+  } catch (error) {
+    // console.error('Не удалось разобрать finalSelection:', error);
+    // console.groupEnd();
+    return;
+  }
+
+  // console.log('Разобранный finalSelection:', finalSelection);
+
+  document.querySelectorAll('.commercial-product').forEach((productDiv, index) => {
+    const image = productDiv.querySelector('img[data-product-name]');
+    const title = productDiv.querySelector('h3');
+
+    // console.group(`Карточка товара ${index + 1}`);
+
+    // console.log('Карточка:', productDiv);
+    // console.log('Изображение с data-product-name:', image);
+    // console.log('Заголовок:', title);
+
+    // if (!image) {
+    //   console.warn('В карточке не найдено img[data-product-name]');
+    //   console.groupEnd();
+    //   return;
+    // }
+
+    const productName = image.dataset.productName;
+    // console.log('Имя из data-product-name:', productName);
+
+    const product = finalSelection?.[productName];
+    // console.log('Объект товара в finalSelection:', product);
+
+    // console.log('Поля товара:', product ? Object.keys(product) : 'товар не найден');
+    // console.log('product.parent:', product?.parent);
+    // console.log('product.parent?.IP_PROP18:', product?.parent?.IP_PROP18);
+    // console.log('product.IP_PROP18:', product?.IP_PROP18);
+    // console.log('product.dimensionsImage:', product?.dimensionsImage);
+
+    const sketchSrc =
+      product?.parent?.IP_PROP18 ||
+      product?.IP_PROP18 ||
+      product.images[0].dimensions;
+
+    // console.log('Итоговый адрес эскиза:', sketchSrc);
+
+    if (!product) {
+      console.warn(`Товар "${productName}" не найден как ключ в finalSelection`);
+      console.log('Доступные ключи finalSelection:', Object.keys(finalSelection || {}));
+      console.groupEnd();
+      return;
     }
-  });
-});
 
+    if (!sketchSrc) {
+      console.warn(`Для товара "${productName}" не найден IP_PROP18`);
+      console.groupEnd();
+      return;
+    }
+
+    let sketchContainer = productDiv.querySelector('.sketch-container');
+
+    if (sketchContainer?.querySelector('[data-is-sketch="true"], [data-isSketch="true"]')) {
+      // console.log('Эскиз уже есть — удаляем');
+      sketchContainer.remove();
+      // console.groupEnd();
+      return;
+    }
+
+    if (!sketchContainer) {
+      sketchContainer = document.createElement('div');
+      sketchContainer.className = 'sketch-container';
+
+      const imagesContainer = productDiv.querySelector('.commercial-product-images');
+      if (imagesContainer) {
+        imagesContainer.appendChild(sketchContainer);
+      } else {
+        productDiv.appendChild(sketchContainer);
+      }
+
+      // console.log('Создан .sketch-container');
+    }
+
+    const sketchImg = document.createElement('img');
+    sketchImg.src = sketchSrc;
+    sketchImg.className = 'sketch-img';
+    sketchImg.dataset.isSketch = 'true';
+    sketchImg.alt = 'Эскиз с размерами';
+
+    sketchImg.addEventListener('load', () => {
+      // console.log('Эскиз загрузился:', sketchImg.src);
+    });
+
+    sketchImg.addEventListener('error', () => {
+      console.error('Ошибка загрузки эскиза:', sketchImg.src);
+    });
+
+    sketchContainer.appendChild(sketchImg);
+    // console.log('Эскиз добавлен в карточку');
+    // console.groupEnd();
+  });
+
+  // console.groupEnd();
+});
 
     const signatures = {
       first: {

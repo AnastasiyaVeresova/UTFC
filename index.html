@@ -1148,6 +1148,7 @@
                     CV_PRICE_2: data.CV_PRICE_2 || '—',
                     CV_PRICE_3: data.CV_PRICE_3 || '—',
                     Link_arm: data.Link_arm || '#',
+                    
                 });
             });
 
@@ -5208,6 +5209,7 @@ if (paramChangeFlags.all_width) {
                         CV_CURRENCY_3: child.CV_CURRENCY_3 || parent.CV_CURRENCY_3 || 'RUB',
                         Link_arm: parent.Link_arm || '#',
                         full_describe: parent.full_describe || '—',
+                        IP_PROP18: parent.parent?.IP_PROP18 || '',
                     };
                 }
             } else {
