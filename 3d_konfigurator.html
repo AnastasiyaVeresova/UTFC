@@ -578,8 +578,9 @@ function assignMeshTypes(model) {
         }
         scene.add(group);
         sceneObjects.push(group);
-        // buildDimensions(group);
+        buildDimensions(group);
         buildTotalDimensions();
+        
       }
 
       function onMouseClick(event) {
@@ -1391,16 +1392,21 @@ function applyUpholsteryTexture(object, category, file) {
         return spr;
       }
 
-      function toggleDimensions() {
-        dimensionsVisible = !dimensionsVisible;
-        // sceneObjects.forEach(obj => {
-        //   const dg = obj.getObjectByName('dimension-group');
-        //   if (dg) dg.visible = dimensionsVisible;
-        // });
-        // Включаем/выключаем общие габариты
-        const tdg = scene.getObjectByName('total-dimension-group');
-        if (tdg) tdg.visible = dimensionsVisible;
-      }
+function toggleDimensions() {
+  dimensionsVisible = !dimensionsVisible;
+
+  const hasMultipleObjects = sceneObjects.length > 1;
+
+  // Индивидуальные габариты показываем только для одного объекта
+  sceneObjects.forEach(obj => {
+    const dg = obj.getObjectByName('dimension-group');
+    if (dg) dg.visible = dimensionsVisible && !hasMultipleObjects;
+  });
+
+  // Общие габариты — только когда объектов несколько
+  const tdg = scene.getObjectByName('total-dimension-group');
+  if (tdg) tdg.visible = dimensionsVisible && hasMultipleObjects;
+}
 
       function getLocalBoundingBox(obj) {
         if (obj.userData._localBox) return obj.userData._localBox;
