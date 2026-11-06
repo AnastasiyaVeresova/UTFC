@@ -734,7 +734,7 @@ document.getElementById('add-dimensions-btn').addEventListener('click', () => {
     const sketchSrc =
       product?.parent?.IP_PROP18 ||
       product?.IP_PROP18 ||
-      product.images[0].dimensions;
+      product?.dimensionsImage;
 
     // console.log('Итоговый адрес эскиза:', sketchSrc);
 
