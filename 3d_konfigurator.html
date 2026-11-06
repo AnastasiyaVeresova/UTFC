@@ -578,7 +578,7 @@ function assignMeshTypes(model) {
         }
         scene.add(group);
         sceneObjects.push(group);
-        buildDimensions(group);
+        // buildDimensions(group);
         buildTotalDimensions();
       }
 
@@ -1393,10 +1393,10 @@ function applyUpholsteryTexture(object, category, file) {
 
       function toggleDimensions() {
         dimensionsVisible = !dimensionsVisible;
-        sceneObjects.forEach(obj => {
-          const dg = obj.getObjectByName('dimension-group');
-          if (dg) dg.visible = dimensionsVisible;
-        });
+        // sceneObjects.forEach(obj => {
+        //   const dg = obj.getObjectByName('dimension-group');
+        //   if (dg) dg.visible = dimensionsVisible;
+        // });
         // Включаем/выключаем общие габариты
         const tdg = scene.getObjectByName('total-dimension-group');
         if (tdg) tdg.visible = dimensionsVisible;
