@@ -23,6 +23,13 @@
 </head>
 
 <body>
+
+  <input
+  id="sketch-file-input"
+  type="file"
+  accept="image/*"
+  hidden
+>
   <div class="a4-container">
     <!-- Титульный лист -->
     <div class="commercial-header">
@@ -679,84 +686,48 @@ document.getElementById('delete-price-btn').style.display = 'none';
 //     }
 //   });
 // });
-document.getElementById('add-dimensions-btn').addEventListener('click', () => {
-  // console.group('Добавление эскизов');
+const button = document.getElementById('add-dimensions-btn');
 
+button.addEventListener('click', () => {
   const rawData = localStorage.getItem('finalSelection');
-  // console.log('finalSelection из localStorage:', rawData);
-
-  // if (!rawData) {
-  //   console.warn('В localStorage нет finalSelection');
-  //   console.groupEnd();
-  //   return;
-  // }
+  if (!rawData) return;
 
   let finalSelection;
 
   try {
     finalSelection = JSON.parse(rawData);
   } catch (error) {
-    // console.error('Не удалось разобрать finalSelection:', error);
-    // console.groupEnd();
+    console.error('Некорректный finalSelection в localStorage:', error);
     return;
   }
 
-  // console.log('Разобранный finalSelection:', finalSelection);
-
-  document.querySelectorAll('.commercial-product').forEach((productDiv, index) => {
+  document.querySelectorAll('.commercial-product').forEach(productDiv => {
     const image = productDiv.querySelector('img[data-product-name]');
-    const title = productDiv.querySelector('h3');
-
-    // console.group(`Карточка товара ${index + 1}`);
-
-    // console.log('Карточка:', productDiv);
-    // console.log('Изображение с data-product-name:', image);
-    // console.log('Заголовок:', title);
-
-    // if (!image) {
-    //   console.warn('В карточке не найдено img[data-product-name]');
-    //   console.groupEnd();
-    //   return;
-    // }
+    if (!image) return;
 
     const productName = image.dataset.productName;
-    // console.log('Имя из data-product-name:', productName);
-
     const product = finalSelection?.[productName];
-    // console.log('Объект товара в finalSelection:', product);
 
-    // console.log('Поля товара:', product ? Object.keys(product) : 'товар не найден');
-    // console.log('product.parent:', product?.parent);
-    // console.log('product.parent?.IP_PROP18:', product?.parent?.IP_PROP18);
-    // console.log('product.IP_PROP18:', product?.IP_PROP18);
-    // console.log('product.dimensionsImage:', product?.dimensionsImage);
+    if (!product) return;
 
     const sketchSrc =
-      product?.parent?.IP_PROP18 ||
-      product?.IP_PROP18 ||
-      product?.dimensionsImage;
+      product.parent?.IP_PROP18 ||
+      product.IP_PROP18 ||
+      product.dimensionsImage;
 
-    // console.log('Итоговый адрес эскиза:', sketchSrc);
+    let sketchContainer = productDiv.querySelector('.sketch-container');
+    const existingSketch = sketchContainer?.querySelector(
+      '[data-is-sketch="true"]'
+    );
 
-    if (!product) {
-      console.warn(`Товар "${productName}" не найден как ключ в finalSelection`);
-      console.log('Доступные ключи finalSelection:', Object.keys(finalSelection || {}));
-      console.groupEnd();
+    // Если эскиз уже есть — удаляем
+    if (existingSketch) {
+      sketchContainer.remove();
       return;
     }
 
     if (!sketchSrc) {
-      console.warn(`Для товара "${productName}" не найден IP_PROP18`);
-      console.groupEnd();
-      return;
-    }
-
-    let sketchContainer = productDiv.querySelector('.sketch-container');
-
-    if (sketchContainer?.querySelector('[data-is-sketch="true"], [data-isSketch="true"]')) {
-      // console.log('Эскиз уже есть — удаляем');
-      sketchContainer.remove();
-      // console.groupEnd();
+      console.warn(`Для товара "${productName}" не найден эскиз`);
       return;
     }
 
@@ -765,35 +736,36 @@ document.getElementById('add-dimensions-btn').addEventListener('click', () => {
       sketchContainer.className = 'sketch-container';
 
       const imagesContainer = productDiv.querySelector('.commercial-product-images');
-      if (imagesContainer) {
-        imagesContainer.appendChild(sketchContainer);
-      } else {
-        productDiv.appendChild(sketchContainer);
-      }
-
-      // console.log('Создан .sketch-container');
+      (imagesContainer || productDiv).appendChild(sketchContainer);
     }
 
     const sketchImg = document.createElement('img');
-    sketchImg.src = sketchSrc;
+    const savedSketch = localStorage.getItem(`sketch_${productName}`);
+    sketchImg.src = savedSketch || sketchSrc;
     sketchImg.className = 'sketch-img';
     sketchImg.dataset.isSketch = 'true';
     sketchImg.alt = 'Эскиз с размерами';
+    sketchImg.title = 'Нажмите, для замены эскиза';
 
-    sketchImg.addEventListener('load', () => {
-      // console.log('Эскиз загрузился:', sketchImg.src);
-    });
+sketchImg.addEventListener('click', () => {
+  sketchToReplace = { img: sketchImg, productName };
+  fileInputSketch.click();
+   });
 
     sketchImg.addEventListener('error', () => {
       console.error('Ошибка загрузки эскиза:', sketchImg.src);
     });
 
     sketchContainer.appendChild(sketchImg);
-    // console.log('Эскиз добавлен в карточку');
-    // console.groupEnd();
   });
 
-  // console.groupEnd();
+  // Кнопка меняет текст после обработки карточек
+  const hasSketches = [...document.querySelectorAll('.commercial-product')]
+    .some(card => card.querySelector('.sketch-container [data-is-sketch="true"]'));
+
+  button.textContent = hasSketches
+    ? 'Удалить эскизы с размерами'
+    : 'Добавить эскизы с размерами';
 });
 
     const signatures = {
@@ -838,6 +810,7 @@ document.getElementById('add-dimensions-btn').addEventListener('click', () => {
         email: '',
       }
     };
+    
 
     document.querySelectorAll('#signature-buttons button').forEach(btn => {
       btn.addEventListener('click', () => {
@@ -874,6 +847,8 @@ document.getElementById('add-dimensions-btn').addEventListener('click', () => {
     img.addEventListener('click', () => {
       fileInput.click();
     });
+
+   
 
     // Обработка выбора файла
     fileInput.addEventListener('change', (e) => {
@@ -953,6 +928,32 @@ document.getElementById('add-dimensions-btn').addEventListener('click', () => {
         reader.readAsDataURL(file);
       }
     });
+
+     const fileInputSketch = document.getElementById('sketch-file-input');
+let sketchToReplace = null;
+
+fileInputSketch.addEventListener('change', () => {
+  const file = fileInputSketch.files?.[0];
+
+  if (!file || !sketchToReplace) return;
+
+  const reader = new FileReader();
+
+  reader.onload = () => {
+    const dataUrl = reader.result;
+
+    sketchToReplace.img.src = dataUrl;
+    localStorage.setItem(
+      `sketch_${sketchToReplace.productName}`,
+      dataUrl
+    );
+
+    sketchToReplace = null;
+    fileInputSketch.value = '';
+  };
+
+  reader.readAsDataURL(file);
+});
 
     // Обработчик для удаления изображения
     document.getElementById('delete-icon').addEventListener('click', function () {
