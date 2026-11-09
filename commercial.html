@@ -708,6 +708,7 @@ button.addEventListener('click', () => {
     if (!image) return;
 
     const productName = image.dataset.productName;
+    const newName = productDiv.querySelector('h3').textContent.trim();
     const product = finalSelection?.[productName];
 
     if (!product) return;
@@ -742,7 +743,7 @@ button.addEventListener('click', () => {
     }
 
     const sketchImg = document.createElement('img');
-const sketchToShow = sketchSrc || sketchSrc;
+const sketchToShow = sketchSrc;
 
 if (!sketchToShow) {
   console.warn(`Для товара "${productName}" не найден эскиз`);
@@ -750,13 +751,13 @@ if (!sketchToShow) {
 }
 
 // Сохраняем исходный эскиз, если пользователь ещё не загружал свой
-if (!sketchSrc) {
+// if (!sketchSrc) {
   try {
-    localStorage.setItem(`sketch_${productName}`, sketchToShow);
+    localStorage.setItem(`sketch_${newName}`, sketchToShow);
   } catch (error) {
     console.error('Не удалось сохранить эскиз:', error);
   }
-}
+// }
 
 sketchImg.src = sketchToShow;
     sketchImg.className = 'sketch-img';
@@ -2063,7 +2064,7 @@ if (productNameElement) {
 
             // Сохраняем в localStorage
             const productName = container.querySelector('h3')?.getAttribute('data-product-name');
-            const newName = productDiv.querySelector('h3').textContent.trim();
+            // const newName = productDiv.querySelector('h3').textContent.trim();
 try {
   if (productName) {
     localStorage.setItem(`sketch_${productName}`, reader.result);
