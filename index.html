@@ -5162,6 +5162,19 @@ if (paramChangeFlags.all_width) {
                     // Загружаем фото из localStorage
                     let images = [];
                     const productName = Array.isArray(parent.unique_name) ? parent.unique_name[0] : parent.unique_name;
+                    const productNameForSketch = childName;
+                    // Получаем эскиз родителя
+const parentSketch =
+    parent.images?.[0]?.dimensions ||
+    parent.parent?.IP_PROP18 ||
+    parent.IP_PROP18 ||
+    '';
+
+// Сохраняем под ключом родителя:
+// localStorage.getItem(`sketch_${productName}`)
+if (parentSketch) {
+    localStorage.setItem(`sketch_${productNameForSketch}`, parentSketch);
+}
                     for (let i = 0; i < 4; i++) {
                         const imageKey = `image_${productName}_${i}`;
                         const cachedImage = localStorage.getItem(imageKey);
@@ -5209,8 +5222,9 @@ if (paramChangeFlags.all_width) {
                         CV_CURRENCY_3: child.CV_CURRENCY_3 || parent.CV_CURRENCY_3 || 'RUB',
                         Link_arm: parent.Link_arm || '#',
                         full_describe: parent.full_describe || '—',
-                        IP_PROP18: parent.parent?.IP_PROP18 || '',
-                        dimensionsImage: parent.images?.[0]?.dimensions || ''
+   parentName: productName,
+    IP_PROP18: parentSketch,
+    dimensionsImage: parentSketch
                     };
                 }
             } else {

@@ -231,7 +231,7 @@
   </div>
 
   <button id="generateOffer">Сформировать PDF</button>
-  <button id="add-dimensions-btn">Добавить эскиз с размерами</button>
+  <button id="add-dimensions-btn">Добавить эскизы с размерами</button>
   <button id="delete-price-btn">Удалить цены</button>
     <button id="delete-numberpage-btn">Удалить нумерацию страниц</button>
 
@@ -597,194 +597,194 @@ document.getElementById('delete-price-btn').style.display = 'none';
 // });
 
 // Обработчик для кнопки
-document.getElementById('add-dimensions-btn').addEventListener('click', () => {
-  const selectedProductsStr = localStorage.getItem('selectedProducts');
-  if (!selectedProductsStr) return;
+// document.getElementById('add-dimensions-btn').addEventListener('click', () => {
+//   const selectedProductsStr = localStorage.getItem('selectedProducts');
+//   if (!selectedProductsStr) return;
 
-  const selectedProducts = JSON.parse(selectedProductsStr);
-
-  document.querySelectorAll('.commercial-product').forEach(productDiv => {
-    const img = productDiv.querySelector('img[data-product-name]');
-    if (!img) return;
-
-    const productName = img.getAttribute('data-product-name');
-    const newName = productDiv.querySelector('h3').textContent.trim();
-    productDiv.querySelector('h3').setAttribute('data-product-name', newName);
-    const productNameForSketch = newName;
-
-    const sketchSrc = localStorage.getItem(`sketch_${productNameForSketch}`);
-    //  console.log('Stored sketch:', localStorage.getItem(`sketch_${productNameForSketch}`));
-
-  // console.log(productName);
-  // console.log(newName);
-  // console.log(productNameForSketch);
-
-    // Обрабатываем название для поиска
-    const productNameLower = productName.toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
-    const productWords = new Set(productNameLower.split(/\s+/));
-
-
-    const product = selectedProducts.find(p => {
-      if (p.name && p.name.length > 0) {
-        const pNameLower = p.name[0].toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
-        const pWords = new Set(pNameLower.split(/\s+/));
-
-        for (let word of pWords) {
-          if (!productWords.has(word)) {
-            return false;
-          }
-        }
-        return true;
-      }
-      return false;
-    });
-
-    if (product && product.images && product.images.length > 0) {
-      const newSrc = product.images[0].dimensions || product.images[0];
-
-      // Находим или создаем контейнер для эскиза
-      let sketchContainer = productDiv.querySelector('.sketch-container');
-      if (!sketchContainer) {
-        sketchContainer = document.createElement('div');
-        sketchContainer.className = 'sketch-container';
-        productDiv.appendChild(sketchContainer);
-      }
-
-      // Проверяем, есть ли уже изображение (эскиз)
-      const existingSketchImg = sketchContainer.querySelector('img[data-isSketch="true"]');
-
-      if (existingSketchImg) {
-        // Если есть - удаляем его и очищаем localStorage
-        sketchContainer.innerHTML = '';
-        localStorage.removeItem(`sketch_${productNameForSketch}`);
-        document.getElementById('add-dimensions-btn').textContent = 'Добавить эскиз с размерами';
-        return; 
-      }
-
-      // Создаем изображение эскиза, если его еще нет
-      const sketchImg = document.createElement('img');
-      sketchImg.src = newSrc;
-      sketchImg.className = 'sketch-img';
-      sketchImg.setAttribute('data-isSketch', 'true');
-
-      // Добавляем обработчик для ручной замены
-      // sketchImg.addEventListener('click', () => {
-      //   currentSketchImg = sketchImg;
-      //   fileInput.click();
-      // });
-
-   
-
-      // Сохраняем в localStorage
-      localStorage.setItem(`sketch_${productNameForSketch}`, newSrc);
-
-         // Вставляем изображение в контейнер
-      sketchContainer.appendChild(sketchImg);
-
-      // Обновляем кнопку
-      document.getElementById('add-dimensions-btn').textContent = 'Удалить эскиз с размерами';
-    }
-  });
-});
-
-
-// const button = document.getElementById('add-dimensions-btn');
-
-// button.addEventListener('click', () => {
-//   const rawData = localStorage.getItem('finalSelection');
-//   if (!rawData) return;
-
-//   let finalSelection;
-
-//   try {
-//     finalSelection = JSON.parse(rawData);
-//   } catch (error) {
-//     console.error('Некорректный finalSelection в localStorage:', error);
-//     return;
-//   }
+//   const selectedProducts = JSON.parse(selectedProductsStr);
 
 //   document.querySelectorAll('.commercial-product').forEach(productDiv => {
-//     const image = productDiv.querySelector('img[data-product-name]');
-//     if (!image) return;
+//     const img = productDiv.querySelector('img[data-product-name]');
+//     if (!img) return;
 
-//     const productName = image.dataset.productName;
-//     const product = finalSelection?.[productName];
+//     const productName = img.getAttribute('data-product-name');
+//     const newName = productDiv.querySelector('h3').textContent.trim();
+//     productDiv.querySelector('h3').setAttribute('data-product-name', newName);
+//     const productNameForSketch = newName;
 
-//     if (!product) return;
+//     const sketchSrc = localStorage.getItem(`sketch_${productNameForSketch}`);
+//      console.log('Stored sketch:', localStorage.getItem(`sketch_${productNameForSketch}`));
 
-//     const sketchSrc =
-//       product.parent?.IP_PROP18 ||
-//       product.IP_PROP18 ||
-//       product.dimensionsImage;
+//   console.log(productName);
+//   console.log(newName);
+//   console.log(productNameForSketch);
 
-//     let sketchContainer = productDiv.querySelector('.sketch-container');
-//     const existingSketch = sketchContainer?.querySelector(
-//       '[data-is-sketch="true"]'
-//     );
+//     // Обрабатываем название для поиска
+//     const productNameLower = productName.toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
+//     const productWords = new Set(productNameLower.split(/\s+/));
 
-//     // Если эскиз уже есть — удаляем
-//     if (existingSketch) {
-//       sketchContainer.remove();
-//       return;
-//     }
 
-//     if (!sketchSrc) {
-//       console.warn(`Для товара "${productName}" не найден эскиз`);
-//       return;
-//     }
+//     const product = selectedProducts.find(p => {
+//       if (p.name && p.name.length > 0) {
+//         const pNameLower = p.name[0].toLowerCase().replace(/[\/\-.,()]/g, ' ').trim();
+//         const pWords = new Set(pNameLower.split(/\s+/));
 
-//     if (!sketchContainer) {
-//       sketchContainer = document.createElement('div');
-//       sketchContainer.className = 'sketch-container';
-
-//       const imagesContainer = productDiv.querySelector('.commercial-product-images');
-//       (imagesContainer || productDiv).appendChild(sketchContainer);
-//     }
-
-//     const sketchImg = document.createElement('img');
-// const sketchToShow = sketchSrc || sketchSrc;
-
-// if (!sketchToShow) {
-//   console.warn(`Для товара "${productName}" не найден эскиз`);
-//   return;
-// }
-
-// // Сохраняем исходный эскиз, если пользователь ещё не загружал свой
-// if (!sketchSrc) {
-//   try {
-//     localStorage.setItem(`sketch_${productName}`, sketchToShow);
-//   } catch (error) {
-//     console.error('Не удалось сохранить эскиз:', error);
-//   }
-// }
-
-// sketchImg.src = sketchToShow;
-//     sketchImg.className = 'sketch-img';
-//     sketchImg.dataset.isSketch = 'true';
-//     sketchImg.alt = 'Эскиз с размерами';
-//     sketchImg.title = 'Нажмите, для замены эскиза';
-
-// sketchImg.addEventListener('click', () => {
-//   sketchToReplace = { img: sketchImg, productName };
-//   fileInputSketch.click();
-//    });
-
-//     sketchImg.addEventListener('error', () => {
-//       console.error('Ошибка загрузки эскиза:', sketchImg.src);
+//         for (let word of pWords) {
+//           if (!productWords.has(word)) {
+//             return false;
+//           }
+//         }
+//         return true;
+//       }
+//       return false;
 //     });
+
+//     if (product && product.images && product.images.length > 0) {
+//       const newSrc = product.images[0].dimensions || product.images[0];
+
+//       // Находим или создаем контейнер для эскиза
+//       let sketchContainer = productDiv.querySelector('.sketch-container');
+//       if (!sketchContainer) {
+//         sketchContainer = document.createElement('div');
+//         sketchContainer.className = 'sketch-container';
+//         productDiv.appendChild(sketchContainer);
+//       }
+
+//       // Проверяем, есть ли уже изображение (эскиз)
+//       const existingSketchImg = sketchContainer.querySelector('img[data-isSketch="true"]');
+
+//       if (existingSketchImg) {
+//         // Если есть - удаляем его и очищаем localStorage
+//         sketchContainer.innerHTML = '';
+//         localStorage.removeItem(`sketch_${productNameForSketch}`);
+//         document.getElementById('add-dimensions-btn').textContent = 'Добавить эскиз с размерами';
+//         return; 
+//       }
+
+//       // Создаем изображение эскиза, если его еще нет
+//       const sketchImg = document.createElement('img');
+//       sketchImg.src = sketchSrc;
+//       sketchImg.className = 'sketch-img';
+//       sketchImg.setAttribute('data-isSketch', 'true');
+
+//       // Добавляем обработчик для ручной замены
+//       // sketchImg.addEventListener('click', () => {
+//       //   currentSketchImg = sketchImg;
+//       //   fileInput.click();
+//       // });
+
    
 
-//     sketchContainer.appendChild(sketchImg);
+//       // Сохраняем в localStorage
+//       localStorage.setItem(`sketch_${productNameForSketch}`, newSrc);
+
+//          // Вставляем изображение в контейнер
+//       sketchContainer.appendChild(sketchImg);
+
+//       // Обновляем кнопку
+//       document.getElementById('add-dimensions-btn').textContent = 'Удалить эскиз с размерами';
+//     }
 //   });
-
-//   // Кнопка меняет текст после обработки карточек
-//   const hasSketches = [...document.querySelectorAll('.commercial-product')]
-//     .some(card => card.querySelector('.sketch-container [data-is-sketch="true"]'));
-
-//   button.textContent = hasSketches
-//     ? 'Удалить эскизы с размерами'
-//     : 'Добавить эскизы с размерами';
 // });
+
+
+const button = document.getElementById('add-dimensions-btn');
+
+button.addEventListener('click', () => {
+  const rawData = localStorage.getItem('finalSelection');
+  if (!rawData) return;
+
+  let finalSelection;
+
+  try {
+    finalSelection = JSON.parse(rawData);
+  } catch (error) {
+    console.error('Некорректный finalSelection в localStorage:', error);
+    return;
+  }
+
+  document.querySelectorAll('.commercial-product').forEach(productDiv => {
+    const image = productDiv.querySelector('img[data-product-name]');
+    if (!image) return;
+
+    const productName = image.dataset.productName;
+    const product = finalSelection?.[productName];
+
+    if (!product) return;
+
+    const sketchSrc =
+      product.parent?.IP_PROP18 ||
+      product.IP_PROP18 ||
+      product.dimensionsImage;
+
+    let sketchContainer = productDiv.querySelector('.sketch-container');
+    const existingSketch = sketchContainer?.querySelector(
+      '[data-is-sketch="true"]'
+    );
+
+    // Если эскиз уже есть — удаляем
+    if (existingSketch) {
+      sketchContainer.remove();
+      return;
+    }
+
+    if (!sketchSrc) {
+      console.warn(`Для товара "${productName}" не найден эскиз`);
+      return;
+    }
+
+    if (!sketchContainer) {
+      sketchContainer = document.createElement('div');
+      sketchContainer.className = 'sketch-container';
+
+      const imagesContainer = productDiv.querySelector('.commercial-product-images');
+      (imagesContainer || productDiv).appendChild(sketchContainer);
+    }
+
+    const sketchImg = document.createElement('img');
+const sketchToShow = sketchSrc || sketchSrc;
+
+if (!sketchToShow) {
+  console.warn(`Для товара "${productName}" не найден эскиз`);
+  return;
+}
+
+// Сохраняем исходный эскиз, если пользователь ещё не загружал свой
+if (!sketchSrc) {
+  try {
+    localStorage.setItem(`sketch_${productName}`, sketchToShow);
+  } catch (error) {
+    console.error('Не удалось сохранить эскиз:', error);
+  }
+}
+
+sketchImg.src = sketchToShow;
+    sketchImg.className = 'sketch-img';
+    sketchImg.dataset.isSketch = 'true';
+    sketchImg.alt = 'Эскиз с размерами';
+    sketchImg.title = 'Нажмите, для замены эскиза';
+
+sketchImg.addEventListener('click', () => {
+  sketchToReplace = { img: sketchImg, productName };
+  fileInputSketch.click();
+   });
+
+    sketchImg.addEventListener('error', () => {
+      console.error('Ошибка загрузки эскиза:', sketchImg.src);
+    });
+   
+
+    sketchContainer.appendChild(sketchImg);
+  });
+
+  // Кнопка меняет текст после обработки карточек
+  const hasSketches = [...document.querySelectorAll('.commercial-product')]
+    .some(card => card.querySelector('.sketch-container [data-is-sketch="true"]'));
+
+  button.textContent = hasSketches
+    ? 'Удалить эскизы с размерами'
+    : 'Добавить эскизы с размерами';
+});
 
     const signatures = {
       first: {
@@ -1879,7 +1879,7 @@ if (productNameElement) {
 
       const btn = document.getElementById('add-dimensions-btn');
 
-      if (btn && btn.textContent.trim() === 'Добавить эскиз с размерами') {
+      if (btn && btn.textContent.trim() === 'Добавить эскизы с размерами') {
         removeAllSketches();
       }
 
@@ -2063,16 +2063,17 @@ if (productNameElement) {
 
             // Сохраняем в localStorage
             const productName = container.querySelector('h3')?.getAttribute('data-product-name');
+            const newName = productDiv.querySelector('h3').textContent.trim();
 try {
   if (productName) {
     localStorage.setItem(`sketch_${productName}`, reader.result);
-    // console.log('Эскиз успешно сохранен:', `sketch_${productName}`);
+    console.log('Эскиз успешно сохранен:', `sketch_${productName}`);
   }
 } catch (e) {
   if (e.name === 'QuotaExceededError' || e.code === 22) {
     // console.warn('Достигнут лимит localStorage. Не удалось сохранить:', `sketch_${productName}`);
   } else {
-    // console.error('Ошибка при сохранении в localStorage:', e);
+    console.error('Ошибка при сохранении в localStorage:', e);
   }
 }
           };
@@ -2251,7 +2252,7 @@ try {
         // Проверяем состояние кнопки
         const btn = document.getElementById('add-dimensions-btn');
 
-        if (btn && btn.textContent.trim() === 'Добавить эскиз с размерами') {
+        if (btn && btn.textContent.trim() === 'Добавить эскизы с размерами') {
           removeAllSketches();
         }
 
