@@ -163,10 +163,10 @@
                         z-index: 100;
 
         }
-        .commercial-product-images img {
-            max-width: 333px;
-            max-height: auto;
-        }
+        // .commercial-product-images img {
+        //     max-width: 333px;
+        //     max-height: auto;
+        // }
 
         .commercial-product-images img:nth-child(3) {
     max-width: 335px;
@@ -175,9 +175,9 @@
 
         .sketch-img {
             position: absolute;
-    width: 372px; 
+    width: 365px; 
     height: auto;
-    right: -15px;
+    right: 0px;
         top: 490px;
 }
         .qr-code-container {
