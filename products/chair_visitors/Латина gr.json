@@ -1,198 +1,651 @@
 {
-    "namefile": [
-        "Латина gr"
-    ],
-    "name_all": [
-        "Латина",
-        "Латина с подлокотниками"
-    ],
-    "name": [
-        "Латина"
-    ],
-    "unique_name": [
-        "Латина GR"
-    ],
-    "vid": [
-        "стул"
-    ],
-    "category": [
-        "стул"
-    ],
-    "destiny": [
-        "для работы и кратковременного отдыха сидя. Предназначен для установки в жилых и административных помещениях. Изготавливается с мягким элементом спинки и сиденья"
-    ],
-    "technical_requirements": [
-        [
-            "Стул должен соответствовать требованиям:",
-            "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
-            "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
-            "настоящего технического описания",
-            "комплекта конструкторской документации",
-            "образцу-эталону, утвержденному в установленном порядке производителем"
-        ]
-    ],
-    "construction_and_materials": [
-        {
-            "upholstery_materials": [
-                "- тип покрытия каркаса стула: BL, GR, где BL - окрашенный, цвет черный; GR — окрашенный, цвет серый<br>\n- материал облицовки мягких элементов стула, подлокотников: ткань (Велтон, Умбра, Moderno)<br>\n- цвет материала по каталогу"
-            ],
-            "components": [
-                "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
-                "<strong>Каркас</strong> стула металлический состоит из отдельных элементов: 2 каркасов-ножек, каркаса-спинки, с защитно-декоративным покрытием. Каркасы ножек и каркас-спинка изготовлены из стальной трубы круглого сечения Ф18х1,5 мм, крепежные пластины из листа 3 мм. Покрытие каркаса: термореактивная порошковая краска, цвет - черный/серый",
-                "Заглушки устанавливаются на опорную поверхность ножек каркаса (4 шт.), и в верхнюю часть трубы под спинку (2 шт.)",
-                "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость — 25, плотность — 16 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью винтов",
-                "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость — 40, плотность — 22 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
-                "<strong>Материал</strong> облицовки спинки и сиденья: ткань (Велтон, Умбра, Moderno)"
-            ]
-        }
-    ],
-    "transportation": [
-        {
-            "standard": "ГОСТ 16371-2014",
-            "packaging": {
-                "type": "5-слойный гофрокороб",
-                "size": {
-                    "width": "530",
-                    "depth": "350",
-                    "height": "510"
-                },
-                "box_size": "530х350х510",
-                "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде. Упаковка по 1 (530х225х550 мм) или 2 изделия в отдельный 5-слойный гофрокороб размером "
-            }
-        }
-    ],
-    "dimensions": [
-        {
-            "packaging_type": [
-                {
-                    "type": "individual",
-                    "brutto": "5,2",
-                    "netto": "",
-                    "volume": "0,066"
-                },
-                {
-                    "type": "box2",
-                    "brutto": "10,3",
-                    "netto": "",
-                    "volume": "0,094"
-                }
-            ],
-            "volume": "0,066",
-            "netto": "",
-            "brutto": "5,2"
-        }
-    ],
-    "guarantee": [
-        {
-            "period": "12",
-            "max_load": "120",
-            "recommended_load": "90"
-        }
-    ],
-    "images": [
-        {
-            "vid_main": "img/chair_visitors/latina_gr_01.png",
-            "chair_view": "img/chair_visitors/latina_gr_02.png",
-            "dimensions": "img/chair_visitors/dimensions/latina_gr_01.png",
-            "box": "img/box_UTFC_2x.png",
-            "additional": []
-        }
-    ],
-    "dimensions_details": [
-        {
-            "chair_height": {
-                "min": "740",
-                "max": ""
-            },
-            "headrest_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height": {
-                "min": "465",
-                "max": ""
-            },
-            "armrest_height_from_seat": {
-                "min": "",
-                "max": ""
-            },
-            "chair_depth": {
-                "min": "570",
-                "max": ""
-            },
-            "seat_depth": {
-                "min": "460",
-                "max": ""
-            },
-            "backrest_height": {
-                "min": "",
-                "max": "290"
-            },
-            "backrest_to_seat_height": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width_with_armrests": {
-                "min": "",
-                "max": ""
-            },
-            "seat_width": {
-                "min": "",
-                "max": "515"
-            },
-            "diameter_cross": {
-                "min": "",
-                "max": ""
-            },
-            "runners_width": {
-                "min": "",
-                "max": "480"
-            },
-            "runners_depth": {
-                "min": "",
-                "max": ""
-            },
-            "seat_to_floor_height_upper": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_height_from_floor": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_width_support": {
-                "min": "",
-                "max": ""
-            },
-            "armrest_length_support": {
-                "min": "",
-                "max": ""
-            },
-            "seat_depth_km": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_height_external": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_width_narrow": {
-                "min": "",
-                "max": ""
-            },
-            "backrest_width_wide": {
-                "min": "",
-                "max": ""
-            },
-            "recommended_load": "90",
-            "max_load": "120",
-            "skeleton": "",
-            "netto": "",
-            "brutto": "",
-            "package_width": "",
-            "package_depth": "",
-            "package_height": "",
-            "volume": ""
-        }
+  "namefile": [
+    "Латина gr"
+  ],
+  "name_all": [
+    "Латина",
+    "Латина с подлокотниками"
+  ],
+  "name": [
+    "Латина"
+  ],
+  "unique_name": [
+    "Латина GR"
+  ],
+  "vid": [
+    "стул"
+  ],
+  "category": [
+    "стул"
+  ],
+  "destiny": [
+    "для работы и кратковременного отдыха сидя. Предназначен для установки в жилых и административных помещениях. Изготавливается с мягким элементом спинки и сиденья"
+  ],
+  "technical_requirements": [
+    [
+      "Стул должен соответствовать требованиям:",
+      "ГОСТ 19917-2014 «Мебель для сидения и лежания. Общие технические условия»",
+      "ГОСТ 26800.3-86 «Мебель для административных помещений. Функциональные размеры»",
+      "настоящего технического описания",
+      "комплекта конструкторской документации",
+      "образцу-эталону, утвержденному в установленном порядке производителем"
     ]
+  ],
+  "construction_and_materials": [
+    {
+      "upholstery_materials": [
+        "- тип покрытия каркаса стула: BL, GR, где BL - окрашенный, цвет черный; GR — окрашенный, цвет серый<br>\n- материал облицовки мягких элементов стула, подлокотников: ткань (Велтон, Умбра, Moderno)<br>\n- цвет материала по каталогу"
+      ],
+      "components": [
+        "металлического каркаса, спинки, сиденья, заглушек и крепежных элементов. Нерегулируемый",
+        "<strong>Каркас</strong> стула металлический состоит из отдельных элементов: 2 каркасов-ножек, каркаса-спинки, с защитно-декоративным покрытием. Каркасы ножек и каркас-спинка изготовлены из стальной трубы круглого сечения Ф18х1,5 мм, крепежные пластины из листа 3 мм. Покрытие каркаса: термореактивная порошковая краска, цвет - черный/серый",
+        "Заглушки устанавливаются на опорную поверхность ножек каркаса (4 шт.), и в верхнюю часть трубы под спинку (2 шт.)",
+        "<strong>Спинка</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость — 25, плотность — 16 кг/м<sup>3</sup>) и облицовки. Крепится к сиденью с помощью винтов",
+        "<strong>Сиденье</strong> состоит из фанерного основания, мягкого элемента (пенополиуретан, жесткость — 40, плотность — 22 кг/м<sup>3</sup>) и облицовки. Крепится к каркасу с помощью 4-х винтов",
+        "<strong>Материал</strong> облицовки спинки и сиденья: ткань (Велтон, Умбра, Moderno)"
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "standard": "ГОСТ 16371-2014",
+      "packaging": {
+        "type": "5-слойный гофрокороб",
+        "size": {
+          "width": "530",
+          "depth": "350",
+          "height": "510"
+        },
+        "box_size": "530х350х510",
+        "transportation": "удобства транспортировки и хранения стул поставляется в разобранном виде. Упаковка по 1 (530х225х550 мм) или 2 изделия в отдельный 5-слойный гофрокороб размером "
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "packaging_type": [
+        {
+          "type": "individual",
+          "brutto": "5,2",
+          "netto": "",
+          "volume": "0,066"
+        },
+        {
+          "type": "box2",
+          "brutto": "10,3",
+          "netto": "",
+          "volume": "0,094"
+        }
+      ],
+      "volume": "0,066",
+      "netto": "",
+      "brutto": "5,2"
+    }
+  ],
+  "guarantee": [
+    {
+      "period": "12",
+      "max_load": "120",
+      "recommended_load": "90"
+    }
+  ],
+  "images": [
+    {
+      "vid_main": "img/chair_visitors/latina_gr_01.png",
+      "chair_view": "img/chair_visitors/latina_gr_02.png",
+      "dimensions": "img/chair_visitors/dimensions/latina_gr_01.png",
+      "box": "img/box_UTFC_2x.png",
+      "additional": [
+        "https://cdn.utfc.ru/iblock/b9c/b9c8c7bcb1fd435451e120a72259fb6b/810f91da3942f5390a88549e3901a04c.png",
+        "https://cdn.utfc.ru/iblock/0b9/0b9ebbd942293d62704f25d138b94eed/740987cc0136796b24c9dfbef3ba7403.png",
+        "https://cdn.utfc.ru/iblock/2bd/2bd0add91dd91e48c7d49ba974bffbbc/09a087e988a2155ea866cefa7aeb96e0.png",
+        "https://cdn.utfc.ru/uf/966/f04p7jf5mzfr1iww28fnvz0fu9kcxiuw.png",
+        "https://cdn.utfc.ru/iblock/5b6/5b65d137fc8949546409d98578f9d2f0/d5b2fc3c97bdaec31a09befe70a1ae91.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-4.png",
+        "https://cdn.utfc.ru/uf/63c/63c02f8a6cb8ae428c2f89d4e9838094/13248819dcb1695b9e610ca035a97743.jpg",
+        "https://cdn.utfc.ru/uf/e6e/e6e6efdfb208ea9a1ed35a8c538b7a99/08fcf616fdbafb5e809db530084ad85c.jpg",
+        "https://utfc.ru/local/templates/utfc/img/icon-1.png",
+        "https://utfc.ru/local/templates/.default/components/utfc/catalog.element/.default/images/no_photo.png",
+        "https://cdn.utfc.ru/iblock/825/825222ae0487adaa00d3d37ee994e01f.png",
+        "https://utfc.ru/local/templates/utfc/img/icon-2.png",
+        "https://cdn.utfc.ru/iblock/7f8/7f85fee9a4356074a68aab1bf315eba1/fd8ff4b31e4bc8cfc53a3e1d9633f982.png",
+        "https://cdn.utfc.ru/iblock/4d2/4d2973ec1b015334c5f6452c4fdaa085/f24dd101966c691b6ba969ba6079564c.png",
+        "https://utfc.ru/local/templates/utfc/img/palette.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_store_up_2x.png",
+        "https://cdn.utfc.ru/iblock/ae3/ae33aa105e3841583cee8741165cebcb/d46ed15abe65e8acf944997daa1923db.png",
+        "https://cdn.utfc.ru/iblock/c7b/c7b52841c2322531289a1a4bfa7b23bf/143e4fc9d088abf6e19eff95d85c1952.png",
+        "https://utfc.ru/local/templates/utfc/img/sites/utfc/logo_down_2.png",
+        "https://cdn.utfc.ru/iblock/373/3739ceb9e9c360f273357c171baf30c6/1644e47a010ef6d8ab96f34458575368.png",
+        "https://cdn.utfc.ru/iblock/443/44372e9953f4cc30302e563b845ba57b/d896442b65e15c7d9c6a050519465ce6.png",
+        "https://cdn.utfc.ru/iblock/cb6/dg0q4u612m8a8iktasl43mm0oh4vc4ha.png",
+        "https://cdn.utfc.ru/iblock/bfd/bfdb2010294ebff2c66ba0fd38b79969/6a912397c0475f9f8510456f51bdbb10.png",
+        "https://cdn.utfc.ru/iblock/d4c/d4cedfce22b1e44b200e945fbda3d3ab.png"
+      ]
+    }
+  ],
+  "dimensions_details": [
+    {
+      "chair_height": {
+        "min": "740",
+        "max": ""
+      },
+      "headrest_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height": {
+        "min": "465",
+        "max": ""
+      },
+      "armrest_height_from_seat": {
+        "min": "",
+        "max": ""
+      },
+      "chair_depth": {
+        "min": "570",
+        "max": ""
+      },
+      "seat_depth": {
+        "min": "460",
+        "max": ""
+      },
+      "backrest_height": {
+        "min": "",
+        "max": "290"
+      },
+      "backrest_to_seat_height": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width_with_armrests": {
+        "min": "",
+        "max": ""
+      },
+      "seat_width": {
+        "min": "",
+        "max": "515"
+      },
+      "diameter_cross": {
+        "min": "",
+        "max": ""
+      },
+      "runners_width": {
+        "min": "",
+        "max": "480"
+      },
+      "runners_depth": {
+        "min": "",
+        "max": ""
+      },
+      "seat_to_floor_height_upper": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_height_from_floor": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_width_support": {
+        "min": "",
+        "max": ""
+      },
+      "armrest_length_support": {
+        "min": "",
+        "max": ""
+      },
+      "seat_depth_km": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_height_external": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_width_narrow": {
+        "min": "",
+        "max": ""
+      },
+      "backrest_width_wide": {
+        "min": "",
+        "max": ""
+      },
+      "recommended_load": "90",
+      "max_load": "120",
+      "skeleton": "",
+      "netto": "",
+      "brutto": "",
+      "package_width": "",
+      "package_depth": "",
+      "package_height": "",
+      "volume": ""
+    }
+  ],
+  "parent": {
+    "IE_XML_ID": 13927,
+    "IE_NAME": "Стул Латина GR",
+    "IE_ACTIVE": "Y",
+    "IE_ACTIVE_FROM": "",
+    "IE_ACTIVE_TO": "",
+    "IE_SORT": 500,
+    "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/939/9394db92c2b679eaf570211cea89613c/2241d9ef5f22079fe416904adebe6062.png",
+    "IE_PREVIEW_TEXT": "Стул создан с акцентом на эргономику и легкость силуэта. Мягкая спинка с плавным изгибом деликатно поддерживает и словно обнимает спину, а широкая посадка располагает к расслабленному, долгому сидению без усталости. Модель гибко подстраивается под любые задачи интерьера. Богатый выбор обивки: от сдержанных природных оттенков до выразительных ярких акцентных цветов, делает модель уместной и в деловом офисе и в домашнем кабинете.",
+    "IE_PREVIEW_TEXT_TYPE": "text",
+    "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/46d/46df1198779a2feb08985ea3668bb6bb/f83eae251b4144a6882a8cabf8bb33c4.png",
+    "IE_DETAIL_TEXT": "Стул создан с акцентом на эргономику и легкость силуэта. Мягкая спинка с плавным изгибом деликатно поддерживает и словно обнимает спину, а широкая посадка располагает к расслабленному, долгому сидению без усталости. Модель гибко подстраивается под любые задачи интерьера. Богатый выбор обивки: от сдержанных природных оттенков до выразительных ярких акцентных цветов, делает модель уместной и в деловом офисе и в домашнем кабинете.",
+    "IE_DETAIL_TEXT_TYPE": "text",
+    "IE_CODE": "latina_gr",
+    "IE_TAGS": "",
+    "IE_ID": 13927,
+    "IP_PROP2": 515,
+    "IP_PROP3": 740,
+    "IP_PROP4": 570,
+    "IP_PROP6": "",
+    "IP_PROP19": 120,
+    "IP_PROP25": "Немонолитный",
+    "IP_PROP18": "https://cdn.utfc.ru/iblock/4d2/4d2973ec1b015334c5f6452c4fdaa085/f24dd101966c691b6ba969ba6079564c.png",
+    "IP_PROP31": "https://cdn.utfc.ru/iblock/0b9/0b9ebbd942293d62704f25d138b94eed/740987cc0136796b24c9dfbef3ba7403.png",
+    "IP_PROP5": 530,
+    "IP_PROP26": 510,
+    "IP_PROP27": 350,
+    "IP_PROP28": "5,2",
+    "IP_PROP29": "Гофрокартон (2шт/уп), стрейч-пленка (каркас)",
+    "IP_PROP30": "0,094",
+    "IP_PROP7": "",
+    "IP_PROP8": "",
+    "IP_PROP9": "ПУ-00046353",
+    "IP_PROP10": "",
+    "IP_PROP11": "",
+    "IP_PROP12": "",
+    "IP_PROP13": "https://cdn.utfc.ru/iblock/7f8/7f85fee9a4356074a68aab1bf315eba1/fd8ff4b31e4bc8cfc53a3e1d9633f982.png",
+    "IP_PROP14": "",
+    "IP_PROP15": "",
+    "IP_PROP16": "",
+    "IP_PROP17": "",
+    "IP_PROP22": "",
+    "IP_PROP41": "Опоры стула Латина GR",
+    "IP_PROP42": "",
+    "IP_PROP43": "",
+    "IP_PROP44": "",
+    "IP_PROP45": "",
+    "IP_PROP46": "",
+    "IP_PROP47": "",
+    "IP_PROP48": "Немонолитный",
+    "IP_PROP49": "",
+    "IP_PROP50": "",
+    "IP_PROP51": "",
+    "IP_PROP52": "",
+    "IP_PROP59": "Нет",
+    "IP_PROP60": "",
+    "IC_ID0": 27,
+    "IC_XML_ID0": "",
+    "IC_GROUP0": "Стулья",
+    "IC_ACTIVE0": "Y",
+    "IC_SORT0": 55,
+    "IC_DESCRIPTION0": "Лаконичный дизайн и универсальность для гармоничного дополнения интерьера офиса и зон ожидания",
+    "IC_DESCRIPTION_TYPE0": "text",
+    "IC_CODE0": "pos_chair",
+    "IC_PICTURE0": "https://cdn.utfc.ru/iblock/886/8861dc6234e3cb1dd2db61171cfb210c.png",
+    "IC_DETAIL_PICTURE0": "https://cdn.utfc.ru/iblock/ccc/ccc8c3730415630646026bfc16547e7f.png",
+    "IC_ID1": "",
+    "IC_XML_ID1": "",
+    "IC_GROUP1": "",
+    "IC_ACTIVE1": "",
+    "IC_SORT1": "",
+    "IC_DESCRIPTION1": "",
+    "IC_DESCRIPTION_TYPE1": "",
+    "IC_CODE1": "",
+    "IC_PICTURE1": "",
+    "IC_DETAIL_PICTURE1": "",
+    "IC_ID2": "",
+    "IC_XML_ID2": "",
+    "IC_GROUP2": "",
+    "IC_ACTIVE2": "",
+    "IC_SORT2": "",
+    "IC_DESCRIPTION2": "",
+    "IC_DESCRIPTION_TYPE2": "",
+    "IC_CODE2": "",
+    "IC_PICTURE2": "",
+    "IC_DETAIL_PICTURE2": "",
+    "CP_QUANTITY": 0,
+    "CP_QUANTITY_TRACE": "N",
+    "CP_CAN_BUY_ZERO": "Y",
+    "CP_WEIGHT": 0,
+    "CP_WIDTH": "",
+    "CP_HEIGHT": "",
+    "CP_LENGTH": "",
+    "CP_PURCHASING_PRICE": "",
+    "CP_PURCHASING_CURRENCY": "",
+    "CP_PRICE_TYPE": "S",
+    "CP_RECUR_SCHEME_LENGTH": "",
+    "CP_RECUR_SCHEME_TYPE": "D",
+    "CP_TRIAL_PRICE_ID": "",
+    "CP_WITHOUT_ORDER": "N",
+    "CP_VAT_ID": "",
+    "CP_VAT_INCLUDED": "Y",
+    "CP_MEASURE": 5,
+    "STORE_AMOUNT_2": "",
+    "STORE_AMOUNT_3": "",
+    "CV_QUANTITY_FROM": "",
+    "CV_QUANTITY_TO": "",
+    "CV_PRICE_1": 3500,
+    "CV_CURRENCY_1": "RUB",
+    "CV_PRICE_2": 3605,
+    "CV_CURRENCY_2": "RUB",
+    "CV_PRICE_3": 3500,
+    "CV_CURRENCY_3": "RUB",
+    "STORE_AMOUNT_4": ""
+  },
+  "children": [
+    {
+      "IE_XML_ID": 13930,
+      "IE_NAME": "Стул Латина GR BOX2 Moderno 02 (серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13930,
+      "IP_PROP34": 13927,
+      "IP_PROP35": "ПУ-00046366",
+      "IP_PROP36": "",
+      "IP_PROP37": "Ткань Moderno",
+      "IP_PROP38": "Ткань Moderno 02 (серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": "",
+      "CP_QUANTITY_TRACE": "",
+      "CP_CAN_BUY_ZERO": "",
+      "CP_WEIGHT": "",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "",
+      "CP_MEASURE": "",
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3050,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3142,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 3050,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 13932,
+      "IE_NAME": "Стул Латина GR BOX2 Велтон 953 (серо-коричневый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13932,
+      "IP_PROP34": 13927,
+      "IP_PROP35": "ПУ-00046368",
+      "IP_PROP36": "",
+      "IP_PROP37": "Ткань Велтон",
+      "IP_PROP38": "Ткань Велтон 953 (серо-коричневый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": "",
+      "CP_QUANTITY_TRACE": "",
+      "CP_CAN_BUY_ZERO": "",
+      "CP_WEIGHT": "",
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "",
+      "CP_MEASURE": "",
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3690,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3801,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 3690,
+      "CV_CURRENCY_3": "RUB"
+    },
+    {
+      "IE_XML_ID": 13935,
+      "IE_NAME": "Стул Латина GR BOX2 Умбра 910 (светло-серый)",
+      "IE_ACTIVE": "Y",
+      "IE_ACTIVE_FROM": "",
+      "IE_ACTIVE_TO": "",
+      "IE_SORT": 500,
+      "IE_PREVIEW_PICTURE": "https://cdn.utfc.ru/iblock/c90/c90cf9959854fd4f057f08dfb17c2783/a5eadfa21c0971573f9ea9e4e71eda4d.png",
+      "IE_PREVIEW_TEXT": "",
+      "IE_PREVIEW_TEXT_TYPE": "text",
+      "IE_DETAIL_PICTURE": "https://cdn.utfc.ru/iblock/d37/d37973a06eceffd377c5495eedbb8f20/96d20d4bb8903ba06e7928207eb58c74.png",
+      "IE_DETAIL_TEXT": "",
+      "IE_DETAIL_TEXT_TYPE": "text",
+      "IE_CODE": "",
+      "IE_TAGS": "",
+      "IE_ID": 13935,
+      "IP_PROP34": 13927,
+      "IP_PROP35": "ПУ-00046371",
+      "IP_PROP36": [
+        "https://cdn.utfc.ru/iblock/33e/33ea39d997aef2374c610ce6db4cd5e2/8c3e85118a0911c98b53779e87de69b2.png",
+        "https://cdn.utfc.ru/iblock/da6/da6ca7385c32650e5f36ee447b8efdfc/c5d3e76c389ba0fd8201fb29bed7c8ca.png",
+        "https://cdn.utfc.ru/iblock/d12/d125145e054bd00edd490919c50c2880/e6b608836e1f6293e040eb443d91be02.png",
+        "https://cdn.utfc.ru/iblock/2ae/2ae93e4dcc5ff74096e7461d3d13cb3e/d9c7aff2b84c32faefc67668418e3f3b.png",
+        "https://cdn.utfc.ru/iblock/73a/73ad6c7ed91aefc14980127b40daa916/7f393eb678ddf5809bc8171ac48d46ab.png"
+      ],
+      "IP_PROP37": "Ткань Умбра",
+      "IP_PROP38": "Ткань Умбра 910 (серый)",
+      "IP_PROP39": "",
+      "IP_PROP40": "",
+      "IP_PROP61": "",
+      "IC_ID0": "",
+      "IC_XML_ID0": "",
+      "IC_GROUP0": "",
+      "IC_ACTIVE0": "",
+      "IC_SORT0": "",
+      "IC_DESCRIPTION0": "",
+      "IP_PROP122": "серый",
+      "IC_DESCRIPTION_TYPE0": "",
+      "IC_CODE0": "",
+      "IC_PICTURE0": "",
+      "IC_DETAIL_PICTURE0": "",
+      "IC_ID1": "",
+      "IC_XML_ID1": "",
+      "IC_GROUP1": "",
+      "IC_ACTIVE1": "",
+      "IC_SORT1": "",
+      "IC_DESCRIPTION1": "",
+      "IC_DESCRIPTION_TYPE1": "",
+      "IC_CODE1": "",
+      "IC_PICTURE1": "",
+      "IC_DETAIL_PICTURE1": "",
+      "IC_ID2": "",
+      "IC_XML_ID2": "",
+      "IC_GROUP2": "",
+      "IC_ACTIVE2": "",
+      "IC_SORT2": "",
+      "IC_DESCRIPTION2": "",
+      "IC_DESCRIPTION_TYPE2": "",
+      "IC_CODE2": "",
+      "IC_PICTURE2": "",
+      "IC_DETAIL_PICTURE2": "",
+      "CP_QUANTITY": 0,
+      "CP_QUANTITY_TRACE": "D",
+      "CP_CAN_BUY_ZERO": "D",
+      "CP_WEIGHT": 0,
+      "CP_WIDTH": "",
+      "CP_HEIGHT": "",
+      "CP_LENGTH": "",
+      "CP_PURCHASING_PRICE": "",
+      "CP_PURCHASING_CURRENCY": "",
+      "CP_PRICE_TYPE": "S",
+      "CP_RECUR_SCHEME_LENGTH": "",
+      "CP_RECUR_SCHEME_TYPE": "D",
+      "CP_TRIAL_PRICE_ID": "",
+      "CP_WITHOUT_ORDER": "N",
+      "CP_VAT_ID": "",
+      "CP_VAT_INCLUDED": "Y",
+      "CP_MEASURE": 5,
+      "STORE_AMOUNT_2": 0,
+      "STORE_AMOUNT_3": 0,
+      "CV_QUANTITY_FROM": "",
+      "CV_QUANTITY_TO": "",
+      "CV_PRICE_1": 3500,
+      "CV_CURRENCY_1": "RUB",
+      "CV_PRICE_2": 3605,
+      "CV_CURRENCY_2": "RUB",
+      "STORE_AMOUNT_4": 0,
+      "CV_PRICE_3": 3500,
+      "CV_CURRENCY_3": "RUB"
+    }
+  ],
+  "title": "Стул Латина GR производства компании UTFC",
+  "base_name": "Стул Латина GR",
+  "article_number": "ПУ-00046366",
+  "full_describe": "Стул создан с акцентом на эргономику и легкость силуэта. Мягкая спинка с плавным изгибом деликатно поддерживает и словно обнимает спину, а широкая посадка располагает к расслабленному, долгому сидению без усталости. Модель гибко подстраивается под любые задачи интерьера. Богатый выбор обивки: от сдержанных природных оттенков до выразительных ярких акцентных цветов, делает модель уместной и в деловом офисе и в домашнем кабинете.",
+  "Link_arm": "https://utfc.ru/catalog/pos_chair/latina_gr/?offers=13930",
+  "minpromtorg": "Минпромторг",
+  "madeinrf": "Сделано в РФ",
+  "Основание": "Металлические опоры стула Латина, разборный каркас, защитно-декоративное порошковое покрытие серого цвета (GR)",
+  "Подлокотники": "",
+  "Газлифт": "",
+  "Механизм": "",
+  "Особенности": "",
+  "Ролики": "",
+  "sizes": {
+    "Ширина:": "515",
+    "Высота:": "740",
+    "Глубина:": "570",
+    "Нагрузка:": "120",
+    "Каркас:": "Немонолитный",
+    "Ширина упаковки:": "530",
+    "Высота упаковки:": "510",
+    "Глубина упаковки:": "350",
+    "Вес брутто:": "5,2",
+    "Материал упаковки:": "2",
+    "Объём:": "0,094"
+  },
+  "package_sizes": {
+    "Ширина упаковки:": "530",
+    "Высота упаковки:": "510",
+    "Глубина упаковки:": "350",
+    "Материал упаковки:": "2"
+  },
+  "finish_type": [
+    "Ткань Moderno",
+    "Ткань Велтон",
+    "Ткань Умбра",
+    "-"
+  ],
+  "color": [
+    "Ткань Moderno 02 (серый)"
+  ],
+  "finish_type_seat": [
+    ""
+  ],
+  "color_seat": [
+    ""
+  ],
+  "variant_name": [
+    "Стул Латина GR (Ткань Moderno, Ткань Moderno 02 (серый),, )",
+    "Стул Латина GR (Ткань Велтон, Ткань Moderno 02 (серый),, )",
+    "Стул Латина GR (Ткань Умбра, Ткань Moderno 02 (серый),, )",
+    "Стул Латина GR (-, Ткань Moderno 02 (серый),, )"
+  ]
 }
